@@ -1,0 +1,19 @@
+{
+  "name": "aerofly-airports",
+  "version": "1.0.0",
+  "description": "This project contains GeoJSON which show the location of all airports present in Aerofly FS 4.",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "time node ./build.js < tmp/airports.txt > data/airports.geojson",
+    "build-e": "time node ./build.js EL < tmp/airports.txt > data/airports-e.geojson",
+    "build-k": "time node ./build.js K < tmp/airports.txt > data/airports-k.geojson"
+  },
+  "type": "module",
+  "author": "Frank Boës <info@3960.org> (https://3960.org/)",
+  "license": "MIT",
+  "dependencies": {
+    "@fboes/geojson": "^1.0.0",
+    "csv-parse": "^5.5.3"
+  }
+}
