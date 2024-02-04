@@ -6,7 +6,7 @@ import * as GeoJSON from "@fboes/geojson";
 import * as fs from "fs";
 import { parse } from "csv-parse/sync";
 
-const icaoFilterArg = process.argv[2].replace(/[^A-Z]/, '').toUpperCase();
+const icaoFilterArg = process.argv[2]?.replace(/[^A-Z]/, '').toUpperCase();
 const icaoFilter = icaoFilterArg
   ? new RegExp("^[" + icaoFilterArg + "]")
   : null;
