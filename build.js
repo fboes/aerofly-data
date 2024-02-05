@@ -2,7 +2,7 @@
 
 //ts-check
 
-import * as GeoJSON from "@fboes/geojson";
+import GeoJSON from "@fboes/geojson";
 import * as fs from "fs";
 import { parse } from "csv-parse/sync";
 
