@@ -88,7 +88,7 @@ airportsRecords.forEach(
   }
 );
 
-process.stdout.write(JSON.stringify(aeroflyGeoJson));
+process.stdout.write(JSON.stringify(aeroflyGeoJson, null, 2));
 if (aeroflyAirports.length > 0) {
   process.stderr.write("Missing airport codes: " + aeroflyAirports.join(", "));
 }
