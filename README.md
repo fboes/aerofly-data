@@ -18,8 +18,7 @@ To generate a new list of all airports available in Aerofly FS 4:
   `wget -O tmp/airports.csv https://davidmegginson.github.io/ourairports-data/airports.csv`
 3. Get a directory listing of all Aerofly airports from your local installation and paste it to `tmp/airports.txt`.
   `ls 'C:\SteamLibrary\steamapps\common\Aerofly FS 4 Flight Simulator\scenery\airports_db' > airports.txt`
-4. Convert `tmp/airports.txt` from UTF-16 to UTF-8.
-5. Generate output file via `time node ./build.js < tmp/airports.txt > data/airports.geojson`. There is also an extra parameter after `build.js` which only uses airports with ICAO codes starting with the letters you supply.
+4. Generate output file via `time node ./build.js < tmp/airports.txt > data/airports.geojson`. There is also an extra parameter after `build.js` which only uses airports with ICAO codes starting with the letters you supply.
 
 ## Legal stuff
 
@@ -29,4 +28,6 @@ Copyright & license: See [LICENSE.txt](LICENSE.txt)
 
 This tool is NOT affiliated with, endorsed, or sponsored by IPACS GbR. As stated in the [LICENSE.txt](LICENSE.txt), this tool comes with no warranty.
 
-The base data for geo locations was taken from [OurAirports](https://ourairports.com/).
+The base data for geo locations was taken from [OurAirports](https://ourairports.com/), which is licensed as: "All data is released to the Public Domain, and comes with no guarantee of accuracy or fitness for use."
+
+The icons are based on [Maki icons](https://github.com/mapbox/maki), which are licensed via CC0 1.0 Universal.
