@@ -19254,7 +19254,7 @@
       "properties": {
         "title": "ENKJ",
         "type": "small_airport",
-        "description": "Lillestrøm Airport, Kjeller",
+        "description": "Lillestrøm Airfield, Kjeller",
         "elevation": 354,
         "municipality": "Kjeller",
         "marker-symbol": "airfield",
@@ -73734,7 +73734,7 @@
       "properties": {
         "title": "LIDH",
         "type": "small_airport",
-        "description": "Thiene Arturo Ferrarin Airport",
+        "description": "Thiene Arturo Ferrarin Airfield",
         "elevation": 335,
         "municipality": "Thiene (VI)",
         "marker-symbol": "airfield",
@@ -73754,7 +73754,7 @@
       "properties": {
         "title": "LIDL",
         "type": "small_airport",
-        "description": "Legnago Airport",
+        "description": "Legnago Airfield",
         "elevation": 30,
         "municipality": "Vangadizza (VR)",
         "marker-symbol": "airfield",
@@ -73846,15 +73846,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.6692,
-          44.790298,
+          11.671901,
+          44.790884,
           6.096
         ]
       },
       "properties": {
         "title": "LIDV",
         "type": "small_airport",
-        "description": "Prati Vecchi D'Aguscello Airport",
+        "description": "Prati Vecchi d'Aguscello Airport",
         "elevation": 20,
         "municipality": "Ferrara (FE)",
         "marker-symbol": "airfield",
@@ -74854,7 +74854,7 @@
       "properties": {
         "title": "LIPU",
         "type": "medium_airport",
-        "description": "Padova Gino Allegri International Airport",
+        "description": "Padova Gino Allegri Airfield",
         "elevation": 44,
         "municipality": "Padova (PD)",
         "marker-symbol": "airport",
@@ -120226,6 +120226,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          87.05079650878906,
+          27.14739990234375,
+          1219.2
+        ]
+      },
+      "properties": {
+        "title": "VNBJ",
+        "type": "small_airport",
+        "description": "Bhojpur Airport",
+        "elevation": 4000,
+        "municipality": "Bhojpur",
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           84.429398,
           27.678101,
           182.88
@@ -120306,6 +120326,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          86.230581,
+          27.626313,
+          1828.8000000000002
+        ]
+      },
+      "properties": {
+        "title": "VNJI",
+        "type": "small_airport",
+        "description": "Jiri Airport",
+        "elevation": 6000,
+        "municipality": "Jiri",
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           85.922401,
           26.708799,
           78.0288
@@ -120326,6 +120366,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          86.6465950012,
+          27.4106333137,
+          0
+        ]
+      },
+      "properties": {
+        "title": "VNKL",
+        "type": "small_airport",
+        "description": "Kangel Danda Airport",
+        "elevation": 0,
+        "municipality": "",
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           85.3591,
           27.6966,
           1338.0720000000001
@@ -120339,6 +120399,26 @@
         "municipality": "Kathmandu",
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.72969818115234,
+          27.686899185180664,
+          2859.0240000000003
+        ]
+      },
+      "properties": {
+        "title": "VNLK",
+        "type": "small_airport",
+        "description": "Lukla Airport",
+        "elevation": 9380,
+        "municipality": "Lukla",
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -120406,6 +120486,86 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          86.584454,
+          27.517787,
+          2413.4064000000003
+        ]
+      },
+      "properties": {
+        "title": "VNPL",
+        "type": "small_airport",
+        "description": "Phaplu Airport",
+        "elevation": 7918,
+        "municipality": "Phaplu",
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.0614013671875,
+          27.393999099731445,
+          473.964
+        ]
+      },
+      "properties": {
+        "title": "VNRC",
+        "type": "small_airport",
+        "description": "Ramechhap Airport",
+        "elevation": 1555,
+        "municipality": "Ramechhap",
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.55039978027344,
+          27.303499221801758,
+          1371.6000000000001
+        ]
+      },
+      "properties": {
+        "title": "VNRT",
+        "type": "small_airport",
+        "description": "Rumjatar Airport",
+        "elevation": 4500,
+        "municipality": "Rumjatar",
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.7124,
+          27.8112,
+          3779.52
+        ]
+      },
+      "properties": {
+        "title": "VNSB",
+        "type": "small_airport",
+        "description": "Syangboche Airport",
+        "elevation": 12400,
+        "municipality": "Namche Bazaar",
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           84.980021,
           27.159803,
           137.16
@@ -120439,6 +120599,26 @@
         "municipality": "Surkhet",
         "marker-symbol": "airfield",
         "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.69525,
+          27.3509,
+          2435.3520000000003
+        ]
+      },
+      "properties": {
+        "title": "VNTJ",
+        "type": "medium_airport",
+        "description": "Taplejung Airport",
+        "elevation": 7990,
+        "municipality": "Taplejung",
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
