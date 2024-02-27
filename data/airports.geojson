@@ -98,7 +98,8 @@
         "elevation": 324,
         "municipality": "Goliad",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -938,7 +939,8 @@
         "elevation": 509,
         "municipality": "Bezmer",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -1038,7 +1040,8 @@
         "elevation": 251,
         "municipality": "Pituffik",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -2118,7 +2121,8 @@
         "elevation": 3782,
         "municipality": "Xigazê (Samzhubzê)",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -2378,7 +2382,8 @@
         "elevation": 146,
         "municipality": "Lefkoniko (Geçitkale)",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -7318,7 +7323,8 @@
         "elevation": 187,
         "municipality": "Bousfer",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -8858,7 +8864,8 @@
         "elevation": 1004,
         "municipality": "Remada",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -9098,7 +9105,8 @@
         "elevation": 370,
         "municipality": "Beauvechain",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -9118,7 +9126,8 @@
         "elevation": 200,
         "municipality": "Kleine Brogel",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -9158,7 +9167,8 @@
         "elevation": 1514,
         "municipality": "Bertrix",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -9198,7 +9208,8 @@
         "elevation": 194,
         "municipality": "Chièvres",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -9218,7 +9229,8 @@
         "elevation": 20,
         "municipality": "Koksijde",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -9238,7 +9250,8 @@
         "elevation": 935,
         "municipality": "Florennes",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -9378,7 +9391,8 @@
         "elevation": 1930,
         "municipality": "Saint Hubert",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -9398,7 +9412,8 @@
         "elevation": 95,
         "municipality": "Ursel",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -12138,7 +12153,8 @@
         "elevation": 65,
         "municipality": "Keila",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -12354,7 +12370,7 @@
       "properties": {
         "title": "EFHN",
         "type": "small_airport",
-        "description": "Hanko Airport",
+        "description": "Hanko Airfield",
         "elevation": 20,
         "municipality": "Hanko",
         "marker-symbol": "airfield",
@@ -12878,7 +12894,8 @@
         "elevation": 339,
         "municipality": "Utti / Valkeala",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -13478,7 +13495,8 @@
         "elevation": 16,
         "municipality": "Thorne",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -13558,7 +13576,8 @@
         "elevation": 0,
         "municipality": "",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -13578,7 +13597,8 @@
         "elevation": 27,
         "municipality": "Chivenor",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -13598,7 +13618,8 @@
         "elevation": 513,
         "municipality": "Lyneham",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -13658,7 +13679,8 @@
         "elevation": 295,
         "municipality": "Predannack Wollas",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -13678,7 +13700,8 @@
         "elevation": 267,
         "municipality": "Helston",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -13698,7 +13721,8 @@
         "elevation": 151,
         "municipality": "Ilminster",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -13738,7 +13762,8 @@
         "elevation": 75,
         "municipality": "Yeovil",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -15298,7 +15323,8 @@
         "elevation": 272,
         "municipality": "Ternhill",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -15318,7 +15344,8 @@
         "elevation": 202,
         "municipality": "Holyhead Island",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -15338,7 +15365,8 @@
         "elevation": 249,
         "municipality": "Shawbury",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -15378,7 +15406,8 @@
         "elevation": 37,
         "municipality": "Southport",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -15398,7 +15427,8 @@
         "elevation": 55,
         "municipality": "Wigtownshire",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -15798,7 +15828,8 @@
         "elevation": 22,
         "municipality": "Kinloss",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -15838,7 +15869,8 @@
         "elevation": 42,
         "municipality": "Lossiemouth",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -16238,7 +16270,8 @@
         "elevation": 226,
         "municipality": "Benson",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -16258,7 +16291,8 @@
         "elevation": 259,
         "municipality": "Abingdon",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -16278,7 +16312,8 @@
         "elevation": 32,
         "municipality": "Brandon, Suffolk",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -16298,7 +16333,8 @@
         "elevation": 33,
         "municipality": "Bury Saint Edmunds, Suffolk",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -16318,7 +16354,8 @@
         "elevation": 593,
         "municipality": "Colerne",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -16358,7 +16395,8 @@
         "elevation": 135,
         "municipality": "St. Ives",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -16378,7 +16416,8 @@
         "elevation": 286,
         "municipality": "Fairford",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -16398,7 +16437,8 @@
         "elevation": 288,
         "municipality": "Brize Norton",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -16418,7 +16458,8 @@
         "elevation": 405,
         "municipality": "Odiham",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -16458,7 +16499,8 @@
         "elevation": 272,
         "municipality": "Cosford",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -16478,7 +16520,8 @@
         "elevation": 206,
         "municipality": "Henlow",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -16498,7 +16541,8 @@
         "elevation": 370,
         "municipality": "Halton",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -16518,7 +16562,8 @@
         "elevation": 124,
         "municipality": "London",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -16538,7 +16583,8 @@
         "elevation": 25,
         "municipality": "Coningsby",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -16578,7 +16624,8 @@
         "elevation": 132,
         "municipality": "Leeming",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -16618,7 +16665,8 @@
         "elevation": 174,
         "municipality": "Bury Saint Edmunds, Suffolk",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -16638,7 +16686,8 @@
         "elevation": 461,
         "municipality": "Cottesmore",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -16658,7 +16707,8 @@
         "elevation": 202,
         "municipality": "Scampton",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -16678,7 +16728,8 @@
         "elevation": 273,
         "municipality": "Wittering",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -16698,7 +16749,8 @@
         "elevation": 53,
         "municipality": "Linton-On-Ouse",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -16718,7 +16770,8 @@
         "elevation": 231,
         "municipality": "Waddington",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -16738,7 +16791,8 @@
         "elevation": 228,
         "municipality": "Newark",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -16758,7 +16812,8 @@
         "elevation": 92,
         "municipality": "Topcliffe",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -16778,7 +16833,8 @@
         "elevation": 66,
         "municipality": "Norwich",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -16798,7 +16854,8 @@
         "elevation": 218,
         "municipality": "Cranwell",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -16818,7 +16875,8 @@
         "elevation": 367,
         "municipality": "Grantham",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -16838,7 +16896,8 @@
         "elevation": 75,
         "municipality": "Marham",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -16938,7 +16997,8 @@
         "elevation": 158,
         "municipality": "Arnhem",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -16958,7 +17018,8 @@
         "elevation": 98,
         "municipality": "Ysselsteyn",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -17038,7 +17099,8 @@
         "elevation": 49,
         "municipality": "Rijen",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -17074,7 +17136,7 @@
       "properties": {
         "title": "EHHV",
         "type": "small_airport",
-        "description": "Hilversum Airport",
+        "description": "Hilversum Airfield",
         "elevation": 3,
         "municipality": "Hilversum",
         "marker-symbol": "airfield",
@@ -17098,7 +17160,8 @@
         "elevation": 3,
         "municipality": "Den Helder",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -17138,7 +17201,8 @@
         "elevation": 3,
         "municipality": "Leeuwarden",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -17174,7 +17238,7 @@
       "properties": {
         "title": "EHOW",
         "type": "small_airport",
-        "description": "Oostwold Airport",
+        "description": "Oostwold Airfield",
         "elevation": 1,
         "municipality": "Oostwold",
         "marker-symbol": "airfield",
@@ -17214,7 +17278,7 @@
       "properties": {
         "title": "EHSE",
         "type": "small_airport",
-        "description": "Breda International Airport",
+        "description": "Seppe-Hoeven Airfield",
         "elevation": 30,
         "municipality": "Hoeven",
         "marker-symbol": "airfield",
@@ -17338,7 +17402,8 @@
         "elevation": 72,
         "municipality": "Uden",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -17358,7 +17423,8 @@
         "elevation": 63,
         "municipality": "Hoogerheide",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -17778,7 +17844,8 @@
         "elevation": 319,
         "municipality": "Baldonnel",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -18458,7 +18525,8 @@
         "elevation": 141,
         "municipality": "Vojens",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -19978,7 +20046,8 @@
         "elevation": 495,
         "municipality": "Lębork",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -20018,7 +20087,8 @@
         "elevation": 392,
         "municipality": "Dęblin",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -20058,7 +20128,8 @@
         "elevation": 259,
         "municipality": "",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -20158,7 +20229,8 @@
         "elevation": 265,
         "municipality": "",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -20218,7 +20290,8 @@
         "elevation": 633,
         "municipality": "",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -20278,7 +20351,8 @@
         "elevation": 377,
         "municipality": "Leczyca",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -20298,7 +20372,8 @@
         "elevation": 16,
         "municipality": "Malbork",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -20338,7 +20413,8 @@
         "elevation": 604,
         "municipality": "",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -20398,7 +20474,8 @@
         "elevation": 144,
         "municipality": "Gdynia",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -20458,7 +20535,8 @@
         "elevation": 21,
         "municipality": "",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -20478,7 +20556,8 @@
         "elevation": 371,
         "municipality": "",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -20578,7 +20657,8 @@
         "elevation": 571,
         "municipality": "Tomaszów Mazowiecki",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -20678,7 +20758,8 @@
         "elevation": 308,
         "municipality": "Linköping",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -20818,7 +20899,8 @@
         "elevation": 308,
         "municipality": "Karlsborg",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -20838,7 +20920,8 @@
         "elevation": 181,
         "municipality": "Såtenäs",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -21058,7 +21141,8 @@
         "elevation": 556,
         "municipality": "",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -21518,7 +21602,8 @@
         "elevation": 597,
         "municipality": "Vidsel",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -21858,7 +21943,8 @@
         "elevation": 1197,
         "municipality": "Trier",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -21878,7 +21964,8 @@
         "elevation": 776,
         "municipality": "Ramstein-Miesenbach",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -21918,7 +22005,8 @@
         "elevation": 1766,
         "municipality": "Laupheim",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -21958,7 +22046,8 @@
         "elevation": 1339,
         "municipality": "Niederstetten",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -21998,7 +22087,8 @@
         "elevation": 74,
         "municipality": "Cuxhaven",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -22018,7 +22108,8 @@
         "elevation": 128,
         "municipality": "Diepholz",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -22038,7 +22129,8 @@
         "elevation": 296,
         "municipality": "Geilenkirchen",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -22058,7 +22150,8 @@
         "elevation": 39,
         "municipality": "",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -22098,7 +22191,8 @@
         "elevation": 386,
         "municipality": "Nörvenich",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -22118,7 +22212,8 @@
         "elevation": 70,
         "municipality": "Jagel",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -22138,7 +22233,8 @@
         "elevation": 26,
         "municipality": "Wittmund",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -22158,7 +22254,8 @@
         "elevation": 187,
         "municipality": "",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -22218,7 +22315,8 @@
         "elevation": 2044,
         "municipality": "Penzing",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -22238,7 +22336,8 @@
         "elevation": 1568,
         "municipality": "Alflen",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -22258,7 +22357,8 @@
         "elevation": 265,
         "municipality": "Holzdorf",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -22298,7 +22398,8 @@
         "elevation": 1822,
         "municipality": "Graben",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -22318,7 +22419,8 @@
         "elevation": 1249,
         "municipality": "Neuburg an der Donau",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -22998,7 +23100,8 @@
         "elevation": 1743,
         "municipality": "Hoedspruit",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -23238,7 +23341,8 @@
         "elevation": 3069,
         "municipality": "Louis Trichardt Southwest",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -24018,7 +24122,8 @@
         "elevation": 4780,
         "municipality": "Pretoria",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -24338,7 +24443,8 @@
         "elevation": 4940,
         "municipality": "Pretoria",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -24378,7 +24484,8 @@
         "elevation": 52,
         "municipality": "Cape Town",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -24898,7 +25005,8 @@
         "elevation": 9,
         "municipality": "Diego Garcia",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -26798,7 +26906,8 @@
         "elevation": 4680,
         "municipality": "Gweru",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -27758,7 +27867,8 @@
         "elevation": 3543,
         "municipality": "Lumwe",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -29918,7 +30028,8 @@
         "elevation": 246,
         "municipality": "Cairo",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -30678,7 +30789,8 @@
         "elevation": 5336,
         "municipality": "Nairobi",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -32618,7 +32730,8 @@
         "elevation": 2299,
         "municipality": "Edwards",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -33058,7 +33171,8 @@
         "elevation": 280,
         "municipality": "Camp Springs",
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#5e6eba",
+        "isMilitary": true
       }
     },
     {
@@ -33258,7 +33372,8 @@
         "elevation": 68,
         "municipality": "Avon Park",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -34978,7 +35093,8 @@
         "elevation": 1067,
         "municipality": "Tullahoma",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -35058,7 +35174,8 @@
         "elevation": 113,
         "municipality": "Marysville",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -35878,7 +35995,8 @@
         "elevation": 33,
         "municipality": "Biloxi",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -35978,7 +36096,8 @@
         "elevation": 5662,
         "municipality": "Aurora",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -37378,7 +37497,8 @@
         "elevation": 219,
         "municipality": "Columbus",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -37618,7 +37738,8 @@
         "elevation": 241,
         "municipality": "Chicopee",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -40338,7 +40459,8 @@
         "elevation": 2704,
         "municipality": "Tucson",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -40458,7 +40580,8 @@
         "elevation": 24,
         "municipality": "Dover",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -40998,7 +41121,8 @@
         "elevation": 1789,
         "municipality": "Abilene",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -41398,7 +41522,8 @@
         "elevation": 2312,
         "municipality": "Edwards",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -42078,7 +42203,8 @@
         "elevation": 1307,
         "municipality": "Enid",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -42686,8 +42812,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.82360077,
-          35.48809814,
+          -97.823601,
+          35.488098,
           412.6992
         ]
       },
@@ -43078,7 +43204,8 @@
         "elevation": 823,
         "municipality": "Dayton",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -44198,7 +44325,8 @@
         "elevation": 883,
         "municipality": "Gila Bend",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -46018,7 +46146,8 @@
         "elevation": 4789,
         "municipality": "Ogden",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -47178,7 +47307,8 @@
         "elevation": 1371,
         "municipality": "Wichita",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -47818,7 +47948,8 @@
         "elevation": 3133,
         "municipality": "Indian Springs",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -49638,7 +49769,8 @@
         "elevation": 11,
         "municipality": "Hampton",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -50378,7 +50510,8 @@
         "elevation": 311,
         "municipality": "Jacksonville",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -50538,7 +50671,8 @@
         "elevation": 1870,
         "municipality": "Las Vegas",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -50558,7 +50692,8 @@
         "elevation": 1382,
         "municipality": "Altus",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -50578,7 +50713,8 @@
         "elevation": 1085,
         "municipality": "Glendale",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -51398,7 +51534,8 @@
         "elevation": 14,
         "municipality": "Tampa",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -51878,7 +52015,8 @@
         "elevation": 1068,
         "municipality": "Marietta",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -52098,7 +52236,8 @@
         "elevation": 1667,
         "municipality": "Minot",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -52658,7 +52797,8 @@
         "elevation": 254,
         "municipality": "Eastover",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -53318,7 +53458,8 @@
         "elevation": 580,
         "municipality": "Mount Clemens",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -53458,7 +53599,8 @@
         "elevation": 2996,
         "municipality": "Mountain Home",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -53658,7 +53800,8 @@
         "elevation": 171,
         "municipality": "Montgomery",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -53858,7 +54001,8 @@
         "elevation": 54,
         "municipality": "Foley",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -53898,7 +54042,8 @@
         "elevation": 99,
         "municipality": "Jacksonville",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -53938,7 +54083,8 @@
         "elevation": 16,
         "municipality": "Fentress",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -54018,7 +54164,8 @@
         "elevation": 18,
         "municipality": "Corpus Christi",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -54038,7 +54185,8 @@
         "elevation": 150,
         "municipality": "Milton",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -54058,7 +54206,8 @@
         "elevation": 17,
         "municipality": "Norfolk",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -54078,7 +54227,8 @@
         "elevation": 30,
         "municipality": "Corpus Christi",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -54098,7 +54248,8 @@
         "elevation": 39,
         "municipality": "Patuxent River",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -54158,7 +54309,8 @@
         "elevation": 21,
         "municipality": "Jacksonville",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -54218,7 +54370,8 @@
         "elevation": 539,
         "municipality": "Preston",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -54278,7 +54431,8 @@
         "elevation": 232,
         "municipality": "Lemoore",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -54298,7 +54452,8 @@
         "elevation": 316,
         "municipality": "Lauderdale",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -54318,7 +54473,8 @@
         "elevation": 257,
         "municipality": "Orange Grove",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -54378,7 +54534,8 @@
         "elevation": 50,
         "municipality": "Kingsville",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -54398,7 +54555,8 @@
         "elevation": 6,
         "municipality": "Key West",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -54438,7 +54596,8 @@
         "elevation": 15,
         "municipality": "Jacksonville",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -54458,7 +54617,8 @@
         "elevation": 24,
         "municipality": "Imperial Beach",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -54498,7 +54658,8 @@
         "elevation": 13,
         "municipality": "Point Mugu",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -54518,7 +54679,8 @@
         "elevation": 23,
         "municipality": "Virginia Beach",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -54538,7 +54700,8 @@
         "elevation": 184,
         "municipality": "San Clemente Island",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -54578,7 +54741,8 @@
         "elevation": 47,
         "municipality": "Oak Harbor",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -54618,7 +54782,8 @@
         "elevation": 25,
         "municipality": "Corpus Christi",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -54678,7 +54843,8 @@
         "elevation": 26,
         "municipality": "San Diego",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -56438,7 +56604,8 @@
         "elevation": 17,
         "municipality": "Panama City",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -58518,7 +58685,8 @@
         "elevation": 3276,
         "municipality": "Rapid City",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -58526,8 +58694,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.80290222167969,
-          38.78419876098633,
+          -93.802902,
+          38.784199,
           243.2304
         ]
       },
@@ -58878,7 +59046,8 @@
         "elevation": 1536,
         "municipality": "Riverside",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -59078,7 +59247,8 @@
         "elevation": 761,
         "municipality": "Universal City",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -60498,7 +60668,8 @@
         "elevation": 525,
         "municipality": "Seguin",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -60978,7 +61149,8 @@
         "elevation": 2461,
         "municipality": "Spokane",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -60998,7 +61170,8 @@
         "elevation": 691,
         "municipality": "San Antonio",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -61558,7 +61731,8 @@
         "elevation": 1019,
         "municipality": "Wichita Falls",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -61698,7 +61872,8 @@
         "elevation": 241,
         "municipality": "Sumter",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -61998,7 +62173,8 @@
         "elevation": 62,
         "municipality": "Fairfield",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -62238,7 +62414,8 @@
         "elevation": 870,
         "municipality": "Knob Noster",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -62358,7 +62535,8 @@
         "elevation": 322,
         "municipality": "Tacoma",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -62558,7 +62736,8 @@
         "elevation": 1291,
         "municipality": "Oklahoma City",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -63258,7 +63437,8 @@
         "elevation": 2643,
         "municipality": "Tucson",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -64198,7 +64378,8 @@
         "elevation": 233,
         "municipality": "Valdosta",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -64238,7 +64419,8 @@
         "elevation": 369,
         "municipality": "Lompoc",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -64998,7 +65180,8 @@
         "elevation": 294,
         "municipality": "Warner Robins",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -65018,7 +65201,8 @@
         "elevation": 131,
         "municipality": "Wrightstown",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -65258,7 +65442,8 @@
         "elevation": 321,
         "municipality": "North",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -65478,7 +65663,8 @@
         "elevation": 135,
         "municipality": "Kuçovë",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -65618,7 +65804,8 @@
         "elevation": 190,
         "municipality": "Graf Ignatievo",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -65818,7 +66005,8 @@
         "elevation": 76,
         "municipality": "Akrotiri",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -65926,15 +66114,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.630599975585938,
-          45.141700744628906,
+          13.6306,
+          45.141701,
           36.8808
         ]
       },
       "properties": {
         "title": "LDPV",
         "type": "small_airport",
-        "description": "Vrsar Crljenka Airport",
+        "description": "Vrsar Crljenka Airfield",
         "elevation": 121,
         "municipality": "Vrsar",
         "marker-symbol": "airfield",
@@ -66054,7 +66242,7 @@
       "properties": {
         "title": "LDVA",
         "type": "small_airport",
-        "description": "Varaždin Airport",
+        "description": "Varaždin Airfield",
         "elevation": 548,
         "municipality": "Varaždin",
         "marker-symbol": "airfield",
@@ -66158,7 +66346,8 @@
         "elevation": 2302,
         "municipality": "Albacete",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -66458,7 +66647,8 @@
         "elevation": 2297,
         "municipality": "Armilla",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -67058,7 +67248,8 @@
         "elevation": 2026,
         "municipality": "Madrid",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -67458,7 +67649,8 @@
         "elevation": 84,
         "municipality": "Cazaux (La Teste-de-Buch)",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -67518,7 +67710,8 @@
         "elevation": 535,
         "municipality": "Toulouse/Francazal",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -67538,7 +67731,8 @@
         "elevation": 102,
         "municipality": "Cognac/Châteaubernard",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -67638,7 +67832,8 @@
         "elevation": 203,
         "municipality": "Mont-de-Marsan",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -69238,7 +69433,8 @@
         "elevation": 28,
         "municipality": "Solenzara",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -69738,7 +69934,8 @@
         "elevation": 82,
         "municipality": "Istres/Le Tubé",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -69818,7 +70015,8 @@
         "elevation": 197,
         "municipality": "Orange/Caritat",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -69978,7 +70176,8 @@
         "elevation": 195,
         "municipality": "Salon",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -70258,7 +70457,8 @@
         "elevation": 580,
         "municipality": "Avord",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -70298,7 +70498,8 @@
         "elevation": 433,
         "municipality": "Châteaudun",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -70338,7 +70539,8 @@
         "elevation": 464,
         "municipality": "Évreux/Fauville",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -70398,7 +70600,8 @@
         "elevation": 412,
         "municipality": "Orléans/Bricy",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -70618,7 +70821,8 @@
         "elevation": 291,
         "municipality": "Creil",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -70838,7 +71042,8 @@
         "elevation": 584,
         "municipality": "Vélizy-Villacoublay",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -70938,7 +71143,8 @@
         "elevation": 770,
         "municipality": "Rouvres-en-Woëvre",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -71078,7 +71284,8 @@
         "elevation": 1017,
         "municipality": "Bourscheid",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -71298,7 +71505,8 @@
         "elevation": 348,
         "municipality": "Landivisiau",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -71338,7 +71546,8 @@
         "elevation": 287,
         "municipality": "Lanvéoc/Poulmic",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -71598,7 +71807,8 @@
         "elevation": 458,
         "municipality": "Saint-Dizier",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -71698,7 +71908,8 @@
         "elevation": 1106,
         "municipality": "Thuilley-aux-Groseilles",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -71778,7 +71989,8 @@
         "elevation": 913,
         "municipality": "Saint-Sauveur",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -71918,7 +72130,8 @@
         "elevation": 823,
         "municipality": "Ambérieu",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -71958,7 +72171,8 @@
         "elevation": 55,
         "municipality": "Andravida",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -72398,7 +72612,8 @@
         "elevation": 241,
         "municipality": "Larissa",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -72498,7 +72713,8 @@
         "elevation": 204,
         "municipality": "Rodes Island",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -72698,7 +72914,8 @@
         "elevation": 485,
         "municipality": "Tanagra",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -72938,7 +73155,8 @@
         "elevation": 376,
         "municipality": "Kecskemét",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -73018,7 +73236,8 @@
         "elevation": 466,
         "municipality": "Pápa",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -73138,7 +73357,8 @@
         "elevation": 322,
         "municipality": "Szolnok",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -73258,7 +73478,8 @@
         "elevation": 183,
         "municipality": "Foggia",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -73358,7 +73579,8 @@
         "elevation": 156,
         "municipality": "Galatina",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -73418,7 +73640,8 @@
         "elevation": 1187,
         "municipality": "Gioia Del Colle (BA)",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -73618,7 +73841,8 @@
         "elevation": 79,
         "municipality": "Sigonella (CT)",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -73898,7 +74122,8 @@
         "elevation": 100,
         "municipality": "Decimomannu",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -74298,7 +74523,8 @@
         "elevation": 782,
         "municipality": "Orio al Serio (BG)",
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#5e6eba",
+        "isMilitary": true
       }
     },
     {
@@ -74398,7 +74624,8 @@
         "elevation": 586,
         "municipality": "Cameri (NO)",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -74458,7 +74685,8 @@
         "elevation": 456,
         "municipality": "San Damiano (PC)",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -74538,7 +74766,8 @@
         "elevation": 410,
         "municipality": "Aviano (PN)",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -74578,7 +74807,8 @@
         "elevation": 18,
         "municipality": "Cervia",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -74598,7 +74828,8 @@
         "elevation": 305,
         "municipality": "Campoformido (UD)",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -74678,7 +74909,8 @@
         "elevation": 179,
         "municipality": "Codroipo (UD)",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -74718,7 +74950,8 @@
         "elevation": 333,
         "municipality": "Ghedi (BS)",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -74838,7 +75071,8 @@
         "elevation": 137,
         "municipality": "Istrana (TV)",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -75038,7 +75272,8 @@
         "elevation": 45,
         "municipality": "Sarzana (SP)",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -75078,7 +75313,8 @@
         "elevation": 41,
         "municipality": "Pomezia",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -75118,7 +75354,8 @@
         "elevation": 289,
         "municipality": "Guidonia",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -75138,7 +75375,8 @@
         "elevation": 0,
         "municipality": "Frosinone",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -75198,7 +75436,8 @@
         "elevation": 94,
         "municipality": "Latina",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -75218,7 +75457,8 @@
         "elevation": 29,
         "municipality": "Caserta",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -75298,7 +75538,8 @@
         "elevation": 17,
         "municipality": "Grosetto",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -75378,7 +75619,8 @@
         "elevation": 510,
         "municipality": "Cerklje ob Krki",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -75598,7 +75840,8 @@
         "elevation": 794,
         "municipality": "Chotusice",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -75758,7 +76001,8 @@
         "elevation": 939,
         "municipality": "Prague",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -75978,7 +76222,8 @@
         "elevation": 1548,
         "municipality": "Sedlec",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -76118,7 +76363,8 @@
         "elevation": 676,
         "municipality": "Přerov",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -76378,7 +76624,8 @@
         "elevation": 193,
         "municipality": "Rehovot",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -76458,7 +76705,8 @@
         "elevation": 148,
         "municipality": "Hatzor",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -76498,7 +76746,8 @@
         "elevation": 1330,
         "municipality": "Beersheba",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -76538,7 +76787,8 @@
         "elevation": 185,
         "municipality": "Haifa",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -76558,7 +76808,8 @@
         "elevation": 2126,
         "municipality": "Beersheba",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -76818,7 +77069,8 @@
         "elevation": 980,
         "municipality": "Linz",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -76898,7 +77150,8 @@
         "elevation": 574,
         "municipality": "Tulln an der Donau",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -76918,7 +77171,8 @@
         "elevation": 2264,
         "municipality": "Zeltweg",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -77178,7 +77432,8 @@
         "elevation": 187,
         "municipality": "",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -77198,7 +77453,8 @@
         "elevation": 46,
         "municipality": "Montijo",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -77218,7 +77474,8 @@
         "elevation": 56,
         "municipality": "Ovar",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -77378,7 +77635,8 @@
         "elevation": 440,
         "municipality": "Sintra",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -77538,7 +77796,8 @@
         "elevation": 180,
         "municipality": "Feteşti",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -77558,7 +77817,8 @@
         "elevation": 344,
         "municipality": "Boboc",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -77718,7 +77978,8 @@
         "elevation": 1083,
         "municipality": "Câmpia Turzii",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -78038,7 +78299,8 @@
         "elevation": 2385,
         "municipality": "Reichenbach im Kandertal",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -78078,7 +78340,8 @@
         "elevation": 1460,
         "municipality": "Alpnach",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -78098,7 +78361,8 @@
         "elevation": 1470,
         "municipality": "Zurich",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -78118,7 +78382,8 @@
         "elevation": 1400,
         "municipality": "",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -78138,7 +78403,8 @@
         "elevation": 0,
         "municipality": "Lodrino",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -78158,7 +78424,8 @@
         "elevation": 1895,
         "municipality": "Meiringen",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -78178,7 +78445,8 @@
         "elevation": 1465,
         "municipality": "",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -78618,7 +78886,8 @@
         "elevation": 2653,
         "municipality": "Ankara",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -78638,7 +78907,8 @@
         "elevation": 2767,
         "municipality": "Ankara",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -78678,7 +78948,8 @@
         "elevation": 238,
         "municipality": "Sarıçam",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -79078,7 +79349,8 @@
         "elevation": 2581,
         "municipality": "",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -79118,7 +79390,8 @@
         "elevation": 433,
         "municipality": "Gaziemir",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -79318,7 +79591,8 @@
         "elevation": 400,
         "municipality": "Ümraniye, Istanbul",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -79958,7 +80232,8 @@
         "elevation": 312,
         "municipality": "Mărculeşti",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -80198,7 +80473,8 @@
         "elevation": 265,
         "municipality": "Batajnica",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -80234,7 +80510,7 @@
       "properties": {
         "title": "LYLE",
         "type": "small_airport",
-        "description": "Leskovac / Mira Sport Airport",
+        "description": "Leskovac / Mira Sport Airfield",
         "elevation": 738,
         "municipality": "Leskovac",
         "marker-symbol": "airfield",
@@ -80374,9 +80650,9 @@
       "properties": {
         "title": "LYVR",
         "type": "small_airport",
-        "description": "Vršac International Airport",
+        "description": "Vršac Airfield",
         "elevation": 276,
-        "municipality": "",
+        "municipality": "Vršac",
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -80438,7 +80714,8 @@
         "elevation": 679,
         "municipality": "Kuchyňa",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -81218,7 +81495,8 @@
         "elevation": 2061,
         "municipality": "Palmerola",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -81918,7 +82196,8 @@
         "elevation": 66,
         "municipality": "Ensenada",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -82778,7 +83057,8 @@
         "elevation": 1909,
         "municipality": "Tuxtla Gutiérrez",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -84258,7 +84538,8 @@
         "elevation": 98,
         "municipality": "Sandino",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -86318,7 +86599,8 @@
         "elevation": 164,
         "municipality": "",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -86698,7 +86980,8 @@
         "elevation": 100,
         "municipality": "",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -86818,7 +87101,8 @@
         "elevation": 6890,
         "municipality": "Baraki Barak",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -87138,7 +87422,8 @@
         "elevation": 3773,
         "municipality": "Shindand",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -87258,7 +87543,8 @@
         "elevation": 49,
         "municipality": "Zallaq",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -87378,7 +87664,8 @@
         "elevation": 84,
         "municipality": "Dhahran",
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#5e6eba",
+        "isMilitary": true
       }
     },
     {
@@ -87498,7 +87785,8 @@
         "elevation": 7,
         "municipality": "Jeddah",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -87678,7 +87966,8 @@
         "elevation": 1651,
         "municipality": "",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -87758,7 +88047,8 @@
         "elevation": 2082,
         "municipality": "Riyadh",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -88498,7 +88788,8 @@
         "elevation": 5609,
         "municipality": "Amirabad",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -88518,7 +88809,8 @@
         "elevation": 4046,
         "municipality": "Tehran",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -89538,7 +89830,8 @@
         "elevation": 1706,
         "municipality": "Al Azraq",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -89558,7 +89851,8 @@
         "elevation": 472,
         "municipality": "Al Damaikhi",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -89638,7 +89932,8 @@
         "elevation": 75,
         "municipality": "Tripoli",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -89658,7 +89953,8 @@
         "elevation": 3018,
         "municipality": "Rayak",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -89798,7 +90094,8 @@
         "elevation": 77,
         "municipality": "",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -89918,7 +90215,8 @@
         "elevation": 165,
         "municipality": "Dubai",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -90178,7 +90476,8 @@
         "elevation": 1570,
         "municipality": "Thumrait",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -90418,7 +90717,8 @@
         "elevation": 185,
         "municipality": "Jacobabad",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -90538,7 +90838,8 @@
         "elevation": 690,
         "municipality": "Mianwali",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -90578,7 +90879,8 @@
         "elevation": 35,
         "municipality": "Karachi",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -90758,7 +91060,8 @@
         "elevation": 1668,
         "municipality": "Rawalpindi",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -90938,7 +91241,8 @@
         "elevation": 618,
         "municipality": "Hīt",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -90958,7 +91262,8 @@
         "elevation": 275,
         "municipality": "Al Habbaniyah",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -90978,7 +91283,8 @@
         "elevation": 161,
         "municipality": "Al Bakr",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -90998,7 +91304,8 @@
         "elevation": 114,
         "municipality": "Baghdad",
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#5e6eba",
+        "isMilitary": true
       }
     },
     {
@@ -91058,7 +91365,8 @@
         "elevation": 1061,
         "municipality": "Kirkuk",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -91158,7 +91466,8 @@
         "elevation": 20,
         "municipality": "Nasiriyah",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -91258,7 +91567,8 @@
         "elevation": 157,
         "municipality": "Latakia",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -91318,7 +91628,8 @@
         "elevation": 130,
         "municipality": "Ar Rayyan",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -91958,7 +92269,8 @@
         "elevation": 212,
         "municipality": "Anchorage",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -93858,7 +94170,8 @@
         "elevation": 34,
         "municipality": "Kaohsiung (Gangshan)",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -94018,7 +94331,8 @@
         "elevation": 663,
         "municipality": "Taichung (Qingshui)",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -94058,7 +94372,8 @@
         "elevation": 63,
         "municipality": "Tainan (Rende)",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -94078,7 +94393,8 @@
         "elevation": 26,
         "municipality": "Hsinchu City",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -94118,7 +94434,8 @@
         "elevation": 121,
         "municipality": "Taitung City",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -94278,7 +94595,8 @@
         "elevation": 105,
         "municipality": "Omitama",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -94298,7 +94616,8 @@
         "elevation": 22,
         "municipality": "Ogasawara",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -94518,7 +94837,8 @@
         "elevation": 87,
         "municipality": "Chitose",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -94718,7 +95038,8 @@
         "elevation": 0,
         "municipality": "Nagasaki",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -94818,7 +95139,8 @@
         "elevation": 98,
         "municipality": "Ashiya",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -95058,7 +95380,8 @@
         "elevation": 55,
         "municipality": "Tsuiki",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -95178,7 +95501,8 @@
         "elevation": 52,
         "municipality": "Nagoya",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -95238,7 +95562,8 @@
         "elevation": 150,
         "municipality": "Hamamatsu",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -95258,7 +95583,8 @@
         "elevation": 36,
         "municipality": "Kanazawa",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -95418,7 +95744,8 @@
         "elevation": 20,
         "municipality": "Yonago",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -95538,7 +95865,8 @@
         "elevation": 26,
         "municipality": "Tokushima",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -95698,7 +96026,8 @@
         "elevation": 152,
         "municipality": "Hachinohe",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -95758,7 +96087,8 @@
         "elevation": 119,
         "municipality": "Misawa",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -95838,7 +96168,8 @@
         "elevation": 205,
         "municipality": "Ayase / Yamato",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -95938,7 +96269,8 @@
         "elevation": 463,
         "municipality": "Fussa",
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#5e6eba",
+        "isMilitary": true
       }
     },
     {
@@ -95998,7 +96330,8 @@
         "elevation": 29,
         "municipality": "Kunsan",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -96058,7 +96391,8 @@
         "elevation": 329,
         "municipality": "Wonju",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -96218,7 +96552,8 @@
         "elevation": 92,
         "municipality": "Seongnam",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -96238,7 +96573,8 @@
         "elevation": 38,
         "municipality": "",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -96318,7 +96654,8 @@
         "elevation": 281,
         "municipality": "Gimseang-ro",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -96358,7 +96695,8 @@
         "elevation": 39,
         "municipality": "Seosan",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -96378,7 +96716,8 @@
         "elevation": 191,
         "municipality": "Cheongju",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -96418,7 +96757,8 @@
         "elevation": 12,
         "municipality": "Naha",
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#5e6eba",
+        "isMilitary": true
       }
     },
     {
@@ -96438,7 +96778,8 @@
         "elevation": 143,
         "municipality": "",
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#5e6eba",
+        "isMilitary": true
       }
     },
     {
@@ -96678,7 +97019,8 @@
         "elevation": 64,
         "municipality": "Olongapo",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -96698,7 +97040,8 @@
         "elevation": 484,
         "municipality": "Mabalacat",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -96778,7 +97121,8 @@
         "elevation": 8,
         "municipality": "Cavite",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -97178,7 +97522,8 @@
         "elevation": 151,
         "municipality": "Floridablanca",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -97218,7 +97563,8 @@
         "elevation": 1220,
         "municipality": "Lipa",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -97618,7 +97964,8 @@
         "elevation": 71,
         "municipality": "Puerto Princesa",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -97738,7 +98085,8 @@
         "elevation": 614,
         "municipality": "Kubinka",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -98766,8 +99114,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.0877990723,
-          -29.2213993073,
+          -58.087799,
+          -29.221399,
           109.11840000000001
         ]
       },
@@ -100078,7 +100426,8 @@
         "elevation": 26,
         "municipality": "Porto Alegre",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -101078,7 +101427,8 @@
         "elevation": 267,
         "municipality": "Manaus",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -101238,7 +101588,8 @@
         "elevation": 171,
         "municipality": "Natal",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -101758,7 +102109,8 @@
         "elevation": 13,
         "municipality": "Guarujá",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -105978,7 +106330,8 @@
         "elevation": 566,
         "municipality": "La Dorada",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -108598,7 +108951,8 @@
         "elevation": 97,
         "municipality": "Chiclayo",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -108618,7 +108972,8 @@
         "elevation": 8917,
         "municipality": "Ayacucho",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -108798,7 +109153,8 @@
         "elevation": 250,
         "municipality": "Chorrillos",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -111118,7 +111474,8 @@
         "elevation": 2739,
         "municipality": "La Carlota",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -114118,7 +114475,8 @@
         "elevation": 79,
         "municipality": "Gudauta",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -114978,7 +115336,8 @@
         "elevation": 761,
         "municipality": "Zhytomyr",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -115258,7 +115617,8 @@
         "elevation": 318,
         "municipality": "Kotlas",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -115438,7 +115798,8 @@
         "elevation": 699,
         "municipality": "Minsk",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -116366,19 +116727,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          68.343392,
-          58.058466,
+          68.348801,
+          58.058427,
           50.9016
         ]
       },
       "properties": {
         "title": "USTJ",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Remezov Airport",
         "elevation": 167,
         "municipality": "Tobolsk",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -116798,7 +117159,8 @@
         "elevation": 1365,
         "municipality": "Khanabad",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -117018,7 +117380,8 @@
         "elevation": 469,
         "municipality": "Tver",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -117098,7 +117461,8 @@
         "elevation": 640,
         "municipality": "Balabanovo",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -117898,7 +118262,8 @@
         "elevation": 1942,
         "municipality": "Pune",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -118158,7 +118523,8 @@
         "elevation": 630,
         "municipality": "Sigiriya",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -118458,7 +118824,8 @@
         "elevation": 367,
         "municipality": "Chabua",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -118558,7 +118925,8 @@
         "elevation": 200,
         "municipality": "",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -118938,7 +119306,8 @@
         "elevation": 240,
         "municipality": "",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -119318,7 +119687,8 @@
         "elevation": 50,
         "municipality": "Islands",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -119338,7 +119708,8 @@
         "elevation": 551,
         "municipality": "Agra",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -119378,7 +119749,8 @@
         "elevation": 909,
         "municipality": "Ambala",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -119418,7 +119790,8 @@
         "elevation": 5393,
         "municipality": "Awantipura",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -119478,7 +119851,8 @@
         "elevation": 385,
         "municipality": "Lucknow",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -119518,7 +119892,8 @@
         "elevation": 580,
         "municipality": "Bareilly",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -119618,7 +119993,8 @@
         "elevation": 700,
         "municipality": "Ghaziabad",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -119698,7 +120074,8 @@
         "elevation": 790,
         "municipality": "Halwara",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -119998,7 +120375,8 @@
         "elevation": 891,
         "municipality": "Sherpur Naqeebpur",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -120038,7 +120416,8 @@
         "elevation": 2066,
         "municipality": "Udhampur",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -120738,7 +121117,8 @@
         "elevation": 265,
         "municipality": "Arakkonam",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -120838,7 +121218,8 @@
         "elevation": 2178,
         "municipality": "Bidar",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -120958,7 +121339,8 @@
         "elevation": 2013,
         "municipality": "Hyderabad",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -121278,7 +121660,8 @@
         "elevation": 1250,
         "municipality": "Sulur",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -121298,7 +121681,8 @@
         "elevation": 253,
         "municipality": "Thanjavur",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -121378,7 +121762,8 @@
         "elevation": 90,
         "municipality": "Chennai",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -121398,7 +121783,8 @@
         "elevation": 3045,
         "municipality": "Yelahanka",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -122438,7 +122824,8 @@
         "elevation": 40,
         "municipality": "Cam Ranh",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -122558,7 +122945,8 @@
         "elevation": 50,
         "municipality": "Hanoi  (Long Bien)",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -123278,7 +123666,8 @@
         "elevation": 459,
         "municipality": "Myitkyina",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -124938,7 +125327,8 @@
         "elevation": 200,
         "municipality": "Jakarta",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -125038,7 +125428,8 @@
         "elevation": 114,
         "municipality": "Medan",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -125378,7 +125769,8 @@
         "elevation": 11,
         "municipality": "Butterworth",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -125738,7 +126130,8 @@
         "elevation": 65,
         "municipality": "Paya Lebar",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -125858,7 +126251,8 @@
         "elevation": 91,
         "municipality": "",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -126646,8 +127040,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          144.421666667,
-          -37.7333333333,
+          144.421667,
+          -37.733333,
           158.496
         ]
       },
@@ -126656,7 +127050,7 @@
         "type": "small_airport",
         "description": "Bacchus Marsh Airport",
         "elevation": 520,
-        "municipality": "",
+        "municipality": "Bacchus Marsh",
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -126738,7 +127132,8 @@
         "elevation": 18,
         "municipality": "Townsville",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -127118,7 +127513,8 @@
         "elevation": 300,
         "municipality": "Derby",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -129338,7 +129734,8 @@
         "elevation": 23,
         "municipality": "",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -129638,7 +130035,8 @@
         "elevation": 14,
         "municipality": "Point Cook",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -130318,7 +130716,8 @@
         "elevation": 149,
         "municipality": "Bullsbrook",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -131158,7 +131557,8 @@
         "elevation": 400,
         "municipality": "Nowra Hill",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -131218,7 +131618,8 @@
         "elevation": 67,
         "municipality": "Richmond",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -131926,8 +132327,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          147.80299377441406,
-          -31.733299255371094,
+          147.802994,
+          -31.733299,
           203.9112
         ]
       },
@@ -132898,7 +133299,8 @@
         "elevation": 295,
         "municipality": "Liuzhou (Liujiang)",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {

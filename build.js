@@ -6,7 +6,7 @@ import GeoJSON from "@fboes/geojson";
 import * as fs from "fs";
 import { parse } from "csv-parse/sync";
 
-const icaoFilterArg = process.argv[2]?.replace(/[^A-Z]/, '').toUpperCase();
+const icaoFilterArg = process.argv[2]?.replace(/[^A-Z]/, "").toUpperCase();
 const icaoFilter = icaoFilterArg
   ? new RegExp("^[" + icaoFilterArg + "]")
   : null;
@@ -20,6 +20,7 @@ const aeroflyAirports = aeroflyData
   .filter((icaoCode) => {
     return !icaoFilter || icaoCode.match(icaoFilter);
   });
+const aeroflyAirportsLength = aeroflyAirports.length;
 
 const airportsSource = fs.readFileSync(`tmp/airports.csv`);
 const airportsRecords = parse(airportsSource, { bom: true });
@@ -58,37 +59,49 @@ airportsRecords.forEach(
         aeroflyAirports.splice(aeroflyIndexAlternate, 1);
       }
 
-      aeroflyGeoJson.addFeature(
-        new GeoJSON.Feature(
-          new GeoJSON.Point(
-            Number(airportsRecord[5]),
-            Number(airportsRecord[4]),
-            Number(airportsRecord[6]) * 0.3048
-          ),
-          {
-            title: icaoCode,
-            type: airportsRecord[2],
-            description: airportsRecord[3],
-            elevation: Number(airportsRecord[6]),
-            municipality: airportsRecord[10],
-            "marker-symbol": airportsRecord[2].match(/heliport/)
-              ? "heliport"
-              : airportsRecord[2].match(/small/)
-              ? "airfield"
-              : "airport",
-            "marker-color": airportsRecord[2].match(/large/)
-              ? "#5e6eba"
-              : airportsRecord[2].match(/small/)
-              ? "#777777"
-              : "#555555",
-          }
-        )
+      const feature = new GeoJSON.Feature(
+        new GeoJSON.Point(
+          Number(airportsRecord[5]),
+          Number(airportsRecord[4]),
+          Number(airportsRecord[6]) * 0.3048
+        ),
+        {
+          title: icaoCode,
+          type: airportsRecord[2],
+          description: airportsRecord[3],
+          elevation: Number(airportsRecord[6]),
+          municipality: airportsRecord[10],
+          "marker-symbol": airportsRecord[2].match(/heliport/)
+            ? "heliport"
+            : airportsRecord[2].match(/small/)
+            ? "airfield"
+            : "airport",
+          "marker-color": airportsRecord[2].match(/large/)
+            ? "#5e6eba"
+            : airportsRecord[2].match(/small/)
+            ? "#777777"
+            : "#555555",
+        }
       );
+      if (
+        airportsRecord[3].match(
+          /\b(base|rnas|raf|naval|air\s?force|afs)\b/i
+        ) !== null
+      ) {
+        feature.setProperty("isMilitary", true);
+      }
+
+      aeroflyGeoJson.addFeature(feature);
     }
   }
 );
 
 process.stdout.write(JSON.stringify(aeroflyGeoJson, null, 2));
 if (aeroflyAirports.length > 0) {
-  process.stderr.write("Missing airport codes: " + aeroflyAirports.join(", "));
+  process.stderr.write(
+    `Missing airport codes:
+\x1b[90m> ${aeroflyAirports.join(", ")}\x1b[0m
+\x1b[94m(${aeroflyAirports.length}/${aeroflyAirportsLength} - ${(aeroflyAirports.length/aeroflyAirportsLength * 100).toFixed(1)}%)\x1b[0m
+`
+  );
 }
