@@ -21,6 +21,9 @@ const aeroflyAirports = aeroflyData
     return !icaoFilter || icaoCode.match(icaoFilter);
   });
 const aeroflyAirportsLength = aeroflyAirports.length;
+process.stderr
+  .write(`Found \x1b[92m${aeroflyAirports.length}\x1b[0m Aerofly FS Airports
+`);
 
 const airportsSource = fs.readFileSync(`tmp/airports.csv`);
 const airportsRecords = parse(airportsSource, { bom: true });
@@ -59,6 +62,15 @@ airportsRecords.forEach(
         aeroflyAirports.splice(aeroflyIndexAlternate, 1);
       }
 
+      const isMilitary =
+        airportsRecord[3].match(
+          /\b(base|rnas|raf|naval|air\s?force|afs)\b/i
+        ) !== null;
+      let type = airportsRecord[2];
+      if (isMilitary) {
+        type = type.replace(/port/, "base");
+      }
+
       const feature = new GeoJSON.Feature(
         new GeoJSON.Point(
           Number(airportsRecord[5]),
@@ -67,7 +79,7 @@ airportsRecords.forEach(
         ),
         {
           title: icaoCode,
-          type: airportsRecord[2],
+          type: type,
           description: airportsRecord[3],
           elevation: Number(airportsRecord[6]),
           municipality: airportsRecord[10],
@@ -83,15 +95,17 @@ airportsRecords.forEach(
             : "#555555",
         }
       );
-      if (
-        airportsRecord[3].match(
-          /\b(base|rnas|raf|naval|air\s?force|afs)\b/i
-        ) !== null
-      ) {
+      if (isMilitary) {
         feature.setProperty("isMilitary", true);
       }
 
       aeroflyGeoJson.addFeature(feature);
+
+      const index = aeroflyAirportsLength - aeroflyAirports.length;
+      index % 1000 === 0 &&
+        process.stderr
+          .write(`  Processing \x1b[92m${index}\x1b[0m Aerofly FS Airports
+`);
     }
   }
 );
@@ -99,9 +113,14 @@ airportsRecords.forEach(
 process.stdout.write(JSON.stringify(aeroflyGeoJson, null, 2));
 if (aeroflyAirports.length > 0) {
   process.stderr.write(
-    `Missing airport codes:
+    `Missing airport matches for \x1b[92m${
+      aeroflyAirports.length
+    }\x1b[0m airports, \x1b[92m${(
+      (aeroflyAirports.length / aeroflyAirportsLength) *
+      100
+    ).toFixed(1)}%\x1b[0m
+Missing airport codes:
 \x1b[90m> ${aeroflyAirports.join(", ")}\x1b[0m
-\x1b[94m(${aeroflyAirports.length}/${aeroflyAirportsLength} - ${(aeroflyAirports.length/aeroflyAirportsLength * 100).toFixed(1)}%)\x1b[0m
 `
   );
 }

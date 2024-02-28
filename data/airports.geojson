@@ -93,7 +93,7 @@
       },
       "properties": {
         "title": "7T3",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Naval Outlying Landing Field Goliad",
         "elevation": 324,
         "municipality": "Goliad",
@@ -934,7 +934,7 @@
       },
       "properties": {
         "title": "BG-JAM",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Bezmer Air Base",
         "elevation": 509,
         "municipality": "Bezmer",
@@ -1035,7 +1035,7 @@
       },
       "properties": {
         "title": "BGTL",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Pituffik Space Base",
         "elevation": 251,
         "municipality": "Pituffik",
@@ -2116,7 +2116,7 @@
       },
       "properties": {
         "title": "CN-0046",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Xigaze Peace Airport / Shigatse Air Base",
         "elevation": 3782,
         "municipality": "Xigazê (Samzhubzê)",
@@ -2377,7 +2377,7 @@
       },
       "properties": {
         "title": "CY-0002",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Lefkoniko Airport / Geçitkale Air Base",
         "elevation": 146,
         "municipality": "Lefkoniko (Geçitkale)",
@@ -7318,7 +7318,7 @@
       },
       "properties": {
         "title": "DAOE",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Bousfer Air Base",
         "elevation": 187,
         "municipality": "Bousfer",
@@ -8859,7 +8859,7 @@
       },
       "properties": {
         "title": "DTTD",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Remada Air Base",
         "elevation": 1004,
         "municipality": "Remada",
@@ -9100,7 +9100,7 @@
       },
       "properties": {
         "title": "EBBE",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Beauvechain Air Base",
         "elevation": 370,
         "municipality": "Beauvechain",
@@ -9121,7 +9121,7 @@
       },
       "properties": {
         "title": "EBBL",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Kleine Brogel Air Base",
         "elevation": 200,
         "municipality": "Kleine Brogel",
@@ -9162,7 +9162,7 @@
       },
       "properties": {
         "title": "EBBX",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Jehonville Air Base",
         "elevation": 1514,
         "municipality": "Bertrix",
@@ -9203,7 +9203,7 @@
       },
       "properties": {
         "title": "EBCV",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Chièvres Air Base",
         "elevation": 194,
         "municipality": "Chièvres",
@@ -9224,7 +9224,7 @@
       },
       "properties": {
         "title": "EBFN",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Koksijde Air Base",
         "elevation": 20,
         "municipality": "Koksijde",
@@ -9245,7 +9245,7 @@
       },
       "properties": {
         "title": "EBFS",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Florennes Air Base",
         "elevation": 935,
         "municipality": "Florennes",
@@ -9386,7 +9386,7 @@
       },
       "properties": {
         "title": "EBSU",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Saint Hubert Air Base",
         "elevation": 1930,
         "municipality": "Saint Hubert",
@@ -9407,7 +9407,7 @@
       },
       "properties": {
         "title": "EBUL",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Ursel Air Base",
         "elevation": 95,
         "municipality": "Ursel",
@@ -12148,7 +12148,7 @@
       },
       "properties": {
         "title": "EEEI",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Ämari Air Base",
         "elevation": 65,
         "municipality": "Keila",
@@ -12889,7 +12889,7 @@
       },
       "properties": {
         "title": "EFUT",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Utti Air Base",
         "elevation": 339,
         "municipality": "Utti / Valkeala",
@@ -13592,7 +13592,7 @@
       },
       "properties": {
         "title": "EGDC",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Royal Marines Base Chivenor Airport",
         "elevation": 27,
         "municipality": "Chivenor",
@@ -13674,7 +13674,7 @@
       },
       "properties": {
         "title": "EGDO",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "RNAS Predannack Air Base",
         "elevation": 295,
         "municipality": "Predannack Wollas",
@@ -13695,7 +13695,7 @@
       },
       "properties": {
         "title": "EGDR",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RNAS Culdrose",
         "elevation": 267,
         "municipality": "Helston",
@@ -13716,7 +13716,7 @@
       },
       "properties": {
         "title": "EGDW",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Merryfield RNAS Air Base",
         "elevation": 151,
         "municipality": "Ilminster",
@@ -13757,7 +13757,7 @@
       },
       "properties": {
         "title": "EGDY",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RNAS Yeovilton",
         "elevation": 75,
         "municipality": "Yeovil",
@@ -15318,7 +15318,7 @@
       },
       "properties": {
         "title": "EGOE",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "RAF Ternhill",
         "elevation": 272,
         "municipality": "Ternhill",
@@ -15339,7 +15339,7 @@
       },
       "properties": {
         "title": "EGOQ",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "RAF Mona",
         "elevation": 202,
         "municipality": "Holyhead Island",
@@ -15360,7 +15360,7 @@
       },
       "properties": {
         "title": "EGOS",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RAF Shawbury",
         "elevation": 249,
         "municipality": "Shawbury",
@@ -15401,7 +15401,7 @@
       },
       "properties": {
         "title": "EGOW",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "RAF Woodvale",
         "elevation": 37,
         "municipality": "Southport",
@@ -15864,7 +15864,7 @@
       },
       "properties": {
         "title": "EGQS",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RAF Lossiemouth",
         "elevation": 42,
         "municipality": "Lossiemouth",
@@ -16265,7 +16265,7 @@
       },
       "properties": {
         "title": "EGUB",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RAF Benson",
         "elevation": 226,
         "municipality": "Benson",
@@ -16286,7 +16286,7 @@
       },
       "properties": {
         "title": "EGUD",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "RAF Abingdon",
         "elevation": 259,
         "municipality": "Abingdon",
@@ -16307,7 +16307,7 @@
       },
       "properties": {
         "title": "EGUL",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RAF Lakenheath",
         "elevation": 32,
         "municipality": "Brandon, Suffolk",
@@ -16328,7 +16328,7 @@
       },
       "properties": {
         "title": "EGUN",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RAF Mildenhall",
         "elevation": 33,
         "municipality": "Bury Saint Edmunds, Suffolk",
@@ -16390,7 +16390,7 @@
       },
       "properties": {
         "title": "EGUY",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "RAF Wyton",
         "elevation": 135,
         "municipality": "St. Ives",
@@ -16411,7 +16411,7 @@
       },
       "properties": {
         "title": "EGVA",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RAF Fairford",
         "elevation": 286,
         "municipality": "Fairford",
@@ -16432,7 +16432,7 @@
       },
       "properties": {
         "title": "EGVN",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RAF Brize Norton",
         "elevation": 288,
         "municipality": "Brize Norton",
@@ -16453,7 +16453,7 @@
       },
       "properties": {
         "title": "EGVO",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RAF Odiham",
         "elevation": 405,
         "municipality": "Odiham",
@@ -16494,7 +16494,7 @@
       },
       "properties": {
         "title": "EGWC",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "DCAE Cosford Air Base",
         "elevation": 272,
         "municipality": "Cosford",
@@ -16515,7 +16515,7 @@
       },
       "properties": {
         "title": "EGWE",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "RAF Henlow",
         "elevation": 206,
         "municipality": "Henlow",
@@ -16536,7 +16536,7 @@
       },
       "properties": {
         "title": "EGWN",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "RAF Halton",
         "elevation": 370,
         "municipality": "Halton",
@@ -16557,7 +16557,7 @@
       },
       "properties": {
         "title": "EGWU",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RAF Northolt",
         "elevation": 124,
         "municipality": "London",
@@ -16578,7 +16578,7 @@
       },
       "properties": {
         "title": "EGXC",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RAF Coningsby",
         "elevation": 25,
         "municipality": "Coningsby",
@@ -16619,7 +16619,7 @@
       },
       "properties": {
         "title": "EGXE",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RAF Leeming Air Base",
         "elevation": 132,
         "municipality": "Leeming",
@@ -16660,7 +16660,7 @@
       },
       "properties": {
         "title": "EGXH",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RAF Honington",
         "elevation": 174,
         "municipality": "Bury Saint Edmunds, Suffolk",
@@ -16702,7 +16702,7 @@
       },
       "properties": {
         "title": "EGXP",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RAF Scampton",
         "elevation": 202,
         "municipality": "Scampton",
@@ -16723,7 +16723,7 @@
       },
       "properties": {
         "title": "EGXT",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RAF Wittering",
         "elevation": 273,
         "municipality": "Wittering",
@@ -16765,7 +16765,7 @@
       },
       "properties": {
         "title": "EGXW",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RAF Waddington",
         "elevation": 231,
         "municipality": "Waddington",
@@ -16786,7 +16786,7 @@
       },
       "properties": {
         "title": "EGXY",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "RAF Syerston",
         "elevation": 228,
         "municipality": "Newark",
@@ -16807,7 +16807,7 @@
       },
       "properties": {
         "title": "EGXZ",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RAF Topcliffe",
         "elevation": 92,
         "municipality": "Topcliffe",
@@ -16849,7 +16849,7 @@
       },
       "properties": {
         "title": "EGYD",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RAF Cranwell",
         "elevation": 218,
         "municipality": "Cranwell",
@@ -16870,7 +16870,7 @@
       },
       "properties": {
         "title": "EGYE",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RAF Barkston Heath",
         "elevation": 367,
         "municipality": "Grantham",
@@ -16891,7 +16891,7 @@
       },
       "properties": {
         "title": "EGYM",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RAF Marham",
         "elevation": 75,
         "municipality": "Marham",
@@ -16992,7 +16992,7 @@
       },
       "properties": {
         "title": "EHDL",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Deelen Air Base",
         "elevation": 158,
         "municipality": "Arnhem",
@@ -17094,7 +17094,7 @@
       },
       "properties": {
         "title": "EHGR",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Gilze Rijen Air Base",
         "elevation": 49,
         "municipality": "Rijen",
@@ -17155,7 +17155,7 @@
       },
       "properties": {
         "title": "EHKD",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "De Kooy Airfield / Den Helder Naval Air Station",
         "elevation": 3,
         "municipality": "Den Helder",
@@ -17196,7 +17196,7 @@
       },
       "properties": {
         "title": "EHLW",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Leeuwarden Air Base",
         "elevation": 3,
         "municipality": "Leeuwarden",
@@ -17397,7 +17397,7 @@
       },
       "properties": {
         "title": "EHVK",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Volkel Air Base",
         "elevation": 72,
         "municipality": "Uden",
@@ -17418,7 +17418,7 @@
       },
       "properties": {
         "title": "EHWO",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Woensdrecht Air Base",
         "elevation": 63,
         "municipality": "Hoogerheide",
@@ -17839,7 +17839,7 @@
       },
       "properties": {
         "title": "EIME",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Casement Air Base",
         "elevation": 319,
         "municipality": "Baldonnel",
@@ -18520,7 +18520,7 @@
       },
       "properties": {
         "title": "EKSP",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Skrydstrup Air Base",
         "elevation": 141,
         "municipality": "Vojens",
@@ -20041,7 +20041,7 @@
       },
       "properties": {
         "title": "EPCE",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Cewice Air Base",
         "elevation": 495,
         "municipality": "Lębork",
@@ -20082,7 +20082,7 @@
       },
       "properties": {
         "title": "EPDE",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Deblin Military Air Base",
         "elevation": 392,
         "municipality": "Dęblin",
@@ -20123,7 +20123,7 @@
       },
       "properties": {
         "title": "EPIR",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Inowroclaw Military Air Base",
         "elevation": 259,
         "municipality": "",
@@ -20224,7 +20224,7 @@
       },
       "properties": {
         "title": "EPKS",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Krzesiny Military Air Base",
         "elevation": 265,
         "municipality": "",
@@ -20285,7 +20285,7 @@
       },
       "properties": {
         "title": "EPLK",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Lask Military Air Base",
         "elevation": 633,
         "municipality": "",
@@ -20346,7 +20346,7 @@
       },
       "properties": {
         "title": "EPLY",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Leczyca Military Air Base",
         "elevation": 377,
         "municipality": "Leczyca",
@@ -20367,7 +20367,7 @@
       },
       "properties": {
         "title": "EPMB",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "22nd Air Base",
         "elevation": 16,
         "municipality": "Malbork",
@@ -20408,7 +20408,7 @@
       },
       "properties": {
         "title": "EPMM",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Minsk Mazowiecki Military Air Base",
         "elevation": 604,
         "municipality": "",
@@ -20469,7 +20469,7 @@
       },
       "properties": {
         "title": "EPOK",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Oksywie Military Air Base",
         "elevation": 144,
         "municipality": "Gdynia",
@@ -20530,7 +20530,7 @@
       },
       "properties": {
         "title": "EPPR",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Pruszcz Gdanski Air Base",
         "elevation": 21,
         "municipality": "",
@@ -20551,7 +20551,7 @@
       },
       "properties": {
         "title": "EPPW",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Powidz Military Air Base",
         "elevation": 371,
         "municipality": "",
@@ -20652,7 +20652,7 @@
       },
       "properties": {
         "title": "EPTM",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Tomaszow Mazowiecki Military Air Base",
         "elevation": 571,
         "municipality": "Tomaszów Mazowiecki",
@@ -20753,7 +20753,7 @@
       },
       "properties": {
         "title": "ESCF",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Malmen Air Base",
         "elevation": 308,
         "municipality": "Linköping",
@@ -20894,7 +20894,7 @@
       },
       "properties": {
         "title": "ESIA",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Karlsborg Air Base",
         "elevation": 308,
         "municipality": "Karlsborg",
@@ -20915,7 +20915,7 @@
       },
       "properties": {
         "title": "ESIB",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Såtenäs Air Base",
         "elevation": 181,
         "municipality": "Såtenäs",
@@ -21136,7 +21136,7 @@
       },
       "properties": {
         "title": "ESMV",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Hagshult Air Base",
         "elevation": 556,
         "municipality": "",
@@ -21597,7 +21597,7 @@
       },
       "properties": {
         "title": "ESPE",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Vidsel Air Base",
         "elevation": 597,
         "municipality": "Vidsel",
@@ -21938,7 +21938,7 @@
       },
       "properties": {
         "title": "ETAD",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Spangdahlem Air Base",
         "elevation": 1197,
         "municipality": "Trier",
@@ -21959,7 +21959,7 @@
       },
       "properties": {
         "title": "ETAR",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Ramstein Air Base",
         "elevation": 776,
         "municipality": "Ramstein-Miesenbach",
@@ -22000,7 +22000,7 @@
       },
       "properties": {
         "title": "ETHL",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Laupheim Air Base",
         "elevation": 1766,
         "municipality": "Laupheim",
@@ -22041,7 +22041,7 @@
       },
       "properties": {
         "title": "ETHN",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Niederstetten Army Air Base",
         "elevation": 1339,
         "municipality": "Niederstetten",
@@ -22082,7 +22082,7 @@
       },
       "properties": {
         "title": "ETMN",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Nordholz Naval Airbase",
         "elevation": 74,
         "municipality": "Cuxhaven",
@@ -22103,7 +22103,7 @@
       },
       "properties": {
         "title": "ETND",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Diepholz Air Base",
         "elevation": 128,
         "municipality": "Diepholz",
@@ -22124,7 +22124,7 @@
       },
       "properties": {
         "title": "ETNG",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Geilenkirchen Air Base",
         "elevation": 296,
         "municipality": "Geilenkirchen",
@@ -22145,7 +22145,7 @@
       },
       "properties": {
         "title": "ETNH",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Hohn Air Base",
         "elevation": 39,
         "municipality": "",
@@ -22186,7 +22186,7 @@
       },
       "properties": {
         "title": "ETNN",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Nörvenich Air Base",
         "elevation": 386,
         "municipality": "Nörvenich",
@@ -22207,7 +22207,7 @@
       },
       "properties": {
         "title": "ETNS",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Schleswig Air Base",
         "elevation": 70,
         "municipality": "Jagel",
@@ -22228,7 +22228,7 @@
       },
       "properties": {
         "title": "ETNT",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Wittmundhafen Air Base",
         "elevation": 26,
         "municipality": "Wittmund",
@@ -22249,7 +22249,7 @@
       },
       "properties": {
         "title": "ETNW",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Wunstorf Air Base",
         "elevation": 187,
         "municipality": "",
@@ -22331,7 +22331,7 @@
       },
       "properties": {
         "title": "ETSB",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Büchel Air Base",
         "elevation": 1568,
         "municipality": "Alflen",
@@ -22352,7 +22352,7 @@
       },
       "properties": {
         "title": "ETSH",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Holzdorf Air Base",
         "elevation": 265,
         "municipality": "Holzdorf",
@@ -22393,7 +22393,7 @@
       },
       "properties": {
         "title": "ETSL",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Lechfeld Air Base",
         "elevation": 1822,
         "municipality": "Graben",
@@ -22414,7 +22414,7 @@
       },
       "properties": {
         "title": "ETSN",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Neuburg Air Base",
         "elevation": 1249,
         "municipality": "Neuburg an der Donau",
@@ -23095,7 +23095,7 @@
       },
       "properties": {
         "title": "FAHS",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Hoedspruit Air Force Base Airport",
         "elevation": 1743,
         "municipality": "Hoedspruit",
@@ -23336,7 +23336,7 @@
       },
       "properties": {
         "title": "FALM",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Makhado Air Force Base Airport",
         "elevation": 3069,
         "municipality": "Louis Trichardt Southwest",
@@ -24117,7 +24117,7 @@
       },
       "properties": {
         "title": "FASK",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Swartkop Air Force Base",
         "elevation": 4780,
         "municipality": "Pretoria",
@@ -24438,7 +24438,7 @@
       },
       "properties": {
         "title": "FAWK",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Waterkloof Air Force Base",
         "elevation": 4940,
         "municipality": "Pretoria",
@@ -24479,7 +24479,7 @@
       },
       "properties": {
         "title": "FAYP",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Ysterplaat Air Force Base",
         "elevation": 52,
         "municipality": "Cape Town",
@@ -25000,7 +25000,7 @@
       },
       "properties": {
         "title": "FJDG",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Diego Garcia Naval Support Facility",
         "elevation": 9,
         "municipality": "Diego Garcia",
@@ -26901,7 +26901,7 @@
       },
       "properties": {
         "title": "FVTL",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Gweru - Thornhill Air Base",
         "elevation": 4680,
         "municipality": "Gweru",
@@ -27862,7 +27862,7 @@
       },
       "properties": {
         "title": "FZSA",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Kamina Air Base",
         "elevation": 3543,
         "municipality": "Lumwe",
@@ -30023,7 +30023,7 @@
       },
       "properties": {
         "title": "HEAZ",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Almaza Air Force Base",
         "elevation": 246,
         "municipality": "Cairo",
@@ -30784,7 +30784,7 @@
       },
       "properties": {
         "title": "HKRE",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Moi Air Base",
         "elevation": 5336,
         "municipality": "Nairobi",
@@ -32725,7 +32725,7 @@
       },
       "properties": {
         "title": "K9L2",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Edwards Af Aux North Base Airport",
         "elevation": 2299,
         "municipality": "Edwards",
@@ -33166,7 +33166,7 @@
       },
       "properties": {
         "title": "KADW",
-        "type": "large_airport",
+        "type": "large_airbase",
         "description": "Joint Base Andrews",
         "elevation": 280,
         "municipality": "Camp Springs",
@@ -33367,7 +33367,7 @@
       },
       "properties": {
         "title": "KAGR",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "MacDill Air Force Base Auxiliary Field",
         "elevation": 68,
         "municipality": "Avon Park",
@@ -35088,7 +35088,7 @@
       },
       "properties": {
         "title": "KAYX",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Arnold Air Force Base",
         "elevation": 1067,
         "municipality": "Tullahoma",
@@ -35169,7 +35169,7 @@
       },
       "properties": {
         "title": "KBAB",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Beale Air Force Base",
         "elevation": 113,
         "municipality": "Marysville",
@@ -35990,7 +35990,7 @@
       },
       "properties": {
         "title": "KBIX",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Keesler Air Force Base",
         "elevation": 33,
         "municipality": "Biloxi",
@@ -36091,7 +36091,7 @@
       },
       "properties": {
         "title": "KBKF",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Buckley Space Force Base",
         "elevation": 5662,
         "municipality": "Aurora",
@@ -37492,7 +37492,7 @@
       },
       "properties": {
         "title": "KCBM",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Columbus Air Force Base",
         "elevation": 219,
         "municipality": "Columbus",
@@ -37733,7 +37733,7 @@
       },
       "properties": {
         "title": "KCEF",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Westover Metropolitan Airport / Westover Air Reserve Base",
         "elevation": 241,
         "municipality": "Chicopee",
@@ -40454,7 +40454,7 @@
       },
       "properties": {
         "title": "KDMA",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Davis Monthan Air Force Base",
         "elevation": 2704,
         "municipality": "Tucson",
@@ -40575,7 +40575,7 @@
       },
       "properties": {
         "title": "KDOV",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Dover Air Force Base",
         "elevation": 24,
         "municipality": "Dover",
@@ -41116,7 +41116,7 @@
       },
       "properties": {
         "title": "KDYS",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Dyess Air Force Base",
         "elevation": 1789,
         "municipality": "Abilene",
@@ -41517,7 +41517,7 @@
       },
       "properties": {
         "title": "KEDW",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Edwards Air Force Base",
         "elevation": 2312,
         "municipality": "Edwards",
@@ -42198,7 +42198,7 @@
       },
       "properties": {
         "title": "KEND",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Vance Air Force Base",
         "elevation": 1307,
         "municipality": "Enid",
@@ -43199,7 +43199,7 @@
       },
       "properties": {
         "title": "KFFO",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Wright-Patterson Air Force Base",
         "elevation": 823,
         "municipality": "Dayton",
@@ -44320,7 +44320,7 @@
       },
       "properties": {
         "title": "KGBN",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Gila Bend Air Force Auxiliary Airport",
         "elevation": 883,
         "municipality": "Gila Bend",
@@ -46141,7 +46141,7 @@
       },
       "properties": {
         "title": "KHIF",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Hill Air Force Base",
         "elevation": 4789,
         "municipality": "Ogden",
@@ -47302,7 +47302,7 @@
       },
       "properties": {
         "title": "KIAB",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "McConnell Air Force Base",
         "elevation": 1371,
         "municipality": "Wichita",
@@ -47943,7 +47943,7 @@
       },
       "properties": {
         "title": "KINS",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Creech Air Force Base",
         "elevation": 3133,
         "municipality": "Indian Springs",
@@ -49764,7 +49764,7 @@
       },
       "properties": {
         "title": "KLFI",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Langley Air Force Base",
         "elevation": 11,
         "municipality": "Hampton",
@@ -50505,7 +50505,7 @@
       },
       "properties": {
         "title": "KLRF",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Little Rock Air Force Base",
         "elevation": 311,
         "municipality": "Jacksonville",
@@ -50666,7 +50666,7 @@
       },
       "properties": {
         "title": "KLSV",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Nellis Air Force Base",
         "elevation": 1870,
         "municipality": "Las Vegas",
@@ -50687,7 +50687,7 @@
       },
       "properties": {
         "title": "KLTS",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Altus Air Force Base",
         "elevation": 1382,
         "municipality": "Altus",
@@ -50708,7 +50708,7 @@
       },
       "properties": {
         "title": "KLUF",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Luke Air Force Base",
         "elevation": 1085,
         "municipality": "Glendale",
@@ -51529,7 +51529,7 @@
       },
       "properties": {
         "title": "KMCF",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "MacDill Air Force Base",
         "elevation": 14,
         "municipality": "Tampa",
@@ -52010,7 +52010,7 @@
       },
       "properties": {
         "title": "KMGE",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Dobbins Air Reserve Base",
         "elevation": 1068,
         "municipality": "Marietta",
@@ -52231,7 +52231,7 @@
       },
       "properties": {
         "title": "KMIB",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Minot Air Force Base",
         "elevation": 1667,
         "municipality": "Minot",
@@ -52792,7 +52792,7 @@
       },
       "properties": {
         "title": "KMMT",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Mc Entire Joint National Guard Base",
         "elevation": 254,
         "municipality": "Eastover",
@@ -53453,7 +53453,7 @@
       },
       "properties": {
         "title": "KMTC",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Selfridge Air National Guard Base Airport",
         "elevation": 580,
         "municipality": "Mount Clemens",
@@ -53594,7 +53594,7 @@
       },
       "properties": {
         "title": "KMUO",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Mountain Home Air Force Base",
         "elevation": 2996,
         "municipality": "Mountain Home",
@@ -53795,7 +53795,7 @@
       },
       "properties": {
         "title": "KMXF",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Maxwell Air Force Base",
         "elevation": 171,
         "municipality": "Montgomery",
@@ -53996,7 +53996,7 @@
       },
       "properties": {
         "title": "KNBJ",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Naval Outlying Field Barin",
         "elevation": 54,
         "municipality": "Foley",
@@ -54037,7 +54037,7 @@
       },
       "properties": {
         "title": "KNEN",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Whitehouse Naval Outlying Field",
         "elevation": 99,
         "municipality": "Jacksonville",
@@ -54078,7 +54078,7 @@
       },
       "properties": {
         "title": "KNFE",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Fentress Naval Auxiliary Landing Field",
         "elevation": 16,
         "municipality": "Fentress",
@@ -54159,7 +54159,7 @@
       },
       "properties": {
         "title": "KNGP",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Naval Air Station Corpus Christi Truax Field",
         "elevation": 18,
         "municipality": "Corpus Christi",
@@ -54180,7 +54180,7 @@
       },
       "properties": {
         "title": "KNGS",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Santa Rosa Naval Outlying Field Airport",
         "elevation": 150,
         "municipality": "Milton",
@@ -54201,7 +54201,7 @@
       },
       "properties": {
         "title": "KNGU",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Norfolk Naval Station (Chambers Field)",
         "elevation": 17,
         "municipality": "Norfolk",
@@ -54222,7 +54222,7 @@
       },
       "properties": {
         "title": "KNGW",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Cabaniss Field Naval Outlying Landing Field",
         "elevation": 30,
         "municipality": "Corpus Christi",
@@ -54243,7 +54243,7 @@
       },
       "properties": {
         "title": "KNHK",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Patuxent River Naval Air Station (Trapnell Field)",
         "elevation": 39,
         "municipality": "Patuxent River",
@@ -54304,7 +54304,7 @@
       },
       "properties": {
         "title": "KNIP",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Jacksonville Naval Air Station (Towers Field)",
         "elevation": 21,
         "municipality": "Jacksonville",
@@ -54365,7 +54365,7 @@
       },
       "properties": {
         "title": "KNJW",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Joe Williams Naval Outlying Field",
         "elevation": 539,
         "municipality": "Preston",
@@ -54426,7 +54426,7 @@
       },
       "properties": {
         "title": "KNLC",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Lemoore Naval Air Station (Reeves Field) Airport",
         "elevation": 232,
         "municipality": "Lemoore",
@@ -54447,7 +54447,7 @@
       },
       "properties": {
         "title": "KNMM",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Naval Air Station Meridian / McCain Field",
         "elevation": 316,
         "municipality": "Lauderdale",
@@ -54468,7 +54468,7 @@
       },
       "properties": {
         "title": "KNOG",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Orange Grove Naval Auxiliary Landing Field",
         "elevation": 257,
         "municipality": "Orange Grove",
@@ -54529,7 +54529,7 @@
       },
       "properties": {
         "title": "KNQI",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Kingsville Naval Air Station",
         "elevation": 50,
         "municipality": "Kingsville",
@@ -54550,7 +54550,7 @@
       },
       "properties": {
         "title": "KNQX",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Naval Air Station Key West/Boca Chica Field",
         "elevation": 6,
         "municipality": "Key West",
@@ -54591,7 +54591,7 @@
       },
       "properties": {
         "title": "KNRB",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Naval Station Mayport / Admiral David L McDonald Field",
         "elevation": 15,
         "municipality": "Jacksonville",
@@ -54612,7 +54612,7 @@
       },
       "properties": {
         "title": "KNRS",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Naval Outlying Field Imperial Beach (Ream Field)",
         "elevation": 24,
         "municipality": "Imperial Beach",
@@ -54653,7 +54653,7 @@
       },
       "properties": {
         "title": "KNTD",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Point Mugu Naval Air Station (Naval Base Ventura Co)",
         "elevation": 13,
         "municipality": "Point Mugu",
@@ -54674,7 +54674,7 @@
       },
       "properties": {
         "title": "KNTU",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Oceana Naval Air Station",
         "elevation": 23,
         "municipality": "Virginia Beach",
@@ -54695,7 +54695,7 @@
       },
       "properties": {
         "title": "KNUC",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "San Clemente Island Naval Auxiliary Landing Field",
         "elevation": 184,
         "municipality": "San Clemente Island",
@@ -54736,7 +54736,7 @@
       },
       "properties": {
         "title": "KNUW",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Whidbey Island Naval Air Station (Ault Field)",
         "elevation": 47,
         "municipality": "Oak Harbor",
@@ -54777,7 +54777,7 @@
       },
       "properties": {
         "title": "KNWL",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Waldron Field Naval Outlying Landing Field",
         "elevation": 25,
         "municipality": "Corpus Christi",
@@ -54838,7 +54838,7 @@
       },
       "properties": {
         "title": "KNZY",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "North Island Naval Air Station-Halsey Field",
         "elevation": 26,
         "municipality": "San Diego",
@@ -56599,7 +56599,7 @@
       },
       "properties": {
         "title": "KPAM",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Tyndall Air Force Base",
         "elevation": 17,
         "municipality": "Panama City",
@@ -58680,7 +58680,7 @@
       },
       "properties": {
         "title": "KRCA",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Ellsworth Air Force Base",
         "elevation": 3276,
         "municipality": "Rapid City",
@@ -59041,7 +59041,7 @@
       },
       "properties": {
         "title": "KRIV",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "March Air Reserve Base",
         "elevation": 1536,
         "municipality": "Riverside",
@@ -59242,7 +59242,7 @@
       },
       "properties": {
         "title": "KRND",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Randolph Air Force Base",
         "elevation": 761,
         "municipality": "Universal City",
@@ -60663,7 +60663,7 @@
       },
       "properties": {
         "title": "KSEQ",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Randolph Air Force Base Auxiliary Airport",
         "elevation": 525,
         "municipality": "Seguin",
@@ -61144,7 +61144,7 @@
       },
       "properties": {
         "title": "KSKA",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Fairchild Air Force Base",
         "elevation": 2461,
         "municipality": "Spokane",
@@ -61165,7 +61165,7 @@
       },
       "properties": {
         "title": "KSKF",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Lackland Air Force Base",
         "elevation": 691,
         "municipality": "San Antonio",
@@ -61726,7 +61726,7 @@
       },
       "properties": {
         "title": "KSPS",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Wichita Falls Municipal Airport / Sheppard Air Force Base",
         "elevation": 1019,
         "municipality": "Wichita Falls",
@@ -61867,7 +61867,7 @@
       },
       "properties": {
         "title": "KSSC",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Shaw Air Force Base",
         "elevation": 241,
         "municipality": "Sumter",
@@ -62168,7 +62168,7 @@
       },
       "properties": {
         "title": "KSUU",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Travis Air Force Base",
         "elevation": 62,
         "municipality": "Fairfield",
@@ -62409,7 +62409,7 @@
       },
       "properties": {
         "title": "KSZL",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Whiteman Air Force Base",
         "elevation": 870,
         "municipality": "Knob Noster",
@@ -62530,7 +62530,7 @@
       },
       "properties": {
         "title": "KTCM",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "McChord Air Force Base",
         "elevation": 322,
         "municipality": "Tacoma",
@@ -62731,7 +62731,7 @@
       },
       "properties": {
         "title": "KTIK",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Tinker Air Force Base",
         "elevation": 1291,
         "municipality": "Oklahoma City",
@@ -63432,7 +63432,7 @@
       },
       "properties": {
         "title": "KTUS",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Tucson International Airport / Morris Air National Guard Base",
         "elevation": 2643,
         "municipality": "Tucson",
@@ -64373,7 +64373,7 @@
       },
       "properties": {
         "title": "KVAD",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Moody Air Force Base",
         "elevation": 233,
         "municipality": "Valdosta",
@@ -64414,7 +64414,7 @@
       },
       "properties": {
         "title": "KVBG",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Vandenberg Space Force Base",
         "elevation": 369,
         "municipality": "Lompoc",
@@ -65175,7 +65175,7 @@
       },
       "properties": {
         "title": "KWRB",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Robins Air Force Base",
         "elevation": 294,
         "municipality": "Warner Robins",
@@ -65196,7 +65196,7 @@
       },
       "properties": {
         "title": "KWRI",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Mc Guire Air Force Base",
         "elevation": 131,
         "municipality": "Wrightstown",
@@ -65437,7 +65437,7 @@
       },
       "properties": {
         "title": "KXNO",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "North Air Force Auxillary Airfield",
         "elevation": 321,
         "municipality": "North",
@@ -65658,7 +65658,7 @@
       },
       "properties": {
         "title": "LAKV",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Kuçovë Air Base",
         "elevation": 135,
         "municipality": "Kuçovë",
@@ -65799,7 +65799,7 @@
       },
       "properties": {
         "title": "LBPG",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Graf Ignatievo Air Base",
         "elevation": 190,
         "municipality": "Graf Ignatievo",
@@ -66000,7 +66000,7 @@
       },
       "properties": {
         "title": "LCRA",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RAF Akrotiri",
         "elevation": 76,
         "municipality": "Akrotiri",
@@ -66341,7 +66341,7 @@
       },
       "properties": {
         "title": "LEAB",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Albacete Airport / Los Llanos Air Base",
         "elevation": 2302,
         "municipality": "Albacete",
@@ -66642,7 +66642,7 @@
       },
       "properties": {
         "title": "LEGA",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Armilla Air Base",
         "elevation": 2297,
         "municipality": "Armilla",
@@ -67243,7 +67243,7 @@
       },
       "properties": {
         "title": "LETO",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Madrid–Torrejón Airport / Torrejón Air Base",
         "elevation": 2026,
         "municipality": "Madrid",
@@ -67644,7 +67644,7 @@
       },
       "properties": {
         "title": "LFBC",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Cazaux (BA 120) Air Base",
         "elevation": 84,
         "municipality": "Cazaux (La Teste-de-Buch)",
@@ -67705,7 +67705,7 @@
       },
       "properties": {
         "title": "LFBF",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Toulouse-Francazal (BA 101) Air Base",
         "elevation": 535,
         "municipality": "Toulouse/Francazal",
@@ -67726,7 +67726,7 @@
       },
       "properties": {
         "title": "LFBG",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Cognac-Châteaubernard (BA 709) Air Base",
         "elevation": 102,
         "municipality": "Cognac/Châteaubernard",
@@ -67827,7 +67827,7 @@
       },
       "properties": {
         "title": "LFBM",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Mont-de-Marsan (BA 118) Air Base",
         "elevation": 203,
         "municipality": "Mont-de-Marsan",
@@ -69428,7 +69428,7 @@
       },
       "properties": {
         "title": "LFKS",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Solenzara (BA 126) Air Base",
         "elevation": 28,
         "municipality": "Solenzara",
@@ -69929,7 +69929,7 @@
       },
       "properties": {
         "title": "LFMI",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Istres Le Tubé Air Base",
         "elevation": 82,
         "municipality": "Istres/Le Tubé",
@@ -70010,7 +70010,7 @@
       },
       "properties": {
         "title": "LFMO",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Orange-Caritat (BA 115) Air Base",
         "elevation": 197,
         "municipality": "Orange/Caritat",
@@ -70171,7 +70171,7 @@
       },
       "properties": {
         "title": "LFMY",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Salon-de-Provence (BA 701) Air Base",
         "elevation": 195,
         "municipality": "Salon",
@@ -70452,7 +70452,7 @@
       },
       "properties": {
         "title": "LFOA",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Avord (BA 702) Air Base",
         "elevation": 580,
         "municipality": "Avord",
@@ -70493,7 +70493,7 @@
       },
       "properties": {
         "title": "LFOC",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Châteaudun (BA 279) Air Base",
         "elevation": 433,
         "municipality": "Châteaudun",
@@ -70534,7 +70534,7 @@
       },
       "properties": {
         "title": "LFOE",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Évreux-Fauville (BA 105) Air Base",
         "elevation": 464,
         "municipality": "Évreux/Fauville",
@@ -70595,7 +70595,7 @@
       },
       "properties": {
         "title": "LFOJ",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Orléans-Bricy (BA 123) Air Base",
         "elevation": 412,
         "municipality": "Orléans/Bricy",
@@ -70816,7 +70816,7 @@
       },
       "properties": {
         "title": "LFPC",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Creil Air Base",
         "elevation": 291,
         "municipality": "Creil",
@@ -71037,7 +71037,7 @@
       },
       "properties": {
         "title": "LFPV",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Vélizy-Villacoublay Air Base",
         "elevation": 584,
         "municipality": "Vélizy-Villacoublay",
@@ -71138,7 +71138,7 @@
       },
       "properties": {
         "title": "LFQE",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Lieutenant Étienne Mantoux Air Base",
         "elevation": 770,
         "municipality": "Rouvres-en-Woëvre",
@@ -71279,7 +71279,7 @@
       },
       "properties": {
         "title": "LFQP",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Phalsbourg-Bourscheid Air Base",
         "elevation": 1017,
         "municipality": "Bourscheid",
@@ -71500,7 +71500,7 @@
       },
       "properties": {
         "title": "LFRJ",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Landivisiau Air Base",
         "elevation": 348,
         "municipality": "Landivisiau",
@@ -71541,7 +71541,7 @@
       },
       "properties": {
         "title": "LFRL",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Lanvéoc-Poulmic Air Base",
         "elevation": 287,
         "municipality": "Lanvéoc/Poulmic",
@@ -71802,7 +71802,7 @@
       },
       "properties": {
         "title": "LFSI",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Saint-Dizier – Robinson Air Base",
         "elevation": 458,
         "municipality": "Saint-Dizier",
@@ -71903,7 +71903,7 @@
       },
       "properties": {
         "title": "LFSO",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Nancy-Ochey (BA 133) Air Base",
         "elevation": 1106,
         "municipality": "Thuilley-aux-Groseilles",
@@ -71984,7 +71984,7 @@
       },
       "properties": {
         "title": "LFSX",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Luxeuil-Saint-Sauveur (BA 116) Air Base",
         "elevation": 913,
         "municipality": "Saint-Sauveur",
@@ -72125,7 +72125,7 @@
       },
       "properties": {
         "title": "LFXA",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Ambérieu Air Base (BA 278)",
         "elevation": 823,
         "municipality": "Ambérieu",
@@ -72166,7 +72166,7 @@
       },
       "properties": {
         "title": "LGAD",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Andravida Air Base",
         "elevation": 55,
         "municipality": "Andravida",
@@ -72607,7 +72607,7 @@
       },
       "properties": {
         "title": "LGLR",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Larissa Air Base",
         "elevation": 241,
         "municipality": "Larissa",
@@ -72708,7 +72708,7 @@
       },
       "properties": {
         "title": "LGRD",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Maritsa Air Base",
         "elevation": 204,
         "municipality": "Rodes Island",
@@ -72909,7 +72909,7 @@
       },
       "properties": {
         "title": "LGTG",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Tanagra Air Base",
         "elevation": 485,
         "municipality": "Tanagra",
@@ -73150,7 +73150,7 @@
       },
       "properties": {
         "title": "LHKE",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Kecskemét Air Base",
         "elevation": 376,
         "municipality": "Kecskemét",
@@ -73231,7 +73231,7 @@
       },
       "properties": {
         "title": "LHPA",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Pápa Air Base",
         "elevation": 466,
         "municipality": "Pápa",
@@ -73352,7 +73352,7 @@
       },
       "properties": {
         "title": "LHSN",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Szolnok Air Base",
         "elevation": 322,
         "municipality": "Szolnok",
@@ -73473,7 +73473,7 @@
       },
       "properties": {
         "title": "LIBA",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Amendola Air Base",
         "elevation": 183,
         "municipality": "Foggia",
@@ -73574,7 +73574,7 @@
       },
       "properties": {
         "title": "LIBN",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Lecce Galatina Air Base",
         "elevation": 156,
         "municipality": "Galatina",
@@ -73635,7 +73635,7 @@
       },
       "properties": {
         "title": "LIBV",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Gioia Del Colle Air Base",
         "elevation": 1187,
         "municipality": "Gioia Del Colle (BA)",
@@ -73836,7 +73836,7 @@
       },
       "properties": {
         "title": "LICZ",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Sigonella Navy Air Base",
         "elevation": 79,
         "municipality": "Sigonella (CT)",
@@ -74117,7 +74117,7 @@
       },
       "properties": {
         "title": "LIED",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Decimomannu Air Base",
         "elevation": 100,
         "municipality": "Decimomannu",
@@ -74518,7 +74518,7 @@
       },
       "properties": {
         "title": "LIME",
-        "type": "large_airport",
+        "type": "large_airbase",
         "description": "Milan Bergamo Airport / Antonio Locatelli Air Base",
         "elevation": 782,
         "municipality": "Orio al Serio (BG)",
@@ -74619,7 +74619,7 @@
       },
       "properties": {
         "title": "LIMN",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Cameri Air Base [MIL]",
         "elevation": 586,
         "municipality": "Cameri (NO)",
@@ -74680,7 +74680,7 @@
       },
       "properties": {
         "title": "LIMS",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Piacenza San Damiano Air Base",
         "elevation": 456,
         "municipality": "San Damiano (PC)",
@@ -74761,7 +74761,7 @@
       },
       "properties": {
         "title": "LIPA",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Aviano Air Base",
         "elevation": 410,
         "municipality": "Aviano (PN)",
@@ -74802,7 +74802,7 @@
       },
       "properties": {
         "title": "LIPC",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Cervia Air Base",
         "elevation": 18,
         "municipality": "Cervia",
@@ -74823,7 +74823,7 @@
       },
       "properties": {
         "title": "LIPD",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Udine-Campoformido Air Base",
         "elevation": 305,
         "municipality": "Campoformido (UD)",
@@ -74904,7 +74904,7 @@
       },
       "properties": {
         "title": "LIPI",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Udine-Rivolto Air Base",
         "elevation": 179,
         "municipality": "Codroipo (UD)",
@@ -74945,7 +74945,7 @@
       },
       "properties": {
         "title": "LIPL",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Ghedi Air Base",
         "elevation": 333,
         "municipality": "Ghedi (BS)",
@@ -75066,7 +75066,7 @@
       },
       "properties": {
         "title": "LIPS",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Istrana Air Base",
         "elevation": 137,
         "municipality": "Istrana (TV)",
@@ -75267,7 +75267,7 @@
       },
       "properties": {
         "title": "LIQW",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Sarzana-Luni Air Base",
         "elevation": 45,
         "municipality": "Sarzana (SP)",
@@ -75308,7 +75308,7 @@
       },
       "properties": {
         "title": "LIRE",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Pratica Di Mare Air Base",
         "elevation": 41,
         "municipality": "Pomezia",
@@ -75349,7 +75349,7 @@
       },
       "properties": {
         "title": "LIRG",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Guidonia Air Base",
         "elevation": 289,
         "municipality": "Guidonia",
@@ -75370,7 +75370,7 @@
       },
       "properties": {
         "title": "LIRH",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Frosinone Air Base",
         "elevation": 0,
         "municipality": "Frosinone",
@@ -75431,7 +75431,7 @@
       },
       "properties": {
         "title": "LIRL",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Latina Air Base",
         "elevation": 94,
         "municipality": "Latina",
@@ -75452,7 +75452,7 @@
       },
       "properties": {
         "title": "LIRM",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Grazzanise Air Base",
         "elevation": 29,
         "municipality": "Caserta",
@@ -75533,7 +75533,7 @@
       },
       "properties": {
         "title": "LIRS",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Grosseto Air Base",
         "elevation": 17,
         "municipality": "Grosetto",
@@ -75614,7 +75614,7 @@
       },
       "properties": {
         "title": "LJCE",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Cerklje ob Krki Air Base",
         "elevation": 510,
         "municipality": "Cerklje ob Krki",
@@ -75835,7 +75835,7 @@
       },
       "properties": {
         "title": "LKCV",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Čáslav Air Base",
         "elevation": 794,
         "municipality": "Chotusice",
@@ -75996,7 +75996,7 @@
       },
       "properties": {
         "title": "LKKB",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Kbely Air Base",
         "elevation": 939,
         "municipality": "Prague",
@@ -76217,7 +76217,7 @@
       },
       "properties": {
         "title": "LKNA",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Náměšť Air Base",
         "elevation": 1548,
         "municipality": "Sedlec",
@@ -76358,7 +76358,7 @@
       },
       "properties": {
         "title": "LKPO",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Přerov Air Base",
         "elevation": 676,
         "municipality": "Přerov",
@@ -76619,7 +76619,7 @@
       },
       "properties": {
         "title": "LLEK",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Tel Nof Air Base",
         "elevation": 193,
         "municipality": "Rehovot",
@@ -76700,7 +76700,7 @@
       },
       "properties": {
         "title": "LLHS",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Hatzor Air Base",
         "elevation": 148,
         "municipality": "Hatzor",
@@ -76741,7 +76741,7 @@
       },
       "properties": {
         "title": "LLNV",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Nevatim Air Base",
         "elevation": 1330,
         "municipality": "Beersheba",
@@ -76782,7 +76782,7 @@
       },
       "properties": {
         "title": "LLRD",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Ramat David Air Base",
         "elevation": 185,
         "municipality": "Haifa",
@@ -76803,7 +76803,7 @@
       },
       "properties": {
         "title": "LLRM",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Ramon Air Base",
         "elevation": 2126,
         "municipality": "Beersheba",
@@ -77064,7 +77064,7 @@
       },
       "properties": {
         "title": "LOWL",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Linz-Hörsching Airport / Vogler Air Base",
         "elevation": 980,
         "municipality": "Linz",
@@ -77145,7 +77145,7 @@
       },
       "properties": {
         "title": "LOXT",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Brumowski  Air Base",
         "elevation": 574,
         "municipality": "Tulln an der Donau",
@@ -77166,7 +77166,7 @@
       },
       "properties": {
         "title": "LOXZ",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Hinterstoisser Air Base",
         "elevation": 2264,
         "municipality": "Zeltweg",
@@ -77427,7 +77427,7 @@
       },
       "properties": {
         "title": "LPMR",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Monte Real Air Base",
         "elevation": 187,
         "municipality": "",
@@ -77448,7 +77448,7 @@
       },
       "properties": {
         "title": "LPMT",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Montijo Air Base",
         "elevation": 46,
         "municipality": "Montijo",
@@ -77469,7 +77469,7 @@
       },
       "properties": {
         "title": "LPOV",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Ovar Air Base",
         "elevation": 56,
         "municipality": "Ovar",
@@ -77630,7 +77630,7 @@
       },
       "properties": {
         "title": "LPST",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Sintra Air Base",
         "elevation": 440,
         "municipality": "Sintra",
@@ -77791,7 +77791,7 @@
       },
       "properties": {
         "title": "LR80",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Feteşti Air Base",
         "elevation": 180,
         "municipality": "Feteşti",
@@ -77812,7 +77812,7 @@
       },
       "properties": {
         "title": "LR82",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Boboc Air Base",
         "elevation": 344,
         "municipality": "Boboc",
@@ -77973,7 +77973,7 @@
       },
       "properties": {
         "title": "LRCT",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Câmpia Turzii Air Base",
         "elevation": 1083,
         "municipality": "Câmpia Turzii",
@@ -78294,7 +78294,7 @@
       },
       "properties": {
         "title": "LSGR",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Reichenbach Air Base",
         "elevation": 2385,
         "municipality": "Reichenbach im Kandertal",
@@ -78335,7 +78335,7 @@
       },
       "properties": {
         "title": "LSMA",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Alpnach Air Base",
         "elevation": 1460,
         "municipality": "Alpnach",
@@ -78356,7 +78356,7 @@
       },
       "properties": {
         "title": "LSMD",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Dübendorf Air Base",
         "elevation": 1470,
         "municipality": "Zurich",
@@ -78377,7 +78377,7 @@
       },
       "properties": {
         "title": "LSME",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Emmen Air Base",
         "elevation": 1400,
         "municipality": "",
@@ -78398,7 +78398,7 @@
       },
       "properties": {
         "title": "LSML",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Lodrino Air Base",
         "elevation": 0,
         "municipality": "Lodrino",
@@ -78419,7 +78419,7 @@
       },
       "properties": {
         "title": "LSMM",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Meiringen Air Base",
         "elevation": 1895,
         "municipality": "Meiringen",
@@ -78440,7 +78440,7 @@
       },
       "properties": {
         "title": "LSMP",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Payerne Air Base",
         "elevation": 1465,
         "municipality": "",
@@ -78881,7 +78881,7 @@
       },
       "properties": {
         "title": "LTAD",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Etimesgut Air Base",
         "elevation": 2653,
         "municipality": "Ankara",
@@ -78902,7 +78902,7 @@
       },
       "properties": {
         "title": "LTAE",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Akıncı Air Base",
         "elevation": 2767,
         "municipality": "Ankara",
@@ -78943,7 +78943,7 @@
       },
       "properties": {
         "title": "LTAG",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "İncirlik Air Base",
         "elevation": 238,
         "municipality": "Sarıçam",
@@ -79344,7 +79344,7 @@
       },
       "properties": {
         "title": "LTBI",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Eskişehir Air Base",
         "elevation": 2581,
         "municipality": "",
@@ -79385,7 +79385,7 @@
       },
       "properties": {
         "title": "LTBK",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Gaziemir Air Base",
         "elevation": 433,
         "municipality": "Gaziemir",
@@ -79586,7 +79586,7 @@
       },
       "properties": {
         "title": "LTBX",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "İstanbul Samandıra Army Air Base",
         "elevation": 400,
         "municipality": "Ümraniye, Istanbul",
@@ -80227,7 +80227,7 @@
       },
       "properties": {
         "title": "LUBM",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Mărculești Air Base",
         "elevation": 312,
         "municipality": "Mărculeşti",
@@ -80468,7 +80468,7 @@
       },
       "properties": {
         "title": "LYBT",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Batajnica Air Base",
         "elevation": 265,
         "municipality": "Batajnica",
@@ -80709,7 +80709,7 @@
       },
       "properties": {
         "title": "LZMC",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Malacky/Kuchyňa Air Base",
         "elevation": 679,
         "municipality": "Kuchyňa",
@@ -81490,7 +81490,7 @@
       },
       "properties": {
         "title": "MHSC",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Palmerola International Airport / José Enrique Soto Cano Air Base",
         "elevation": 2061,
         "municipality": "Palmerola",
@@ -82191,7 +82191,7 @@
       },
       "properties": {
         "title": "MMES",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Base Nº3 de la Fuerza Aérea Mexicana",
         "elevation": 66,
         "municipality": "Ensenada",
@@ -83052,7 +83052,7 @@
       },
       "properties": {
         "title": "MMTB",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Terán Air Base",
         "elevation": 1909,
         "municipality": "Tuxtla Gutiérrez",
@@ -84533,7 +84533,7 @@
       },
       "properties": {
         "title": "MUSJ",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "San Julián Air Base",
         "elevation": 98,
         "municipality": "Sandino",
@@ -86594,7 +86594,7 @@
       },
       "properties": {
         "title": "NZOH",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RNZAF Base Ohakea",
         "elevation": 164,
         "municipality": "",
@@ -86975,7 +86975,7 @@
       },
       "properties": {
         "title": "NZWP",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RNZAF Base Auckland-Whenuapai",
         "elevation": 100,
         "municipality": "",
@@ -87096,7 +87096,7 @@
       },
       "properties": {
         "title": "OAA",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Shank Air Base",
         "elevation": 6890,
         "municipality": "Baraki Barak",
@@ -87417,7 +87417,7 @@
       },
       "properties": {
         "title": "OASD",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Shindand Air Base",
         "elevation": 3773,
         "municipality": "Shindand",
@@ -87538,7 +87538,7 @@
       },
       "properties": {
         "title": "OBKH",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Sakhir Air Base",
         "elevation": 49,
         "municipality": "Zallaq",
@@ -87659,7 +87659,7 @@
       },
       "properties": {
         "title": "OEDR",
-        "type": "large_airport",
+        "type": "large_airbase",
         "description": "King Abdulaziz Air Base",
         "elevation": 84,
         "municipality": "Dhahran",
@@ -87780,7 +87780,7 @@
       },
       "properties": {
         "title": "OEJF",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "King Faisal Naval Base",
         "elevation": 7,
         "municipality": "Jeddah",
@@ -87961,7 +87961,7 @@
       },
       "properties": {
         "title": "OEPS",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Prince Sultan Air Base",
         "elevation": 1651,
         "municipality": "",
@@ -88042,7 +88042,7 @@
       },
       "properties": {
         "title": "OERY",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Riyadh Air Base",
         "elevation": 2082,
         "municipality": "Riyadh",
@@ -88783,7 +88783,7 @@
       },
       "properties": {
         "title": "OIHS",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Nojeh Air Base",
         "elevation": 5609,
         "municipality": "Amirabad",
@@ -88804,7 +88804,7 @@
       },
       "properties": {
         "title": "OIID",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Doshan Tappeh Air Base",
         "elevation": 4046,
         "municipality": "Tehran",
@@ -89825,7 +89825,7 @@
       },
       "properties": {
         "title": "OJMS",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Muwaffaq Salti Air Base",
         "elevation": 1706,
         "municipality": "Al Azraq",
@@ -89846,7 +89846,7 @@
       },
       "properties": {
         "title": "OKAS",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Ali Al Salem Air Base",
         "elevation": 472,
         "municipality": "Al Damaikhi",
@@ -89927,7 +89927,7 @@
       },
       "properties": {
         "title": "OLKA",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Rene Mouawad Air Base / Kleyate Airport",
         "elevation": 75,
         "municipality": "Tripoli",
@@ -89948,7 +89948,7 @@
       },
       "properties": {
         "title": "OLRA",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Rayak Air Base",
         "elevation": 3018,
         "municipality": "Rayak",
@@ -90089,7 +90089,7 @@
       },
       "properties": {
         "title": "OMAM",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Al Dhafra Air Base",
         "elevation": 77,
         "municipality": "",
@@ -90210,7 +90210,7 @@
       },
       "properties": {
         "title": "OMDM",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Al Minhad Air Base",
         "elevation": 165,
         "municipality": "Dubai",
@@ -90471,7 +90471,7 @@
       },
       "properties": {
         "title": "OOTH",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Thumrait Air Base",
         "elevation": 1570,
         "municipality": "Thumrait",
@@ -90712,7 +90712,7 @@
       },
       "properties": {
         "title": "OPJA",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Shahbaz Air Base",
         "elevation": 185,
         "municipality": "Jacobabad",
@@ -90833,7 +90833,7 @@
       },
       "properties": {
         "title": "OPMI",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Mianwali Air Base",
         "elevation": 690,
         "municipality": "Mianwali",
@@ -90874,7 +90874,7 @@
       },
       "properties": {
         "title": "OPMR",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Masroor Air Base",
         "elevation": 35,
         "municipality": "Karachi",
@@ -91055,7 +91055,7 @@
       },
       "properties": {
         "title": "OPRN",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "PAF Base Nur Khan",
         "elevation": 1668,
         "municipality": "Rawalpindi",
@@ -91236,7 +91236,7 @@
       },
       "properties": {
         "title": "ORAA",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Al Asad Air Base",
         "elevation": 618,
         "municipality": "Hīt",
@@ -91257,7 +91257,7 @@
       },
       "properties": {
         "title": "ORAT",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Al Taqaddum Air Base",
         "elevation": 275,
         "municipality": "Al Habbaniyah",
@@ -91278,7 +91278,7 @@
       },
       "properties": {
         "title": "ORBD",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Balad Southeast Airport / Joint Base Balad",
         "elevation": 161,
         "municipality": "Al Bakr",
@@ -91299,7 +91299,7 @@
       },
       "properties": {
         "title": "ORBI",
-        "type": "large_airport",
+        "type": "large_airbase",
         "description": "Baghdad International Airport / New Al Muthana Air Base",
         "elevation": 114,
         "municipality": "Baghdad",
@@ -91360,7 +91360,7 @@
       },
       "properties": {
         "title": "ORKK",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Kirkuk Air Base",
         "elevation": 1061,
         "municipality": "Kirkuk",
@@ -91461,7 +91461,7 @@
       },
       "properties": {
         "title": "ORTL",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Ali Air Base",
         "elevation": 20,
         "municipality": "Nasiriyah",
@@ -91562,7 +91562,7 @@
       },
       "properties": {
         "title": "OSLK",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Hmeimim Air Base",
         "elevation": 157,
         "municipality": "Latakia",
@@ -91623,7 +91623,7 @@
       },
       "properties": {
         "title": "OTBH",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Al Udeid Air Base",
         "elevation": 130,
         "municipality": "Ar Rayyan",
@@ -92264,7 +92264,7 @@
       },
       "properties": {
         "title": "PAED",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Elmendorf Air Force Base",
         "elevation": 212,
         "municipality": "Anchorage",
@@ -94165,7 +94165,7 @@
       },
       "properties": {
         "title": "RCAY",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Gangshan Air Force Base",
         "elevation": 34,
         "municipality": "Kaohsiung (Gangshan)",
@@ -94326,7 +94326,7 @@
       },
       "properties": {
         "title": "RCMQ",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Taichung International Airport / Ching Chuang Kang Air Base",
         "elevation": 663,
         "municipality": "Taichung (Qingshui)",
@@ -94367,7 +94367,7 @@
       },
       "properties": {
         "title": "RCNN",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Tainan International Airport / Tainan Air Base",
         "elevation": 63,
         "municipality": "Tainan (Rende)",
@@ -94388,7 +94388,7 @@
       },
       "properties": {
         "title": "RCPO",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Hsinchu Air Base",
         "elevation": 26,
         "municipality": "Hsinchu City",
@@ -94429,7 +94429,7 @@
       },
       "properties": {
         "title": "RCQS",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Chihhang Air Base",
         "elevation": 121,
         "municipality": "Taitung City",
@@ -94590,7 +94590,7 @@
       },
       "properties": {
         "title": "RJAH",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Ibaraki Airport / JASDF Hyakuri Air Base",
         "elevation": 105,
         "municipality": "Omitama",
@@ -94611,7 +94611,7 @@
       },
       "properties": {
         "title": "RJAM",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "JMSDF Minami Torishima Air Base",
         "elevation": 22,
         "municipality": "Ogasawara",
@@ -94832,7 +94832,7 @@
       },
       "properties": {
         "title": "RJCJ",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "JASDF Chitose Air Base",
         "elevation": 87,
         "municipality": "Chitose",
@@ -95033,7 +95033,7 @@
       },
       "properties": {
         "title": "RJDU",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "JMSDF Omura Air Base",
         "elevation": 0,
         "municipality": "Nagasaki",
@@ -95134,7 +95134,7 @@
       },
       "properties": {
         "title": "RJFA",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "JASDF Ashiya Air Base",
         "elevation": 98,
         "municipality": "Ashiya",
@@ -95375,7 +95375,7 @@
       },
       "properties": {
         "title": "RJFZ",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "JASDF Tsuiki Air Base",
         "elevation": 55,
         "municipality": "Tsuiki",
@@ -95496,7 +95496,7 @@
       },
       "properties": {
         "title": "RJNA",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Nagoya Airport / JASDF Komaki Air Base",
         "elevation": 52,
         "municipality": "Nagoya",
@@ -95557,7 +95557,7 @@
       },
       "properties": {
         "title": "RJNH",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "JASDF Hamamatsu Air Base",
         "elevation": 150,
         "municipality": "Hamamatsu",
@@ -95578,7 +95578,7 @@
       },
       "properties": {
         "title": "RJNK",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Komatsu Airport / JASDF Komatsu Air Base",
         "elevation": 36,
         "municipality": "Kanazawa",
@@ -95739,7 +95739,7 @@
       },
       "properties": {
         "title": "RJOH",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Yonago Kitaro Airport / JASDF Miho Air Base",
         "elevation": 20,
         "municipality": "Yonago",
@@ -95860,7 +95860,7 @@
       },
       "properties": {
         "title": "RJOS",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Tokushima Awaodori Airport / JMSDF Tokushima Air Base",
         "elevation": 26,
         "municipality": "Tokushima",
@@ -96021,7 +96021,7 @@
       },
       "properties": {
         "title": "RJSH",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "JMSDF Hachinohe Air Base / Hachinohe Airport",
         "elevation": 152,
         "municipality": "Hachinohe",
@@ -96082,7 +96082,7 @@
       },
       "properties": {
         "title": "RJSM",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Misawa Airport / Misawa Air Base",
         "elevation": 119,
         "municipality": "Misawa",
@@ -96163,7 +96163,7 @@
       },
       "properties": {
         "title": "RJTA",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "JMSDF Atsugi Air Base / Naval Air Facility Atsugi",
         "elevation": 205,
         "municipality": "Ayase / Yamato",
@@ -96264,7 +96264,7 @@
       },
       "properties": {
         "title": "RJTY",
-        "type": "large_airport",
+        "type": "large_airbase",
         "description": "Yokota Air Base",
         "elevation": 463,
         "municipality": "Fussa",
@@ -96325,7 +96325,7 @@
       },
       "properties": {
         "title": "RKJK",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Gunsan Airport / Kunsan Air Base",
         "elevation": 29,
         "municipality": "Kunsan",
@@ -96386,7 +96386,7 @@
       },
       "properties": {
         "title": "RKNW",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Wonju Airport / Hoengseong Air Base (K-38/K-46)",
         "elevation": 329,
         "municipality": "Wonju",
@@ -96547,7 +96547,7 @@
       },
       "properties": {
         "title": "RKSM",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Seoul Air Base (K-16)",
         "elevation": 92,
         "municipality": "Seongnam",
@@ -96568,7 +96568,7 @@
       },
       "properties": {
         "title": "RKSO",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Osan Air Base",
         "elevation": 38,
         "municipality": "",
@@ -96649,7 +96649,7 @@
       },
       "properties": {
         "title": "RKTI",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Jungwon Air Base/Chungju Airport",
         "elevation": 281,
         "municipality": "Gimseang-ro",
@@ -96690,7 +96690,7 @@
       },
       "properties": {
         "title": "RKTP",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Seosan Air Base",
         "elevation": 39,
         "municipality": "Seosan",
@@ -96711,7 +96711,7 @@
       },
       "properties": {
         "title": "RKTU",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Cheongju International Airport/Cheongju Air Base (K-59/G-513)",
         "elevation": 191,
         "municipality": "Cheongju",
@@ -96752,7 +96752,7 @@
       },
       "properties": {
         "title": "ROAH",
-        "type": "large_airport",
+        "type": "large_airbase",
         "description": "Naha Airport / JASDF Naha Air Base",
         "elevation": 12,
         "municipality": "Naha",
@@ -96773,7 +96773,7 @@
       },
       "properties": {
         "title": "RODN",
-        "type": "large_airport",
+        "type": "large_airbase",
         "description": "Kadena Air Base",
         "elevation": 143,
         "municipality": "",
@@ -97014,7 +97014,7 @@
       },
       "properties": {
         "title": "RPLB",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Subic Bay International Airport / Naval Air Station Cubi Point",
         "elevation": 64,
         "municipality": "Olongapo",
@@ -97035,7 +97035,7 @@
       },
       "properties": {
         "title": "RPLC",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Clark International Airport / Clark Air Base",
         "elevation": 484,
         "municipality": "Mabalacat",
@@ -97116,7 +97116,7 @@
       },
       "properties": {
         "title": "RPLS",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Danilo Atienza Air Base",
         "elevation": 8,
         "municipality": "Cavite",
@@ -97517,7 +97517,7 @@
       },
       "properties": {
         "title": "RPUF",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Basa Air Base",
         "elevation": 151,
         "municipality": "Floridablanca",
@@ -97558,7 +97558,7 @@
       },
       "properties": {
         "title": "RPUL",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Basilio Fernando Air Base",
         "elevation": 1220,
         "municipality": "Lipa",
@@ -97959,7 +97959,7 @@
       },
       "properties": {
         "title": "RPVP",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Puerto Princesa International Airport / PAF Antonio Bautista Air Base",
         "elevation": 71,
         "municipality": "Puerto Princesa",
@@ -98080,7 +98080,7 @@
       },
       "properties": {
         "title": "RU-0764",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Kubinka Air Base",
         "elevation": 614,
         "municipality": "Kubinka",
@@ -100421,7 +100421,7 @@
       },
       "properties": {
         "title": "SBCO",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Canoas Air Force Base",
         "elevation": 26,
         "municipality": "Porto Alegre",
@@ -101422,7 +101422,7 @@
       },
       "properties": {
         "title": "SBMN",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Ponta Pelada Airport / Manaus Air Base",
         "elevation": 267,
         "municipality": "Manaus",
@@ -101583,7 +101583,7 @@
       },
       "properties": {
         "title": "SBNT",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Natal Air Force Base",
         "elevation": 171,
         "municipality": "Natal",
@@ -102104,7 +102104,7 @@
       },
       "properties": {
         "title": "SBST",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Santos Nero Moura Air Base / Guarujá Airport",
         "elevation": 13,
         "municipality": "Guarujá",
@@ -106325,7 +106325,7 @@
       },
       "properties": {
         "title": "SKPQ",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "German Olano Air Base",
         "elevation": 566,
         "municipality": "La Dorada",
@@ -108946,7 +108946,7 @@
       },
       "properties": {
         "title": "SPHI",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Air Force Captain Jose A Quinones Gonzales International Airport",
         "elevation": 97,
         "municipality": "Chiclayo",
@@ -108967,7 +108967,7 @@
       },
       "properties": {
         "title": "SPHO",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Air Force Colonel Alfredo Mendivil Duarte Airport",
         "elevation": 8917,
         "municipality": "Ayacucho",
@@ -109148,7 +109148,7 @@
       },
       "properties": {
         "title": "SPLP",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Las Palmas Air Base",
         "elevation": 250,
         "municipality": "Chorrillos",
@@ -111469,7 +111469,7 @@
       },
       "properties": {
         "title": "SVFM",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Generalissimo Francisco de Miranda Air Base",
         "elevation": 2739,
         "municipality": "La Carlota",
@@ -114470,7 +114470,7 @@
       },
       "properties": {
         "title": "UG0U",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Gudauta Air Base",
         "elevation": 79,
         "municipality": "Gudauta",
@@ -115331,7 +115331,7 @@
       },
       "properties": {
         "title": "UKKO",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Ozerne Air Base",
         "elevation": 761,
         "municipality": "Zhytomyr",
@@ -115612,7 +115612,7 @@
       },
       "properties": {
         "title": "ULKS",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Savvatiya Air Base",
         "elevation": 318,
         "municipality": "Kotlas",
@@ -115793,7 +115793,7 @@
       },
       "properties": {
         "title": "UMLI",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Minsk Machulishchy Air Base",
         "elevation": 699,
         "municipality": "Minsk",
@@ -117154,7 +117154,7 @@
       },
       "properties": {
         "title": "UTSL",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Karshi-Khanabad Air Base",
         "elevation": 1365,
         "municipality": "Khanabad",
@@ -117375,7 +117375,7 @@
       },
       "properties": {
         "title": "UUEM",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Migalovo Air Base",
         "elevation": 469,
         "municipality": "Tver",
@@ -117456,7 +117456,7 @@
       },
       "properties": {
         "title": "UUWE",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Yermolino Air Base",
         "elevation": 640,
         "municipality": "Balabanovo",
@@ -118257,7 +118257,7 @@
       },
       "properties": {
         "title": "VAPO",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Pune Airport / Lohagaon Air Force Station",
         "elevation": 1942,
         "municipality": "Pune",
@@ -118518,7 +118518,7 @@
       },
       "properties": {
         "title": "VCCS",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Sigiriya Air Force Base",
         "elevation": 630,
         "municipality": "Sigiriya",
@@ -118819,7 +118819,7 @@
       },
       "properties": {
         "title": "VECA",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Chabua Air Force Station",
         "elevation": 367,
         "municipality": "Chabua",
@@ -118920,7 +118920,7 @@
       },
       "properties": {
         "title": "VEDX",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Kalaikunda Air Force Station",
         "elevation": 200,
         "municipality": "",
@@ -119301,7 +119301,7 @@
       },
       "properties": {
         "title": "VEPH",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Panagarh Air Force Station",
         "elevation": 240,
         "municipality": "",
@@ -119682,7 +119682,7 @@
       },
       "properties": {
         "title": "VHSK",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Shek Kong Air Base",
         "elevation": 50,
         "municipality": "Islands",
@@ -119703,7 +119703,7 @@
       },
       "properties": {
         "title": "VIAG",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Agra Airport / Agra Air Force Station",
         "elevation": 551,
         "municipality": "Agra",
@@ -119744,7 +119744,7 @@
       },
       "properties": {
         "title": "VIAM",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Ambala Air Force Station",
         "elevation": 909,
         "municipality": "Ambala",
@@ -119785,7 +119785,7 @@
       },
       "properties": {
         "title": "VIAW",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Awantipura Air Force Station",
         "elevation": 5393,
         "municipality": "Awantipura",
@@ -119846,7 +119846,7 @@
       },
       "properties": {
         "title": "VIBL",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Bakshi Ka Talab Air Force Station",
         "elevation": 385,
         "municipality": "Lucknow",
@@ -119887,7 +119887,7 @@
       },
       "properties": {
         "title": "VIBY",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Bareilly Air Force Station",
         "elevation": 580,
         "municipality": "Bareilly",
@@ -119988,7 +119988,7 @@
       },
       "properties": {
         "title": "VIDX",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Hindon Airport / Hindon Air Force Station",
         "elevation": 700,
         "municipality": "Ghaziabad",
@@ -120069,7 +120069,7 @@
       },
       "properties": {
         "title": "VIHX",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Halwara Air Force Station",
         "elevation": 790,
         "municipality": "Halwara",
@@ -120370,7 +120370,7 @@
       },
       "properties": {
         "title": "VISP",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Sarsawa Air Force Station",
         "elevation": 891,
         "municipality": "Sherpur Naqeebpur",
@@ -120411,7 +120411,7 @@
       },
       "properties": {
         "title": "VIUX",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Udhampur Air Force Station",
         "elevation": 2066,
         "municipality": "Udhampur",
@@ -121112,7 +121112,7 @@
       },
       "properties": {
         "title": "VOAR",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "INS Rajali / Arakkonam Naval Air Station",
         "elevation": 265,
         "municipality": "Arakkonam",
@@ -121213,7 +121213,7 @@
       },
       "properties": {
         "title": "VOBR",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Bidar Airport / Bidar Air Force Station",
         "elevation": 2178,
         "municipality": "Bidar",
@@ -121334,7 +121334,7 @@
       },
       "properties": {
         "title": "VODG",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Dundigul Air Force Academy",
         "elevation": 2013,
         "municipality": "Hyderabad",
@@ -121655,7 +121655,7 @@
       },
       "properties": {
         "title": "VOSX",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Coimbatore Air Force Station",
         "elevation": 1250,
         "municipality": "Sulur",
@@ -121676,7 +121676,7 @@
       },
       "properties": {
         "title": "VOTJ",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Thanjavur Air Force Station",
         "elevation": 253,
         "municipality": "Thanjavur",
@@ -121757,7 +121757,7 @@
       },
       "properties": {
         "title": "VOTX",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Tambaram Air Force Station",
         "elevation": 90,
         "municipality": "Chennai",
@@ -121778,7 +121778,7 @@
       },
       "properties": {
         "title": "VOYK",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Yelahanka Air Force Station",
         "elevation": 3045,
         "municipality": "Yelahanka",
@@ -122819,7 +122819,7 @@
       },
       "properties": {
         "title": "VVCR",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Cam Ranh International Airport / Cam Ranh Air Base",
         "elevation": 40,
         "municipality": "Cam Ranh",
@@ -122940,7 +122940,7 @@
       },
       "properties": {
         "title": "VVGL",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Gia Lam Air Base",
         "elevation": 50,
         "municipality": "Hanoi  (Long Bien)",
@@ -123661,7 +123661,7 @@
       },
       "properties": {
         "title": "VYNP",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Nampong Air Base",
         "elevation": 459,
         "municipality": "Myitkyina",
@@ -125322,7 +125322,7 @@
       },
       "properties": {
         "title": "WIHP",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Pondok Cabe Air Base",
         "elevation": 200,
         "municipality": "Jakarta",
@@ -125423,7 +125423,7 @@
       },
       "properties": {
         "title": "WIMK",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Soewondo Air Force Base",
         "elevation": 114,
         "municipality": "Medan",
@@ -125764,7 +125764,7 @@
       },
       "properties": {
         "title": "WMKB",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RMAF Butterworth Air Base",
         "elevation": 11,
         "municipality": "Butterworth",
@@ -126125,7 +126125,7 @@
       },
       "properties": {
         "title": "WSAP",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Paya Lebar Air Base",
         "elevation": 65,
         "municipality": "Paya Lebar",
@@ -126246,7 +126246,7 @@
       },
       "properties": {
         "title": "YAMB",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RAAF Base Amberley",
         "elevation": 91,
         "municipality": "",
@@ -127127,7 +127127,7 @@
       },
       "properties": {
         "title": "YBTL",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Townsville Airport / RAAF Base Townsville",
         "elevation": 18,
         "municipality": "Townsville",
@@ -127508,7 +127508,7 @@
       },
       "properties": {
         "title": "YCIN",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RAAF Base Curtin",
         "elevation": 300,
         "municipality": "Derby",
@@ -129729,7 +129729,7 @@
       },
       "properties": {
         "title": "YMES",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RAAF Base East Sale",
         "elevation": 23,
         "municipality": "",
@@ -130030,7 +130030,7 @@
       },
       "properties": {
         "title": "YMPC",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "RAAF Williams, Point Cook Base",
         "elevation": 14,
         "municipality": "Point Cook",
@@ -130711,7 +130711,7 @@
       },
       "properties": {
         "title": "YPEA",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RAAF Base Pearce",
         "elevation": 149,
         "municipality": "Bullsbrook",
@@ -131552,7 +131552,7 @@
       },
       "properties": {
         "title": "YSNW",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Naval Air Station Nowra - HMAS Albatross",
         "elevation": 400,
         "municipality": "Nowra Hill",
@@ -131613,7 +131613,7 @@
       },
       "properties": {
         "title": "YSRI",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "RAAF Base Richmond",
         "elevation": 67,
         "municipality": "Richmond",
@@ -133294,7 +133294,7 @@
       },
       "properties": {
         "title": "ZGZH",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Liuzhou Bailian Airport / Bailian Air Base",
         "elevation": 295,
         "municipality": "Liuzhou (Liujiang)",
