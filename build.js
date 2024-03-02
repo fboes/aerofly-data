@@ -28,6 +28,7 @@ process.stderr
 const airportsSource = fs.readFileSync(`tmp/airports.csv`);
 const airportsRecords = parse(airportsSource, { bom: true });
 
+let airportsRecordsProcessed = 0;
 airportsRecords.forEach(
   /** @param {String[]} airportsRecord */
   (airportsRecord) => {
@@ -53,6 +54,7 @@ airportsRecords.forEach(
 
     const aeroflyIndex = aeroflyAirports.indexOf(icaoCode);
     const aeroflyIndexAlternate = aeroflyAirports.indexOf(icaoCodeAlternate);
+    airportsRecordsProcessed++;
 
     if (aeroflyIndex >= 0 || aeroflyIndexAlternate >= 0) {
       // Remove airport from list of Aerofly airports
@@ -100,11 +102,12 @@ airportsRecords.forEach(
       }
 
       aeroflyGeoJson.addFeature(feature);
+    }
 
+    if (airportsRecordsProcessed % 5000 === 0) {
       const index = aeroflyAirportsLength - aeroflyAirports.length;
-      index % 1000 === 0 &&
-        process.stderr
-          .write(`  Processing \x1b[92m${index}\x1b[0m Aerofly FS Airports
+      process.stderr
+        .write(`  Processed \x1b[92m${airportsRecordsProcessed}\x1b[0m airport records, found \x1b[92m${index}\x1b[0m Aerofly FS Airports
 `);
     }
   }
