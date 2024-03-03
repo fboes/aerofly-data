@@ -3771,16 +3771,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.3786010742,
-          43.460800170899994,
-          321.564
+          -80.378601,
+          43.4608,
+          321.2592
         ]
       },
       "properties": {
         "title": "CYKF",
         "type": "medium_airport",
-        "description": "Waterloo Airport",
-        "elevation": 1055,
+        "description": "Region of Waterloo International Airport",
+        "elevation": 1054,
         "municipality": "Kitchener",
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -3851,14 +3851,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.37000274658203,
-          43.86220169067383,
+          -79.370003,
+          43.862202,
           198.12
         ]
       },
       "properties": {
         "title": "CYKZ",
-        "type": "medium_airport",
+        "type": "closed",
         "description": "Buttonville Municipal Airport",
         "elevation": 650,
         "municipality": "Toronto",
@@ -33079,8 +33079,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.21099853515625,
-          46.45029830932617,
+          -95.210999,
+          46.450298,
           417.2712
         ]
       },
@@ -68569,7 +68569,7 @@
       "properties": {
         "title": "LFEH",
         "type": "small_airport",
-        "description": "Aubigny-sur-Nère Airport",
+        "description": "Aubigny-sur-Nère Airfield",
         "elevation": 630,
         "municipality": "Aubigny-sur-Nère",
         "marker-symbol": "airfield",
@@ -71059,7 +71059,7 @@
       "properties": {
         "title": "LFQA",
         "type": "small_airport",
-        "description": "Reims-Prunay Airport",
+        "description": "Reims-Prunay Airfield",
         "elevation": 313,
         "municipality": "Prunay",
         "marker-symbol": "airfield",
@@ -75748,15 +75748,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.644700050354004,
-          49.74079895019531,
+          14.6447,
+          49.740799,
           402.0312
         ]
       },
       "properties": {
         "title": "LKBE",
         "type": "small_airport",
-        "description": "Benešov Airport",
+        "description": "Benešov Airfield",
         "elevation": 1319,
         "municipality": "Benešov",
         "marker-symbol": "airfield",
@@ -76412,15 +76412,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.7082996368,
-          49.3911018372,
+          14.7083,
+          49.391102,
           438.91200000000003
         ]
       },
       "properties": {
         "title": "LKTA",
         "type": "small_airport",
-        "description": "Tábor Airport",
+        "description": "Tábor Airfield",
         "elevation": 1440,
         "municipality": "Tábor",
         "marker-symbol": "airfield",
@@ -119665,7 +119665,7 @@
         "type": "large_airport",
         "description": "Hong Kong International Airport",
         "elevation": 28,
-        "municipality": "Islands",
+        "municipality": "Hong Kong",
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
