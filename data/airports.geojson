@@ -21980,12 +21980,13 @@
       },
       "properties": {
         "title": "ETHC",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Celle Army Airfield",
         "elevation": 129,
         "municipality": "",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -22062,12 +22063,13 @@
       },
       "properties": {
         "title": "ETIC",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Grafenwöhr Army Air Field",
         "elevation": 1363,
         "municipality": "Grafenwöhr",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -22270,12 +22272,13 @@
       },
       "properties": {
         "title": "ETOI",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Vilseck Army Air Field",
         "elevation": 1353,
         "municipality": "Vilseck",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -22290,12 +22293,13 @@
       },
       "properties": {
         "title": "ETOU",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Wiesbaden Army Airfield",
         "elevation": 461,
         "municipality": "Wiesbaden",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -27155,19 +27159,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.176701,
-          -17.634399,
+          24.176688,
+          -17.634258,
           958.2912
         ]
       },
       "properties": {
         "title": "FYKM",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Katima Mulilo Airport",
         "elevation": 3144,
         "municipality": "Mpacha",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -30097,8 +30101,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.001031,
-          25.420898,
+          29.003273,
+          25.41116,
           167.94480000000001
         ]
       },
@@ -33428,12 +33432,13 @@
       },
       "properties": {
         "title": "KAHC",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Amedee Army Air Field",
         "elevation": 4012,
         "municipality": "Herlong",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -34168,12 +34173,13 @@
       },
       "properties": {
         "title": "KAPG",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Phillips Army Air Field",
         "elevation": 57,
         "municipality": "Aberdeen",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -35870,12 +35876,13 @@
       },
       "properties": {
         "title": "KBIF",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Biggs Army Air Field (Fort Bliss)",
         "elevation": 3946,
         "municipality": "Fort Bliss/El Paso",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -36172,12 +36179,13 @@
       },
       "properties": {
         "title": "KBKT",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Allen C Perkinson Blackstone Army Air Field",
         "elevation": 439,
         "municipality": "Blackstone",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -37252,12 +37260,13 @@
       },
       "properties": {
         "title": "KBYS",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Bicycle Lake Army Air Field",
         "elevation": 2350,
         "municipality": "Fort Irwin/Barstow",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -37526,8 +37535,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.7697982788086,
-          33.31159973144531,
+          -84.769798,
+          33.3116,
           295.656
         ]
       },
@@ -37536,7 +37545,7 @@
         "type": "small_airport",
         "description": "Newnan Coweta County Airport",
         "elevation": 970,
-        "municipality": "Atlanta",
+        "municipality": "Newnan",
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -39907,8 +39916,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.9292984008789,
-          43.28409957885742,
+          -70.929298,
+          43.2841,
           98.1456
         ]
       },
@@ -41270,8 +41279,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.207000732,
-          47.3988990784,
+          -120.207001,
+          47.398899,
           380.6952
         ]
       },
@@ -41457,12 +41466,13 @@
       },
       "properties": {
         "title": "KEDG",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Weide (Aberdeen Proving Ground) Army Heliport",
         "elevation": 21,
         "municipality": "Gunpowder",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -42459,12 +42469,13 @@
       },
       "properties": {
         "title": "KESF",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Esler Army Airfield / Esler Regional Airport",
         "elevation": 112,
         "municipality": "Alexandria",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -42939,12 +42950,13 @@
       },
       "properties": {
         "title": "KFBG",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Simmons Army Air Field",
         "elevation": 244,
         "municipality": "Fort Bragg",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -43213,8 +43225,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.99490356,
-          43.43930054,
+          -85.996592,
+          43.436854,
           235.3056
         ]
       },
@@ -43300,12 +43312,13 @@
       },
       "properties": {
         "title": "KFHU",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Sierra Vista Municipal Airport / Libby Army Air Field",
         "elevation": 4719,
         "municipality": "Fort Huachuca / Sierra Vista",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -43480,12 +43493,13 @@
       },
       "properties": {
         "title": "KFLV",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Sherman Army Air Field",
         "elevation": 772,
         "municipality": "Fort Leavenworth",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -43840,12 +43854,13 @@
       },
       "properties": {
         "title": "KFSI",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Henry Post Army Air Field (Fort Sill)",
         "elevation": 1189,
         "municipality": "Fort Sill",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -45241,12 +45256,13 @@
       },
       "properties": {
         "title": "KGRF",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Gray Army Air Field",
         "elevation": 300,
         "municipality": "Fort Lewis/Tacoma",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -45281,12 +45297,13 @@
       },
       "properties": {
         "title": "KGRK",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Killeen-Fort Hood Regional Airport / Robert Gray Army Air Field",
         "elevation": 1015,
         "municipality": "Killeen",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -46362,12 +46379,13 @@
       },
       "properties": {
         "title": "KHLR",
-        "type": "heliport",
+        "type": "helibase",
         "description": "Hood Army Air Field",
         "elevation": 924,
         "municipality": "Fort Cavazos (Killeen)",
         "marker-symbol": "heliport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -46482,12 +46500,13 @@
       },
       "properties": {
         "title": "KHOP",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Campbell Army Airfield (Fort Campbell)",
         "elevation": 573,
         "municipality": "Fort Campbell",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -46942,12 +46961,13 @@
       },
       "properties": {
         "title": "KHUA",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Redstone Army Air Field",
         "elevation": 684,
         "municipality": "Redstone Arsnl Huntsville",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -49885,12 +49905,13 @@
       },
       "properties": {
         "title": "KLGF",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Laguna Army Airfield",
         "elevation": 433,
         "municipality": "Yuma Proving Ground(Yuma)",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -50606,12 +50627,13 @@
       },
       "properties": {
         "title": "KLSF",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Lawson Army Air Field",
         "elevation": 232,
         "municipality": "Fort Benning",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -55974,14 +55996,14 @@
         "coordinates": [
           -87.9048,
           41.9786,
-          204.8256
+          207.264
         ]
       },
       "properties": {
         "title": "KORD",
         "type": "large_airport",
         "description": "Chicago O'Hare International Airport",
-        "elevation": 672,
+        "elevation": 680,
         "municipality": "Chicago",
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
@@ -61266,12 +61288,13 @@
       },
       "properties": {
         "title": "KSLI",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Los Alamitos Army Air Field",
         "elevation": 32,
         "municipality": "Los Alamitos",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -62249,12 +62272,13 @@
       },
       "properties": {
         "title": "KSVN",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Hunter Army Air Field",
         "elevation": 41,
         "municipality": "Savannah",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -65242,7 +65266,8 @@
         "elevation": 3934,
         "municipality": "White Sands",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -76158,7 +76183,7 @@
       "properties": {
         "title": "LKMK",
         "type": "small_airport",
-        "description": "Moravská Třebová Airport",
+        "description": "Moravská Třebová Airfield",
         "elevation": 1322,
         "municipality": "Moravská Třebová",
         "marker-symbol": "airfield",
@@ -76170,15 +76195,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.683099746704102,
-          50.525001525878906,
+          13.6831,
+          50.525002,
           331.9272
         ]
       },
       "properties": {
         "title": "LKMO",
         "type": "small_airport",
-        "description": "Most Airport",
+        "description": "Most Airfield",
         "elevation": 1089,
         "municipality": "Most",
         "marker-symbol": "airfield",
@@ -76259,7 +76284,7 @@
       "properties": {
         "title": "LKPA",
         "type": "small_airport",
-        "description": "Polička Airport",
+        "description": "Polička Airfield",
         "elevation": 1982,
         "municipality": "Polička",
         "marker-symbol": "airfield",
@@ -76271,15 +76296,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.934200286865234,
-          50.30609893798828,
+          13.9342,
+          50.306099,
           367.8936
         ]
       },
       "properties": {
         "title": "LKPC",
         "type": "small_airport",
-        "description": "Panensky Tynec Airport",
+        "description": "Panensky Tynec Airfield",
         "elevation": 1207,
         "municipality": "Panensky Tynec",
         "marker-symbol": "airfield",
@@ -76319,7 +76344,7 @@
       "properties": {
         "title": "LKPJ",
         "type": "small_airport",
-        "description": "Prostějov Airport",
+        "description": "Prostějov Airfield",
         "elevation": 699,
         "municipality": "Prostějov",
         "marker-symbol": "airfield",
@@ -76339,7 +76364,7 @@
       "properties": {
         "title": "LKPM",
         "type": "small_airport",
-        "description": "Příbram Airport",
+        "description": "Příbram Airfield",
         "elevation": 1529,
         "municipality": "Drásov",
         "marker-symbol": "airfield",
@@ -76400,7 +76425,7 @@
       "properties": {
         "title": "LKRO",
         "type": "small_airport",
-        "description": "Roudnice nad Labem Airport",
+        "description": "Roudnice nad Labem Airfield",
         "elevation": 732,
         "municipality": "Roudnice nad Labem",
         "marker-symbol": "airfield",
@@ -82184,20 +82209,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.59554,
-          31.797973,
+          -116.60265,
+          31.795175,
           20.1168
         ]
       },
       "properties": {
         "title": "MMES",
-        "type": "small_airbase",
-        "description": "Base Nº3 de la Fuerza Aérea Mexicana",
+        "type": "small_airport",
+        "description": "Ensenada International Airport",
         "elevation": 66,
         "municipality": "Ensenada",
         "marker-symbol": "airfield",
-        "marker-color": "#777777",
-        "isMilitary": true
+        "marker-color": "#777777"
       }
     },
     {
@@ -89887,12 +89911,13 @@
       },
       "properties": {
         "title": "OKDI",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Udairi Army Air Field",
         "elevation": 430,
         "municipality": "Camp Buehring",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -92024,12 +92049,13 @@
       },
       "properties": {
         "title": "PABI",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Allen Army Airfield",
         "elevation": 1291,
         "municipality": "Delta Junction Ft Greely",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -93645,12 +93671,13 @@
       },
       "properties": {
         "title": "PHHI",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Wheeler Army Airfield",
         "elevation": 837,
         "municipality": "Wahiawa",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -93865,12 +93892,13 @@
       },
       "properties": {
         "title": "PHSF",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Bradshaw Army Airfield",
         "elevation": 6190,
         "municipality": "Waimea (Kamuela)",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -96507,12 +96535,13 @@
       },
       "properties": {
         "title": "RKSG",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Camp Humphreys (A-511) Desiderio Army Airfield",
         "elevation": 51,
         "municipality": "Pyeongtaek",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -98614,15 +98643,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.751701355,
-          -28.5956001282,
+          -65.7512,
+          -28.593117,
           463.90560000000005
         ]
       },
       "properties": {
         "title": "SANC",
         "type": "medium_airport",
-        "description": "Catamarca Airport",
+        "description": "Coronel Felipe Varela International Airport",
         "elevation": 1522,
         "municipality": "Catamarca",
         "marker-symbol": "airport",
@@ -111282,8 +111311,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -62.85443115234375,
-          6.231988906860352,
+          -62.85485,
+          6.231989,
           441.96000000000004
         ]
       },
@@ -118873,8 +118902,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          86.42530059814453,
-          23.833999633789062,
+          86.425301,
+          23.834,
           258.16560000000004
         ]
       },
@@ -120143,8 +120172,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          70.86499786376953,
-          26.888700485229492,
+          70.864998,
+          26.8887,
           228.90480000000002
         ]
       },
@@ -126887,12 +126916,13 @@
       },
       "properties": {
         "title": "YBOK",
-        "type": "medium_airport",
+        "type": "medium_airbase",
         "description": "Oakey Army Aviation Centre",
         "elevation": 1335,
         "municipality": "",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -127902,8 +127932,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.26699829101562,
-          -27.15530014038086,
+          151.263428,
+          -27.158476,
           346.55760000000004
         ]
       },
