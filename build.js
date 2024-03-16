@@ -12,17 +12,19 @@ const icaoFilter = icaoFilterArg
   : null;
 const aeroflyData = fs.readFileSync(0, "utf-8");
 const aeroflyGeoJson = new GeoJSON.FeatureCollection();
-const aeroflyAirports = aeroflyData
-  .match(/\S+\.wad/gu)
-  .map((filename) => {
-    return filename.replace(/\.wad/, "").toUpperCase();
-  })
-  .filter((icaoCode) => {
-    return !icaoFilter || icaoCode.match(icaoFilter);
-  });
-const aeroflyAirportsLength = aeroflyAirports.length;
+const aeroflyAirports = new Set(
+  aeroflyData
+    .match(/\S+\.wad/gu)
+    .map((filename) => {
+      return filename.replace(/\.wad/, "").toUpperCase();
+    })
+    .filter((icaoCode) => {
+      return !icaoFilter || icaoCode.match(icaoFilter);
+    })
+);
+const aeroflyAirportsLength = aeroflyAirports.size;
 process.stderr
-  .write(`Found \x1b[92m${aeroflyAirports.length}\x1b[0m Aerofly FS Airports
+  .write(`Found \x1b[92m${aeroflyAirports.size}\x1b[0m Aerofly FS Airports
 `);
 
 const airportsSource = fs.readFileSync(`tmp/airports.csv`);
@@ -52,17 +54,11 @@ airportsRecords.forEach(
       return;
     }
 
-    const aeroflyIndex = aeroflyAirports.indexOf(icaoCode);
-    const aeroflyIndexAlternate = aeroflyAirports.indexOf(icaoCodeAlternate);
     airportsRecordsProcessed++;
 
-    if (aeroflyIndex >= 0 || aeroflyIndexAlternate >= 0) {
+    if (aeroflyAirports.has(icaoCode) || aeroflyAirports.has(icaoCodeAlternate)) {
       // Remove airport from list of Aerofly airports
-      if (aeroflyIndex >= 0) {
-        aeroflyAirports.splice(aeroflyIndex, 1);
-      } else if (aeroflyIndexAlternate >= 0) {
-        aeroflyAirports.splice(aeroflyIndexAlternate, 1);
-      }
+      aeroflyAirports.delete(icaoCode) || aeroflyAirports.delete(icaoCodeAlternate);
 
       const isMilitary =
         airportsRecord[3].match(
@@ -105,25 +101,25 @@ airportsRecords.forEach(
     }
 
     if (airportsRecordsProcessed % 5000 === 0) {
-      const index = aeroflyAirportsLength - aeroflyAirports.length;
+      const index = aeroflyAirportsLength - aeroflyAirports.size;
       process.stderr
-        .write(`  Processed \x1b[92m${airportsRecordsProcessed}\x1b[0m airport records, found \x1b[92m${index}\x1b[0m Aerofly FS Airports
+        .write(`  Processed \x1b[92m${String(airportsRecordsProcessed).padStart(5)}\x1b[0m airport records, found \x1b[92m${String(index).padStart(5)}\x1b[0m Aerofly FS Airports
 `);
     }
   }
 );
 
 process.stdout.write(JSON.stringify(aeroflyGeoJson, null, 2));
-if (aeroflyAirports.length > 0) {
+if (aeroflyAirports.size > 0) {
   process.stderr.write(
     `Missing airport matches for \x1b[92m${
-      aeroflyAirports.length
+      aeroflyAirports.size
     }\x1b[0m airports, \x1b[92m${(
-      (aeroflyAirports.length / aeroflyAirportsLength) *
+      (aeroflyAirports.size / aeroflyAirportsLength) *
       100
     ).toFixed(1)}%\x1b[0m
 Missing airport codes:
-\x1b[90m> ${aeroflyAirports.join(", ")}\x1b[0m
+\x1b[90m> ${[...aeroflyAirports].join(", ")}\x1b[0m
 `
   );
 }
