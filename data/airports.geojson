@@ -14911,7 +14911,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.8091700077056885,
+          -2.80917,
           54.9375,
           57.912000000000006
         ]
@@ -14919,7 +14919,7 @@
       "properties": {
         "title": "EGNC",
         "type": "medium_airport",
-        "description": "Carlisle Airport",
+        "description": "Carlisle Lake District Airport",
         "elevation": 190,
         "municipality": "Carlisle",
         "marker-symbol": "airport",

@@ -20,7 +20,7 @@ const aeroflyAirports = new Set(
     })
     .filter((icaoCode) => {
       return !icaoFilter || icaoCode.match(icaoFilter);
-    })
+    }),
 );
 const aeroflyAirportsLength = aeroflyAirports.size;
 process.stderr
@@ -32,7 +32,7 @@ const airportsRecords = parse(airportsSource, { bom: true });
 
 let airportsRecordsProcessed = 0;
 airportsRecords.forEach(
-  /** @param {String[]} airportsRecord */
+  /** @param {string[]} airportsRecord with a single CSV line from airports.csv */
   (airportsRecord) => {
     // 'id',             'ident',
     // 'type',           'name',
@@ -56,13 +56,17 @@ airportsRecords.forEach(
 
     airportsRecordsProcessed++;
 
-    if (aeroflyAirports.has(icaoCode) || aeroflyAirports.has(icaoCodeAlternate)) {
+    if (
+      aeroflyAirports.has(icaoCode) ||
+      aeroflyAirports.has(icaoCodeAlternate)
+    ) {
       // Remove airport from list of Aerofly airports
-      aeroflyAirports.delete(icaoCode) || aeroflyAirports.delete(icaoCodeAlternate);
+      aeroflyAirports.delete(icaoCode) ||
+        aeroflyAirports.delete(icaoCodeAlternate);
 
       const isMilitary =
         airportsRecord[3].match(
-          /\b(base|rnas|raf|naval|air\s?force|army|afs)\b/i
+          /\b(base|rnas|raf|naval|air\s?force|army|afs)\b/i,
         ) !== null;
       let type = airportsRecord[2];
       if (isMilitary) {
@@ -73,7 +77,7 @@ airportsRecords.forEach(
         new GeoJSON.Point(
           Number(airportsRecord[5]),
           Number(airportsRecord[4]),
-          Number(airportsRecord[6]) * 0.3048
+          Number(airportsRecord[6]) * 0.3048,
         ),
         {
           title: icaoCode,
@@ -84,14 +88,14 @@ airportsRecords.forEach(
           "marker-symbol": airportsRecord[2].match(/heliport/)
             ? "heliport"
             : airportsRecord[2].match(/small/)
-            ? "airfield"
-            : "airport",
+              ? "airfield"
+              : "airport",
           "marker-color": airportsRecord[2].match(/large/)
             ? "#5e6eba"
             : airportsRecord[2].match(/small/)
-            ? "#777777"
-            : "#555555",
-        }
+              ? "#777777"
+              : "#555555",
+        },
       );
       if (isMilitary) {
         feature.setProperty("isMilitary", true);
@@ -106,7 +110,7 @@ airportsRecords.forEach(
         .write(`  Processed \x1b[92m${String(airportsRecordsProcessed).padStart(5)}\x1b[0m airport records, found \x1b[92m${String(index).padStart(5)}\x1b[0m Aerofly FS Airports
 `);
     }
-  }
+  },
 );
 
 process.stdout.write(JSON.stringify(aeroflyGeoJson, null, 2));
@@ -120,6 +124,6 @@ if (aeroflyAirports.size > 0) {
     ).toFixed(1)}%\x1b[0m
 Missing airport codes:
 \x1b[90m> ${[...aeroflyAirports].join(", ")}\x1b[0m
-`
+`,
   );
 }

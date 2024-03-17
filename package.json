@@ -5,9 +5,12 @@
   "main": "build.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "fetch-csv": "wget -O tmp/airports.csv https://davidmegginson.github.io/ourairports-data/airports.csv",
     "build": "time node ./build.js < tmp/airports.txt > data/airports.geojson",
     "build-e": "time node ./build.js EL < tmp/airports.txt > data/airports-e.geojson",
-    "build-k": "time node ./build.js K < tmp/airports.txt > data/airports-k.geojson"
+    "build-k": "time node ./build.js K < tmp/airports.txt > data/airports-k.geojson",
+    "eslint": "npx eslint **/*.js --fix",
+    "prettier": "npx prettier --cache --write ."
   },
   "type": "module",
   "author": "Frank Boës <info@3960.org> (https://3960.org/)",
@@ -15,5 +18,12 @@
   "dependencies": {
     "@fboes/geojson": "^1.0.0",
     "csv-parse": "^5.5.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-jsdoc": "^48.2.1",
+    "eslint-plugin-prettier": "^5.1.3",
+    "prettier": "3.2.5"
   }
 }
