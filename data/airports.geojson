@@ -32062,6 +32062,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          97.35968,
+          3.94548,
+          0
+        ]
+      },
+      "properties": {
+        "title": "ID-0214",
+        "type": "small_airport",
+        "description": "Blangkejeren Airport",
+        "elevation": 0,
+        "municipality": "Kabupaten Gayo Lues",
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           122.566352,
           -4.763298,
           40.2336
@@ -125425,26 +125445,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.351997,
-          -0.874989,
-          2.7432000000000003
-        ]
-      },
-      "properties": {
-        "title": "WIMG",
-        "type": "medium_airport",
-        "description": "Tabing Airport",
-        "elevation": 9,
-        "municipality": "Padang",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           98.672275,
           3.558425,
           34.7472
@@ -125706,8 +125706,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          96.95030212402344,
-          5.226679801940918,
+          96.950302,
+          5.22668,
           27.432000000000002
         ]
       },
