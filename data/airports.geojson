@@ -67183,14 +67183,14 @@
         "coordinates": [
           2.70278,
           39.5989,
-          47.8536
+          46.6344
         ]
       },
       "properties": {
         "title": "LESB",
         "type": "small_airport",
         "description": "Son Bonet Airfield",
-        "elevation": 157,
+        "elevation": 153,
         "municipality": "Marratxí",
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -94006,8 +94006,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          171.27200317382812,
-          7.064760208129883,
+          171.272003,
+          7.06476,
           1.8288000000000002
         ]
       },
@@ -124532,7 +124532,7 @@
       "properties": {
         "title": "WAPK",
         "type": "small_airport",
-        "description": "Nangasuri Airport",
+        "description": "Benjina Airport",
         "elevation": 82,
         "municipality": "Maikoor Island",
         "marker-symbol": "airfield",
