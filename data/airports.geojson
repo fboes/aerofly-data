@@ -1909,19 +1909,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -124.393997,
-          49.3372,
+          -124.393086,
+          49.337456,
           58.216800000000006
         ]
       },
       "properties": {
         "title": "CAT4",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Qualicum Beach Airport",
         "elevation": 191,
         "municipality": "Qualicum Beach",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -1929,8 +1929,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -127.028999,
-          50.5756,
+          -127.027702,
+          50.57348,
           68.58
         ]
       },
@@ -2391,19 +2391,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.99919891357422,
-          60.027198791503906,
+          -69.999199,
+          60.027199,
           122.8344
         ]
       },
       "properties": {
         "title": "CYAS",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Kangirsuk Airport",
         "elevation": 403,
         "municipality": "Kangirsuk",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -2411,19 +2411,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.43190002441406,
-          52.9275016784668,
+          -82.4319,
+          52.927502,
           9.4488
         ]
       },
       "properties": {
         "title": "CYAT",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Attawapiskat Airport",
         "elevation": 31,
         "municipality": "Attawapiskat",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -2491,19 +2491,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.808098,
-          68.534401,
+          -89.805508,
+          68.535711,
           17.0688
         ]
       },
       "properties": {
         "title": "CYBB",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Kugaaruk Airport",
         "elevation": 56,
         "municipality": "Kugaaruk",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -2551,19 +2551,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -108.48100280761719,
-          59.5614013671875,
+          -108.481003,
+          59.561401,
           318.2112
         ]
       },
       "properties": {
         "title": "CYBE",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Uranium City Airport",
         "elevation": 1044,
         "municipality": "Uranium City",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -2678,12 +2678,12 @@
       },
       "properties": {
         "title": "CYBT",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Brochet Airport",
         "elevation": 1136,
         "municipality": "Brochet",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -2738,12 +2738,12 @@
       },
       "properties": {
         "title": "CYCA",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Cartwright Airport",
         "elevation": 40,
         "municipality": "Cartwright",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -2831,19 +2831,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.143997,
-          67.816704,
+          -115.14307,
+          67.816408,
           22.555200000000003
         ]
       },
       "properties": {
         "title": "CYCO",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Kugluktuk Airport",
         "elevation": 74,
         "municipality": "Kugluktuk",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -2871,19 +2871,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.73110198970001,
-          63.346900939899996,
+          -90.731102,
+          63.346901,
           9.7536
         ]
       },
       "properties": {
         "title": "CYCS",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Chesterfield Inlet Airport",
         "elevation": 32,
         "municipality": "Chesterfield Inlet",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -2891,19 +2891,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.5167007446,
-          70.4860992432,
+          -68.516701,
+          70.486099,
           26.5176
         ]
       },
       "properties": {
         "title": "CYCY",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Clyde River Airport",
         "elevation": 87,
         "municipality": "Clyde River",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -2971,19 +2971,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.511001587,
-          49.4681015015,
+          -120.511002,
+          49.468102,
           700.4304000000001
         ]
       },
       "properties": {
         "title": "CYDC",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Princeton Airport",
         "elevation": 2298,
         "municipality": "Town of Princeton",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -3011,8 +3011,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -130.031997681,
-          58.4221992493,
+          -130.031998,
+          58.422199,
           792.48
         ]
       },
@@ -3051,8 +3051,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.18299865722656,
-          55.7422981262207,
+          -120.183263,
+          55.741245,
           654.7104
         ]
       },
@@ -3091,19 +3091,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.07080078119999,
-          61.0942001343,
+          -94.070801,
+          61.0942,
           9.7536
         ]
       },
       "properties": {
         "title": "CYEK",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Arviat Airport",
         "elevation": 32,
         "municipality": "Arviat",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -3151,19 +3151,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.67610168457031,
-          56.01890182495117,
+          -87.676102,
+          56.018902,
           14.630400000000002
         ]
       },
       "properties": {
         "title": "CYER",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Fort Severn Airport",
         "elevation": 48,
         "municipality": "Fort Severn",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -3351,19 +3351,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -128.6510009765625,
-          66.24079895019531,
+          -128.647757,
+          66.240658,
           81.6864
         ]
       },
       "properties": {
         "title": "CYGH",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Fort Good Hope Airport",
         "elevation": 268,
         "municipality": "Fort Good Hope",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -3431,19 +3431,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.8161010742,
-          69.3647003174,
+          -81.816101,
+          69.3647,
           53.0352
         ]
       },
       "properties": {
         "title": "CYGT",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Igloolik Airport",
         "elevation": 174,
         "municipality": "Igloolik",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -3471,19 +3471,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.71060180664062,
-          56.35749816894531,
+          -94.711504,
+          56.35712,
           145.0848
         ]
       },
       "properties": {
         "title": "CYGX",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Gillam Airport",
         "elevation": 476,
         "municipality": "Gillam",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -3491,19 +3491,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.6177978515625,
-          61.0463981628418,
+          -69.617798,
+          61.046398,
           31.3944
         ]
       },
       "properties": {
         "title": "CYHA",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Quaqtaq Airport",
         "elevation": 103,
         "municipality": "Quaqtaq",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -3511,19 +3511,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.1355972290039,
-          51.69110107421875,
+          -76.135597,
+          51.691101,
           244.4496
         ]
       },
       "properties": {
         "title": "CYHH",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Nemiscau Airport",
         "elevation": 802,
         "municipality": "Nemiscau",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -3531,19 +3531,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.80599975585938,
-          70.76280212402344,
+          -117.806,
+          70.762802,
           35.6616
         ]
       },
       "properties": {
         "title": "CYHI",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Ulukhaktok Holman Airport",
         "elevation": 117,
         "municipality": "Ulukhaktok",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -3551,19 +3551,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.84970092770001,
-          68.635597229,
+          -95.849701,
+          68.635597,
           46.3296
         ]
       },
       "properties": {
         "title": "CYHK",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Gjoa Haven Airport",
         "elevation": 152,
         "municipality": "Gjoa Haven",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -3591,19 +3591,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -59.63669967651367,
-          50.46889877319336,
+          -59.637823,
+          50.468322,
           11.8872
         ]
       },
       "properties": {
         "title": "CYHR",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Chevery Airport",
         "elevation": 39,
         "municipality": "Chevery",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -3671,8 +3671,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.6582984924,
-          51.2117004395,
+          -58.658298,
+          51.2117,
           6.096
         ]
       },
@@ -3691,19 +3691,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.92530059814453,
-          62.417301177978516,
+          -77.925301,
+          62.417301,
           38.4048
         ]
       },
       "properties": {
         "title": "CYIK",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Ivujivik Airport",
         "elevation": 126,
         "municipality": "Ivujivik",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -3711,19 +3711,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.9666976929,
-          72.6832962036,
+          -77.968941,
+          72.689494,
           55.168800000000005
         ]
       },
       "properties": {
         "title": "CYIO",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Pond Inlet Airport",
         "elevation": 181,
         "municipality": "Pond Inlet",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -3791,19 +3791,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.929397583,
-          61.5886001587,
+          -71.929398,
+          61.5886,
           152.7048
         ]
       },
       "properties": {
         "title": "CYKG",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Kangiqsujuaq (Wakeham Bay) Airport",
         "elevation": 501,
         "municipality": "Kangiqsujuaq",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -3871,19 +3871,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.59970092773438,
-          59.29669952392578,
+          -69.599701,
+          59.2967,
           36.2712
         ]
       },
       "properties": {
         "title": "CYLA",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Aupaluk Airport",
         "elevation": 119,
         "municipality": "Aupaluk",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -3998,12 +3998,12 @@
       },
       "properties": {
         "title": "CYLU",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Kangiqsualujjuaq (Georges River) Airport",
         "elevation": 215,
         "municipality": "Kangiqsualujjuaq",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -4231,19 +4231,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.83110046386719,
-          53.01060104370117,
+          -78.8311,
+          53.010601,
           20.1168
         ]
       },
       "properties": {
         "title": "CYNC",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Wemindji Airport",
         "elevation": 66,
         "municipality": "Wemindji",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -4271,19 +4271,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.84420013427734,
-          53.95830154418945,
+          -97.8442,
+          53.958302,
           223.72320000000002
         ]
       },
       "properties": {
         "title": "CYNE",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Norway House Airport",
         "elevation": 734,
         "municipality": "Norway House",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -4371,19 +4371,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.27890014648438,
-          54.93330001831055,
+          -95.2789,
+          54.9333,
           202.0824
         ]
       },
       "properties": {
         "title": "CYOH",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Oxford House Airport",
         "elevation": 663,
         "municipality": "Oxford House",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -4411,8 +4411,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.40799713134766,
-          58.49140167236328,
+          -119.407997,
+          58.491402,
           536.1432
         ]
       },
@@ -4471,19 +4471,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -124.075469971,
-          69.3608381154,
+          -124.07547,
+          69.360838,
           4.572
         ]
       },
       "properties": {
         "title": "CYPC",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Paulatuk (Nora Aliqatchialuk Ruben) Airport",
         "elevation": 15,
         "municipality": "Paulatuk",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -4551,19 +4551,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.70999908447266,
-          49.21609878540039,
+          -122.709999,
+          49.216099,
           3.3528000000000002
         ]
       },
       "properties": {
         "title": "CYPK",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Pitt Meadows Airport",
         "elevation": 11,
         "municipality": "Pitt Meadows",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -4591,19 +4591,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.44329833984375,
-          54.98809814453125,
+          -85.442648,
+          54.987932,
           52.7304
         ]
       },
       "properties": {
         "title": "CYPO",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Peawanuck Airport",
         "elevation": 173,
         "municipality": "Peawanuck",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -4631,8 +4631,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.678001,
-          41.780399,
+          -82.674222,
+          41.778033,
           174.34560000000002
         ]
       },
@@ -4691,8 +4691,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.30329895019531,
-          44.974700927734375,
+          -79.306526,
+          44.974757,
           281.94
         ]
       },
@@ -4771,8 +4771,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -128.82200622558594,
-          60.11640167236328,
+          -128.821993,
+          60.116839,
           687.3240000000001
         ]
       },
@@ -5251,19 +5251,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.2466964722,
-          56.5377998352,
+          -79.250221,
+          56.536891,
           31.6992
         ]
       },
       "properties": {
         "title": "CYSK",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Sanikiluaq Airport",
         "elevation": 104,
         "municipality": "Sanikiluaq",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -5311,8 +5311,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.1717,
-          43.1917,
+          -79.171686,
+          43.191598,
           97.8408
         ]
       },
@@ -5331,19 +5331,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -133.669006,
-          59.576698,
+          -133.668938,
+          59.57833,
           715.6704000000001
         ]
       },
       "properties": {
         "title": "CYSQ",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Atlin Airport",
         "elevation": 2348,
         "municipality": "Atlin",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -5351,19 +5351,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -125.242996216,
-          71.9938964844,
+          -125.242996,
+          71.993896,
           85.95360000000001
         ]
       },
       "properties": {
         "title": "CYSY",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Sachs Harbour (David Nasogaluak Jr. Saaryuaq) Airport",
         "elevation": 282,
         "municipality": "Sachs Harbour",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -5378,12 +5378,12 @@
       },
       "properties": {
         "title": "CYTE",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Cape Dorset Airport",
         "elevation": 164,
         "municipality": "Kinngait",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -5431,19 +5431,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.95580291748047,
-          58.66780090332031,
+          -69.955803,
+          58.667801,
           37.1856
         ]
       },
       "properties": {
         "title": "CYTQ",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Tasiujaq Airport",
         "elevation": 122,
         "municipality": "Tasiujaq",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -5498,12 +5498,12 @@
       },
       "properties": {
         "title": "CYUB",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Tuktoyaktuk / James Gruben Airport",
         "elevation": 15,
         "municipality": "Tuktoyaktuk",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -5511,8 +5511,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.740799,
-          45.4706,
+          -73.742294,
+          45.467837,
           35.9664
         ]
       },
@@ -5531,19 +5531,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.224701,
-          66.5214,
+          -86.225166,
+          66.521024,
           24.384
         ]
       },
       "properties": {
         "title": "CYUT",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Naujaat Airport",
         "elevation": 80,
         "municipality": "Repulse Bay",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -5631,19 +5631,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.031754,
-          67.546232,
+          -64.03141,
+          67.54656,
           6.4008
         ]
       },
       "properties": {
         "title": "CYVM",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Qikiqtarjuaq Airport",
         "elevation": 21,
         "municipality": "Qikiqtarjuaq",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -5911,19 +5911,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -92.59809875490001,
-          62.24000167849999,
+          -92.598099,
+          62.240002,
           12.192
         ]
       },
       "properties": {
         "title": "CYXN",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Whale Cove Airport",
         "elevation": 40,
         "municipality": "Whale Cove",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -5958,12 +5958,12 @@
       },
       "properties": {
         "title": "CYXS",
-        "type": "large_airport",
+        "type": "medium_airport",
         "description": "Prince George Airport",
         "elevation": 2267,
         "municipality": "Prince George",
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -6018,12 +6018,12 @@
       },
       "properties": {
         "title": "CYXX",
-        "type": "large_airport",
+        "type": "medium_airport",
         "description": "Abbotsford International Airport",
         "elevation": 195,
         "municipality": "Abbotsford",
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -6071,8 +6071,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -114.019996643,
-          51.113899231,
+          -114.009933,
+          51.118822,
           1084.1736
         ]
       },
@@ -6178,12 +6178,12 @@
       },
       "properties": {
         "title": "CYYH",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Taloyoak Airport",
         "elevation": 92,
         "municipality": "Taloyoak",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -6191,19 +6191,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.426003,
-          48.6469,
+          -123.427792,
+          48.647201,
           19.2024
         ]
       },
       "properties": {
         "title": "CYYJ",
-        "type": "large_airport",
+        "type": "medium_airport",
         "description": "Victoria International Airport",
         "elevation": 63,
         "municipality": "Victoria",
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -6371,19 +6371,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.66719818115234,
-          62.17940139770508,
+          -75.667198,
+          62.179401,
           226.46640000000002
         ]
       },
       "properties": {
         "title": "CYZG",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Salluit Airport",
         "elevation": 743,
         "municipality": "Salluit",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -6411,8 +6411,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.30889892578125,
-          42.9994010925293,
+          -82.308899,
+          42.999401,
           181.05120000000002
         ]
       },
@@ -6471,8 +6471,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.78700256347656,
-          54.14390182495117,
+          -115.787003,
+          54.143902,
           782.4216
         ]
       },
@@ -6511,8 +6511,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.132004,
-          55.304402,
+          -123.133907,
+          55.297786,
           690.0672000000001
         ]
       },
@@ -6631,19 +6631,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -134.86099243164062,
-          67.40750122070312,
+          -134.860182,
+          67.406993,
           35.3568
         ]
       },
       "properties": {
         "title": "CZFM",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Fort Mcpherson Airport",
         "elevation": 116,
         "municipality": "Fort Mcpherson",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -6651,19 +6651,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -125.572998,
-          64.909697,
+          -125.570297,
+          64.909496,
           101.1936
         ]
       },
       "properties": {
         "title": "CZFN",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Tulita Airport",
         "elevation": 332,
         "municipality": "Tulita",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -6671,19 +6671,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.07859802246094,
-          54.839698791503906,
+          -94.078598,
+          54.839699,
           191.1096
         ]
       },
       "properties": {
         "title": "CZGI",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Gods River Airport",
         "elevation": 627,
         "municipality": "Gods River",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -6752,7 +6752,7 @@
         "type": "Point",
         "coordinates": [
           -132.125,
-          54.02750015258789,
+          54.0275,
           7.62
         ]
       },
@@ -6771,19 +6771,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -91.31279754638672,
-          52.943599700927734,
+          -91.312798,
+          52.9436,
           296.8752
         ]
       },
       "properties": {
         "title": "CZRJ",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Round Lake (Weagamow Lake) Airport",
         "elevation": 974,
         "municipality": "Round Lake",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -6811,19 +6811,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.9072036743,
-          56.7928009033,
+          -98.907204,
+          56.792801,
           289.8648
         ]
       },
       "properties": {
         "title": "CZSN",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "South Indian Lake Airport",
         "elevation": 951,
         "municipality": "South Indian Lake",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -6851,19 +6851,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -92.0813980102539,
-          55.8656005859375,
+          -92.081137,
+          55.86356,
           88.08720000000001
         ]
       },
       "properties": {
         "title": "CZTM",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Shamattawa Airport",
         "elevation": 289,
         "municipality": "Shamattawa",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -6911,19 +6911,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.46900177,
-          58.6175003052,
+          -101.468954,
+          58.614279,
           369.1128
         ]
       },
       "properties": {
         "title": "CZWH",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Lac Brochet Airport",
         "elevation": 1211,
         "municipality": "Lac Brochet",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -6931,19 +6931,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.1719970703125,
-          58.10689926147461,
+          -103.171997,
+          58.106899,
           414.528
         ]
       },
       "properties": {
         "title": "CZWL",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Wollaston Lake Airport",
         "elevation": 1360,
         "municipality": "Wollaston Lake",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -7932,8 +7932,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.507689952850342,
-          10.0826997756958,
+          -2.50769,
+          10.0827,
           323.088
         ]
       },
@@ -10121,8 +10121,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.561268,
-          50.036521,
+          8.561096,
+          50.030241,
           110.94720000000001
         ]
       },
@@ -12242,8 +12242,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.832799911499997,
-          59.41329956049999,
+          24.832706,
+          59.41443,
           39.9288
         ]
       },
@@ -12342,8 +12342,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.963301,
-          60.3172,
+          24.963341,
+          60.318363,
           54.559200000000004
         ]
       },
@@ -12422,8 +12422,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.6075,
-          62.662899,
+          29.619398,
+          62.658815,
           121.3104
         ]
       },
@@ -12432,7 +12432,7 @@
         "type": "medium_airport",
         "description": "Joensuu Airport",
         "elevation": 398,
-        "municipality": "Joensuu / Liperi",
+        "municipality": "Joensuu",
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -21089,8 +21089,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.376198,
-          55.536305,
+          13.35333,
+          55.54833,
           71.9328
         ]
       },
@@ -21470,8 +21470,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.50030040741,
-          63.194400787354,
+          14.500322,
+          63.194135,
           375.8184
         ]
       },
@@ -21631,8 +21631,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.918600082397,
-          59.651901245117,
+          17.928829,
+          59.64849,
           41.757600000000004
         ]
       },
@@ -22037,14 +22037,14 @@
         "coordinates": [
           9.956747,
           49.39162,
-          408.1272
+          468.17280000000005
         ]
       },
       "properties": {
         "title": "ETHN",
         "type": "medium_airbase",
         "description": "Niederstetten Army Air Base",
-        "elevation": 1339,
+        "elevation": 1536,
         "municipality": "Niederstetten",
         "marker-symbol": "airport",
         "marker-color": "#555555",
@@ -24456,8 +24456,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.663333892799997,
-          -27.996824511099998,
+          26.663334,
+          -27.996825,
           1347.5208
         ]
       },
@@ -32642,8 +32642,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -114.861,
-          35.947498,
+          -114.858799,
+          35.947161,
           670.8648000000001
         ]
       },
@@ -32923,19 +32923,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.609001,
-          35.040199,
+          -106.608925,
+          35.039976,
           1632.2040000000002
         ]
       },
       "properties": {
         "title": "KABQ",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Albuquerque International Sunport",
         "elevation": 5355,
         "municipality": "Albuquerque",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -33486,8 +33486,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.32630157470703,
-          33.94860076904297,
+          -83.325634,
+          33.948842,
           246.2784
         ]
       },
@@ -33526,19 +33526,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -102.804000854,
-          42.0531997681,
+          -102.803965,
+          42.052543,
           1198.1688000000001
         ]
       },
       "properties": {
         "title": "KAIA",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Alliance Municipal Airport",
         "elevation": 3931,
         "municipality": "Alliance",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -34674,12 +34674,12 @@
       },
       "properties": {
         "title": "KATW",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Appleton International Airport",
         "elevation": 918,
         "municipality": "Appleton",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -34967,19 +34967,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.1589966,
-          48.16070175,
+          -122.158442,
+          48.161448,
           43.281600000000005
         ]
       },
       "properties": {
         "title": "KAWO",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Arlington Municipal Airport",
         "elevation": 142,
         "municipality": "Arlington",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -35336,12 +35336,12 @@
       },
       "properties": {
         "title": "KBBG",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Branson Airport",
         "elevation": 1302,
         "municipality": "Branson",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -35429,19 +35429,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.1076965332,
-          26.3784999847,
+          -80.107697,
+          26.3785,
           3.9624
         ]
       },
       "properties": {
         "title": "KBCT",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Boca Raton Airport",
         "elevation": 13,
         "municipality": "Boca Raton",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -35456,12 +35456,12 @@
       },
       "properties": {
         "title": "KBDL",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Bradley International Airport",
         "elevation": 173,
         "municipality": "Hartford",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -35869,8 +35869,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.577796936,
-          41.1680984497,
+          -71.578631,
+          41.168446,
           32.9184
         ]
       },
@@ -35910,8 +35910,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.363998413,
-          37.3731002808,
+          -118.363998,
+          37.3731,
           1256.9952
         ]
       },
@@ -36593,8 +36593,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.005203,
-          42.3643,
+          -71.0079,
+          42.36197,
           6.096
         ]
       },
@@ -37294,15 +37294,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.1529999,
-          45.77750015,
+          -111.153,
+          45.7775,
           1363.3704
         ]
       },
       "properties": {
         "title": "KBZN",
         "type": "medium_airport",
-        "description": "Gallatin Field",
+        "description": "Bozeman Yellowstone International Airport",
         "elevation": 4473,
         "municipality": "Bozeman",
         "marker-symbol": "airport",
@@ -37575,19 +37575,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.056999207,
-          37.9897003174,
+          -122.056999,
+          37.9897,
           7.9248
         ]
       },
       "properties": {
         "title": "KCCR",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Buchanan Field",
         "elevation": 26,
         "municipality": "Concord",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -37695,8 +37695,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.095001221,
-          42.837600708,
+          -103.095001,
+          42.837601,
           1004.9256
         ]
       },
@@ -37735,8 +37735,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -124.2369995,
-          41.78020096,
+          -124.236403,
+          41.778929,
           18.5928
         ]
       },
@@ -37856,19 +37856,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -108.627998352,
-          37.3030014038,
+          -108.627998,
+          37.303001,
           1803.8064000000002
         ]
       },
       "properties": {
         "title": "KCEZ",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Cortez Municipal Airport",
         "elevation": 5918,
         "municipality": "Cortez",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -38823,12 +38823,12 @@
       },
       "properties": {
         "title": "KCNY",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Canyonlands Regional Airport",
         "elevation": 4557,
         "municipality": "Moab",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -39496,19 +39496,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.07900238,
-          34.4250984192,
+          -103.078794,
+          34.426594,
           1285.0368
         ]
       },
       "properties": {
         "title": "KCVN",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Clovis Municipal Airport",
         "elevation": 4216,
         "municipality": "Clovis",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -39536,8 +39536,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.2748031616211,
-          45.3047981262207,
+          -85.274803,
+          45.304798,
           203.9112
         ]
       },
@@ -39556,8 +39556,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.6668014526,
-          44.7775993347,
+          -89.670238,
+          44.777448,
           389.2296
         ]
       },
@@ -40296,8 +40296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -102.802001953,
-          46.7974014282,
+          -102.801905,
+          46.797533,
           790.0416
         ]
       },
@@ -40725,12 +40725,12 @@
       },
       "properties": {
         "title": "KDRO",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Durango La Plata County Airport",
         "elevation": 6685,
         "municipality": "Durango",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -40845,12 +40845,12 @@
       },
       "properties": {
         "title": "KDTS",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Destin Executive Airport",
         "elevation": 23,
         "municipality": "Destin",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -40858,8 +40858,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.35340118408203,
-          42.212398529052734,
+          -83.353786,
+          42.21377,
           196.596
         ]
       },
@@ -41078,19 +41078,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.48220062259999,
-          41.371498107899995,
+          -73.482227,
+          41.371656,
           139.5984
         ]
       },
       "properties": {
         "title": "KDXR",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Danbury Municipal Airport",
         "elevation": 458,
         "municipality": "Danbury",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -42322,8 +42322,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.3917007446289,
-          36.81079864501953,
+          -94.391701,
+          36.810799,
           382.524
         ]
       },
@@ -42462,19 +42462,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.0936965942,
-          45.7226982117,
+          -87.088623,
+          45.723199,
           185.6232
         ]
       },
       "properties": {
         "title": "KESC",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Delta County Airport",
         "elevation": 609,
         "municipality": "Escanaba",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -43647,19 +43647,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.011244,
-          40.448763,
+          -105.011272,
+          40.44969,
           1528.8768
         ]
       },
       "properties": {
         "title": "KFNL",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Northern Colorado Regional Airport",
         "elevation": 5016,
         "municipality": "Loveland",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -44489,8 +44489,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.8069992,
-          47.13869858,
+          -104.80691,
+          47.137658,
           749.1984
         ]
       },
@@ -45491,19 +45491,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.928306,
-          38.536346,
+          -106.934566,
+          38.534672,
           2340.864
         ]
       },
       "properties": {
         "title": "KGUC",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Gunnison Crested Butte Regional Airport",
         "elevation": 7680,
         "municipality": "Gunnison",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -45938,12 +45938,12 @@
       },
       "properties": {
         "title": "KHDN",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Yampa Valley Airport",
         "elevation": 6606,
         "municipality": "Hayden",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -46071,8 +46071,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.72949982,
-          39.707901,
+          -77.728014,
+          39.708771,
           214.2744
         ]
       },
@@ -46493,8 +46493,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.22850036621094,
-          44.38520050048828,
+          -98.2285,
+          44.385201,
           392.8872
         ]
       },
@@ -47202,12 +47202,12 @@
       },
       "properties": {
         "title": "KHXD",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Hilton Head Airport",
         "elevation": 19,
         "municipality": "Hilton Head Island",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -47876,19 +47876,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.114502,
-          45.818401,
+          -88.114557,
+          45.81911,
           360.27360000000004
         ]
       },
       "properties": {
         "title": "KIMT",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Ford Airport",
         "elevation": 1182,
         "municipality": "Iron Mountain / Kingsford",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -48097,8 +48097,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.57900238,
-          32.834201812699995,
+          -115.574026,
+          32.83539,
           -16.4592
         ]
       },
@@ -48117,8 +48117,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.921097,
-          41.241798,
+          -76.92245,
+          41.242126,
           161.2392
         ]
       },
@@ -48257,8 +48257,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.131401,
-          46.5275,
+          -90.131578,
+          46.525298,
           374.904
         ]
       },
@@ -48457,8 +48457,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.68789672851562,
-          30.49410057067871,
+          -81.687813,
+          30.492469,
           9.144
         ]
       },
@@ -49117,8 +49117,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.53099822998047,
-          37.01110076904297,
+          -112.530998,
+          37.011101,
           1483.7664
         ]
       },
@@ -49197,7 +49197,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.64700317382812,
+          -111.647003,
           36.8125,
           1098.1944
         ]
@@ -49257,8 +49257,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.936897,
-          40.4123,
+          -86.939363,
+          40.412875,
           184.7088
         ]
       },
@@ -49277,8 +49277,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.018602,
-          27.988899,
+          -82.018776,
+          27.987656,
           43.281600000000005
         ]
       },
@@ -49377,8 +49377,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.4166030884,
-          34.5676994324,
+          -98.416603,
+          34.567699,
           338.32800000000003
         ]
       },
@@ -50580,8 +50580,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.9219970703125,
-          32.289398193359375,
+          -106.921997,
+          32.289398,
           1358.1888000000001
         ]
       },
@@ -50784,8 +50784,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.41860199,
-          39.10329819,
+          -84.418945,
+          39.102357,
           147.2184
         ]
       },
@@ -50944,8 +50944,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.3994979858,
-          37.8582992554,
+          -80.400438,
+          37.857914,
           701.6496000000001
         ]
       },
@@ -51404,8 +51404,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.251945,
-          44.272738,
+          -86.246495,
+          44.272707,
           189.2808
         ]
       },
@@ -51544,8 +51544,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.5139999,
-          37.28469849,
+          -120.514,
+          37.284698,
           47.244
         ]
       },
@@ -51605,8 +51605,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -100.592651,
-          40.208016,
+          -100.592794,
+          40.207787,
           787.2984
         ]
       },
@@ -51665,8 +51665,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.331299,
-          43.157799,
+          -93.329716,
+          43.159801,
           369.7224
         ]
       },
@@ -51675,7 +51675,7 @@
         "type": "medium_airport",
         "description": "Mason City Municipal Airport",
         "elevation": 1213,
-        "municipality": "Clear Lake",
+        "municipality": "Mason City",
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -52186,8 +52186,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.297997,
-          38.553902,
+          -121.297989,
+          38.554744,
           29.8704
         ]
       },
@@ -52315,7 +52315,7 @@
       "properties": {
         "title": "KMIO",
         "type": "small_airport",
-        "description": "Miami Regional Airport",
+        "description": "Miami Municipal Airport",
         "elevation": 808,
         "municipality": "Miami",
         "marker-symbol": "airfield",
@@ -52607,8 +52607,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.2969970703125,
-          42.16659927368164,
+          -112.296997,
+          42.166599,
           1372.5144
         ]
       },
@@ -52648,7 +52648,7 @@
         "type": "Point",
         "coordinates": [
           -113.012001,
-          38.42660141,
+          38.426601,
           1535.8872000000001
         ]
       },
@@ -52707,8 +52707,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.886002,
-          46.428001,
+          -105.885372,
+          46.427268,
           801.624
         ]
       },
@@ -52727,8 +52727,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.68560028076172,
-          45.64780044555664,
+          -68.6856,
+          45.6478,
           124.3584
         ]
       },
@@ -52747,8 +52747,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.8379974,
-          37.62409973,
+          -118.84306,
+          37.625381,
           2174.748
         ]
       },
@@ -52848,8 +52848,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.41490173339844,
-          40.799400329589844,
+          -74.414949,
+          40.799062,
           56.997600000000006
         ]
       },
@@ -52968,8 +52968,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.73750305175781,
-          43.621700286865234,
+          -84.737503,
+          43.6217,
           230.12400000000002
         ]
       },
@@ -53108,8 +53108,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.69129944,
-          38.35240173,
+          -97.691299,
+          38.352402,
           456.59040000000005
         ]
       },
@@ -53228,8 +53228,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.87999725341797,
-          32.09579849243164,
+          -82.879997,
+          32.095798,
           61.5696
         ]
       },
@@ -53428,8 +53428,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.221802,
-          44.882,
+          -93.221741,
+          44.880081,
           256.33680000000004
         ]
       },
@@ -53737,12 +53737,12 @@
       },
       "properties": {
         "title": "KMWA",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Veterans Airport of Southern Illinois",
         "elevation": 472,
         "municipality": "Marion",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -53851,8 +53851,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -91.16329956,
-          42.22040176,
+          -91.1633,
+          42.220402,
           253.5936
         ]
       },
@@ -54792,8 +54792,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.30490112304688,
-          37.85210037231445,
+          -94.304901,
+          37.8521,
           271.8816
         ]
       },
@@ -54853,8 +54853,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -114.606003,
-          32.656601,
+          -114.609375,
+          32.650938,
           64.92240000000001
         ]
       },
@@ -55234,8 +55234,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.221001,
-          37.721298,
+          -122.221184,
+          37.720085,
           2.7432000000000003
         ]
       },
@@ -55514,19 +55514,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.6007,
-          35.393101,
+          -97.598248,
+          35.393388,
           394.716
         ]
       },
       "properties": {
         "title": "KOKC",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Will Rogers World Airport",
         "elevation": 1295,
         "municipality": "Oklahoma City",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -55634,8 +55634,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.574996948,
-          48.094501495399996,
+          -105.574997,
+          48.094501,
           605.3328
         ]
       },
@@ -55654,8 +55654,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.9029999,
-          46.9693985,
+          -122.903,
+          46.969399,
           63.7032
         ]
       },
@@ -55754,8 +55754,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -91.70829773,
-          44.07720184,
+          -91.708298,
+          44.077202,
           199.9488
         ]
       },
@@ -56054,19 +56054,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.201202,
-          36.8946,
+          -76.201,
+          36.895341,
           7.9248
         ]
       },
       "properties": {
         "title": "KORF",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Norfolk International Airport",
         "elevation": 26,
         "municipality": "Norfolk",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -56174,8 +56174,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.54199981689453,
-          33.090301513671875,
+          -89.542,
+          33.090302,
           146.304
         ]
       },
@@ -56775,19 +56775,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.86869812011719,
-          41.516300201416016,
+          -82.868328,
+          41.515647,
           179.83200000000002
         ]
       },
       "properties": {
         "title": "KPCW",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Carl R Keller Field",
         "elevation": 590,
         "municipality": "Port Clinton",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -56835,8 +56835,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.3020019531,
-          33.8755989075,
+          -84.30213,
+          33.87633,
           305.7144
         ]
       },
@@ -56955,8 +56955,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.447998,
-          36.92610168,
+          -111.447716,
+          36.924234,
           1315.5168
         ]
       },
@@ -56995,8 +56995,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.38529968,
-          35.6352005,
+          -77.384262,
+          35.635535,
           7.9248
         ]
       },
@@ -57075,8 +57075,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.24109649658203,
-          39.87189865112305,
+          -75.241096,
+          39.871899,
           10.972800000000001
         ]
       },
@@ -57555,8 +57555,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.010597,
-          40.081902,
+          -75.010614,
+          40.082406,
           36.576
         ]
       },
@@ -57935,8 +57935,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.087303161621,
-          40.884399414062,
+          -78.087303,
+          40.884399,
           593.7504
         ]
       },
@@ -58155,8 +58155,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.7311019897461,
-          37.449501037597656,
+          -94.731102,
+          37.449501,
           289.56
         ]
       },
@@ -59117,19 +59117,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.09919739,
-          44.06010056,
+          -69.099197,
+          44.060101,
           17.0688
         ]
       },
       "properties": {
         "title": "KRKD",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Knox County Regional Airport",
         "elevation": 56,
         "municipality": "Rockland",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -59177,8 +59177,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.30400085449219,
-          46.305599212646484,
+          -119.304001,
+          46.305599,
           120.0912
         ]
       },
@@ -59298,8 +59298,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -92.5381012,
-          45.14830017,
+          -92.538101,
+          45.1483,
           304.1904
         ]
       },
@@ -59338,8 +59338,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.76799774169922,
-          39.49909973144531,
+          -119.767998,
+          39.4991,
           1345.692
         ]
       },
@@ -60278,8 +60278,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.8399963,
-          34.42620087,
+          -119.839996,
+          34.426201,
           3.9624
         ]
       },
@@ -60518,8 +60518,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.2379989624,
-          37.894199371338,
+          -121.238079,
+          37.893279,
           10.0584
         ]
       },
@@ -60598,8 +60598,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.193001,
-          47.706902,
+          -104.194422,
+          47.705141,
           605.028
         ]
       },
@@ -60618,8 +60618,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.311134,
-          47.449162,
+          -122.310276,
+          47.447943,
           131.9784
         ]
       },
@@ -60839,8 +60839,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.375,
-          37.61899948120117,
+          -122.374821,
+          37.619806,
           3.9624
         ]
       },
@@ -61079,8 +61079,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.46800231933594,
-          41.78139877319336,
+          -122.468002,
+          41.781399,
           807.1104
         ]
       },
@@ -61159,8 +61159,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.56659698486328,
-          45.692298889160156,
+          -85.566597,
+          45.692299,
           203.9112
         ]
       },
@@ -61221,19 +61221,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.6719971,
-          36.45819855,
+          -105.67749,
+          36.452494,
           2162.556
         ]
       },
       "properties": {
         "title": "KSKX",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Taos Regional Airport",
         "elevation": 7095,
         "municipality": "Taos",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -61241,8 +61241,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.979746,
-          40.785749,
+          -111.979866,
+          40.78886,
           1288.3896
         ]
       },
@@ -61422,8 +61422,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -113.880996704,
-          45.1237983704,
+          -113.88196,
+          45.122233,
           1232.3064000000002
         ]
       },
@@ -61662,19 +61662,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -110.007084,
-          34.265049,
+          -110.007091,
+          34.264062,
           1955.2920000000001
         ]
       },
       "properties": {
         "title": "KSOW",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Show Low Regional Airport",
         "elevation": 6415,
         "municipality": "Show Low",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -61823,19 +61823,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.25,
-          37.511901855469,
+          -122.250838,
+          37.51313,
           1.524
         ]
       },
       "properties": {
         "title": "KSQL",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "San Carlos Airport",
         "elevation": 5,
         "municipality": "San Carlos",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -61863,8 +61863,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -91.73750305,
-          35.21060181,
+          -91.737503,
+          35.210602,
           80.772
         ]
       },
@@ -61883,19 +61883,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.554398,
-          27.395399,
+          -82.554359,
+          27.394631,
           9.144
         ]
       },
       "properties": {
         "title": "KSRQ",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Sarasota Bradenton International Airport",
         "elevation": 30,
         "municipality": "Sarasota/Bradenton",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -62245,19 +62245,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -108.154263,
-          32.632293,
+          -108.154736,
+          32.636701,
           1659.9408
         ]
       },
       "properties": {
         "title": "KSVC",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Grant County Airport",
         "elevation": 5446,
         "municipality": "Silver City",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -62346,8 +62346,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.08570098877,
-          36.161201477051,
+          -97.085581,
+          36.162132,
           304.8
         ]
       },
@@ -62628,8 +62628,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.060798645,
-          40.85010147089999,
+          -74.060799,
+          40.850101,
           2.7432000000000003
         ]
       },
@@ -62675,12 +62675,12 @@
       },
       "properties": {
         "title": "KTEX",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Telluride Regional Airport",
         "elevation": 9070,
         "municipality": "Telluride",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -62809,8 +62809,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.5780029,
-          47.26789856,
+          -122.577295,
+          47.267407,
           89.61120000000001
         ]
       },
@@ -63229,8 +63229,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.13999939,
-          39.319999694799996,
+          -120.140562,
+          39.318628,
           1798.3200000000002
         ]
       },
@@ -63289,8 +63289,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.59059906,
-          40.08349991,
+          -93.590599,
+          40.0835,
           231.03840000000002
         ]
       },
@@ -65295,19 +65295,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.8033981323,
-          41.3496017456,
+          -71.803398,
+          41.349602,
           24.6888
         ]
       },
       "properties": {
         "title": "KWST",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Westerly State Airport",
         "elevation": 81,
         "municipality": "Westerly",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -65375,8 +65375,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.1179962,
-          44.68840027,
+          -111.117996,
+          44.6884,
           2026.6152000000002
         ]
       },
@@ -66783,14 +66783,14 @@
         "coordinates": [
           -3.36433,
           38.5131,
-          884.5296000000001
+          839.1144
         ]
       },
       "properties": {
         "title": "LEIZ",
         "type": "small_airport",
         "description": "La Perdiz - Torre De Juan Abad Airfield",
-        "elevation": 2902,
+        "elevation": 2753,
         "municipality": "Torre de Juan Abad",
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -66823,14 +66823,14 @@
         "coordinates": [
           -3.51456,
           38.747898,
-          805.8912
+          751.9416
         ]
       },
       "properties": {
         "title": "LELA",
         "type": "small_airport",
         "description": "La Calderera Airfield",
-        "elevation": 2644,
+        "elevation": 2467,
         "municipality": "Valdepeñas",
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -73292,14 +73292,14 @@
         "coordinates": [
           18.240996,
           45.990898,
-          304.8
+          198.4248
         ]
       },
       "properties": {
         "title": "LHPP",
         "type": "medium_airport",
         "description": "Pécs-Pogány Airport",
-        "elevation": 1000,
+        "elevation": 651,
         "municipality": "Pécs-Pogány",
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -73714,16 +73714,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.607182,
-          36.994601,
-          189.8904
+          14.60889,
+          36.99583,
+          230.42880000000002
         ]
       },
       "properties": {
         "title": "LICB",
         "type": "medium_airport",
         "description": "Comiso Airport",
-        "elevation": 623,
+        "elevation": 756,
         "municipality": "Comiso",
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -75982,7 +75982,7 @@
       "properties": {
         "title": "LKHV",
         "type": "small_airport",
-        "description": "Hořovice Airport",
+        "description": "Hořovice Airfield",
         "elevation": 1214,
         "municipality": "Hořovice",
         "marker-symbol": "airfield",
@@ -76417,8 +76417,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.256992,
-          50.103514,
+          14.259911,
+          50.100874,
           380.0856
         ]
       },
@@ -79222,16 +79222,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.367408752441406,
-          40.307430267333984,
-          558.0888
+          36.39056,
+          40.32472,
+          566.6232
         ]
       },
       "properties": {
         "title": "LTAW",
         "type": "medium_airport",
         "description": "Tokat Airport",
-        "elevation": 1831,
+        "elevation": 1859,
         "municipality": "Tokat",
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -80085,8 +80085,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.32900047302246,
-          37.95069885253906,
+          27.329,
+          37.950699,
           3.048
         ]
       },
@@ -80185,8 +80185,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.567101,
-          41.254501,
+          36.54861,
+          41.26556,
           5.486400000000001
         ]
       },
@@ -83260,7 +83260,7 @@
         "type": "large_airport",
         "description": "Aeropuerto Internacional de Cancún",
         "elevation": 22,
-        "municipality": "Ciudad de Cancún",
+        "municipality": "Cancún",
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -92144,18 +92144,18 @@
         "type": "Point",
         "coordinates": [
           -151.529007,
-          66.91390228,
+          66.913902,
           197.2056
         ]
       },
       "properties": {
         "title": "PABT",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Bettles Airport",
         "elevation": 647,
         "municipality": "Bettles",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -92324,8 +92324,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -141.151001,
-          64.77639771,
+          -141.150455,
+          64.778003,
           276.7584
         ]
       },
@@ -92344,8 +92344,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -151.2449951171875,
-          60.57310104370117,
+          -151.245174,
+          60.570946,
           30.1752
         ]
       },
@@ -92364,19 +92364,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -147.8560028,
-          64.81510162,
+          -147.856003,
+          64.815102,
           133.8072
         ]
       },
       "properties": {
         "title": "PAFA",
-        "type": "large_airport",
+        "type": "medium_airport",
         "description": "Fairbanks International Airport",
         "elevation": 439,
         "municipality": "Fairbanks",
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -92384,8 +92384,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -156.9369965,
-          64.73619843,
+          -156.936997,
+          64.736198,
           46.6344
         ]
       },
@@ -92424,8 +92424,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -171.73300170898438,
-          63.76679992675781,
+          -171.733303,
+          63.767694,
           8.2296
         ]
       },
@@ -92484,19 +92484,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -166.1470032,
-          61.52389908,
+          -166.147003,
+          61.523899,
           3.9624
         ]
       },
       "properties": {
         "title": "PAHP",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Hooper Bay Airport",
         "elevation": 13,
         "municipality": "Hooper Bay",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -92504,8 +92504,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -154.9109955,
-          59.75439835,
+          -154.910996,
+          59.754398,
           58.52160000000001
         ]
       },
@@ -92524,8 +92524,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -153.7039948,
-          65.99279785,
+          -153.703995,
+          65.992798,
           388.0104
         ]
       },
@@ -92604,8 +92604,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -168.8489990234375,
-          52.94160079956055,
+          -168.849478,
+          52.941552,
           23.4696
         ]
       },
@@ -92624,8 +92624,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -151.7429962,
-          68.13359833,
+          -151.742996,
+          68.133598,
           640.6896
         ]
       },
@@ -92724,8 +92724,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -159.050003052,
-          58.990200042699996,
+          -159.050003,
+          58.9902,
           30.48
         ]
       },
@@ -92744,8 +92744,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -149.843994140625,
-          61.2135009765625,
+          -149.843988,
+          61.212792,
           41.757600000000004
         ]
       },
@@ -92764,8 +92764,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -149.996002,
-          61.1744,
+          -149.992561,
+          61.179004,
           46.3296
         ]
       },
@@ -92804,8 +92804,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -131.572695,
-          55.037026,
+          -131.572609,
+          55.037663,
           36.2712
         ]
       },
@@ -92844,8 +92844,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -141.9290009,
-          62.9612999,
+          -141.929001,
+          62.9613,
           522.732
         ]
       },
@@ -92944,8 +92944,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -166.7989959716797,
-          68.34880065917969,
+          -166.798996,
+          68.348801,
           3.6576000000000004
         ]
       },
@@ -93051,12 +93051,12 @@
       },
       "properties": {
         "title": "PASH",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Shishmaref Airport",
         "elevation": 12,
         "municipality": "Shishmaref",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -93124,8 +93124,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -152.10899353,
-          65.1744003296,
+          -152.108994,
+          65.1744,
           71.9328
         ]
       },
@@ -93144,8 +93144,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -167.9219971,
-          65.56310272,
+          -167.921997,
+          65.563103,
           82.6008
         ]
       },
@@ -93204,8 +93204,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -164.659927368,
-          62.680042266799994,
+          -164.722481,
+          62.682653,
           3.048
         ]
       },
@@ -93225,18 +93225,18 @@
         "type": "Point",
         "coordinates": [
           -160.798996,
-          63.88840103,
+          63.888401,
           8.2296
         ]
       },
       "properties": {
         "title": "PAUN",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Unalakleet Airport",
         "elevation": 27,
         "municipality": "Unalakleet",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -93264,8 +93264,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -162.26600646972656,
-          55.11629867553711,
+          -162.266006,
+          55.116299,
           47.244
         ]
       },
@@ -93284,8 +93284,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -146.248001,
-          61.1339,
+          -146.246567,
+          61.132712,
           36.8808
         ]
       },
@@ -93304,8 +93304,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -147.406997681,
-          66.362197876,
+          -147.406998,
+          66.362198,
           109.42320000000001
         ]
       },
@@ -93384,8 +93384,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -152.621994019,
-          66.5518035889,
+          -152.621994,
+          66.551804,
           134.4168
         ]
       },
@@ -93404,8 +93404,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -163.533004761,
-          63.0306015015,
+          -163.533005,
+          63.030602,
           4.572
         ]
       },
@@ -93424,8 +93424,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -157.727005005,
-          64.8760986328,
+          -157.727005,
+          64.876099,
           45.415200000000006
         ]
       },
@@ -93464,8 +93464,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -157.006373,
-          58.703202,
+          -157.005444,
+          58.702362,
           49.3776
         ]
       },
@@ -93885,19 +93885,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -156.431212,
-          20.898543,
+          -156.431837,
+          20.896263,
           16.4592
         ]
       },
       "properties": {
         "title": "PHOG",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Kahului International Airport",
         "elevation": 54,
         "municipality": "Kahului",
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -100010,12 +100010,12 @@
       },
       "properties": {
         "title": "SBAX",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Romeu Zema Airport",
         "elevation": 3276,
         "municipality": "Araxá",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -108550,14 +108550,14 @@
         "coordinates": [
           -40.704201,
           -5.21135,
-          315.1632
+          317.9064
         ]
       },
       "properties": {
         "title": "SNWS",
         "type": "small_airport",
         "description": "Crateús Airport",
-        "elevation": 1034,
+        "elevation": 1043,
         "municipality": "Crateús",
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -113632,8 +113632,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          71.466904,
-          51.022202,
+          71.467094,
+          51.027035,
           355.09200000000004
         ]
       },
@@ -113642,7 +113642,7 @@
         "type": "large_airport",
         "description": "Nursultan Nazarbayev International Airport",
         "elevation": 1165,
-        "municipality": "Nur-Sultan",
+        "municipality": "Astana",
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -116796,8 +116796,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          65.3243026733,
-          57.189601898199996,
+          65.31611,
+          57.16833,
           115.21440000000001
         ]
       },
@@ -118728,12 +118728,12 @@
       },
       "properties": {
         "title": "VDSR",
-        "type": "large_airport",
+        "type": "closed",
         "description": "Siem Reap International Airport",
         "elevation": 60,
         "municipality": "Siem Reap",
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -123503,16 +123503,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.05110168457031,
-          23.188800811767578,
-          152.0952
+          94.051102,
+          23.188801,
+          133.8072
         ]
       },
       "properties": {
         "title": "VYKL",
         "type": "small_airport",
         "description": "Kalay Airport",
-        "elevation": 499,
+        "elevation": 439,
         "municipality": "Kalemyo",
         "marker-symbol": "airfield",
         "marker-color": "#777777"
