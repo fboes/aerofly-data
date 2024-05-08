@@ -1069,8 +1069,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -23.546199798583984,
-          65.64129638671875,
+          -23.5462,
+          65.641296,
           5.486400000000001
         ]
       },
@@ -1089,8 +1089,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -20.287500381469727,
-          65.6449966430664,
+          -20.2875,
+          65.644997,
           39.9288
         ]
       },
@@ -1129,8 +1129,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -21.326900482177734,
-          65.99530029296875,
+          -21.3269,
+          65.9953,
           25.2984
         ]
       },
@@ -1169,8 +1169,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -21.696399688720703,
-          65.70469665527344,
+          -21.6964,
+          65.704697,
           27.432000000000002
         ]
       },
@@ -1289,8 +1289,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -13.746399879455566,
-          65.13189697265625,
+          -13.7464,
+          65.131897,
           3.9624
         ]
       },
@@ -1309,8 +1309,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -23.8230991364,
-          64.9113998413,
+          -23.823099,
+          64.9114,
           5.486400000000001
         ]
       },
@@ -1329,8 +1329,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -15.918299674987793,
-          66.40640258789062,
+          -15.9183,
+          66.406403,
           11.8872
         ]
       },
@@ -1369,8 +1369,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -16.918100357055664,
-          65.65579986572266,
+          -16.9181,
+          65.6558,
           313.944
         ]
       },
@@ -1429,8 +1429,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.794200897216797,
-          65.05809783935547,
+          -22.764616,
+          65.058851,
           12.8016
         ]
       },
@@ -1449,8 +1449,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -23.559999465942383,
-          65.87030029296875,
+          -23.559999,
+          65.8703,
           19.812
         ]
       },
@@ -1509,8 +1509,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -14.850600242614746,
-          65.72059631347656,
+          -14.8506,
+          65.720596,
           4.8768
         ]
       },
@@ -2060,26 +2060,6 @@
         "description": "Quamichan Lake (Raven Field) Airport",
         "elevation": 130,
         "municipality": "Quamichan Lake",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          118.002624512,
-          39.7178001404,
-          15.24
-        ]
-      },
-      "properties": {
-        "title": "CN-0005",
-        "type": "small_airport",
-        "description": "Tangshan Sannühe Airport",
-        "elevation": 50,
-        "municipality": "Tangshan",
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -7473,7 +7453,7 @@
         "type": "Point",
         "coordinates": [
           1.0925,
-          33.721666666699996,
+          33.721667,
           1369.4664
         ]
       },
@@ -10641,15 +10621,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.704167,
-          53.646389,
+          9.703503,
+          53.645477,
           7.010400000000001
         ]
       },
       "properties": {
         "title": "EDHE",
         "type": "small_airport",
-        "description": "Flugplatz Uetersen/Heist",
+        "description": "Uetersen Airfield",
         "elevation": 23,
         "municipality": "Uetersen",
         "marker-symbol": "airfield",
@@ -12081,8 +12061,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.378889083862305,
-          54.77333450317383,
+          9.378889,
+          54.773335,
           39.9288
         ]
       },
@@ -13223,8 +13203,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.2594399452209473,
-          52.51750183105469,
+          -2.25944,
+          52.517502,
           86.25840000000001
         ]
       },
@@ -13851,8 +13831,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.61778020859,
-          56.6018981934,
+          -6.61778,
+          56.601898,
           6.4008
         ]
       },
@@ -13891,8 +13871,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.399670124053955,
-          56.4635009765625,
+          -5.39967,
+          56.463501,
           6.096
         ]
       },
@@ -13931,8 +13911,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.64139008522,
-          59.1553001404,
+          -2.64139,
+          59.1553,
           11.8872
         ]
       },
@@ -13951,8 +13931,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.576669931411743,
-          59.250301361083984,
+          -2.57667,
+          59.250301,
           20.7264
         ]
       },
@@ -15756,8 +15736,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.372220039367676,
-          56.43920135498047,
+          -3.37222,
+          56.439201,
           121.0056
         ]
       },
@@ -15796,8 +15776,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.8538500070571899,
-          60.74720001220703,
+          -0.85385,
+          60.7472,
           0
         ]
       },
@@ -17953,8 +17933,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.0869598388671875,
-          52.187198638916016,
+          -7.08696,
+          52.187199,
           36.2712
         ]
       },
@@ -18273,8 +18253,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.000100135803223,
-          57.277198791503906,
+          11.0001,
+          57.277199,
           7.62
         ]
       },
@@ -18413,8 +18393,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.131400108337402,
-          55.585601806640625,
+          12.1314,
+          55.585602,
           44.500800000000005
         ]
       },
@@ -18574,8 +18554,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.172980308532715,
-          56.550201416015625,
+          9.17298,
+          56.550201,
           22.555200000000003
         ]
       },
@@ -18714,8 +18694,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.353910446166992,
-          55.9901008605957,
+          8.35391,
+          55.990101,
           5.1816
         ]
       },
@@ -19474,8 +19454,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.21222,
-          59.565701,
+          9.213152,
+          59.565071,
           19.2024
         ]
       },
@@ -19621,12 +19601,12 @@
       },
       "properties": {
         "title": "ENSA",
-        "type": "closed",
+        "type": "small_airport",
         "description": "Svea Airport",
         "elevation": 32,
         "municipality": "Svea",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -19734,8 +19714,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.566940307617188,
-          59.185001373291016,
+          9.56694,
+          59.185001,
           141.1224
         ]
       },
@@ -19854,8 +19834,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.258600235,
-          59.1866989136,
+          10.2586,
+          59.186699,
           87.17280000000001
         ]
       },
@@ -20847,8 +20827,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.972700119018555,
-          58.45640182495117,
+          13.9727,
+          58.456402,
           98.7552
         ]
       },
@@ -21217,12 +21197,12 @@
       },
       "properties": {
         "title": "ESND",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Sveg Airport",
         "elevation": 1178,
         "municipality": "Sveg",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -21517,12 +21497,12 @@
       },
       "properties": {
         "title": "ESOH",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Hagfors Airport",
         "elevation": 474,
         "municipality": "Råda",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -21691,8 +21671,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.951400756835938,
-          60.593299865722656,
+          16.951401,
+          60.5933,
           68.2752
         ]
       },
@@ -21891,19 +21871,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.068899154663086,
-          67.24559783935547,
+          23.074894,
+          67.244569,
           165.2016
         ]
       },
       "properties": {
         "title": "ESUP",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Pajala Airport",
         "elevation": 542,
         "municipality": "",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -21918,12 +21898,12 @@
       },
       "properties": {
         "title": "ESUT",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Hemavan Airport",
         "elevation": 1503,
         "municipality": "Hemavan",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -22077,8 +22057,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.658499717709999,
-          53.7677001953,
+          8.659201,
+          53.767689,
           22.555200000000003
         ]
       },
@@ -22432,8 +22412,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.096900939941406,
-          56.51750183105469,
+          21.096901,
+          56.517502,
           4.8768
         ]
       },
@@ -22492,19 +22472,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.5442008972,
-          57.35779953,
+          21.544201,
+          57.3578,
           5.7912
         ]
       },
       "properties": {
         "title": "EVVA",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Ventspils International Airport",
         "elevation": 19,
         "municipality": "Ventspils",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -22732,8 +22712,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.279100418099997,
-          -32.8970985413,
+          27.2791,
+          -32.897099,
           594.36
         ]
       },
@@ -22812,8 +22792,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.316699981689453,
-          -29.906400680541992,
+          22.3167,
+          -29.906401,
           1093.9272
         ]
       },
@@ -23072,8 +23052,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.106199264526367,
-          -28.23509979248047,
+          29.106199,
+          -28.2351,
           1702.308
         ]
       },
@@ -23133,8 +23113,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.718000411987305,
-          -26.8710994720459,
+          26.718,
+          -26.871099,
           1354.5312000000001
         ]
       },
@@ -23514,19 +23494,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.5767002106,
-          -25.4300003052,
+          31.5767,
+          -25.43,
           312.1152
         ]
       },
       "properties": {
         "title": "FAMN",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Riverside Airport",
         "elevation": 1024,
         "municipality": "Malelane",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -24014,8 +23994,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.902799606323242,
-          -33.812198638916016,
+          19.9028,
+          -33.812199,
           195.072
         ]
       },
@@ -25178,8 +25158,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.523500442504883,
-          3.8360400199890137,
+          11.5235,
+          3.83604,
           751.0272
         ]
       },
@@ -27459,8 +27439,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.440400123596191,
-          -5.799610137939453,
+          13.4404,
+          -5.79961,
           339.85200000000003
         ]
       },
@@ -28400,8 +28380,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -10.758700370788574,
-          6.289060115814209,
+          -10.7587,
+          6.28906,
           7.62
         ]
       },
@@ -28520,8 +28500,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.98305555556,
-          32.5143055556,
+          -1.983056,
+          32.514306,
           1106.424
         ]
       },
@@ -30361,8 +30341,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.63533,
-          28.215049,
+          33.645304,
+          28.209023,
           15.8496
         ]
       },
@@ -31642,8 +31622,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.81829833984375,
-          -3.376310110092163,
+          35.818298,
+          -3.37631,
           1264.92
         ]
       },
@@ -32073,6 +32053,46 @@
         "description": "Blangkejeren Airport",
         "elevation": 0,
         "municipality": "Kabupaten Gayo Lues",
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.397217,
+          -3.398056,
+          6.7056000000000004
+        ]
+      },
+      "properties": {
+        "title": "ID-0289",
+        "type": "small_airport",
+        "description": "Douw Aturure Airport",
+        "elevation": 22,
+        "municipality": "Nabire",
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.033634,
+          0.88855,
+          8.5344
+        ]
+      },
+      "properties": {
+        "title": "ID-0291",
+        "type": "small_airport",
+        "description": "Bolaang Mongondow Airport",
+        "elevation": 28,
+        "municipality": "Lolak",
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -35489,8 +35509,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.1261978149414,
-          41.16350173950195,
+          -73.126198,
+          41.163502,
           2.7432000000000003
         ]
       },
@@ -36473,8 +36493,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.6781997680664,
-          36.1245002746582,
+          -86.6782,
+          36.1245,
           182.5752
         ]
       },
@@ -36973,8 +36993,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.73220062,
-          42.94049835,
+          -78.732201,
+          42.940498,
           221.89440000000002
         ]
       },
@@ -38477,7 +38497,7 @@
         "type": "Point",
         "coordinates": [
           -123.5,
-          48.120201110839844,
+          48.120201,
           88.69680000000001
         ]
       },
@@ -40818,16 +40838,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.19799804690001,
-          33.2006988525,
-          195.6816
+          -97.197983,
+          33.201769,
+          195.9864
         ]
       },
       "properties": {
         "title": "KDTO",
         "type": "small_airport",
-        "description": "Denton Municipal Airport",
-        "elevation": 642,
+        "description": "Denton Enterprise Airport",
+        "elevation": 643,
         "municipality": "Denton",
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -42081,8 +42101,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.3779984,
-          31.80719948,
+          -106.377998,
+          31.807199,
           1206.7032000000002
         ]
       },
@@ -46754,8 +46774,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.45459747314453,
-          30.367799758911133,
+          -89.454597,
+          30.3678,
           7.010400000000001
         ]
       },
@@ -48757,8 +48777,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.39029694,
-          35.54090118,
+          -78.390297,
+          35.540901,
           49.9872
         ]
       },
@@ -51865,8 +51885,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.97669982910156,
-          35.04240036010742,
+          -89.9767,
+          35.0424,
           103.9368
         ]
       },
@@ -52407,8 +52427,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.5927963256836,
-          39.123199462890625,
+          -94.592796,
+          39.123199,
           231.34320000000002
         ]
       },
@@ -52427,8 +52447,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.89659881591797,
-          42.947200775146484,
+          -87.896599,
+          42.947201,
           220.37040000000002
         ]
       },
@@ -53468,8 +53488,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.25800323486328,
-          29.99340057373047,
+          -90.258003,
+          29.993401,
           1.2192
         ]
       },
@@ -53911,8 +53931,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.9282989502,
-          33.6796989441,
+          -78.928299,
+          33.679699,
           7.62
         ]
       },
@@ -55834,8 +55854,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.60099792480469,
-          34.055999755859375,
+          -117.600998,
+          34.056,
           287.7312
         ]
       },
@@ -56735,8 +56755,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.09559631347656,
-          26.68320083618164,
+          -80.095596,
+          26.683201,
           5.7912
         ]
       },
@@ -56875,8 +56895,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.5979996,
-          45.58869934,
+          -122.598,
+          45.588699,
           9.4488
         ]
       },
@@ -57255,8 +57275,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.23290253,
-          40.49150085,
+          -80.232903,
+          40.491501,
           366.6744
         ]
       },
@@ -59036,8 +59056,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3197021484375,
-          37.50519943237305,
+          -77.319702,
+          37.505199,
           50.9016
         ]
       },
@@ -60238,8 +60258,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.20210266,
-          32.12760162,
+          -81.202103,
+          32.127602,
           15.24
         ]
       },
@@ -61402,8 +61422,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.59100341796875,
-          38.69540023803711,
+          -121.591003,
+          38.6954,
           8.2296
         ]
       },
@@ -63129,8 +63149,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.533203125,
-          27.975500106811523,
+          -82.533203,
+          27.9755,
           7.9248
         ]
       },
@@ -67662,8 +67682,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.5905560255050659,
-          44.17470169067383,
+          0.59309,
+          44.174171,
           62.1792
         ]
       },
@@ -67683,7 +67703,7 @@
         "type": "Point",
         "coordinates": [
           -1.125,
-          44.53329849243164,
+          44.533298,
           25.6032
         ]
       },
@@ -67723,15 +67743,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.5186110138893127,
-          44.82529830932617,
+          0.518611,
+          44.825298,
           52.1208
         ]
       },
       "properties": {
         "title": "LFBE",
         "type": "medium_airport",
-        "description": "Bergerac-Roumanière Airport",
+        "description": "Bergerac Dordogne Périgord Airport",
         "elevation": 171,
         "municipality": "Bergerac/Roumanière",
         "marker-symbol": "airport",
@@ -67764,8 +67784,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.3174999952316284,
-          45.65829849243164,
+          -0.3175,
+          45.658298,
           31.0896
         ]
       },
@@ -67785,8 +67805,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1952799558639526,
-          46.17919921875,
+          -1.19528,
+          46.179199,
           22.555200000000003
         ]
       },
@@ -67805,8 +67825,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.30666598677635193,
-          46.58769989013672,
+          0.306666,
+          46.5877,
           128.93040000000002
         ]
       },
@@ -67825,8 +67845,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.363960027694702,
-          46.222599029541016,
+          2.36396,
+          46.222599,
           456.28560000000004
         ]
       },
@@ -67845,8 +67865,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.1794400215148926,
-          45.86280059814453,
+          1.17944,
+          45.862801,
           396.24
         ]
       },
@@ -67894,7 +67914,7 @@
       "properties": {
         "title": "LFBN",
         "type": "medium_airport",
-        "description": "Niort-Souché Airport",
+        "description": "Niort - Marais Poitevin Airport",
         "elevation": 203,
         "municipality": "Niort/Souché",
         "marker-symbol": "airport",
@@ -67926,8 +67946,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.41861099004745483,
-          43.380001068115234,
+          -0.418611,
+          43.380001,
           187.7568
         ]
       },
@@ -67986,8 +68006,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.006438999902456999,
-          43.1786994934082,
+          -0.006439,
+          43.178699,
           384.048
         ]
       },
@@ -68026,8 +68046,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.815555989742279,
-          45.19810104370117,
+          0.815556,
+          45.198101,
           99.9744
         ]
       },
@@ -68046,8 +68066,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.5311111,
-          43.4683333,
+          -1.531111,
+          43.468333,
           74.676
         ]
       },
@@ -68146,8 +68166,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.1130599975585938,
-          43.91389846801758,
+          2.11306,
+          43.913898,
           171.90720000000002
         ]
       },
@@ -68186,8 +68206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.289180040359497,
-          43.55630111694336,
+          2.28918,
+          43.556301,
           240.1824
         ]
       },
@@ -68266,15 +68286,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.4826700687408447,
-          44.407901763916016,
+          2.48267,
+          44.407902,
           582.168
         ]
       },
       "properties": {
         "title": "LFCR",
         "type": "medium_airport",
-        "description": "Rodez-Marcillac Airport",
+        "description": "Rodez–Aveyron Airport",
         "elevation": 1910,
         "municipality": "Rodez/Marcillac",
         "marker-symbol": "airport",
@@ -68346,8 +68366,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.9725000262260437,
-          45.62810134887695,
+          -0.9725,
+          45.628101,
           21.945600000000002
         ]
       },
@@ -68526,8 +68546,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.9830560088157654,
-          45.88779830932617,
+          -0.983056,
+          45.887798,
           18.288
         ]
       },
@@ -68706,19 +68726,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.3911099433898926,
-          46.71860122680664,
+          -2.39111,
+          46.718601,
           24.0792
         ]
       },
       "properties": {
         "title": "LFEY",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Île d'Yeu Airport",
         "elevation": 79,
         "municipality": "Île d'Yeu",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -69386,8 +69406,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.7930556,
-          42.5244444,
+          8.793056,
+          42.524444,
           63.7032
         ]
       },
@@ -69446,8 +69466,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.889749526977539,
-          41.66059875488281,
+          8.88975,
+          41.660599,
           3.9624
         ]
       },
@@ -69466,8 +69486,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.406000137329102,
-          41.924400329589844,
+          9.406,
+          41.9244,
           8.5344
         ]
       },
@@ -69487,8 +69507,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.497109889984131,
-          47.85020065307617,
+          3.49711,
+          47.850201,
           159.4104
         ]
       },
@@ -69527,8 +69547,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.1691699028,
-          45.7867012024,
+          3.16917,
+          45.786701,
           332.232
         ]
       },
@@ -69547,8 +69567,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3702800273895264,
-          47.058101654052734,
+          2.37028,
+          47.058102,
           161.2392
         ]
       },
@@ -69667,8 +69687,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.0132598876953125,
-          46.412498474121094,
+          4.01326,
+          46.412498,
           242.6208
         ]
       },
@@ -69807,8 +69827,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.4037399291992188,
-          46.169700622558594,
+          3.40374,
+          46.169701,
           249.0216
         ]
       },
@@ -69867,8 +69887,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.944270133972168,
-          45.72719955444336,
+          4.94427,
+          45.7272,
           200.8632
         ]
       },
@@ -69927,8 +69947,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.95348,
-          43.542,
+          6.955176,
+          43.547998,
           3.9624
         ]
       },
@@ -69947,8 +69967,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.296390056610107,
-          45.54059982299805,
+          4.29639,
+          45.5406,
           403.86
         ]
       },
@@ -69988,8 +70008,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3063199520111084,
-          43.215999603271484,
+          2.30632,
+          43.216,
           131.9784
         ]
       },
@@ -70069,8 +70089,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.8706700801849365,
-          42.74039840698242,
+          2.87067,
+          42.740398,
           43.891200000000005
         ]
       },
@@ -70089,8 +70109,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.785190105438232,
-          43.252498626708984,
+          5.78519,
+          43.252499,
           423.9768
         ]
       },
@@ -70149,8 +70169,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.96301007270813,
-          43.57619857788086,
+          3.96301,
+          43.576199,
           5.1816
         ]
       },
@@ -70169,8 +70189,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.3538999557495117,
-          43.32350158691406,
+          3.3539,
+          43.323502,
           17.0688
         ]
       },
@@ -70189,8 +70209,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.901830196380615,
-          43.90729904174805,
+          4.90183,
+          43.907299,
           37.7952
         ]
       },
@@ -70209,8 +70229,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.109250068664551,
-          43.60639953613281,
+          5.10925,
+          43.6064,
           59.436
         ]
       },
@@ -70470,8 +70490,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.90806,
-          44.336899,
+          4.906877,
+          44.33574,
           143.8656
         ]
       },
@@ -70480,7 +70500,7 @@
         "type": "small_airport",
         "description": "Valréas Visan Airfield",
         "elevation": 472,
-        "municipality": "",
+        "municipality": "Visan",
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -70572,8 +70592,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.2198599576950073,
-          49.02870178222656,
+          1.21986,
+          49.028702,
           141.4272
         ]
       },
@@ -70694,8 +70714,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.183519,
-          49.386674,
+          1.179142,
+          49.384887,
           156.0576
         ]
       },
@@ -70774,8 +70794,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.7429860234260559,
-          48.03139877319336,
+          -0.742986,
+          48.031399,
           100.584
         ]
       },
@@ -70854,8 +70874,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5191400051116943,
-          49.253501892089844,
+          2.51914,
+          49.253502,
           88.69680000000001
         ]
       },
@@ -71217,8 +71237,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.1133298873901367,
-          47.002601623535156,
+          3.11333,
+          47.002602,
           183.4896
         ]
       },
@@ -71244,12 +71264,12 @@
       },
       "properties": {
         "title": "LFQJ",
-        "type": "closed",
+        "type": "small_airport",
         "description": "Maubeuge-Élesmes Airfield",
         "elevation": 452,
         "municipality": "Vieux-Reng",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -71418,8 +71438,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.418540000915527,
-          48.447898864746094,
+          -4.41854,
+          48.447899,
           99.06
         ]
       },
@@ -71438,8 +71458,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.4702800512313843,
-          49.65010070800781,
+          -1.47028,
+          49.650101,
           139.9032
         ]
       },
@@ -71458,8 +71478,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.0799601078033447,
-          48.58769989013672,
+          -2.07996,
+          48.5877,
           66.7512
         ]
       },
@@ -71498,8 +71518,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.440000057220459,
-          47.76060104370117,
+          -3.44,
+          47.760601,
           48.768
         ]
       },
@@ -71518,8 +71538,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.3786300420761108,
-          46.701900482177734,
+          -1.37863,
+          46.7019,
           91.1352
         ]
       },
@@ -71538,8 +71558,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.151639938354492,
-          48.53030014038086,
+          -4.15164,
+          48.5303,
           106.0704
         ]
       },
@@ -71579,8 +71599,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.4450201988220215,
-          48.281700134277344,
+          -4.44502,
+          48.2817,
           87.47760000000001
         ]
       },
@@ -71600,8 +71620,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.20166699588298798,
-          47.94860076904297,
+          0.201667,
+          47.948601,
           59.1312
         ]
       },
@@ -71660,8 +71680,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.167789936065674,
-          47.974998474121094,
+          -4.169655,
+          47.973031,
           90.52560000000001
         ]
       },
@@ -71680,8 +71700,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.61073005199,
-          47.153198242200006,
+          -1.61073,
+          47.153198,
           27.432000000000002
         ]
       },
@@ -71740,8 +71760,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.718559980392456,
-          47.72330093383789,
+          -2.71856,
+          47.723301,
           135.9408
         ]
       },
@@ -71760,8 +71780,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1566667,
-          47.3105556,
+          -2.152634,
+          47.31142,
           3.9624
         ]
       },
@@ -72083,8 +72103,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4163498878479,
-          43.75740051269531,
+          4.41635,
+          43.757401,
           94.1832
         ]
       },
@@ -72130,12 +72150,12 @@
       },
       "properties": {
         "title": "LFVM",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Miquelon Airport",
         "elevation": 10,
         "municipality": "Miquelon",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -72485,8 +72505,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.091699600219727,
-          36.79330062866211,
+          27.09115,
+          36.794523,
           125.5776
         ]
       },
@@ -72988,19 +73008,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.403600692749023,
-          37.530601501464844,
+          22.403601,
+          37.530602,
           644.0424
         ]
       },
       "properties": {
         "title": "LGTP",
-        "type": "small_airport",
-        "description": "Tripolis Airport",
+        "type": "small_airbase",
+        "description": "Tripolis Air Base",
         "elevation": 2113,
         "municipality": "Trípoli",
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -76396,8 +76417,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.404699325561523,
-          49.42580032348633,
+          17.404699,
+          49.4258,
           206.0448
         ]
       },
@@ -78436,16 +78457,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.992130279541016,
-          46.2958984375,
-          0
+          8.99213,
+          46.295898,
+          259.08000000000004
         ]
       },
       "properties": {
         "title": "LSML",
         "type": "small_airbase",
         "description": "Lodrino Air Base",
-        "elevation": 0,
+        "elevation": 850,
         "municipality": "Lodrino",
         "marker-symbol": "airfield",
         "marker-color": "#777777",
@@ -78478,7 +78499,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.91506004333,
+          6.91506,
           46.8432,
           446.53200000000004
         ]
@@ -78899,8 +78920,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.995098114,
-          40.128101348899996,
+          32.995098,
+          40.128101,
           952.5
         ]
       },
@@ -81208,8 +81229,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.36340332030001,
-          18.567399978599997,
+          -68.363403,
+          18.5674,
           14.325600000000001
         ]
       },
@@ -81769,8 +81790,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.190001,
-          28.0376,
+          -115.189419,
+          28.039031,
           29.8704
         ]
       },
@@ -81779,7 +81800,7 @@
         "type": "small_airport",
         "description": "Isla Cedros Airport",
         "elevation": 98,
-        "municipality": "Ensenada",
+        "municipality": "Cedros Island",
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -81789,19 +81810,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.755473,
-          16.762118,
+          -99.753113,
+          16.757126,
           4.8768
         ]
       },
       "properties": {
         "title": "MMAA",
-        "type": "large_airport",
+        "type": "medium_airport",
         "description": "Aeropuerto Internacional Juan N. Álvarez",
         "elevation": 16,
         "municipality": "Ciudad de Acapulco",
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -81869,19 +81890,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.258752,
-          15.771987,
+          -96.260319,
+          15.774909,
           141.4272
         ]
       },
       "properties": {
         "title": "MMBT",
-        "type": "large_airport",
-        "description": "Aeropuerto Internacional de Bahías de Huatulco",
+        "type": "medium_airport",
+        "description": "Bahías de Huatulco International Airport",
         "elevation": 464,
         "municipality": "Huatulco",
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -81889,19 +81910,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.260209,
-          18.83112,
+          -99.261818,
+          18.833922,
           1303.6296
         ]
       },
       "properties": {
         "title": "MMCB",
-        "type": "large_airport",
+        "type": "medium_airport",
         "description": "Aeropuerto Internacional Mariano Matamoros",
         "elevation": 4277,
         "municipality": "Temixco",
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -82076,12 +82097,12 @@
       },
       "properties": {
         "title": "MMCT",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Aeropuerto Internacional de Chichen Itza",
         "elevation": 102,
         "municipality": "Chichen Itza",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -82129,8 +82150,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -100.881196,
-          20.544752,
+          -100.886722,
+          20.545687,
           1740.1032
         ]
       },
@@ -82176,12 +82197,12 @@
       },
       "properties": {
         "title": "MMDA",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Ciudad Constitución National Airport",
         "elevation": 213,
         "municipality": "Comondú",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -82269,8 +82290,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.301557,
-          20.52504,
+          -103.310108,
+          20.523342,
           1528.8768
         ]
       },
@@ -82279,7 +82300,7 @@
         "type": "large_airport",
         "description": "Aeropuerto Internacional Miguel Hidalgo",
         "elevation": 5016,
-        "municipality": "Ciudad de Tlajomulco de Zúñiga",
+        "municipality": "Guadalajara",
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -82349,19 +82370,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.047996521,
-          29.095899581900003,
+          -111.049891,
+          29.093527,
           191.1096
         ]
       },
       "properties": {
         "title": "MMHO",
-        "type": "large_airport",
+        "type": "medium_airport",
         "description": "General Ignacio P. Garcia International Airport",
         "elevation": 627,
         "municipality": "Hermosillo",
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -82389,8 +82410,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -100.92900085449219,
-          25.54949951171875,
+          -100.930195,
+          25.544145,
           1456.3344000000002
         ]
       },
@@ -82429,8 +82450,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.7975006104,
-          19.4750995636,
+          -96.797501,
+          19.4751,
           953.1096
         ]
       },
@@ -82469,8 +82490,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -102.221000671,
-          18.0016994476,
+          -102.220316,
+          18.001672,
           11.8872
         ]
       },
@@ -82509,19 +82530,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.478825,
-          20.985813,
+          -101.480284,
+          20.992695,
           1815.3888000000002
         ]
       },
       "properties": {
         "title": "MMLO",
-        "type": "large_airport",
-        "description": "Aeropuerto Internacional Del Bajío",
+        "type": "medium_airport",
+        "description": "Bajío International Airport",
         "elevation": 5956,
-        "municipality": "Ciudad de Silao",
+        "municipality": "Silao",
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -82609,19 +82630,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.247827,
-          32.628479,
+          -115.242805,
+          32.630629,
           22.555200000000003
         ]
       },
       "properties": {
         "title": "MMML",
-        "type": "large_airport",
+        "type": "medium_airport",
         "description": "Aeropuerto Internacional Gral. Rodolfo Sánchez Taboada",
         "elevation": 74,
         "municipality": "Mexicali",
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -82689,17 +82710,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -100.113602,
-          25.778561,
+          -100.106989,
+          25.778521,
           389.5344
         ]
       },
       "properties": {
         "title": "MMMY",
         "type": "large_airport",
-        "description": "Aeropuerto Internacional Gral. Mariano Escobedo",
+        "description": "General Mariano Escobedo International Airport",
         "elevation": 1278,
-        "municipality": "Ciudad de Apodaca",
+        "municipality": "Monterrey",
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -82709,17 +82730,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.270151,
-          23.166689,
+          -106.264572,
+          23.161474,
           11.5824
         ]
       },
       "properties": {
         "title": "MMMZ",
         "type": "large_airport",
-        "description": "Aeropuerto Internacional Gral. Rafael Buelna",
+        "description": "General Rafael Buelna International Airport",
         "elevation": 38,
-        "municipality": "Ciudad de Mazatlàn",
+        "municipality": "Mazatlàn",
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -82809,19 +82830,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.375874,
-          19.163836,
+          -98.371582,
+          19.158465,
           2243.6328000000003
         ]
       },
       "properties": {
         "title": "MMPB",
-        "type": "large_airport",
+        "type": "medium_airport",
         "description": "Aeropuerto Internacional Hermanos Serdán",
         "elevation": 7361,
         "municipality": "Puebla",
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -83217,12 +83238,12 @@
       },
       "properties": {
         "title": "MMTO",
-        "type": "large_airport",
+        "type": "medium_airport",
         "description": "Adolfo López Mateos International Airport",
         "elevation": 8466,
         "municipality": "Toluca",
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -83330,19 +83351,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.46389,
-          17.606187,
+          -101.460629,
+          17.601771,
           7.9248
         ]
       },
       "properties": {
         "title": "MMZH",
-        "type": "large_airport",
+        "type": "medium_airport",
         "description": "Aeropuerto Internacional de Zihuatanejo",
         "elevation": 26,
         "municipality": "Ixtapa",
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -83650,16 +83671,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.276100158691,
-          7.8573799133301,
-          21.031200000000002
+          -80.276167,
+          7.8575,
+          14.9352
         ]
       },
       "properties": {
         "title": "MPNU",
         "type": "small_airport",
         "description": "Augusto Vergara Airport",
-        "elevation": 69,
+        "elevation": 49,
         "municipality": "Los Santos",
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -83710,8 +83731,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3834991455,
-          9.0713596344,
+          -79.383499,
+          9.07136,
           41.148
         ]
       },
@@ -83730,8 +83751,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.58560180664062,
-          10.768699645996094,
+          -83.585602,
+          10.7687,
           0.9144000000000001
         ]
       },
@@ -83750,8 +83771,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.96859741210938,
-          8.60155963897705,
+          -82.968754,
+          8.60156,
           7.9248
         ]
       },
@@ -84110,8 +84131,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.51850128173828,
-          18.241100311279297,
+          -72.518501,
+          18.2411,
           50.9016
         ]
       },
@@ -84350,8 +84371,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.1583023071289,
-          20.08530044555664,
+          -75.158302,
+          20.0853,
           17.0688
         ]
       },
@@ -84510,8 +84531,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.5793991089,
-          23.032800674399997,
+          -82.579399,
+          23.032801,
           31.0896
         ]
       },
@@ -85651,19 +85672,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -178.065994263,
-          -14.3114004135,
+          -178.066492,
+          -14.311565,
           6.096
         ]
       },
       "properties": {
         "title": "NLWF",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Pointe Vele Airport",
         "elevation": 20,
         "municipality": "Futuna Island",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -85684,6 +85705,26 @@
         "municipality": "Wallis Island",
         "marker-symbol": "airport",
         "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.77185,
+          27.18117,
+          1351.788
+        ]
+      },
+      "properties": {
+        "title": "NP-0015",
+        "type": "small_airport",
+        "description": "Khanidanda Airport",
+        "elevation": 4435,
+        "municipality": "Diktel",
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -85851,8 +85892,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -146.3683,
-          -16.1191,
+          -146.368768,
+          -16.119296,
           15.24
         ]
       },
@@ -86091,19 +86132,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          166.473007,
-          -22.258301,
+          166.472783,
+          -22.25812,
           3.048
         ]
       },
       "properties": {
         "title": "NWWM",
-        "type": "large_airport",
+        "type": "medium_airport",
         "description": "Nouméa Magenta Airport",
         "elevation": 10,
         "municipality": "Nouméa",
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -86299,7 +86340,7 @@
       "properties": {
         "title": "NZFX",
         "type": "small_airport",
-        "description": "Aeródromo Phoenix",
+        "description": "Phoenix Airfield",
         "elevation": 18,
         "municipality": "McMurdo Station",
         "marker-symbol": "airfield",
@@ -86940,7 +86981,7 @@
       "properties": {
         "title": "NZWD",
         "type": "medium_airport",
-        "description": "Aeródromo Williams",
+        "description": "Williams Field Skiway",
         "elevation": 68,
         "municipality": "McMurdo Station",
         "marker-symbol": "airport",
@@ -87676,8 +87717,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.79790115356445,
-          26.471200942993164,
+          49.797901,
+          26.471201,
           21.945600000000002
         ]
       },
@@ -88800,8 +88841,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.8473014831543,
-          34.138099670410156,
+          49.847301,
+          34.1381,
           1658.112
         ]
       },
@@ -90429,8 +90470,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          58.284400939941406,
-          23.593299865722656,
+          58.284401,
+          23.5933,
           14.630400000000002
         ]
       },
@@ -92564,8 +92605,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -134.5760040283203,
-          58.35499954223633,
+          -134.576004,
+          58.355,
           6.4008
         ]
       },
@@ -92724,16 +92765,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -159.050003,
-          58.9902,
-          30.48
+          -158.901886,
+          58.932056,
+          32.6136
         ]
       },
       "properties": {
         "title": "PAMB",
         "type": "small_airport",
         "description": "Manokotak Airport",
-        "elevation": 100,
+        "elevation": 107,
         "municipality": "Manokotak",
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -93584,8 +93625,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.619003,
-          14.9992,
+          145.61923,
+          14.998101,
           82.6008
         ]
       },
@@ -95276,8 +95317,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          130.718994140625,
-          31.80340003967285,
+          130.718994,
+          31.8034,
           276.1488
         ]
       },
@@ -95437,8 +95478,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          136.80499267578125,
-          34.8583984375,
+          136.804993,
+          34.858398,
           4.572
         ]
       },
@@ -95861,8 +95902,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.43800354003906,
-          34.785499572753906,
+          135.438004,
+          34.7855,
           15.24
         ]
       },
@@ -96569,8 +96610,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.45099639892578,
-          37.46910095214844,
+          126.450996,
+          37.469101,
           7.010400000000001
         ]
       },
@@ -98082,8 +98123,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          143.140783,
-          51.782337,
+          143.141785,
+          51.783955,
           33.2232
         ]
       },
@@ -102707,8 +102748,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.90360260009766,
-          -22.498199462890625,
+          -68.903603,
+          -22.498199,
           2299.1064
         ]
       },
@@ -102807,8 +102848,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.1812973022461,
-          -20.535200119018555,
+          -70.181297,
+          -20.5352,
           47.244
         ]
       },
@@ -104167,8 +104208,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -49.23440170288086,
-          -21.497800827026367,
+          -49.234441,
+          -21.497551,
           465.12480000000005
         ]
       },
@@ -104189,14 +104230,14 @@
         "coordinates": [
           -56.038591,
           -13.821021,
-          426.1104
+          430.07280000000003
         ]
       },
       "properties": {
         "title": "SDNM",
         "type": "small_airport",
         "description": "Brigadeiro Eduardo Gomes Airport",
-        "elevation": 1398,
+        "elevation": 1411,
         "municipality": "Nova Mutum",
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -105947,8 +105988,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.667562,
-          0.861307,
+          -77.671783,
+          0.861946,
           2976.3720000000003
         ]
       },
@@ -106868,8 +106909,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.41190338134766,
-          -14.735600471496582,
+          -68.411903,
+          -14.7356,
           1413.9672
         ]
       },
@@ -108508,16 +108549,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -45.26919937133789,
-          -21.790599822998047,
-          985.1136
+          -45.26818,
+          -21.789115,
+          976.2744
         ]
       },
       "properties": {
         "title": "SNVI",
         "type": "small_airport",
-        "description": "Mélio Viana Airport",
-        "elevation": 3232,
+        "description": "Mélio Viana Public Airport",
+        "elevation": 3203,
         "municipality": "Três Corações",
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -108528,8 +108569,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -50.443599700927734,
-          -1.6365300416946411,
+          -50.4436,
+          -1.63653,
           29.8704
         ]
       },
@@ -110911,8 +110952,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -56.50790023803711,
-          -30.400699615478516,
+          -56.5079,
+          -30.4007,
           124.968
         ]
       },
@@ -111131,16 +111172,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.88670349121094,
-          8.818929672241211,
-          119.7864
+          -65.886703,
+          8.81893,
+          120.0912
         ]
       },
       "properties": {
         "title": "SVAJ",
         "type": "small_airport",
         "description": "Mata de Juajua Airport",
-        "elevation": 393,
+        "elevation": 394,
         "municipality": "",
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -111491,8 +111532,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.53333282470703,
-          7.0833330154418945,
+          -69.4967,
+          7.059677,
           89.91600000000001
         ]
       },
@@ -111532,17 +111573,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.80000305175781,
-          7.233333110809326,
-          129.84480000000002
+          -70.756386,
+          7.210834,
+          130.1496
         ]
       },
       "properties": {
         "title": "SVGD",
         "type": "medium_airport",
-        "description": "Guasdalito Airport",
-        "elevation": 426,
-        "municipality": "",
+        "description": "Guasdualito Airport",
+        "elevation": 427,
+        "municipality": "Guasdualito",
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -112912,15 +112953,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -61.27000045776367,
-          15.86870002746582,
+          -61.270087,
+          15.868925,
           4.8768
         ]
       },
       "properties": {
         "title": "TFFM",
         "type": "medium_airport",
-        "description": "Les Bases Airport",
+        "description": "Marie-Galante Airport",
         "elevation": 16,
         "municipality": "Grand Bourg",
         "marker-symbol": "airport",
@@ -113119,12 +113160,12 @@
       },
       "properties": {
         "title": "TJRV",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "José Aponte de la Torre Airport",
         "elevation": 38,
         "municipality": "Ceiba",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -113132,8 +113173,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.0018005371,
-          18.4393997192,
+          -66.001801,
+          18.4394,
           2.7432000000000003
         ]
       },
@@ -113159,12 +113200,12 @@
       },
       "properties": {
         "title": "TJVQ",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Antonio Rivera Rodriguez Airport",
         "elevation": 49,
         "municipality": "Vieques",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -113612,8 +113653,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          75.00499725341797,
-          46.8932991027832,
+          75.004533,
+          46.894246,
           440.74080000000004
         ]
       },
@@ -113799,12 +113840,12 @@
       },
       "properties": {
         "title": "UAIT",
-        "type": "large_airport",
+        "type": "medium_airport",
         "description": "Hazrat Sultan International Airport",
         "elevation": 951,
         "municipality": "Turkıstan",
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -114372,8 +114413,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.471001,
-          60.397499,
+          120.476094,
+          60.401833,
           199.9488
         ]
       },
@@ -114392,8 +114433,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          118.336998,
-          63.294998,
+          118.341953,
+          63.296703,
           120.0912
         ]
       },
@@ -114815,14 +114856,14 @@
         "coordinates": [
           142.879772,
           53.517656,
-          35.052
+          37.4904
         ]
       },
       "properties": {
         "title": "UHSH",
         "type": "small_airport",
         "description": "Okha Airport",
-        "elevation": 115,
+        "elevation": 123,
         "municipality": "Okha",
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -115173,8 +115214,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.40140151977539,
-          45.372501373291016,
+          36.401402,
+          45.372501,
           52.1208
         ]
       },
@@ -115253,8 +115294,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.39720153808594,
-          49.568599700927734,
+          34.397202,
+          49.5686,
           153.924
         ]
       },
@@ -118560,8 +118601,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          80.7285003662,
-          7.956669807430001,
+          80.7285,
+          7.95667,
           192.024
         ]
       },
@@ -118621,8 +118662,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          81.23519897460001,
-          6.25448989868,
+          81.235199,
+          6.25449,
           15.24
         ]
       },
@@ -118801,8 +118842,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.79560089111328,
-          25.261699676513672,
+          88.795601,
+          25.2617,
           23.7744
         ]
       },
@@ -118882,8 +118923,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.44670104980469,
-          22.654699325561523,
+          88.446701,
+          22.654699,
           4.8768
         ]
       },
@@ -119868,8 +119909,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.20719909667969,
-          28.070600509643555,
+          73.207199,
+          28.070601,
           228.60000000000002
         ]
       },
@@ -119929,8 +119970,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          79.45079803470001,
-          28.4221000671,
+          79.450798,
+          28.4221,
           176.78400000000002
         ]
       },
@@ -120474,8 +120515,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.43699646,
-          20.2572994232,
+          100.436996,
+          20.257299,
           420.624
         ]
       },
@@ -120914,8 +120955,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          86.584454,
-          27.517787,
+          86.585019,
+          27.517752,
           2413.4064000000003
         ]
       },
@@ -123984,26 +124025,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.496702,
-          -3.368586,
-          6.096
-        ]
-      },
-      "properties": {
-        "title": "WABI",
-        "type": "medium_airport",
-        "description": "Nabire Airport",
-        "elevation": 20,
-        "municipality": "Nabire",
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           136.887388,
           -4.52978,
           31.3944
@@ -124397,26 +124418,6 @@
         "municipality": "Tahuna-Sangihe Island",
         "marker-symbol": "airport",
         "marker-color": "#555555"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.793658,
-          1.123428,
-          12.192
-        ]
-      },
-      "properties": {
-        "title": "WAMI",
-        "type": "small_airport",
-        "description": "Sultan Bantilan Airport",
-        "elevation": 40,
-        "municipality": "Toli Toli-Celebes Island",
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
       }
     },
     {
@@ -127792,16 +127793,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.39999389648438,
-          -37.599998474121094,
-          0
+          141.361664,
+          -37.613335,
+          158.8008
         ]
       },
       "properties": {
         "title": "YCTN",
         "type": "small_airport",
         "description": "Casterton Airport",
-        "elevation": 0,
+        "elevation": 521,
         "municipality": "",
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -128252,8 +128253,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          147.992996216,
-          -40.0917015076,
+          147.992996,
+          -40.091702,
           3.048
         ]
       },
@@ -134048,7 +134049,7 @@
         "type": "medium_airport",
         "description": "Dalanzadgad Airport",
         "elevation": 4787,
-        "municipality": "Dalanzadgad, Ömnögovi",
+        "municipality": "Dalanzadgad",
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -134068,7 +134069,7 @@
         "type": "small_airport",
         "description": "Ovoot Airport",
         "elevation": 5171,
-        "municipality": "Ovoot Tolgoi, Ömnögovi",
+        "municipality": "Ovoot Tolgoi",
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
