@@ -6,9 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "fetch-csv": "wget -O tmp/airports.csv https://davidmegginson.github.io/ourairports-data/airports.csv",
-    "build": "time node ./build.js < tmp/airports.txt > data/airports.geojson",
-    "build-e": "time node ./build.js EL < tmp/airports.txt > data/airports-e.geojson",
-    "build-k": "time node ./build.js K < tmp/airports.txt > data/airports-k.geojson",
+    "start": "time node ./build.js < tmp/airports.txt > data/airports.geojson",
+    "start:e": "time node ./build.js EL < tmp/airports.txt > data/airports-e.geojson",
+    "start:k": "time node ./build.js K < tmp/airports.txt > data/airports-k.geojson",
     "eslint": "npx eslint **/*.js --fix",
     "prettier": "npx prettier --cache --write ."
   },
