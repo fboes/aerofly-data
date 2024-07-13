@@ -103,7 +103,7 @@ airportsRecords.forEach(
       aeroflyAirports.get(icaoCode) ?? aeroflyAirports.get(icaoCodeAlternate);
 
     if (length !== undefined) {
-      // Remove airport from list of Aerofly airports
+      // Remove airport from list of Aerofly FS4 Airports
       aeroflyAirports.delete(icaoCode) ||
         aeroflyAirports.delete(icaoCodeAlternate);
 
@@ -162,12 +162,16 @@ if (aeroflyAirports.size > 0) {
   process.stderr.write(
     `Missing airport matches for \x1b[92m${
       aeroflyAirports.size
-    }\x1b[0m airports, \x1b[92m${(
+    }\x1b[0m Aerofly FS4 Airports, \x1b[92m${(
       (aeroflyAirports.size / aeroflyAirportsLength) *
       100
     ).toFixed(1)}%\x1b[0m
-Missing airport codes:
-\x1b[90m> ${[...aeroflyAirports].join(", ")}\x1b[0m
+Missing matches for Aerofly FS4 Airport codes:
+\x1b[90m> ${[...aeroflyAirports]
+      .map((a) => {
+        return a[0];
+      })
+      .join(", ")}\x1b[0m
 `
   );
 }
