@@ -4904,8 +4904,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.306526,
-          44.974757,
+          -79.306546,
+          44.975376,
           281.94
         ]
       },
@@ -4914,7 +4914,7 @@
         "type": "closed",
         "description": "Muskoka Airport",
         "elevation": 925,
-        "municipality": "Muskoka",
+        "municipality": "Gravenhurst",
         "fileSize": 696,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -14242,15 +14242,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.1503400802612305,
-          51.08720016479492,
+          -4.15034,
+          51.0872,
           8.2296
         ]
       },
       "properties": {
         "title": "EGDC",
         "type": "large_airbase",
-        "description": "Royal Marines Base Chivenor Airport",
+        "description": "Royal Marines Base Chivenor",
         "elevation": 27,
         "municipality": "Chivenor",
         "fileSize": 1224,
@@ -14294,7 +14294,7 @@
       "properties": {
         "title": "EGDM",
         "type": "large_airport",
-        "description": "MoD Boscombe Down Airport",
+        "description": "MoD Boscombe Down",
         "elevation": 407,
         "municipality": "Amesbury",
         "fileSize": 1216,
@@ -15180,7 +15180,7 @@
       "properties": {
         "title": "EGHY",
         "type": "medium_airport",
-        "description": "Truro Airport",
+        "description": "Truro Aerodrome",
         "elevation": 127,
         "municipality": "Truro",
         "fileSize": 1104,
@@ -15424,15 +15424,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.0808299779891968,
-          51.67610168457031,
+          -1.08083,
+          51.676102,
           73.152
         ]
       },
       "properties": {
         "title": "EGLJ",
         "type": "small_airport",
-        "description": "Chalgrove Airport",
+        "description": "Chalgrove Airfield",
         "elevation": 240,
         "municipality": "Chalgrove",
         "fileSize": 1008,
@@ -15718,15 +15718,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.2899999618499998,
-          54.211101532,
+          -1.29,
+          54.211102,
           49.0728
         ]
       },
       "properties": {
         "title": "EGNG",
         "type": "medium_airport",
-        "description": "Bagby Thirsk Prv Airport",
+        "description": "Bagby Thirsk Airfield",
         "elevation": 161,
         "municipality": "Bagby",
         "fileSize": 1104,
@@ -16033,15 +16033,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.1235799789429,
-          52.811698913574,
+          -4.12358,
+          52.811699,
           9.144
         ]
       },
       "properties": {
         "title": "EGOD",
         "type": "large_airport",
-        "description": "Llanbedr Airport",
+        "description": "Llanbedr Airfield",
         "elevation": 30,
         "municipality": "Llanbedr",
         "fileSize": 1320,
@@ -16846,7 +16846,7 @@
       "properties": {
         "title": "EGSX",
         "type": "small_airport",
-        "description": "North Weald Airport",
+        "description": "North Weald Airfield",
         "elevation": 321,
         "municipality": "Epping, Essex",
         "fileSize": 992,
@@ -17027,7 +17027,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.2347222,
+          -3.234722,
           50.86,
           255.7272
         ]
@@ -17035,7 +17035,7 @@
       "properties": {
         "title": "EGTU",
         "type": "large_airport",
-        "description": "Dunkeswell Airport",
+        "description": "Dunkeswell Airfield",
         "elevation": 839,
         "municipality": "Dunkeswell",
         "fileSize": 1288,
@@ -31504,7 +31504,7 @@
         "type": "small_airbase",
         "description": "Almaza Air Force Base",
         "elevation": 246,
-        "municipality": "Cairo",
+        "municipality": "El Nozha",
         "fileSize": 976,
         "marker-symbol": "airport",
         "marker-color": "#555555",
@@ -31684,8 +31684,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.828318,
-          29.812302,
+          30.823461,
+          29.812707,
           235.9152
         ]
       },
@@ -31694,7 +31694,7 @@
         "type": "closed",
         "description": "October Airport",
         "elevation": 774,
-        "municipality": "Sixth of October City",
+        "municipality": "6th of October",
         "fileSize": 920,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -43611,8 +43611,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.78600311279297,
-          38.53150177001953,
+          -121.786489,
+          38.531502,
           21.031200000000002
         ]
       },
@@ -52058,7 +52058,7 @@
       "properties": {
         "title": "KLCG",
         "type": "small_airport",
-        "description": "Wayne Municipal Airport/Stan Morris Field",
+        "description": "Wayne Municipal Airport / Stan Morris Field",
         "elevation": 1431,
         "municipality": "Wayne",
         "fileSize": 1008,
@@ -57121,9 +57121,9 @@
       "properties": {
         "title": "KNJM",
         "type": "small_airport",
-        "description": "Bogue Field Mcalf Airport",
+        "description": "Marine Corps Auxiliary Landing Field Bogue",
         "elevation": 21,
-        "municipality": "Swansboro",
+        "municipality": "Bogue",
         "fileSize": 928,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -59963,8 +59963,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.59899902344,
-          44.048599243164,
+          -101.600933,
+          44.048527,
           672.6936000000001
         ]
       },
@@ -79657,15 +79657,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.67609977722168,
-          49.68579864501953,
+          15.6761,
+          49.685799,
           594.0552
         ]
       },
       "properties": {
         "title": "LKCT",
         "type": "closed",
-        "description": "Chotěboř Airport",
+        "description": "Chotěboř Airfield",
         "elevation": 1949,
         "municipality": "Chotěboř",
         "fileSize": 912,
@@ -79700,15 +79700,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.549200057983,
-          49.597198486328,
+          15.5492,
+          49.597198,
           462.99120000000005
         ]
       },
       "properties": {
         "title": "LKHB",
         "type": "medium_airport",
-        "description": "Havlíčkův Brod Airport",
+        "description": "Havlíčkův Brod Airfield",
         "elevation": 1519,
         "municipality": "Havlíčkův Brod",
         "fileSize": 1056,
@@ -79729,7 +79729,7 @@
       "properties": {
         "title": "LKHD",
         "type": "closed",
-        "description": "Hodkovice nad Mohelkou Airport",
+        "description": "Hodkovice nad Mohelkou Airfield",
         "elevation": 1480,
         "municipality": "Hodkovice nad Mohelkou",
         "fileSize": 912,
@@ -86400,7 +86400,7 @@
       "properties": {
         "title": "MMGL",
         "type": "small_airport",
-        "description": "Aeropuerto Internacional Miguel Hidalgo",
+        "description": "Guadalajara International Airport",
         "elevation": 5016,
         "municipality": "Guadalajara",
         "fileSize": 1032,
@@ -118711,8 +118711,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.79859924316406,
-          17.701900482177734,
+          -64.801634,
+          17.701567,
           22.555200000000003
         ]
       },
@@ -137223,7 +137223,7 @@
         "type": "closed",
         "description": "Moomba Airport",
         "elevation": 143,
-        "municipality": "",
+        "municipality": "Moomba",
         "fileSize": 912,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
