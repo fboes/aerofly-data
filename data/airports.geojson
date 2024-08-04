@@ -4400,8 +4400,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -61.78919982910156,
-          50.189998626708984,
+          -61.78898,
+          50.190114,
           11.8872
         ]
       },
@@ -12726,8 +12726,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.208499908447266,
-          59.26029968261719,
+          24.204799,
+          59.259599,
           19.812
         ]
       },
@@ -12832,8 +12832,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.832706,
-          59.41443,
+          24.83264,
+          59.413246,
           39.9288
         ]
       },
@@ -13925,15 +13925,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.09555995464,
-          52.0407981873,
+          -1.09556,
+          52.040798,
           136.5504
         ]
       },
       "properties": {
         "title": "EGBT",
         "type": "medium_airport",
-        "description": "Turweston Airport",
+        "description": "Turweston Aerodrome",
         "elevation": 448,
         "municipality": "Turweston",
         "fileSize": 1152,
@@ -14401,13 +14401,14 @@
       },
       "properties": {
         "title": "EGDX",
-        "type": "large_airport",
-        "description": "St. Athan Airport",
+        "type": "large_airbase",
+        "description": "St. Athan Air Base",
         "elevation": 163,
         "municipality": "St. Athan",
         "fileSize": 1208,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -18952,8 +18953,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.160452,
-          55.740496,
+          9.157019,
+          55.740335,
           75.2856
         ]
       },
@@ -19246,15 +19247,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.330900192260742,
-          55.47669982910156,
+          10.327206,
+          55.475307,
           17.0688
         ]
       },
       "properties": {
         "title": "EKOD",
         "type": "small_airport",
-        "description": "Odense Airport",
+        "description": "Odense Hans Christian Andersen Airport",
         "elevation": 56,
         "municipality": "Odense",
         "fileSize": 1032,
@@ -19319,7 +19320,7 @@
         "type": "medium_airport",
         "description": "Copenhagen Roskilde Airport",
         "elevation": 146,
-        "municipality": "Copenhagen",
+        "municipality": "Roskilde",
         "fileSize": 1200,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -19436,8 +19437,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.6137,
-          55.8895,
+          10.613766,
+          55.889073,
           0.3048
         ]
       },
@@ -19541,8 +19542,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.4091,
-          56.41,
+          9.409277,
+          56.409992,
           22.86
         ]
       },
@@ -20969,17 +20970,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.910999,
-          52.268501,
+          20.907203,
+          52.269199,
           107.28960000000001
         ]
       },
       "properties": {
         "title": "EPBC",
         "type": "small_airport",
-        "description": "Babice Airfield",
+        "description": "Warsaw Babice Airport",
         "elevation": 352,
-        "municipality": "",
+        "municipality": "Warsaw",
         "fileSize": 976,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -21213,7 +21214,7 @@
         "type": "small_airbase",
         "description": "Krzesiny Military Air Base",
         "elevation": 265,
-        "municipality": "",
+        "municipality": "Poznań",
         "fileSize": 928,
         "marker-symbol": "airport",
         "marker-color": "#555555",
@@ -21428,7 +21429,7 @@
         "type": "medium_airport",
         "description": "Modlin Airport",
         "elevation": 341,
-        "municipality": "Warsaw",
+        "municipality": "Nowy Dwór Mazowiecki",
         "fileSize": 1160,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -21503,8 +21504,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.8263,
-          52.421001,
+          16.823359,
+          52.421598,
           93.8784
         ]
       },
@@ -21546,8 +21547,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.853901,
-          52.379398,
+          17.853155,
+          52.380087,
           113.08080000000001
         ]
       },
@@ -21556,7 +21557,7 @@
         "type": "small_airbase",
         "description": "Powidz Military Air Base",
         "elevation": 371,
-        "municipality": "",
+        "municipality": "Powidz",
         "fileSize": 984,
         "marker-symbol": "airport",
         "marker-color": "#555555",
@@ -21568,15 +21569,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.213301,
-          51.389198,
+          21.214742,
+          51.38937,
           185.928
         ]
       },
       "properties": {
         "title": "EPRA",
         "type": "small_airport",
-        "description": "Radom Airport",
+        "description": "Warsaw Radom Airport",
         "elevation": 610,
         "municipality": "Radom",
         "fileSize": 1048,
@@ -21695,8 +21696,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.967100143399996,
-          52.1656990051,
+          20.9671,
+          52.165699,
           110.33760000000001
         ]
       },
@@ -22118,8 +22119,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.35333,
-          55.54833,
+          13.376327,
+          55.535564,
           71.9328
         ]
       },
@@ -36226,17 +36227,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.1708984375,
-          36.29750061035156,
+          -77.170898,
+          36.297501,
           20.7264
         ]
       },
       "properties": {
         "title": "KASJ",
         "type": "medium_airport",
-        "description": "Tri County Airport",
+        "description": "Tri-County Airport at Henry Joyner Field",
         "elevation": 68,
-        "municipality": "Ahoskie",
+        "municipality": "Aulander",
         "fileSize": 1152,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -37299,8 +37300,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.225997925,
-          40.0393981934,
+          -105.226025,
+          40.039101,
           1611.7824
         ]
       },
@@ -38542,8 +38543,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -91.881897,
-          32.7551,
+          -91.880556,
+          32.756,
           51.2064
         ]
       },
@@ -38865,7 +38866,7 @@
       "properties": {
         "title": "KBUR",
         "type": "medium_airport",
-        "description": "Bob Hope Airport",
+        "description": "Hollywood Burbank Airport",
         "elevation": 778,
         "municipality": "Burbank",
         "fileSize": 1136,
@@ -41422,8 +41423,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.8508987427,
-          29.3418998718,
+          -98.850899,
+          29.3419,
           235.0008
         ]
       },
@@ -46960,8 +46961,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.672203,
-          42.098301,
+          -70.67283,
+          42.097665,
           3.3528000000000002
         ]
       },
@@ -47599,13 +47600,12 @@
       "properties": {
         "title": "KGRK",
         "type": "closed",
-        "description": "Killeen-Fort Hood Regional Airport / Robert Gray Army Air Field",
+        "description": "Killeen Regional Airport",
         "elevation": 1015,
-        "municipality": "Killeen",
+        "municipality": "Fort Cavazos",
         "fileSize": 920,
         "marker-symbol": "airport",
-        "marker-color": "#555555",
-        "isMilitary": true
+        "marker-color": "#555555"
       }
     },
     {
@@ -47999,9 +47999,9 @@
       "properties": {
         "title": "KGYI",
         "type": "small_airport",
-        "description": "North Texas Regional Airport/Perrin Field",
+        "description": "North Texas Regional Airport Perrin Field",
         "elevation": 749,
-        "municipality": "Sherman/Denison",
+        "municipality": "Denison",
         "fileSize": 968,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -48559,8 +48559,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.58699798583984,
-          40.152198791503906,
+          -97.583953,
+          40.151884,
           446.83680000000004
         ]
       },
@@ -50159,15 +50159,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.60649872,
-          39.67869949,
+          -75.606499,
+          39.678699,
           24.384
         ]
       },
       "properties": {
         "title": "KILG",
         "type": "large_airport",
-        "description": "New Castle Airport",
+        "description": "Wilmington Airport",
         "elevation": 80,
         "municipality": "Wilmington",
         "fileSize": 1384,
@@ -58017,7 +58017,7 @@
       "properties": {
         "title": "KOAK",
         "type": "large_airport",
-        "description": "Metropolitan Oakland International Airport",
+        "description": "San Francisco Bay Oakland International Airport",
         "elevation": 9,
         "municipality": "Oakland",
         "fileSize": 1512,
@@ -59839,14 +59839,14 @@
         "coordinates": [
           -81.990501,
           26.9202,
-          7.62
+          7.9248
         ]
       },
       "properties": {
         "title": "KPGD",
         "type": "small_airport",
-        "description": "Charlotte County Airport",
-        "elevation": 25,
+        "description": "Punta Gorda Airport",
+        "elevation": 26,
         "municipality": "Punta Gorda",
         "fileSize": 1008,
         "marker-symbol": "airport",
@@ -61181,17 +61181,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.110001,
-          46.7439,
+          -117.11163,
+          46.741601,
           779.0688
         ]
       },
       "properties": {
         "title": "KPUW",
         "type": "small_airport",
-        "description": "Pullman Moscow Regional Airport",
+        "description": "Pullman-Moscow Regional Airport",
         "elevation": 2556,
-        "municipality": "Pullman/Moscow",
+        "municipality": "Pullman",
         "fileSize": 936,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -64345,7 +64345,7 @@
       "properties": {
         "title": "KSLE",
         "type": "large_airport",
-        "description": "Salem Municipal Airport/McNary Field",
+        "description": "Salem-Willamette Valley Airport/McNary Field",
         "elevation": 214,
         "municipality": "Salem",
         "fileSize": 1232,
@@ -67420,7 +67420,7 @@
       "properties": {
         "title": "KUNV",
         "type": "closed",
-        "description": "University Park Airport",
+        "description": "State College Regional Airport",
         "elevation": 1239,
         "municipality": "State College",
         "fileSize": 920,
@@ -69057,8 +69057,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.515199661254883,
-          42.56959915161133,
+          27.515173,
+          42.569917,
           41.148
         ]
       },
@@ -69395,17 +69395,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.3930997849,
-          44.5657997131,
+          14.393883,
+          44.566985,
           46.0248
         ]
       },
       "properties": {
         "title": "LDLO",
         "type": "small_airport",
-        "description": "Lošinj Island Airport",
+        "description": "Lošinj Airport",
         "elevation": 151,
-        "municipality": "Lošinj",
+        "municipality": "Mali Lošinj",
         "fileSize": 1048,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -69416,8 +69416,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.6319444,
-          45.5427778,
+          18.631944,
+          45.542778,
           91.1352
         ]
       },
@@ -69426,7 +69426,7 @@
         "type": "small_airport",
         "description": "Osijek-Čepin Airfield",
         "elevation": 299,
-        "municipality": "Čepin",
+        "municipality": "Osijek",
         "fileSize": 928,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -69437,8 +69437,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.8102,
-          45.4627,
+          18.811278,
+          45.462355,
           88.39200000000001
         ]
       },
@@ -69447,7 +69447,7 @@
         "type": "closed",
         "description": "Osijek Airport",
         "elevation": 290,
-        "municipality": "Osijek",
+        "municipality": "Klisa",
         "fileSize": 912,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -69508,9 +69508,9 @@
       "properties": {
         "title": "LDRG",
         "type": "closed",
-        "description": "Grobnicko Polje Airfield",
+        "description": "Grobničko Polje Airfield",
         "elevation": 951,
-        "municipality": "Grobnicko",
+        "municipality": "Soboli",
         "fileSize": 920,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -69531,7 +69531,7 @@
         "type": "medium_airport",
         "description": "Rijeka Airport",
         "elevation": 278,
-        "municipality": "Rijeka",
+        "municipality": "Omišalj",
         "fileSize": 1080,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -69542,8 +69542,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.679701,
-          43.285702,
+          16.678362,
+          43.284454,
           541.3248
         ]
       },
@@ -69552,7 +69552,7 @@
         "type": "closed",
         "description": "Brač Airport",
         "elevation": 1776,
-        "municipality": "Bol",
+        "municipality": "Gornji Humac",
         "fileSize": 912,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -69563,8 +69563,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.29800033569336,
-          43.53889846801758,
+          16.298,
+          43.538898,
           24.0792
         ]
       },
@@ -69676,9 +69676,9 @@
       "properties": {
         "title": "LDZA",
         "type": "medium_airport",
-        "description": "Zagreb Airport",
+        "description": "Zagreb Franjo Tuđman International Airport",
         "elevation": 353,
-        "municipality": "Zagreb",
+        "municipality": "Velika Gorica",
         "fileSize": 1088,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
@@ -71238,7 +71238,7 @@
         "type": "small_airport",
         "description": "Montluçon-Guéret Airport",
         "elevation": 1497,
-        "municipality": "Montluçon/Guéret",
+        "municipality": "Lépaud, Creuse",
         "fileSize": 984,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -72413,7 +72413,7 @@
       "properties": {
         "title": "LFGP",
         "type": "small_airport",
-        "description": "Saint-Florentin - Chéu Airport",
+        "description": "Saint-Florentin - Chéu Airfield",
         "elevation": 351,
         "municipality": "Jaulges, Yonne",
         "fileSize": 1048,
@@ -72564,6 +72564,27 @@
         "elevation": 857,
         "municipality": "Bourg/Ceyzériat",
         "fileSize": 1016,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.083604,
+          45.087399,
+          1859.8896000000002
+        ]
+      },
+      "properties": {
+        "title": "LFHU",
+        "type": "medium_airport",
+        "description": "Altiport L'Alpe d'Huez - Henri GIRAUD",
+        "elevation": 6102,
+        "municipality": "L'Alpe d'Huez",
+        "fileSize": 1176,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -73025,7 +73046,7 @@
         "type": "medium_airport",
         "description": "Clermont-Ferrand Auvergne Airport",
         "elevation": 1090,
-        "municipality": "Clermont-Ferrand/Auvergne",
+        "municipality": "Aulnat, Puy-de-Dôme",
         "fileSize": 1160,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -73036,8 +73057,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.37028,
-          47.058102,
+          2.369633,
+          47.060158,
           161.2392
         ]
       },
@@ -73046,7 +73067,7 @@
         "type": "small_airport",
         "description": "Bourges Airport",
         "elevation": 529,
-        "municipality": "Bourges",
+        "municipality": "Bourges, Cher",
         "fileSize": 960,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -73120,8 +73141,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.081111,
-          45.725556,
+          5.090139,
+          45.725996,
           250.2408
         ]
       },
@@ -73130,7 +73151,7 @@
         "type": "large_airport",
         "description": "Lyon Saint-Exupéry Airport",
         "elevation": 821,
-        "municipality": "Lyon",
+        "municipality": "Colombier-Saugnieu, Rhône",
         "fileSize": 1240,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
@@ -73309,8 +73330,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.40374,
-          46.169701,
+          3.403637,
+          46.16969,
           249.0216
         ]
       },
@@ -73319,7 +73340,7 @@
         "type": "small_airport",
         "description": "Vichy-Charmeil Airport",
         "elevation": 817,
-        "municipality": "Vichy/Charmeil",
+        "municipality": "Charmeil, Allier",
         "fileSize": 968,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -73372,17 +73393,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.94427,
-          45.7272,
+          4.943991,
+          45.727947,
           200.8632
         ]
       },
       "properties": {
         "title": "LFLY",
         "type": "small_airport",
-        "description": "Lyon-Bron Airport",
+        "description": "Lyon Bron Airport",
         "elevation": 659,
-        "municipality": "Lyon/Bron",
+        "municipality": "Chassieu, Lyon",
         "fileSize": 936,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -73530,7 +73551,7 @@
         "type": "large_airport",
         "description": "Marseille Provence Airport",
         "elevation": 74,
-        "municipality": "Marseille",
+        "municipality": "Marignane, Bouches-du-Rhône",
         "fileSize": 1384,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
@@ -73551,7 +73572,7 @@
         "type": "large_airport",
         "description": "Nice-Côte d'Azur Airport",
         "elevation": 12,
-        "municipality": "Nice",
+        "municipality": "Nice, Alpes-Maritimes",
         "fileSize": 1376,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
@@ -73931,7 +73952,7 @@
         "type": "medium_airport",
         "description": "Berre-la-Fare Airfield",
         "elevation": 108,
-        "municipality": "Berre-l'Étang",
+        "municipality": "Berre-l'Étang, Bouches-du-Rhône",
         "fileSize": 1144,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -74282,17 +74303,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.727605998516,
-          47.4322013855,
+          0.727606,
+          47.432201,
           108.81360000000001
         ]
       },
       "properties": {
         "title": "LFOT",
         "type": "closed",
-        "description": "Tours-Val-de-Loire Airport",
+        "description": "Tours Val de Loire Airport",
         "elevation": 357,
-        "municipality": "Tours/Val de Loire (Loire Valley)",
+        "municipality": "Tours, Indre-et-Loire",
         "fileSize": 920,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -76967,8 +76988,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.240996,
-          45.990898,
+          18.242044,
+          45.988891,
           198.4248
         ]
       },
@@ -76977,7 +76998,7 @@
         "type": "medium_airport",
         "description": "Pécs-Pogány Airport",
         "elevation": 651,
-        "municipality": "Pécs-Pogány",
+        "municipality": "Pogány",
         "fileSize": 1120,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -77644,8 +77665,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.6628,
-          44.698299,
+          10.666031,
+          44.697701,
           46.3296
         ]
       },
@@ -77654,7 +77675,7 @@
         "type": "medium_airport",
         "description": "Reggio Emilia Airport",
         "elevation": 152,
-        "municipality": "Reggio Emilia",
+        "municipality": "Reggio Emilia (RE)",
         "fileSize": 1072,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -77694,7 +77715,7 @@
       "properties": {
         "title": "LIDG",
         "type": "medium_airport",
-        "description": "Lugo Francesco Baracca Airport",
+        "description": "Lugo Francesco Baracca Airfield",
         "elevation": 62,
         "municipality": "Lugo",
         "fileSize": 1088,
@@ -78052,7 +78073,7 @@
       "properties": {
         "title": "LILE",
         "type": "medium_airport",
-        "description": "Biella-Cerrione Airport",
+        "description": "Biella-Cerrione Airfield",
         "elevation": 920,
         "municipality": "Cerrione (BI)",
         "fileSize": 1056,
@@ -78776,7 +78797,7 @@
         "type": "small_airport",
         "description": "Modena-Marzaglia Airfield",
         "elevation": 184,
-        "municipality": "Modena",
+        "municipality": "Marzaglia (MO)",
         "fileSize": 1032,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -79340,17 +79361,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.2051,
-          43.810001,
+          11.202822,
+          43.808558,
           43.281600000000005
         ]
       },
       "properties": {
         "title": "LIRQ",
         "type": "large_airport",
-        "description": "Peretola Airport",
+        "description": "Florence Airport, Peretola",
         "elevation": 142,
-        "municipality": "Firenze",
+        "municipality": "Firenze (FI)",
         "fileSize": 1232,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -80608,8 +80629,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.38859939575195,
-          31.32819938659668,
+          35.388599,
+          31.328199,
           -385.8768
         ]
       },
@@ -81739,9 +81760,9 @@
       "properties": {
         "title": "LR80",
         "type": "small_airbase",
-        "description": "Feteşti Air Base",
+        "description": "Feteşti Borcea Air Base",
         "elevation": 180,
-        "municipality": "Feteşti",
+        "municipality": "Borcea",
         "fileSize": 928,
         "marker-symbol": "airport",
         "marker-color": "#555555",
@@ -81775,8 +81796,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.261999130249023,
-          46.17660140991211,
+          21.261999,
+          46.176601,
           107.28960000000001
         ]
       },
@@ -81796,15 +81817,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.91029930114746,
-          46.52190017700195,
+          26.910299,
+          46.5219,
           185.0136
         ]
       },
       "properties": {
         "title": "LRBC",
         "type": "medium_airport",
-        "description": "Bacău Airport",
+        "description": "Bacău George Enescu International  Airport",
         "elevation": 607,
         "municipality": "Bacău",
         "fileSize": 1128,
@@ -81817,8 +81838,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.467252,
-          47.660598,
+          23.464445,
+          47.658444,
           184.404
         ]
       },
@@ -81827,7 +81848,7 @@
         "type": "small_airport",
         "description": "Maramureș International Airport",
         "elevation": 605,
-        "municipality": "Baia Mare",
+        "municipality": "Tăuții-Măgherăuș",
         "fileSize": 976,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -81859,8 +81880,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.488300323486328,
-          44.36220169067383,
+          28.4883,
+          44.362202,
           107.59440000000001
         ]
       },
@@ -81869,7 +81890,7 @@
         "type": "closed",
         "description": "Mihail Kogălniceanu International Airport",
         "elevation": 353,
-        "municipality": "Constanţa",
+        "municipality": "Mihail Kogălniceanu",
         "fileSize": 712,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -82049,15 +82070,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.885700225830078,
-          47.70330047607422,
+          22.8857,
+          47.7033,
           123.444
         ]
       },
       "properties": {
         "title": "LRSM",
         "type": "closed",
-        "description": "Satu Mare Airport",
+        "description": "Satu Mare International Airport",
         "elevation": 405,
         "municipality": "Satu Mare",
         "fileSize": 920,
@@ -82120,9 +82141,9 @@
       "properties": {
         "title": "LRTM",
         "type": "medium_airport",
-        "description": "Transilvania Târgu Mureş International Airport",
+        "description": "Târgu Mureş Transilvania International Airport",
         "elevation": 963,
-        "municipality": "Târgu Mureş",
+        "municipality": "Recea",
         "fileSize": 1080,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -83298,17 +83319,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.926000595092773,
-          39.619300842285156,
+          27.926001,
+          39.619301,
           103.632
         ]
       },
       "properties": {
         "title": "LTBF",
         "type": "small_airport",
-        "description": "Balıkesir Merkez Airport",
+        "description": "Balıkesir Airport",
         "elevation": 340,
-        "municipality": "",
+        "municipality": "Balıkesir",
         "fileSize": 992,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -83489,8 +83510,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.3757,
-          40.684399,
+          29.37707,
+          40.686279,
           1.8288000000000002
         ]
       },
@@ -84520,17 +84541,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.445556,
-          44.939722,
+          20.445828,
+          44.939858,
           71.0184
         ]
       },
       "properties": {
         "title": "LYBJ",
         "type": "small_airport",
-        "description": "Lisicji Jarak Airfield",
+        "description": "Lisičji Jarak Airfield",
         "elevation": 233,
-        "municipality": "Belgrade",
+        "municipality": "Palilula",
         "fileSize": 960,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -84773,15 +84794,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.241100311279297,
-          48.66310119628906,
+          21.2411,
+          48.663101,
           230.12400000000002
         ]
       },
       "properties": {
         "title": "LZKZ",
         "type": "large_airport",
-        "description": "Košice Airport",
+        "description": "Košice International Airport",
         "elevation": 755,
         "municipality": "Košice",
         "fileSize": 1280,
@@ -121402,8 +121423,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.263399124145508,
-          48.634300231933594,
+          22.263399,
+          48.6343,
           116.73840000000001
         ]
       },
@@ -139484,8 +139505,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          109.860172,
-          39.493389,
+          109.863888,
+          39.491666,
           1388.9736
         ]
       },
@@ -139806,11 +139827,11 @@
       },
       "properties": {
         "title": "ZGGG",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Guangzhou Baiyun International Airport",
         "elevation": 50,
         "municipality": "Guangzhou (Huadu)",
-        "fileSize": 1000,
+        "fileSize": 1616,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
