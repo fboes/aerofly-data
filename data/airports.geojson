@@ -14030,8 +14030,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.8583329916,
-          53.559700012200004,
+          -0.859043,
+          53.559358,
           3.3528000000000002
         ]
       },
@@ -14040,7 +14040,7 @@
         "type": "medium_airport",
         "description": "Sandtoft Airfield",
         "elevation": 11,
-        "municipality": "Belton",
+        "municipality": "Doncaster, South Yorkshire",
         "fileSize": 1072,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -14093,8 +14093,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.010656,
-          53.480538,
+          -1.004267,
+          53.475287,
           16.764
         ]
       },
@@ -14103,7 +14103,7 @@
         "type": "large_airport",
         "description": "Robin Hood Doncaster Sheffield Airport",
         "elevation": 55,
-        "municipality": "Doncaster",
+        "municipality": "Doncaster, South Yorkshire",
         "fileSize": 1272,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -14293,13 +14293,14 @@
       },
       "properties": {
         "title": "EGDM",
-        "type": "large_airport",
+        "type": "large_airbase",
         "description": "MoD Boscombe Down",
         "elevation": 407,
         "municipality": "Amesbury",
         "fileSize": 1216,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -14394,17 +14395,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.43575,
-          51.4048,
+          -3.433254,
+          51.405229,
           49.6824
         ]
       },
       "properties": {
         "title": "EGDX",
         "type": "large_airbase",
-        "description": "St. Athan Air Base",
+        "description": "MOD St Athan",
         "elevation": 163,
-        "municipality": "St. Athan",
+        "municipality": "St Athan, Vale of Glamorgan",
         "fileSize": 1208,
         "marker-symbol": "airport",
         "marker-color": "#555555",
@@ -14763,7 +14764,7 @@
         "type": "large_airport",
         "description": "Cardiff International Airport",
         "elevation": 220,
-        "municipality": "Cardiff",
+        "municipality": "Rhoose, Vale of Glamorgan",
         "fileSize": 1248,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -14774,8 +14775,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0678300857543945,
-          51.60530090332031,
+          -4.071006,
+          51.601366,
           91.1352
         ]
       },
@@ -14795,17 +14796,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.312220096588135,
-          51.71390151977539,
+          -4.31222,
+          51.713902,
           4.572
         ]
       },
       "properties": {
         "title": "EGFP",
         "type": "small_airport",
-        "description": "Pembrey Airport",
+        "description": "Pembrey West Wales Airport",
         "elevation": 15,
-        "municipality": "Pembrey",
+        "municipality": "Pembrey, Carmarthenshire",
         "fileSize": 1040,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -14921,8 +14922,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.10583,
-          50.422798,
+          -4.109439,
+          50.424282,
           145.0848
         ]
       },
@@ -14931,7 +14932,7 @@
         "type": "medium_airport",
         "description": "Plymouth City Airport",
         "elevation": 476,
-        "municipality": "Plymouth",
+        "municipality": "Plymouth, Devon",
         "fileSize": 1056,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -16354,8 +16355,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.256669998168945,
-          55.68190002441406,
+          -6.257525,
+          55.682708,
           17.0688
         ]
       },
@@ -16364,7 +16365,7 @@
         "type": "large_airport",
         "description": "Islay Airport",
         "elevation": 56,
-        "municipality": "Port Ellen",
+        "municipality": "Isle of Islay, Argyll and Bute",
         "fileSize": 1224,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -16902,8 +16903,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.41389,
-          50.734402,
+          -3.413984,
+          50.734261,
           31.0896
         ]
       },
@@ -16912,7 +16913,7 @@
         "type": "large_airport",
         "description": "Exeter International Airport",
         "elevation": 102,
-        "municipality": "Exeter",
+        "municipality": "Exeter, Devon",
         "fileSize": 1224,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -17071,8 +17072,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.3166699409500002,
-          51.690299987799996,
+          -1.316568,
+          51.690614,
           78.9432
         ]
       },
@@ -17081,7 +17082,7 @@
         "type": "medium_airbase",
         "description": "RAF Abingdon",
         "elevation": 259,
-        "municipality": "Abingdon",
+        "municipality": "Abingdon, Oxfordshire",
         "fileSize": 1160,
         "marker-symbol": "airfield",
         "marker-color": "#777777",
@@ -17145,7 +17146,7 @@
       "properties": {
         "title": "EGUO",
         "type": "medium_airbase",
-        "description": "RAF Colerne Air Base",
+        "description": "RAF Colerne",
         "elevation": 593,
         "municipality": "Colerne",
         "fileSize": 1200,
@@ -28078,9 +28079,9 @@
       "properties": {
         "title": "FTTY",
         "type": "small_airport",
-        "description": "Faya Largeau Airport",
+        "description": "Faya-Largeau Airport",
         "elevation": 771,
-        "municipality": "",
+        "municipality": "Faya-Largeau",
         "fileSize": 928,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -29459,7 +29460,7 @@
         "type": "Point",
         "coordinates": [
           -1.4285,
-          51.928166666699994,
+          51.928167,
           167.64000000000001
         ]
       },
@@ -29468,7 +29469,7 @@
         "type": "small_airport",
         "description": "Enstone Aerodrome",
         "elevation": 550,
-        "municipality": "Oxfordshire",
+        "municipality": "Chipping Norton, Oxfordshire",
         "fileSize": 976,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -71712,17 +71713,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.42389,
-          45.534698,
+          2.424474,
+          45.535738,
           740.0544
         ]
       },
       "properties": {
         "title": "LFCU",
         "type": "small_airport",
-        "description": "Aérodrome d'Ussel-Thalamy",
+        "description": "Ussel-Thalamy Airfield",
         "elevation": 2428,
-        "municipality": "Ussel",
+        "municipality": "Ussel, Corrèze",
         "fileSize": 960,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -72100,7 +72101,7 @@
         "type": "small_airport",
         "description": "Montargis Vimory Airfield",
         "elevation": 308,
-        "municipality": "Montargis",
+        "municipality": "Vimory, Loiret",
         "fileSize": 960,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -72793,7 +72794,7 @@
         "type": "small_airport",
         "description": "Angers-Loire Airport",
         "elevation": 194,
-        "municipality": "TFFR",
+        "municipality": "Marcé, Maine-et-Loire",
         "fileSize": 1008,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -74207,7 +74208,7 @@
         "type": "small_airbase",
         "description": "Orléans-Bricy (BA 123) Air Base",
         "elevation": 412,
-        "municipality": "Orléans/Bricy",
+        "municipality": "Boulay-les-Barres, Loiret",
         "fileSize": 976,
         "marker-symbol": "airport",
         "marker-color": "#555555",
@@ -74240,17 +74241,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.50667,
-          49.203098,
+          -1.507983,
+          49.202276,
           28.041600000000003
         ]
       },
       "properties": {
         "title": "LFOM",
         "type": "closed",
-        "description": "Aérodrome de Lessay",
+        "description": "Lessay Airfield",
         "elevation": 92,
-        "municipality": "Lessay",
+        "municipality": "Lessay, Basse-Normandie",
         "fileSize": 912,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -74290,9 +74291,9 @@
       "properties": {
         "title": "LFOQ",
         "type": "medium_airport",
-        "description": "Aérodrome de Blois-Le Breuil",
+        "description": "Blois-Le Breuil Airfield",
         "elevation": 398,
-        "municipality": "Blois/Le Breuil",
+        "municipality": "Villefrancœur, Loire-et-Cher",
         "fileSize": 1160,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -75073,7 +75074,7 @@
         "type": "large_airport",
         "description": "Dinard-Pleurtuit-Saint-Malo Airport",
         "elevation": 219,
-        "municipality": "Dinard/Pleurtuit/Saint-Malo",
+        "municipality": "Pleurtuit, Ille-et-Vilaine",
         "fileSize": 1224,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -75084,17 +75085,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.154306,
-          49.365299,
+          0.154481,
+          49.365237,
           145.9992
         ]
       },
       "properties": {
         "title": "LFRG",
         "type": "medium_airport",
-        "description": "Deauville-Saint-Gatien Airport",
+        "description": "Deauville-Normandie Airport",
         "elevation": 479,
-        "municipality": "Deauville",
+        "municipality": "Deauville, Calvados",
         "fileSize": 1184,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -75169,8 +75170,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.45,
-          49.173302,
+          -0.454883,
+          49.17678,
           78.0288
         ]
       },
@@ -75179,7 +75180,7 @@
         "type": "large_airport",
         "description": "Caen-Carpiquet Airport",
         "elevation": 256,
-        "municipality": "Caen/Carpiquet",
+        "municipality": "Carpiquet, Calvados",
         "fileSize": 1320,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -75212,8 +75213,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.201667,
-          47.948601,
+          0.201702,
+          47.948604,
           59.1312
         ]
       },
@@ -75222,7 +75223,7 @@
         "type": "small_airport",
         "description": "Le Mans-Arnage Airport",
         "elevation": 194,
-        "municipality": "Le Mans/Arnage",
+        "municipality": "Le Mans, Sarthe",
         "fileSize": 976,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -75243,7 +75244,7 @@
         "type": "large_airport",
         "description": "Rennes-Saint-Jacques Airport",
         "elevation": 124,
-        "municipality": "Rennes/Saint-Jacques",
+        "municipality": "Saint-Jacques-de-la-Lande, Ille-et-Vilaine",
         "fileSize": 1272,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -75317,8 +75318,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.85444,
-          48.5378,
+          -2.853518,
+          48.538628,
           138.0744
         ]
       },
@@ -75327,7 +75328,7 @@
         "type": "small_airport",
         "description": "Saint-Brieuc-Armor Airport",
         "elevation": 453,
-        "municipality": "Saint-Brieuc/Armor",
+        "municipality": "Trémuson, Côtes-d'Armor",
         "fileSize": 984,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -82547,7 +82548,7 @@
       "properties": {
         "title": "LSTS",
         "type": "medium_airport",
-        "description": "Sankt Stephan Airport",
+        "description": "Sankt Stephan Airfield",
         "elevation": 3304,
         "municipality": "Sankt Stephan",
         "fileSize": 1128,
@@ -109529,8 +109530,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -51.1863899230957,
-          -21.898889541625977,
+          -51.178021,
+          -21.892177,
           445.00800000000004
         ]
       },

@@ -109,7 +109,7 @@ airportsRecords.forEach(
 
       const isMilitary =
         airportsRecord[3].match(
-          /\b(base|rnas|raf|naval|air\s?force|coast\s?guard|army|afs)\b/i
+          /\b(base|rnas|raf|naval|air\s?force|coast\s?guard|army|afs|mod)\b/i
         ) !== null;
       let type = airportsRecord[2];
       if (isMilitary) {
