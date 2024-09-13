@@ -14911,7 +14911,7 @@
         "type": "large_airport",
         "description": "Land's End Airport",
         "elevation": 398,
-        "municipality": "Land's End",
+        "municipality": "Land's End, Cornwall",
         "fileSize": 1280,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -19984,8 +19984,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.3239,
-          60.2173,
+          10.318737,
+          60.214672,
           199.9488
         ]
       },
@@ -20257,8 +20257,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.0361,
-          59.969299,
+          11.040482,
+          59.969089,
           107.89920000000001
         ]
       },
@@ -35429,15 +35429,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.466904,
-          41.037498,
+          -81.46784,
+          41.037355,
           325.2216
         ]
       },
       "properties": {
         "title": "KAKR",
         "type": "small_airport",
-        "description": "Akron Executive Airport",
+        "description": "Akron Fulton International Airport",
         "elevation": 1067,
         "municipality": "Akron",
         "fileSize": 984,
@@ -52375,7 +52375,7 @@
       "properties": {
         "title": "KLGA",
         "type": "medium_airport",
-        "description": "La Guardia Airport",
+        "description": "LaGuardia Airport",
         "elevation": 21,
         "municipality": "New York",
         "fileSize": 1136,
@@ -61834,8 +61834,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.1500015,
-          44.2541008,
+          -121.150002,
+          44.254101,
           938.784
         ]
       },
@@ -74098,14 +74098,13 @@
       },
       "properties": {
         "title": "LFOC",
-        "type": "small_airbase",
-        "description": "Châteaudun (BA 279) Air Base",
+        "type": "small_airport",
+        "description": "Châteaudun",
         "elevation": 433,
         "municipality": "Châteaudun",
         "fileSize": 936,
         "marker-symbol": "airport",
-        "marker-color": "#555555",
-        "isMilitary": true
+        "marker-color": "#555555"
       }
     },
     {
@@ -87065,17 +87064,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.246685,
-          20.679746,
+          -105.254391,
+          20.679913,
           7.010400000000001
         ]
       },
       "properties": {
         "title": "MMPR",
         "type": "small_airport",
-        "description": "Aeropuerto Internacional Lic. Gustavo Díaz Ordaz",
+        "description": "Puerto Vallarta International Airport",
         "elevation": 23,
-        "municipality": "Ciudad de Puerto Vallarta",
+        "municipality": "Puerto Vallarta",
         "fileSize": 928,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
@@ -94588,7 +94587,7 @@
       "properties": {
         "title": "OMAA",
         "type": "small_airport",
-        "description": "Abu Dhabi International Airport",
+        "description": "Zayed International Airport",
         "elevation": 88,
         "municipality": "Abu Dhabi",
         "fileSize": 1016,
@@ -99319,7 +99318,7 @@
         "type": "small_airport",
         "description": "Taiwan Taoyuan International Airport",
         "elevation": 106,
-        "municipality": "Taoyuan (Dayuan)",
+        "municipality": "Taoyuan",
         "fileSize": 1000,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
@@ -109572,16 +109571,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.562293,
-          -22.430735,
-          599.8464
+          -47.562291,
+          -22.430767,
+          608.9904
         ]
       },
       "properties": {
         "title": "SDRK",
         "type": "closed",
         "description": "Rio Claro Airport",
-        "elevation": 1968,
+        "elevation": 1998,
         "municipality": "Rio Claro",
         "fileSize": 920,
         "marker-symbol": "airfield",
@@ -113920,17 +113919,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -42.045101165771484,
-          -16.85260009765625,
-          359.96880000000004
+          -42.045633,
+          -16.851571,
+          327.9648
         ]
       },
       "properties": {
         "title": "SNUI",
         "type": "closed",
-        "description": "Araçuai Airport",
-        "elevation": 1181,
-        "municipality": "Araçuai",
+        "description": "Araçuaí Airport",
+        "elevation": 1076,
+        "municipality": "Araçuaí",
         "fileSize": 904,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -115435,8 +115434,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -51.531700134277344,
-          -29.269399642944336,
+          -51.531674,
+          -29.269047,
           680.0088000000001
         ]
       },
@@ -119111,8 +119110,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.220001220703125,
-          17.645000457763672,
+          -63.220571,
+          17.645351,
           18.288
         ]
       },
@@ -119123,8 +119122,8 @@
         "elevation": 60,
         "municipality": "Saba",
         "fileSize": 1192,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -131702,8 +131701,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.531997681,
-          0.922683000565,
+          104.53341,
+          0.92397,
           15.8496
         ]
       },
@@ -131723,8 +131722,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.579002,
-          -0.479189,
+          104.579498,
+          -0.479611,
           28.956000000000003
         ]
       },
@@ -138771,16 +138770,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.89999389648438,
-          -31.441699981689453,
-          128.32080000000002
+          148.897796,
+          -31.44306,
+          416.052
         ]
       },
       "properties": {
         "title": "YTWN",
         "type": "closed",
         "description": "Tooraweenah Airport",
-        "elevation": 421,
+        "elevation": 1365,
         "municipality": "",
         "fileSize": 912,
         "marker-symbol": "airfield",

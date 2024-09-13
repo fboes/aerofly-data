@@ -71,91 +71,89 @@ process.stderr
 `);
 
 const airportsSource = fs.readFileSync(`tmp/airports.csv`);
+/** @type {string[][]} with a single CSV line from airports.csv */
 const airportsRecords = parse(airportsSource, { bom: true });
 
 let airportsRecordsProcessed = 0;
-airportsRecords.forEach(
-  /** @param {string[]} airportsRecord with a single CSV line from airports.csv */
-  (airportsRecord) => {
-    // 'id',             'ident',
-    // 'type',           'name',
-    // 'latitude_deg',   'longitude_deg',
-    // 'elevation_ft',   'continent',
+for (const airportsRecord of airportsRecords) {
+  // 'id',             'ident',
+  // 'type',           'name',
+  // 'latitude_deg',   'longitude_deg',
+  // 'elevation_ft',   'continent',
 
-    // 3685,"KMIA","large_airport","Miami International Airport",25.79319953918457,-80.29060363769531,8,"NA","US","US-FL","Miami","yes","KMIA","MIA","MIA","http://www.miami-airport.com/","https://en.wikipedia.org/wiki/
+  // 3685,"KMIA","large_airport","Miami International Airport",25.79319953918457,-80.29060363769531,8,"NA","US","US-FL","Miami","yes","KMIA","MIA","MIA","http://www.miami-airport.com/","https://en.wikipedia.org/wiki/
 
-    const icaoCode = airportsRecord[1];
-    const icaoCodeAlternate = airportsRecord[12];
+  const icaoCode = airportsRecord[1];
+  const icaoCodeAlternate = airportsRecord[12];
 
-    // EL = Europe
-    // K = US
-    if (
-      icaoFilter &&
-      !icaoCode.match(icaoFilter) &&
-      !icaoCodeAlternate.match(icaoFilter)
-    ) {
-      return;
-    }
-
-    airportsRecordsProcessed++;
-
-    const length =
-      aeroflyAirports.get(icaoCode) ?? aeroflyAirports.get(icaoCodeAlternate);
-
-    if (length !== undefined) {
-      // Remove airport from list of Aerofly FS4 Airports
-      aeroflyAirports.delete(icaoCode) ||
-        aeroflyAirports.delete(icaoCodeAlternate);
-
-      const isMilitary =
-        airportsRecord[3].match(
-          /\b(base|rnas|raf|naval|air\s?force|coast\s?guard|army|afs|mod)\b/i
-        ) !== null;
-      let type = airportsRecord[2];
-      if (isMilitary) {
-        type = type.replace(/port/, "base");
-      }
-
-      const feature = new GeoJSON.Feature(
-        new GeoJSON.Point(
-          Number(airportsRecord[5]),
-          Number(airportsRecord[4]),
-          Number(airportsRecord[6]) * 0.3048
-        ),
-        {
-          title: icaoCode,
-          type: geoJsonType(type, isMilitary, length),
-          description: airportsRecord[3],
-          elevation: Number(airportsRecord[6]),
-          municipality: airportsRecord[10],
-          fileSize: Math.ceil(length),
-          "marker-symbol": airportsRecord[2].match(/heliport/)
-            ? "heliport"
-            : airportsRecord[2].match(/small/)
-              ? "airfield"
-              : "airport",
-          "marker-color": airportsRecord[2].match(/large/)
-            ? "#5e6eba"
-            : airportsRecord[2].match(/small/)
-              ? "#777777"
-              : "#555555",
-        }
-      );
-      if (isMilitary) {
-        feature.setProperty("isMilitary", true);
-      }
-
-      aeroflyGeoJson.addFeature(feature);
-    }
-
-    if (airportsRecordsProcessed % 5000 === 0) {
-      const index = aeroflyAirportsLength - aeroflyAirports.size;
-      process.stderr
-        .write(`  Processed \x1b[92m${String(airportsRecordsProcessed).padStart(5)}\x1b[0m airport records, found \x1b[92m${String(index).padStart(5)}\x1b[0m Aerofly FS Airports
-`);
-    }
+  // EL = Europe
+  // K = US
+  if (
+    icaoFilter &&
+    !icaoCode.match(icaoFilter) &&
+    !icaoCodeAlternate.match(icaoFilter)
+  ) {
+    continue;
   }
-);
+
+  airportsRecordsProcessed++;
+
+  const length =
+    aeroflyAirports.get(icaoCode) ?? aeroflyAirports.get(icaoCodeAlternate);
+
+  if (length !== undefined) {
+    // Remove airport from list of Aerofly FS4 Airports
+    aeroflyAirports.delete(icaoCode) ||
+      aeroflyAirports.delete(icaoCodeAlternate);
+
+    const isMilitary =
+      airportsRecord[3].match(
+        /\b(base|rnas|raf|naval|air\s?force|coast\s?guard|army|afs|mod)\b/i
+      ) !== null;
+    let type = airportsRecord[2];
+    if (isMilitary) {
+      type = type.replace(/port/, "base");
+    }
+
+    const feature = new GeoJSON.Feature(
+      new GeoJSON.Point(
+        Number(airportsRecord[5]),
+        Number(airportsRecord[4]),
+        Number(airportsRecord[6]) * 0.3048
+      ),
+      {
+        title: icaoCode,
+        type: geoJsonType(type, isMilitary, length),
+        description: airportsRecord[3],
+        elevation: Number(airportsRecord[6]),
+        municipality: airportsRecord[10],
+        fileSize: Math.ceil(length),
+        "marker-symbol": airportsRecord[2].match(/heliport/)
+          ? "heliport"
+          : airportsRecord[2].match(/small/)
+            ? "airfield"
+            : "airport",
+        "marker-color": airportsRecord[2].match(/large/)
+          ? "#5e6eba"
+          : airportsRecord[2].match(/small/)
+            ? "#777777"
+            : "#555555",
+      }
+    );
+    if (isMilitary) {
+      feature.setProperty("isMilitary", true);
+    }
+
+    aeroflyGeoJson.addFeature(feature);
+  }
+
+  if (airportsRecordsProcessed % 5000 === 0) {
+    const index = aeroflyAirportsLength - aeroflyAirports.size;
+    process.stderr
+      .write(`  Processed \x1b[92m${String(airportsRecordsProcessed).padStart(5)}\x1b[0m airport records, found \x1b[92m${String(index).padStart(5)}\x1b[0m Aerofly FS Airports
+`);
+  }
+}
 
 process.stdout.write(JSON.stringify(aeroflyGeoJson, null, 2));
 if (aeroflyAirports.size > 0) {
