@@ -43338,6 +43338,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -109.57499694824,
+          36.110900878906,
+          1690.7256
+        ]
+      },
+      "properties": {
+        "title": "KE91",
+        "type": "medium_airport",
+        "description": "Chinle Municipal Airport",
+        "elevation": 5547,
+        "municipality": "Chinle",
+        "fileSize": 1072,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -104.929001,
           42.0555,
           1455.7248000000002
@@ -101199,11 +101220,11 @@
       },
       "properties": {
         "title": "RKJB",
-        "type": "closed",
+        "type": "medium_airport",
         "description": "Muan International Airport",
         "elevation": 35,
         "municipality": "Piseo-ri (Muan)",
-        "fileSize": 904,
+        "fileSize": 1184,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -101454,11 +101475,11 @@
       },
       "properties": {
         "title": "RKSI",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Incheon International Airport",
         "elevation": 23,
         "municipality": "Seoul",
-        "fileSize": 1056,
+        "fileSize": 1360,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -105021,7 +105042,7 @@
         "description": "Aracaju - Santa Maria International Airport",
         "elevation": 139,
         "municipality": "Aracaju",
-        "fileSize": 1104,
+        "fileSize": 1144,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -105606,11 +105627,11 @@
       },
       "properties": {
         "title": "SBCT",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Afonso Pena Airport",
         "elevation": 2988,
         "municipality": "Curitiba",
-        "fileSize": 1176,
+        "fileSize": 1296,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -106240,7 +106261,7 @@
         "description": "Presidente Castro Pinto International Airport",
         "elevation": 217,
         "municipality": "João Pessoa",
-        "fileSize": 1120,
+        "fileSize": 1200,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -107267,11 +107288,11 @@
       },
       "properties": {
         "title": "SBSP",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Congonhas Airport",
         "elevation": 2631,
         "municipality": "São Paulo",
-        "fileSize": 1200,
+        "fileSize": 1448,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -130532,11 +130553,11 @@
       },
       "properties": {
         "title": "WAHI",
-        "type": "closed",
+        "type": "small_airport",
         "description": "Yogyakarta International Airport",
         "elevation": 24,
         "municipality": "Yogyakarta",
-        "fileSize": 920,
+        "fileSize": 928,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -136067,7 +136088,7 @@
         "description": "Longreach Airport",
         "elevation": 627,
         "municipality": "Longreach",
-        "fileSize": 920,
+        "fileSize": 912,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -139848,11 +139869,11 @@
       },
       "properties": {
         "title": "ZGHA",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Changsha Huanghua International Airport",
         "elevation": 217,
         "municipality": "Changsha (Changsha)",
-        "fileSize": 976,
+        "fileSize": 1224,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -140079,11 +140100,11 @@
       },
       "properties": {
         "title": "ZGSZ",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Shenzhen Bao'an International Airport",
         "elevation": 13,
         "municipality": "Shenzhen (Bao'an)",
-        "fileSize": 968,
+        "fileSize": 1552,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -140185,11 +140206,11 @@
       },
       "properties": {
         "title": "ZHHH",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Wuhan Tianhe International Airport",
         "elevation": 113,
         "municipality": "Wuhan (Huangpi)",
-        "fileSize": 976,
+        "fileSize": 1432,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -141151,11 +141172,11 @@
       },
       "properties": {
         "title": "ZPPP",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Kunming Changshui International Airport",
         "elevation": 6903,
         "municipality": "Kunming",
-        "fileSize": 976,
+        "fileSize": 1336,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -141235,11 +141256,11 @@
       },
       "properties": {
         "title": "ZSAM",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Xiamen Gaoqi International Airport",
         "elevation": 59,
         "municipality": "Xiamen",
-        "fileSize": 928,
+        "fileSize": 1176,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -141361,11 +141382,11 @@
       },
       "properties": {
         "title": "ZSHC",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Hangzhou Xiaoshan International Airport",
         "elevation": 23,
         "municipality": "Hangzhou",
-        "fileSize": 968,
+        "fileSize": 1296,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -141550,11 +141571,11 @@
       },
       "properties": {
         "title": "ZSNJ",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Nanjing Lukou International Airport",
         "elevation": 49,
         "municipality": "Nanjing",
-        "fileSize": 968,
+        "fileSize": 1480,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -142327,11 +142348,11 @@
       },
       "properties": {
         "title": "ZUUU",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Chengdu Shuangliu International Airport",
         "elevation": 1625,
         "municipality": "Chengdu (Shuangliu)",
-        "fileSize": 968,
+        "fileSize": 1224,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -142663,11 +142684,11 @@
       },
       "properties": {
         "title": "ZWWW",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Ürümqi Diwopu International Airport",
         "elevation": 2125,
         "municipality": "Ürümqi",
-        "fileSize": 928,
+        "fileSize": 1120,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -142936,11 +142957,11 @@
       },
       "properties": {
         "title": "ZYTX",
-        "type": "closed",
+        "type": "large_airport",
         "description": "Shenyang Taoxian International Airport",
         "elevation": 198,
         "municipality": "Hunnan, Shenyang",
-        "fileSize": 912,
+        "fileSize": 1336,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
