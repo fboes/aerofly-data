@@ -2404,8 +2404,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.975998,
-          32.070801,
+          120.980076,
+          32.073566,
           4.8768
         ]
       },
@@ -27622,7 +27622,7 @@
         "municipality": "São Tomé",
         "fileSize": 952,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -30942,7 +30942,7 @@
         "municipality": "Praia",
         "fileSize": 936,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -31862,9 +31862,9 @@
       "properties": {
         "title": "HETR",
         "type": "closed",
-        "description": "Et Tur Airport",
+        "description": "El Tor Airport",
         "elevation": 52,
-        "municipality": "Et Tur",
+        "municipality": "El Tor",
         "fileSize": 912,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -59523,20 +59523,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.114997864,
-          37.461101532,
+          -122.114998,
+          37.461102,
           1.2192
         ]
       },
       "properties": {
         "title": "KPAO",
         "type": "medium_airport",
-        "description": "Palo Alto Airport of Santa Clara County",
+        "description": "Palo Alto Airport",
         "elevation": 4,
         "municipality": "Palo Alto",
         "fileSize": 1168,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -62844,15 +62844,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.984596252441,
-          36.039600372314,
+          -95.984596,
+          36.0396,
           194.4624
         ]
       },
       "properties": {
         "title": "KRVS",
         "type": "small_airport",
-        "description": "Richard Lloyd Jones Jr Airport",
+        "description": "Tulsa Riverside Airport",
         "elevation": 638,
         "municipality": "Tulsa",
         "fileSize": 1040,
@@ -66601,7 +66601,7 @@
       "properties": {
         "title": "KTTS",
         "type": "small_airport",
-        "description": "NASA Shuttle Landing Facility Airport",
+        "description": "Space Florida Launch and Landing Facility",
         "elevation": 10,
         "municipality": "Titusville",
         "fileSize": 928,
@@ -84428,7 +84428,7 @@
         "municipality": "Gibraltar",
         "fileSize": 1224,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -86833,15 +86833,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.082432,
-          19.435433,
+          -99.071328,
+          19.435137,
           2229.9168
         ]
       },
       "properties": {
         "title": "MMMX",
         "type": "small_airport",
-        "description": "Aeropuerto Internacional Lic. Benito Juárez",
+        "description": "Benito Juárez International Airport",
         "elevation": 7316,
         "municipality": "Ciudad de México",
         "fileSize": 1008,
@@ -110209,7 +110209,7 @@
       "properties": {
         "title": "SGAS",
         "type": "small_airport",
-        "description": "Aeropuerto Internacional Silvio Pettirossi",
+        "description": "Silvio Pettirossi International Airport.",
         "elevation": 292,
         "municipality": "Asunción",
         "fileSize": 936,
@@ -110327,16 +110327,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -42.531113,
-          -17.682777,
-          948.8424
+          -42.52943,
+          -17.680607,
+          1061.0088
         ]
       },
       "properties": {
         "title": "SICK",
         "type": "closed",
-        "description": "Cidade Capelinha Airport",
-        "elevation": 3113,
+        "description": "Dr. Jucelino José Ribeiro Airport",
+        "elevation": 3481,
         "municipality": "Capelinha",
         "fileSize": 920,
         "marker-symbol": "airfield",
@@ -115875,8 +115875,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -51.491699,
-          -23.3529,
+          -51.491967,
+          -23.352636,
           792.1752
         ]
       },
@@ -139505,8 +139505,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          109.863888,
-          39.491666,
+          109.8599,
+          39.493514,
           1388.9736
         ]
       },
@@ -140535,27 +140535,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.346667,
-          35.292778,
-          40.8432
-        ]
-      },
-      "properties": {
-        "title": "ZLJN",
-        "type": "closed",
-        "description": "Jining Qufu Airport",
-        "elevation": 134,
-        "municipality": "Jining",
-        "fileSize": 912,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           98.3414,
           39.856899,
           1558.1376
@@ -141408,6 +141387,27 @@
         "elevation": 112,
         "municipality": "Jingdezhen",
         "fileSize": 896,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.743269,
+          35.647358,
+          52.1208
+        ]
+      },
+      "properties": {
+        "title": "ZSJG",
+        "type": "closed",
+        "description": "Jining Da'an Airport",
+        "elevation": 171,
+        "municipality": "Jining",
+        "fileSize": 912,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
