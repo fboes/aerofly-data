@@ -10382,7 +10382,7 @@
       "properties": {
         "title": "EDCA",
         "type": "small_airport",
-        "description": "Anklam Otto Lilienthal Airport",
+        "description": "Anklam Otto Lilienthal Airfield",
         "elevation": 16,
         "municipality": "Anklam",
         "fileSize": 1016,
@@ -13681,9 +13681,9 @@
       "properties": {
         "title": "EGBB",
         "type": "large_airport",
-        "description": "Birmingham International Airport",
+        "description": "Birmingham Airport",
         "elevation": 327,
-        "municipality": "Birmingham",
+        "municipality": "Birmingham, West Midlands",
         "fileSize": 1400,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
@@ -13715,8 +13715,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.4797199964499999,
-          52.3697013855,
+          -1.47972,
+          52.369701,
           81.3816
         ]
       },
@@ -13725,7 +13725,7 @@
         "type": "large_airport",
         "description": "Coventry Airport",
         "elevation": 267,
-        "municipality": "Coventry",
+        "municipality": "Coventry, West Midlands",
         "fileSize": 1288,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -13757,8 +13757,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.03193998336792,
-          52.6077995300293,
+          -1.030226,
+          52.606574,
           142.9512
         ]
       },
@@ -13767,7 +13767,7 @@
         "type": "large_airport",
         "description": "Leicester Airport",
         "elevation": 469,
-        "municipality": "Leicester",
+        "municipality": "Leicester, Leicestershire",
         "fileSize": 1344,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -13998,7 +13998,7 @@
         "type": "large_airport",
         "description": "Manchester Airport",
         "elevation": 257,
-        "municipality": "Manchester",
+        "municipality": "Manchester, Greater Manchester",
         "fileSize": 1280,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
@@ -14019,7 +14019,7 @@
         "type": "medium_airport",
         "description": "Manchester Woodford Airport",
         "elevation": 295,
-        "municipality": "Manchester",
+        "municipality": "Stockport, Greater Manchester",
         "fileSize": 1064,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -14199,8 +14199,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.153330087661743,
-          52.62860107421875,
+          -3.15333,
+          52.628601,
           71.0184
         ]
       },
@@ -14209,7 +14209,7 @@
         "type": "medium_airport",
         "description": "Welshpool Airport",
         "elevation": 233,
-        "municipality": "Welshpool",
+        "municipality": "Welshpool, Powys",
         "fileSize": 1144,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -15667,7 +15667,7 @@
         "type": "medium_airport",
         "description": "Crosland Moor Airfield",
         "elevation": 825,
-        "municipality": "Huddersfield",
+        "municipality": "Huddersfield, West Yorkshire",
         "fileSize": 1088,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -15917,9 +15917,9 @@
       "properties": {
         "title": "EGNT",
         "type": "large_airport",
-        "description": "Newcastle Airport",
+        "description": "Newcastle International Airport",
         "elevation": 266,
-        "municipality": "Newcastle",
+        "municipality": "Newcastle upon Tyne, Tyne and Wear",
         "fileSize": 1288,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -21471,12 +21471,12 @@
       "properties": {
         "title": "EPOK",
         "type": "small_airbase",
-        "description": "Oksywie Air Base / Gdynia-Kosakowo Airport",
+        "description": "Oksywie Air Base / Gdynia-Kosakowo Airfield",
         "elevation": 144,
         "municipality": "Kosakowo",
         "fileSize": 968,
-        "marker-symbol": "airport",
-        "marker-color": "#555555",
+        "marker-symbol": "airfield",
+        "marker-color": "#777777",
         "isMilitary": true
       }
     },
@@ -31855,17 +31855,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.645304,
-          28.209023,
+          33.645483,
+          28.208964,
           15.8496
         ]
       },
       "properties": {
         "title": "HETR",
         "type": "closed",
-        "description": "El Tor Airport",
+        "description": "At Tur Airport",
         "elevation": 52,
-        "municipality": "El Tor",
+        "municipality": "At Tur",
         "fileSize": 912,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -47623,12 +47623,13 @@
       "properties": {
         "title": "KGRK",
         "type": "closed",
-        "description": "Killeen Regional Airport",
+        "description": "Killeen Regional Airport / Robert Gray Army Airfield",
         "elevation": 1015,
         "municipality": "Fort Cavazos",
         "fileSize": 920,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -56144,11 +56145,11 @@
       },
       "properties": {
         "title": "KMSP",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Minneapolis–Saint Paul International Airport / Wold–Chamberlain Field",
         "elevation": 841,
         "municipality": "Minneapolis",
-        "fileSize": 1104,
+        "fileSize": 1712,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -66447,8 +66448,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.267402648926,
-          32.709201812744,
+          -96.267403,
+          32.709202,
           144.4752
         ]
       },
@@ -83477,7 +83478,7 @@
       "properties": {
         "title": "LTBL",
         "type": "small_airport",
-        "description": "Çiğli Airport",
+        "description": "Çiğli Airbase",
         "elevation": 16,
         "municipality": "Çiğli",
         "fileSize": 928,
@@ -83539,13 +83540,14 @@
       },
       "properties": {
         "title": "LTBP",
-        "type": "small_airport",
-        "description": "Yalova Airport",
+        "type": "small_airbase",
+        "description": "Yalova Air Base",
         "elevation": 6,
         "municipality": "Çiftlikköy",
         "fileSize": 960,
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -101289,7 +101291,7 @@
         "description": "Yeosu Airport",
         "elevation": 53,
         "municipality": "Yeosu",
-        "fileSize": 1096,
+        "fileSize": 1088,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -101545,7 +101547,7 @@
         "description": "Gimpo International Airport",
         "elevation": 59,
         "municipality": "Seoul",
-        "fileSize": 1312,
+        "fileSize": 1400,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -102200,11 +102202,11 @@
       },
       "properties": {
         "title": "RPMD",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Francisco Bangoy International Airport",
         "elevation": 96,
         "municipality": "Davao",
-        "fileSize": 928,
+        "fileSize": 1208,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -102874,11 +102876,11 @@
       },
       "properties": {
         "title": "RPVI",
-        "type": "closed",
+        "type": "medium_airport",
         "description": "Iloilo International Airport",
         "elevation": 27,
         "municipality": "Cabatuan",
-        "fileSize": 920,
+        "fileSize": 1176,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -102941,7 +102943,7 @@
         "description": "Mactan Cebu International Airport",
         "elevation": 31,
         "municipality": "Lapu-Lapu City",
-        "fileSize": 1272,
+        "fileSize": 1336,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -105884,7 +105886,7 @@
         "description": "Rio Galeão – Tom Jobim International Airport",
         "elevation": 28,
         "municipality": "Rio De Janeiro",
-        "fileSize": 1392,
+        "fileSize": 1400,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -105968,7 +105970,7 @@
         "description": "Guarulhos - Governador André Franco Montoro International Airport",
         "elevation": 2461,
         "municipality": "São Paulo",
-        "fileSize": 1424,
+        "fileSize": 1432,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -107640,8 +107642,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.966110229492,
-          -19.764722824097,
+          -47.964805,
+          -19.765036,
           809.244
         ]
       },
@@ -109572,16 +109574,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -50.63890075683594,
-          -22.286100387573242,
-          584.9112
+          -50.639444,
+          -22.285609,
+          594.0552
         ]
       },
       "properties": {
         "title": "SDQQ",
         "type": "closed",
         "description": "Companhia Agrícola de Quatá Airport",
-        "elevation": 1919,
+        "elevation": 1949,
         "municipality": "Quatá",
         "fileSize": 712,
         "marker-symbol": "airfield",
@@ -111378,8 +111380,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.5797,
-          -1.32861,
+          -69.581294,
+          -1.324882,
           179.83200000000002
         ]
       },
@@ -128367,11 +128369,11 @@
       },
       "properties": {
         "title": "VTBD",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Don Mueang International Airport",
         "elevation": 9,
         "municipality": "Bangkok",
-        "fileSize": 992,
+        "fileSize": 1432,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -128451,11 +128453,11 @@
       },
       "properties": {
         "title": "VTCC",
-        "type": "closed",
+        "type": "large_airport",
         "description": "Chiang Mai International Airport",
         "elevation": 1036,
         "municipality": "Chiang Mai",
-        "fileSize": 912,
+        "fileSize": 1280,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -140423,7 +140425,7 @@
         "municipality": "Pyongyang",
         "fileSize": 992,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -142332,7 +142334,7 @@
         "description": "Chengdu Tianfu International Airport",
         "elevation": 1440,
         "municipality": "Chengdu (Jianyang)",
-        "fileSize": 1288,
+        "fileSize": 1440,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }

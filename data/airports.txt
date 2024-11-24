@@ -2708,7 +2708,7 @@ Mode                 LastWriteTime         Length Name
 -a---         16 May 2024    20:30            976 kmsl.wad
 -a---         13 Jul 2024    10:10           1064 kmsn.wad
 -a---         16 May 2024    20:28            976 kmso.wad
--a---         13 Jul 2024    10:10           1104 kmsp.wad
+-a---         15 Nov 2024    17:10           1712 kmsp.wad
 -a---         16 May 2024    20:29            976 kmss.wad
 -a---         13 Jul 2024    10:10            976 kmsy.wad
 -a---         16 May 2024    20:28           1000 kmtc.wad
@@ -4748,7 +4748,7 @@ Mode                 LastWriteTime         Length Name
 -a---         16 May 2024    20:28            920 rcqs.wad
 -a---         16 May 2024    20:28            912 rcsp.wad
 -a---         16 May 2024    20:30            920 rcss.wad
--a---         13 Jul 2024    10:10           1000 rctp.wad
+-a---         15 Nov 2024    17:10           1000 rctp.wad
 -a---         16 May 2024    20:28            904 rcyu.wad
 -a---         16 May 2024    20:25           1408 rjaa.wad
 -a---         16 May 2024    20:25           1144 rjaf.wad
@@ -4839,7 +4839,7 @@ Mode                 LastWriteTime         Length Name
 -a---          2 Oct 2024    09:32           1184 rkjb.wad
 -a---         16 May 2024    20:28            696 rkjj.wad
 -a---         16 May 2024    20:30            904 rkjk.wad
--a---         31 Oct 2024    19:49           1096 rkjy.wad
+-a---         15 Nov 2024    17:10           1088 rkjy.wad
 -a---         16 May 2024    20:30            920 rknn.wad
 -a---         16 May 2024    20:29            920 rknw.wad
 -a---         31 Oct 2024    19:49           1152 rkny.wad
@@ -4851,7 +4851,7 @@ Mode                 LastWriteTime         Length Name
 -a---          2 Oct 2024    09:31           1360 rksi.wad
 -a---         16 May 2024    20:28            952 rksm.wad
 -a---         16 May 2024    20:30            960 rkso.wad
--a---         31 Oct 2024    19:49           1312 rkss.wad
+-a---         15 Nov 2024    17:10           1400 rkss.wad
 -a---         16 May 2024    20:25           1024 rksw.wad
 -a---         16 May 2024    20:30            920 rkth.wad
 -a---         16 May 2024    20:28            984 rkti.wad
@@ -4885,7 +4885,7 @@ Mode                 LastWriteTime         Length Name
 -a---         16 May 2024    20:30            904 rplv.wad
 -a---         16 May 2024    20:28            904 rpma.wad
 -a---         13 Jul 2024    10:10            936 rpmc.wad
--a---         16 May 2024    20:28            928 rpmd.wad
+-a---         15 Nov 2024    17:10           1208 rpmd.wad
 -a---         16 May 2024    20:28            912 rpme.wad
 -a---         16 May 2024    20:29            912 rpmg.wad
 -a---         16 May 2024    20:28            912 rpmi.wad
@@ -4918,10 +4918,10 @@ Mode                 LastWriteTime         Length Name
 -a---         16 May 2024    20:28            704 rpvd.wad
 -a---         16 May 2024    20:30            904 rpvf.wad
 -a---         16 May 2024    20:28            904 rpvg.wad
--a---         16 May 2024    20:30            920 rpvi.wad
+-a---         15 Nov 2024    17:10           1176 rpvi.wad
 -a---         16 May 2024    20:30            928 rpvj.wad
 -a---         16 May 2024    20:28            928 rpvk.wad
--a---         31 Oct 2024    19:49           1272 rpvm.wad
+-a---         15 Nov 2024    17:10           1336 rpvm.wad
 -a---         16 May 2024    20:28            912 rpvo.wad
 -a---         16 May 2024    20:28            920 rpvp.wad
 -a---         13 Jul 2024    10:10            936 rpvr.wad
@@ -5029,7 +5029,7 @@ Mode                 LastWriteTime         Length Name
 -a---         13 Jul 2024    10:10            928 sbbi.wad
 -a---         16 May 2024    20:28            928 sbbp.wad
 -a---         16 May 2024    20:30            928 sbbq.wad
--a---         13 Jul 2024    10:10           1408 sbbr.wad
+-a---         15 Nov 2024    17:10           1408 sbbr.wad
 -a---         16 May 2024    20:30            936 sbbu.wad
 -a---         16 May 2024    20:25           1192 sbbv.wad
 -a---         16 May 2024    20:28            928 sbbw.wad
@@ -5059,11 +5059,11 @@ Mode                 LastWriteTime         Length Name
 -a---         13 Jul 2024    10:10           1344 sbfl.wad
 -a---         16 May 2024    20:28            928 sbfn.wad
 -a---         16 May 2024    20:25           1224 sbfz.wad
--a---         13 Jul 2024    10:10           1392 sbgl.wad
+-a---         15 Nov 2024    17:10           1400 sbgl.wad
 -a---         16 May 2024    20:29            928 sbgm.wad
 -a---         16 May 2024    20:25           1072 sbgo.wad
 -a---         16 May 2024    20:28            936 sbgp.wad
--a---          2 Oct 2024    09:32           1424 sbgr.wad
+-a---         15 Nov 2024    17:10           1432 sbgr.wad
 -a---         16 May 2024    20:30            920 sbgv.wad
 -a---         16 May 2024    20:28            920 sbgw.wad
 -a---         16 May 2024    20:29            912 sbht.wad
@@ -6147,11 +6147,11 @@ Mode                 LastWriteTime         Length Name
 -a---         16 May 2024    20:28            912 vrmr.wad
 -a---         16 May 2024    20:28            928 vrmt.wad
 -a---         16 May 2024    20:28            920 vrmv.wad
--a---         13 Jul 2024    10:10            992 vtbd.wad
+-a---         15 Nov 2024    17:10           1432 vtbd.wad
 -a---         16 May 2024    20:30           1472 vtbs.wad
 -a---         16 May 2024    20:30            904 vtbu.wad
 -a---         16 May 2024    20:30            920 vtbw.wad
--a---         16 May 2024    20:28            912 vtcc.wad
+-a---         15 Nov 2024    17:10           1280 vtcc.wad
 -a---         16 May 2024    20:30            912 vtch.wad
 -a---         16 May 2024    20:30            904 vtcn.wad
 -a---         16 May 2024    20:29            912 vtcp.wad
@@ -6843,7 +6843,7 @@ Mode                 LastWriteTime         Length Name
 -a---         16 May 2024    20:28            904 zups.wad
 -a---         16 May 2024    20:28            912 zuqj.wad
 -a---         16 May 2024    20:28            960 zurk.wad
--a---         31 Oct 2024    19:49           1288 zutf.wad
+-a---         15 Nov 2024    17:10           1440 zutf.wad
 -a---          2 Oct 2024    09:31           1224 zuuu.wad
 -a---         16 May 2024    20:28            912 zuwl.wad
 -a---         16 May 2024    20:29            912 zuws.wad
