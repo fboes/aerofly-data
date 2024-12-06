@@ -8181,6 +8181,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.755457,
+          48.614931,
+          598.932
+        ]
+      },
+      "properties": {
+        "title": "DE-0047",
+        "type": "large_airport",
+        "description": "Wächtersberg-Hub Glider Airfield",
+        "elevation": 1965,
+        "municipality": "Wildberg",
+        "fileSize": 1408,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.778033,
+          48.485439,
+          498.9576
+        ]
+      },
+      "properties": {
+        "title": "DE-0202",
+        "type": "large_airport",
+        "description": "Eutingen Airfield",
+        "elevation": 1637,
+        "municipality": "Eutingen im Gäu",
+        "fileSize": 1320,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.482006,
           -4.8557,
           60.3504
@@ -10269,6 +10311,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.693333,
+          51.245834,
+          224.94240000000002
+        ]
+      },
+      "properties": {
+        "title": "EDBL",
+        "type": "large_airport",
+        "description": "Laucha Airfield",
+        "elevation": 738,
+        "municipality": "Laucha an der Unstrut",
+        "fileSize": 1584,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.626389,
           52.073612,
           81.9912
@@ -11424,6 +11487,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.661667,
+          51.93222,
+          170.07840000000002
+        ]
+      },
+      "properties": {
+        "title": "EDLO",
+        "type": "large_airport",
+        "description": "Oerlinghausen Airfield",
+        "elevation": 558,
+        "municipality": "Oerlinghausen",
+        "fileSize": 1856,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.61632,
           51.614101,
           213.0552
@@ -11571,6 +11655,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.798333,
+          48.419724,
+          676.0464000000001
+        ]
+      },
+      "properties": {
+        "title": "EDMC",
+        "type": "large_airport",
+        "description": "Blaubeuren Airfield",
+        "elevation": 2218,
+        "municipality": "Blaubeuren",
+        "fileSize": 1456,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.723611,
           48.396111,
           409.0416
@@ -11604,6 +11709,27 @@
         "elevation": 1345,
         "municipality": "Fürstenzell",
         "fileSize": 1048,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.338056,
+          47.691944,
+          712.9272000000001
+        ]
+      },
+      "properties": {
+        "title": "EDMK",
+        "type": "large_airport",
+        "description": "Kempten-Durach Airfield",
+        "elevation": 2339,
+        "municipality": "Durach",
+        "fileSize": 1344,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -11851,11 +11977,11 @@
       },
       "properties": {
         "title": "EDOJ",
-        "type": "closed",
+        "type": "large_airport",
         "description": "Lüsse Airfield",
         "elevation": 217,
         "municipality": "Bad Belzig",
-        "fileSize": 912,
+        "fileSize": 1448,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -11940,6 +12066,27 @@
         "elevation": 1916,
         "municipality": "Neresheim",
         "fileSize": 1440,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.640278,
+          48.496944,
+          741.8832
+        ]
+      },
+      "properties": {
+        "title": "EDPJ",
+        "type": "large_airport",
+        "description": "Laichingen Jakob Laur Airfield",
+        "elevation": 2434,
+        "municipality": "Laichingen",
+        "fileSize": 1576,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -12201,6 +12348,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.0625,
+          48.249722,
+          878.1288000000001
+        ]
+      },
+      "properties": {
+        "title": "EDSA",
+        "type": "large_airport",
+        "description": "Albstadt-Degerfeld Airfield",
+        "elevation": 2881,
+        "municipality": "Albstadt",
+        "fileSize": 1424,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.0805,
           48.7794,
           124.3584
@@ -12229,11 +12397,11 @@
       },
       "properties": {
         "title": "EDSG",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Grabenstetten Airfield",
         "elevation": 2329,
         "municipality": "Grabenstetten",
-        "fileSize": 1032,
+        "fileSize": 1312,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -12297,6 +12465,27 @@
         "elevation": 1146,
         "municipality": "Kirchheim unter Teck",
         "fileSize": 1600,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.722801,
+          48.186604,
+          744.9312
+        ]
+      },
+      "properties": {
+        "title": "EDSZ",
+        "type": "medium_airport",
+        "description": "Rottweil-Zepfenhan Airfield",
+        "elevation": 2444,
+        "municipality": "Rottweil",
+        "fileSize": 1064,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -12381,6 +12570,27 @@
         "elevation": 1818,
         "municipality": "Mengen",
         "fileSize": 1480,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.477222,
+          48.612778,
+          370.0272
+        ]
+      },
+      "properties": {
+        "title": "EDTN",
+        "type": "medium_airport",
+        "description": "Nabern-Teck Airfield",
+        "elevation": 1214,
+        "municipality": "Kirchheim unter Teck",
+        "fileSize": 1120,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -27876,6 +28086,27 @@
         "fileSize": 976,
         "marker-symbol": "airport",
         "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.27692,
+          45.376718,
+          426.4152
+        ]
+      },
+      "properties": {
+        "title": "FR-0242",
+        "type": "medium_airport",
+        "description": "Saint-Rémy-de-Maurienne Airfield",
+        "elevation": 1399,
+        "municipality": "Saint-Rémy-de-Maurienne, Savoie",
+        "fileSize": 1120,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -72513,6 +72744,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.649406,
+          45.823005,
+          1470.0504
+        ]
+      },
+      "properties": {
+        "title": "LFHM",
+        "type": "medium_airport",
+        "description": "Megève Altiport",
+        "elevation": 4823,
+        "municipality": "Megève",
+        "fileSize": 1200,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.372192,
           44.544203,
           281.3304
@@ -73102,6 +73354,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.97576,
+          45.5611,
+          296.5704
+        ]
+      },
+      "properties": {
+        "title": "LFLE",
+        "type": "large_airport",
+        "description": "Chambéry Challes-les-Eaux Airfield",
+        "elevation": 973,
+        "municipality": "Barby",
+        "fileSize": 1664,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.84972,
+          45.2192,
+          220.06560000000002
+        ]
+      },
+      "properties": {
+        "title": "LFLG",
+        "type": "large_airport",
+        "description": "Aérodrome de Grenoble Le Versoud",
+        "elevation": 722,
+        "municipality": "Grenoble",
+        "fileSize": 1720,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.819479,
           46.827021,
           189.8904
@@ -73494,6 +73788,27 @@
         "fileSize": 1024,
         "marker-symbol": "airport",
         "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.69715,
+          43.6112,
+          225.85680000000002
+        ]
+      },
+      "properties": {
+        "title": "LFMF",
+        "type": "large_airport",
+        "description": "Fayence-Tourrettes Airfield",
+        "elevation": 741,
+        "municipality": "Fayence",
+        "fileSize": 1488,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -73914,7 +74229,7 @@
         "description": "Vinon Airfield",
         "elevation": 902,
         "municipality": "Vinon-sur-Verdon, Var",
-        "fileSize": 1352,
+        "fileSize": 2024,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -75735,6 +76050,48 @@
         "fileSize": 968,
         "marker-symbol": "airport",
         "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.72833,
+          44.458302,
+          714.7560000000001
+        ]
+      },
+      "properties": {
+        "title": "LFTM",
+        "type": "large_airport",
+        "description": "Serres - La Bâtie-Montsaléon Airfield",
+        "elevation": 2345,
+        "municipality": "",
+        "fileSize": 1208,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.16278,
+          43.86889,
+          769.0104
+        ]
+      },
+      "properties": {
+        "title": "LFTP",
+        "type": "large_airport",
+        "description": "Puimoisson Airfield",
+        "elevation": 2523,
+        "municipality": "Puimoisson, Alpes de Haute-Provence",
+        "fileSize": 1408,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -78214,6 +78571,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.79507,
+          46.154448,
+          274.0152
+        ]
+      },
+      "properties": {
+        "title": "LILO",
+        "type": "large_airport",
+        "description": "Caiolo Sondrio Airfield",
+        "elevation": 899,
+        "municipality": "Caiolo (SO)",
+        "fileSize": 1632,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.143785,
           43.98598,
           3.9624
@@ -79483,6 +79861,27 @@
         "fileSize": 1056,
         "marker-symbol": "airport",
         "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.230723,
+          46.727021,
+          1239.9264
+        ]
+      },
+      "properties": {
+        "title": "LIVD",
+        "type": "large_airport",
+        "description": "Dobbiaco-Toblach Airstrip",
+        "elevation": 4068,
+        "municipality": "Toblach (Dobbiaco) (BZ)",
+        "fileSize": 1208,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -80823,6 +81222,153 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          16.317058,
+          47.146654,
+          289.56
+        ]
+      },
+      "properties": {
+        "title": "LOGG",
+        "type": "large_airport",
+        "description": "Punitz-Güssing Airfield",
+        "elevation": 950,
+        "municipality": "Punitz",
+        "fileSize": 1288,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.49558,
+          47.493364,
+          695.8584000000001
+        ]
+      },
+      "properties": {
+        "title": "LOGI",
+        "type": "medium_airport",
+        "description": "Trieben Airfield",
+        "elevation": 2283,
+        "municipality": "Trieben",
+        "fileSize": 1104,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.331125,
+          47.457544,
+          523.9512
+        ]
+      },
+      "properties": {
+        "title": "LOGK",
+        "type": "medium_airport",
+        "description": "Kapfenberg Airfield",
+        "elevation": 1719,
+        "municipality": "Kapfenberg",
+        "fileSize": 1120,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.300333,
+          47.789733,
+          860.1456000000001
+        ]
+      },
+      "properties": {
+        "title": "LOGM",
+        "type": "medium_airport",
+        "description": "Mariazell Airfield",
+        "elevation": 2822,
+        "municipality": "Mariazell",
+        "fileSize": 1120,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.007101,
+          47.478742,
+          652.8816
+        ]
+      },
+      "properties": {
+        "title": "LOGO",
+        "type": "large_airport",
+        "description": "Niederöblarn Airfield",
+        "elevation": 2142,
+        "municipality": "Niederöblarn",
+        "fileSize": 1344,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.964044,
+          47.379648,
+          627.888
+        ]
+      },
+      "properties": {
+        "title": "LOGT",
+        "type": "medium_airport",
+        "description": "Leoben/Timmersdorf Airfield",
+        "elevation": 2060,
+        "municipality": "Timmersdorf",
+        "fileSize": 1096,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.699776,
+          47.384477,
+          412.0896
+        ]
+      },
+      "properties": {
+        "title": "LOIH",
+        "type": "large_airport",
+        "description": "Hohenems-Dornbirn Airfield",
+        "elevation": 1352,
+        "municipality": "Hohenems",
+        "fileSize": 1320,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.4497,
           47.5201,
           669.9504000000001
@@ -80865,6 +81411,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.6913,
+          47.470897,
+          855.2688
+        ]
+      },
+      "properties": {
+        "title": "LOIR",
+        "type": "large_airport",
+        "description": "Reutte-Höfen Airfield",
+        "elevation": 2806,
+        "municipality": "Reutte",
+        "fileSize": 1376,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.076722,
+          46.70893,
+          519.9888000000001
+        ]
+      },
+      "properties": {
+        "title": "LOKF",
+        "type": "large_airport",
+        "description": "Feldkirchen Airfield",
+        "elevation": 1706,
+        "municipality": "Feldkirchen in Kärnten",
+        "fileSize": 1240,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.87833,
           46.798069,
           637.9464
@@ -80877,6 +81465,48 @@
         "elevation": 2093,
         "municipality": "Lengberg",
         "fileSize": 1176,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6292,
+          46.5811,
+          548.9448
+        ]
+      },
+      "properties": {
+        "title": "LOKN",
+        "type": "large_airport",
+        "description": "Nötsch im Gailtal Airfield",
+        "elevation": 1801,
+        "municipality": "Nötsch im Gailtal",
+        "fileSize": 1248,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.825154,
+          46.818202,
+          445.00800000000004
+        ]
+      },
+      "properties": {
+        "title": "LOKW",
+        "type": "large_airport",
+        "description": "Wolfsberg Airfield",
+        "elevation": 1460,
+        "municipality": "Wolfsberg",
+        "fileSize": 1280,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -80940,6 +81570,27 @@
         "elevation": 1043,
         "municipality": "Wels",
         "fileSize": 1448,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.695867,
+          47.131995,
+          1110.0816
+        ]
+      },
+      "properties": {
+        "title": "LOSM",
+        "type": "medium_airport",
+        "description": "Mauterndorf Airfield",
+        "elevation": 3642,
+        "municipality": "Mauterndorf",
+        "fileSize": 1136,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -81090,6 +81741,28 @@
         "fileSize": 1184,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.141488,
+          47.53573,
+          637.9464
+        ]
+      },
+      "properties": {
+        "title": "LOXA",
+        "type": "large_airbase",
+        "description": "Fiala-Fernbrugg Air Base",
+        "elevation": 2093,
+        "municipality": "Aigen im Ennstal",
+        "fileSize": 1520,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -82198,6 +82871,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.98639,
+          46.258301,
+          399.8976
+        ]
+      },
+      "properties": {
+        "title": "LSGB",
+        "type": "large_airport",
+        "description": "Bex Airfield",
+        "elevation": 1312,
+        "municipality": "Bex",
+        "fileSize": 1520,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.792840003970001,
           47.083900451699996,
           1026.5664000000002
@@ -82541,6 +83235,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.867346,
+          47.204835,
+          406.908
+        ]
+      },
+      "properties": {
+        "title": "LSPV",
+        "type": "large_airport",
+        "description": "Wangen-Lachen Airfield",
+        "elevation": 1335,
+        "municipality": "Wangen",
+        "fileSize": 1216,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.819085,
           46.30449,
           618.4392
@@ -82667,6 +83382,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.481815,
+          47.014904,
+          492.8616
+        ]
+      },
+      "properties": {
+        "title": "LSZE",
+        "type": "large_airport",
+        "description": "Bad Ragaz Airfield",
+        "elevation": 1617,
+        "municipality": "Bad Ragaz",
+        "fileSize": 1232,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.23361,
           47.4436,
           396.24
@@ -82772,6 +83508,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.204556,
+          47.188993,
+          654.1008
+        ]
+      },
+      "properties": {
+        "title": "LSZO",
+        "type": "large_airport",
+        "description": "Luzern-Beromünster Airfield",
+        "elevation": 2146,
+        "municipality": "Neudorf",
+        "fileSize": 1512,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.29,
           47.089199,
           437.99760000000003
@@ -82828,6 +83585,27 @@
         "fileSize": 1464,
         "marker-symbol": "airport",
         "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.26278,
+          47.5089,
+          505.968
+        ]
+      },
+      "properties": {
+        "title": "LSZV",
+        "type": "large_airport",
+        "description": "Sitterdorf Airfield",
+        "elevation": 1660,
+        "municipality": "Sitterdorf",
+        "fileSize": 1304,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -101372,11 +102150,11 @@
       },
       "properties": {
         "title": "RKPC",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Jeju International Airport",
         "elevation": 118,
         "municipality": "Jeju City",
-        "fileSize": 968,
+        "fileSize": 1384,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -103277,11 +104055,11 @@
       },
       "properties": {
         "title": "SABE",
-        "type": "closed",
+        "type": "large_airport",
         "description": "Jorge Newbery Airpark",
         "elevation": 18,
         "municipality": "Buenos Aires",
-        "fileSize": 920,
+        "fileSize": 1248,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -107127,7 +107905,7 @@
         "description": "Santos Dumont Airport",
         "elevation": 11,
         "municipality": "Rio de Janeiro",
-        "fileSize": 1280,
+        "fileSize": 1288,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -133523,11 +134301,11 @@
       },
       "properties": {
         "title": "YBRM",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Broome International Airport",
         "elevation": 56,
         "municipality": "Broome",
-        "fileSize": 944,
+        "fileSize": 1200,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
