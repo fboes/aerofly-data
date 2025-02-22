@@ -1,9 +1,10 @@
 #!/usr/bin/env node
 
-//ts-check
+//@ts-check
 
 import GeoJSON from "@fboes/geojson";
-import * as fs from "fs";
+import * as fs from "node:fs";
+import * as path from "node:path";
 import { parse } from "csv-parse/sync";
 
 /**
@@ -38,36 +39,48 @@ const geoJsonType = (type, isMilitary, lenght) => {
   return type;
 };
 
+/**
+ *
+ * @param {string} directory
+ * @param {RegExp?} icaoFilter
+ * @returns {Map<string,number>}
+ */
+const getAeroflyAirports = (directory, icaoFilter) => {
+  const aeroflyAirports = new Map();
+  let maxLength = 0;
+  let minLength = 10_000;
+
+  const files = fs
+    .readdirSync(directory)
+    .filter((fn) => fn.endsWith(".wad"))
+    .sort();
+
+  for (const file of files) {
+    const icaoCode = file.replace(/\.wad$/, "").toUpperCase();
+    if (!icaoFilter || icaoCode.match(icaoFilter)) {
+      const stats = fs.statSync(path.join(directory, file));
+      maxLength = Math.max(maxLength, stats.size);
+      minLength = Math.min(minLength, stats.size);
+      aeroflyAirports.set(icaoCode, stats.size);
+    }
+  }
+
+  return aeroflyAirports;
+};
+
 // -----------------------------------------------------------------------------
 
-const icaoFilterArg = process.argv[2]?.replace(/[^A-Z]/, "").toUpperCase();
+const inputDirectory = process.argv[2] ?? ".";
+const icaoFilterArg = process.argv[3]?.replace(/[^A-Z]/, "").toUpperCase();
 const icaoFilter = icaoFilterArg
   ? new RegExp("^[" + icaoFilterArg + "]")
   : null;
-const aeroflyData = fs.readFileSync(0, "utf-8");
 
 const aeroflyGeoJson = new GeoJSON.FeatureCollection();
-
-/** @type {Map<string,number>} */
-const aeroflyAirports = new Map();
-const aeroflyDataMatches = aeroflyData.matchAll(/(\d+)\s+(\S+)\.wad/g);
-
-let maxLength = 0;
-let minLength = 10_000;
-
-for (const match of aeroflyDataMatches) {
-  const icaoCode = match[2].toUpperCase();
-  if (!icaoFilter || icaoCode.match(icaoFilter)) {
-    const length = Number(match[1]);
-    maxLength = Math.max(maxLength, length);
-    minLength = Math.min(minLength, length);
-    aeroflyAirports.set(icaoCode, length);
-  }
-}
-
+const aeroflyAirports = getAeroflyAirports(inputDirectory, icaoFilter);
 const aeroflyAirportsLength = aeroflyAirports.size;
 process.stderr
-  .write(`Found \x1b[92m${aeroflyAirports.size}\x1b[0m Aerofly FS Airports (${minLength} - ${maxLength} Bytes)
+  .write(`Found \x1b[92m${aeroflyAirports.size}\x1b[0m Aerofly FS Airports
 `);
 
 const airportsSource = fs.readFileSync(`tmp/airports.csv`);
