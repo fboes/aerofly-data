@@ -3,7 +3,6 @@
     "name": "A319",
     "nameFull": "Airbus A319-115",
     "icaoCode": "A319",
-    "type": null,
     "tags": [
       "airplane",
       "airliner",
@@ -168,7 +167,6 @@
     "name": "A320",
     "nameFull": "Airbus A320-214",
     "icaoCode": "A320",
-    "type": null,
     "tags": [
       "airplane",
       "airliner",
@@ -333,7 +331,6 @@
     "name": "A321",
     "nameFull": "Airbus A321-213",
     "icaoCode": "A321",
-    "type": null,
     "tags": [
       "airplane",
       "airliner",
@@ -490,7 +487,6 @@
     "name": "A380",
     "nameFull": "Airbus A380-800",
     "icaoCode": "A388",
-    "type": null,
     "tags": [
       "airplane",
       "airliner",
@@ -583,7 +579,6 @@
     "name": "Antares 21E",
     "nameFull": "Antares 21 Electro",
     "icaoCode": "LAE1",
-    "type": "G",
     "tags": [
       "airplane",
       "glider",
@@ -613,7 +608,6 @@
     "name": "ASG 29",
     "nameFull": "Schleicher ASG 29-18m",
     "icaoCode": "AS29",
-    "type": "G",
     "tags": [
       "airplane",
       "glider",
@@ -640,7 +634,6 @@
     "name": "ASK 21",
     "nameFull": "Schleicher ASK 21",
     "icaoCode": "AS21",
-    "type": "G",
     "tags": [
       "airplane",
       "glider",
@@ -665,7 +658,6 @@
     "name": "Baron 58",
     "nameFull": "Beechcraft Baron 58",
     "icaoCode": "BE58",
-    "type": null,
     "tags": [
       "airplane",
       "general_aviation",
@@ -690,7 +682,6 @@
     "name": "B737-500",
     "nameFull": "Boeing 737-500",
     "icaoCode": "B735",
-    "type": null,
     "tags": [
       "airplane",
       "airliner",
@@ -778,7 +769,6 @@
     "name": "B737-900ER",
     "nameFull": "Boeing 737-900ER",
     "icaoCode": "B739",
-    "type": null,
     "tags": [
       "airplane",
       "airliner",
@@ -846,7 +836,6 @@
     "name": "B737 MAX 9",
     "nameFull": "Boeing 737 MAX 9",
     "icaoCode": "B39M",
-    "type": null,
     "tags": [
       "airplane",
       "airliner",
@@ -910,7 +899,6 @@
     "name": "B747-400",
     "nameFull": "Boeing 747-400",
     "icaoCode": "B744",
-    "type": null,
     "tags": [
       "airplane",
       "airliner",
@@ -988,7 +976,6 @@
     "name": "B777F",
     "nameFull": "Boeing 777F",
     "icaoCode": "B77F",
-    "type": null,
     "tags": [
       "airplane",
       "airliner",
@@ -1101,7 +1088,6 @@
     "name": "B777-300ER",
     "nameFull": "Boeing 777-300ER",
     "icaoCode": "B77W",
-    "type": null,
     "tags": [
       "airplane",
       "airliner",
@@ -1294,7 +1280,6 @@
     "name": "B787-10",
     "nameFull": "Boeing 787-10 Dreamliner",
     "icaoCode": "B78X",
-    "type": null,
     "tags": [
       "airplane",
       "airliner",
@@ -1347,7 +1332,6 @@
     "name": "Bf 109E",
     "nameFull": "Messerschmitt Bf 109E",
     "icaoCode": "ME09",
-    "type": null,
     "tags": [
       "airplane",
       "fighter",
@@ -1369,7 +1353,6 @@
     "name": "Cessna 172",
     "nameFull": "Cessna 172 SP Skyhawk",
     "icaoCode": "C172",
-    "type": null,
     "tags": [
       "airplane",
       "general_aviation",
@@ -1407,7 +1390,6 @@
     "name": "King Air",
     "nameFull": "Beechcraft King Air C90 GTx",
     "icaoCode": "BE9L",
-    "type": null,
     "tags": [
       "airplane",
       "general_aviation",
@@ -1437,7 +1419,6 @@
     "name": "Camel",
     "nameFull": "Sopwith F.1 Camel",
     "icaoCode": "CAML",
-    "type": null,
     "tags": [
       "airplane",
       "fighter",
@@ -1458,7 +1439,6 @@
     "name": "Concorde",
     "nameFull": "Aérospatiale/BAC Concorde",
     "icaoCode": "CONC",
-    "type": null,
     "tags": [
       "airplane",
       "airliner",
@@ -1495,7 +1475,6 @@
     "name": "CRJ-900LR",
     "nameFull": "Bombardier CRJ-900LR",
     "icaoCode": "CRJ9",
-    "type": null,
     "tags": [
       "airplane",
       "airliner",
@@ -1556,7 +1535,6 @@
     "name": "Dr.I",
     "nameFull": "Fokker Dr.I",
     "icaoCode": "DR1",
-    "type": null,
     "tags": [
       "airplane",
       "fighter",
@@ -1586,7 +1564,6 @@
     "name": "DR400",
     "nameFull": "Robin DR400",
     "icaoCode": "DR40",
-    "type": null,
     "tags": [
       "airplane",
       "general_aviation",
@@ -1606,7 +1583,6 @@
     "name": "EC135",
     "nameFull": "Eurocopter EC135-T1",
     "icaoCode": "EC35",
-    "type": "H",
     "tags": [
       "helicopter",
       "turboshaft",
@@ -1644,7 +1620,6 @@
     "name": "Extra 330",
     "nameFull": "Extra 330 LX",
     "icaoCode": "E300",
-    "type": null,
     "tags": [
       "airplane",
       "general_aviation",
@@ -1669,7 +1644,6 @@
     "name": "F-15E",
     "nameFull": "McDonnell Douglas F-15E Strike Eagle",
     "icaoCode": "F15",
-    "type": null,
     "tags": [
       "airplane",
       "military",
@@ -1700,7 +1674,6 @@
     "name": "F/A-18C",
     "nameFull": "McDonnell Douglas F/A-18C Hornet",
     "icaoCode": "F18",
-    "type": null,
     "tags": [
       "airplane",
       "military",
@@ -1762,7 +1735,6 @@
     "name": "Corsair",
     "nameFull": "Vought F4U Corsair",
     "icaoCode": "CORS",
-    "type": null,
     "tags": [
       "airplane",
       "fighter",
@@ -1795,7 +1767,6 @@
     "name": "Ju 52",
     "nameFull": "Junkers Ju 52/3m",
     "icaoCode": "JU52",
-    "type": null,
     "tags": [
       "airplane",
       "airliner",
@@ -1821,7 +1792,6 @@
     "name": "Jungmeister",
     "nameFull": "Bücker Bü-133 Jungmeister",
     "icaoCode": "BU33",
-    "type": null,
     "tags": [
       "airplane",
       "general_aviation",
@@ -1855,7 +1825,6 @@
     "name": "Learjet 45",
     "nameFull": "Bombardier Learjet 45",
     "icaoCode": "LJ45",
-    "type": null,
     "tags": [
       "airplane",
       "general_aviation",
@@ -1890,7 +1859,6 @@
     "name": "MB-339",
     "nameFull": "Aermacchi MB-339",
     "icaoCode": "M339",
-    "type": null,
     "tags": [
       "airplane",
       "military",
@@ -1928,7 +1896,6 @@
     "name": "P-38",
     "nameFull": "Lockheed P-38 Lightning",
     "icaoCode": "P38",
-    "type": null,
     "tags": [
       "airplane",
       "fighter",
@@ -1958,7 +1925,6 @@
     "name": "Pitts",
     "nameFull": "Pitts S-2B",
     "icaoCode": "PTS2",
-    "type": null,
     "tags": [
       "airplane",
       "general_aviation",
@@ -1995,7 +1961,6 @@
     "name": "Q400",
     "nameFull": "Bombardier Dash-8 Q400",
     "icaoCode": "DH8D",
-    "type": null,
     "tags": [
       "airplane",
       "airliner",
@@ -2175,7 +2140,6 @@
     "name": "R22",
     "nameFull": "Robinson R22 Beta II",
     "icaoCode": "R22",
-    "type": "H",
     "tags": [
       "helicopter",
       "piston",
@@ -2226,7 +2190,6 @@
     "name": "Swift",
     "nameFull": "Marganski Swift S1",
     "icaoCode": "",
-    "type": "G",
     "tags": [
       "airplane",
       "glider",
@@ -2252,7 +2215,6 @@
     "name": "UH-60M",
     "nameFull": "Sikorsky UH-60M Black Hawk",
     "icaoCode": "H60",
-    "type": "H",
     "tags": [
       "helicopter",
       "turboshaft",

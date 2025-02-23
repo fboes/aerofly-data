@@ -11,7 +11,6 @@ import * as path from "node:path";
  *   name: string,
  *   nameFull: string,
  *   icaoCode: string,
- *   type: "S" | "G" | "H" | "U" | "W" | null,
  *   tags: string[],
  *   approachAirspeedKts: number,
  *   cruiseAltitudeFt: number,
@@ -83,23 +82,11 @@ const getAeroflyAircraft = (directory) => {
 const parseAircraft = (tmdFileContent) => {
   const tags = parseTmdLine(tmdFileContent, "Tags").trim().split(" ");
 
-  /**
-   * @type {"S"|"G"|"H"|"U"|"W"|null} type
-   */
-  let type = null;
-  if (tags.indexOf("helicopter") !== -1) {
-    type = "H";
-  }
-  if (tags.indexOf("glider") !== -1) {
-    type = "G";
-  }
-
   // type: ;
   return {
     name: parseTmdLine(tmdFileContent, "DisplayName"),
     nameFull: parseTmdLine(tmdFileContent, "DisplayNameFull"),
     icaoCode: parseTmdLine(tmdFileContent, "ICAO"),
-    type,
     tags,
     /*MinimumAirspeed: convertSpeed(
       parseTmdLine(tmdFileContent, "MinimumAirspeed")
