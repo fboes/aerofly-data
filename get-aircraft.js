@@ -33,9 +33,10 @@ import * as path from "node:path";
 /**
  *
  * @param {string} directory
+ * @param {boolean} withLiveries
  * @returns {AeroflyAircraft[]}
  */
-const getAeroflyAircraft = (directory) => {
+const getAeroflyAircraft = (directory, withLiveries = false) => {
   return fs
     .readdirSync(directory, { withFileTypes: true })
     .filter((dirent) => dirent.isDirectory())
@@ -49,7 +50,8 @@ const getAeroflyAircraft = (directory) => {
       return {
         ...parseAircraft(tmdFileContent),
         aeroflyCode: dirent.name,
-        liveries: fs
+        liveries: withLiveries 
+          ? fs
           .readdirSync(path.join(dirent.parentPath, dirent.name), {
             withFileTypes: true,
           })
@@ -70,7 +72,7 @@ const getAeroflyAircraft = (directory) => {
               aeroflyCode: dirent.name,
               name: parseTmdLine(tmdFileContent, "Description"),
             };
-          }),
+          }) : [],
       };
     });
 };
@@ -168,7 +170,8 @@ const convertDistance = (range) => {
 // -----------------------------------------------------------------------------
 
 const inputDirectory = process.argv[2] ?? ".";
-const aeroflyAircraft = getAeroflyAircraft(inputDirectory);
+const withLiveries = process.argv[3] !== undefined;;
+const aeroflyAircraft = getAeroflyAircraft(inputDirectory, withLiveries);
 
 process.stderr
   .write(`Found \x1b[92m${aeroflyAircraft.length}\x1b[0m Aerofly FS Aircraft
