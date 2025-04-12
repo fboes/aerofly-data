@@ -13491,7 +13491,7 @@
         "description": "Manchester Airport",
         "elevation": 257,
         "municipality": "Manchester, Greater Manchester",
-        "fileSize": 1280,
+        "fileSize": 1400,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -14824,7 +14824,7 @@
         "description": "London Gatwick Airport",
         "elevation": 202,
         "municipality": "London/Gatwick, West Sussex",
-        "fileSize": 1224,
+        "fileSize": 1472,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -16296,11 +16296,11 @@
       },
       "properties": {
         "title": "EGSS",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "London Stansted Airport",
         "elevation": 348,
         "municipality": "London",
-        "fileSize": 1152,
+        "fileSize": 1376,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -84904,11 +84904,11 @@
       },
       "properties": {
         "title": "MMCL",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Bachigualato Federal International Airport",
         "elevation": 108,
         "municipality": "Culiacán",
-        "fileSize": 928,
+        "fileSize": 1208,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -85030,11 +85030,11 @@
       },
       "properties": {
         "title": "MMCU",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "General Roberto Fierro Villalobos International Airport",
         "elevation": 4462,
         "municipality": "Chihuahua",
-        "fileSize": 1040,
+        "fileSize": 1328,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -85093,11 +85093,11 @@
       },
       "properties": {
         "title": "MMCZ",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Cozumel International Airport",
         "elevation": 15,
         "municipality": "Cozumel",
-        "fileSize": 992,
+        "fileSize": 1264,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -85220,11 +85220,11 @@
       },
       "properties": {
         "title": "MMGL",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Guadalajara International Airport",
         "elevation": 5016,
         "municipality": "Guadalajara",
-        "fileSize": 1032,
+        "fileSize": 1344,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -85304,11 +85304,11 @@
       },
       "properties": {
         "title": "MMHO",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "General Ignacio P. Garcia International Airport",
         "elevation": 627,
         "municipality": "Hermosillo",
-        "fileSize": 984,
+        "fileSize": 1240,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -85557,11 +85557,11 @@
       },
       "properties": {
         "title": "MMMD",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Manuel Crescencio Rejón International Airport",
         "elevation": 38,
         "municipality": "Mérida",
-        "fileSize": 992,
+        "fileSize": 1256,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -85662,11 +85662,11 @@
       },
       "properties": {
         "title": "MMMY",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Monterrey International Airport",
         "elevation": 1278,
         "municipality": "Monterrey",
-        "fileSize": 984,
+        "fileSize": 1400,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -85872,11 +85872,11 @@
       },
       "properties": {
         "title": "MMPR",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Puerto Vallarta International Airport",
         "elevation": 23,
         "municipality": "Puerto Vallarta",
-        "fileSize": 928,
+        "fileSize": 1304,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -85956,11 +85956,11 @@
       },
       "properties": {
         "title": "MMSD",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Los Cabos International Airport",
         "elevation": 374,
         "municipality": "San José del Cabo",
-        "fileSize": 936,
+        "fileSize": 1248,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -86146,11 +86146,11 @@
       },
       "properties": {
         "title": "MMTJ",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "General Abelardo L. Rodriguez International Airport",
         "elevation": 489,
         "municipality": "Tijuana",
-        "fileSize": 936,
+        "fileSize": 1272,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -86209,11 +86209,11 @@
       },
       "properties": {
         "title": "MMTO",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Adolfo López Mateos International Airport",
         "elevation": 8466,
         "municipality": "Toluca",
-        "fileSize": 928,
+        "fileSize": 1360,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -86230,11 +86230,11 @@
       },
       "properties": {
         "title": "MMTP",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Tapachula International Airport",
         "elevation": 97,
         "municipality": "Tapachula",
-        "fileSize": 928,
+        "fileSize": 1224,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -97798,11 +97798,11 @@
       },
       "properties": {
         "title": "RCNN",
-        "type": "small_airbase",
+        "type": "large_airbase",
         "description": "Tainan International Airport / Tainan Air Base",
         "elevation": 63,
         "municipality": "Tainan (Rende)",
-        "fileSize": 952,
+        "fileSize": 1208,
         "marker-symbol": "airport",
         "marker-color": "#555555",
         "isMilitary": true
@@ -106803,11 +106803,11 @@
       },
       "properties": {
         "title": "SCIP",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Mataveri Airport",
         "elevation": 227,
         "municipality": "Isla De Pascua",
-        "fileSize": 936,
+        "fileSize": 1056,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -108357,11 +108357,11 @@
       },
       "properties": {
         "title": "SEGS",
-        "type": "closed",
+        "type": "medium_airport",
         "description": "Seymour Galapagos Ecological Airport",
         "elevation": 207,
         "municipality": "Isla Baltra",
-        "fileSize": 920,
+        "fileSize": 1160,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -108378,11 +108378,11 @@
       },
       "properties": {
         "title": "SEGU",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "José Joaquín de Olmedo International Airport",
         "elevation": 19,
         "municipality": "Guayaquil",
-        "fileSize": 928,
+        "fileSize": 1272,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -110899,11 +110899,11 @@
       },
       "properties": {
         "title": "SLLP",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "El Alto International Airport",
         "elevation": 13355,
         "municipality": "La Paz / El Alto",
-        "fileSize": 936,
+        "fileSize": 1248,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -111256,11 +111256,11 @@
       },
       "properties": {
         "title": "SLVR",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Viru Viru International Airport",
         "elevation": 1224,
         "municipality": "Santa Cruz",
-        "fileSize": 928,
+        "fileSize": 1224,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -113443,11 +113443,11 @@
       },
       "properties": {
         "title": "SPST",
-        "type": "closed",
+        "type": "medium_airport",
         "description": "Cadete FAP Guillermo Del Castillo Paredes Airport",
         "elevation": 869,
         "municipality": "Tarapoto",
-        "fileSize": 920,
+        "fileSize": 1168,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -113569,11 +113569,11 @@
       },
       "properties": {
         "title": "SPZO",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Alejandro Velasco Astete International Airport",
         "elevation": 10860,
         "municipality": "Cusco",
-        "fileSize": 928,
+        "fileSize": 1256,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -126661,11 +126661,11 @@
       },
       "properties": {
         "title": "VTCT",
-        "type": "closed",
+        "type": "medium_airport",
         "description": "Mae Fah Luang - Chiang Rai International Airport",
         "elevation": 1280,
         "municipality": "Chiang Rai",
-        "fileSize": 912,
+        "fileSize": 1176,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -127023,6 +127023,27 @@
         "elevation": 57,
         "municipality": "Ranong",
         "fileSize": 912,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.392997742,
+          6.93320989609,
+          27.432000000000002
+        ]
+      },
+      "properties": {
+        "title": "VTSS",
+        "type": "large_airport",
+        "description": "Hat Yai International Airport",
+        "elevation": 90,
+        "municipality": "Hat Yai",
+        "fileSize": 1216,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -128554,11 +128575,11 @@
       },
       "properties": {
         "title": "WADS",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Sumbawa Besar Airport",
         "elevation": 16,
         "municipality": "Sumbawa Island",
-        "fileSize": 928,
+        "fileSize": 1152,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -128575,11 +128596,11 @@
       },
       "properties": {
         "title": "WADY",
-        "type": "closed",
+        "type": "medium_airport",
         "description": "Banyuwangi Airport",
         "elevation": 112,
         "municipality": "Rogojampi, Banyuwangi",
-        "fileSize": 920,
+        "fileSize": 1152,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -129478,11 +129499,11 @@
       },
       "properties": {
         "title": "WBGG",
-        "type": "closed",
+        "type": "large_airport",
         "description": "Kuching International Airport",
         "elevation": 89,
         "municipality": "Kuching",
-        "fileSize": 920,
+        "fileSize": 1264,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -129793,11 +129814,11 @@
       },
       "properties": {
         "title": "WICC",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Husein Sastranegara International Airport",
         "elevation": 2436,
         "municipality": "Bandung",
-        "fileSize": 928,
+        "fileSize": 1224,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -130489,11 +130510,11 @@
       },
       "properties": {
         "title": "WMKJ",
-        "type": "closed",
+        "type": "large_airport",
         "description": "Senai International Airport",
         "elevation": 135,
         "municipality": "Johor Bahru",
-        "fileSize": 920,
+        "fileSize": 1216,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
