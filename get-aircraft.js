@@ -21,7 +21,7 @@ import * as path from "node:path";
 
 /**
  * @typedef AeroflyAircraft
- * @type {AeroflyAircraftParsed | {
+ * @type {AeroflyAircraftParsed & {
  *   aeroflyCode: string,
  *   liveries: {
  *     aeroflyCode: string,
@@ -33,10 +33,9 @@ import * as path from "node:path";
 /**
  *
  * @param {string} directory
- * @param {boolean} withLiveries
  * @returns {AeroflyAircraft[]}
  */
-const getAeroflyAircraft = (directory, withLiveries = false) => {
+const getAeroflyAircraft = (directory) => {
   return fs
     .readdirSync(directory, { withFileTypes: true })
     .filter((dirent) => dirent.isDirectory())
@@ -52,36 +51,34 @@ const getAeroflyAircraft = (directory, withLiveries = false) => {
         "utf8"
       );
 
-      const liveries = withLiveries
-        ? [
-            {
-              aeroflyCode: "default",
-              name: parseTmdLine(tmdOptionFileContent, "Description"),
-            },
-            ...fs
-              .readdirSync(path.join(dirent.parentPath, dirent.name), {
-                withFileTypes: true,
-              })
-              .filter((dirent) => dirent.isDirectory())
-              .filter((dirent) =>
-                fs.existsSync(
-                  path.join(dirent.parentPath, dirent.name, "preview.ttx")
-                )
-              )
-              .sort()
-              .map((dirent) => {
-                const tmdFileContent = fs.readFileSync(
-                  path.join(dirent.parentPath, dirent.name, "option.tmc"),
-                  "utf8"
-                );
+      const liveries = [
+        {
+          aeroflyCode: "default",
+          name: parseTmdLine(tmdOptionFileContent, "Description"),
+        },
+        ...fs
+          .readdirSync(path.join(dirent.parentPath, dirent.name), {
+            withFileTypes: true,
+          })
+          .filter((dirent) => dirent.isDirectory())
+          .filter((dirent) =>
+            fs.existsSync(
+              path.join(dirent.parentPath, dirent.name, "preview.ttx")
+            )
+          )
+          .sort()
+          .map((dirent) => {
+            const tmdFileContent = fs.readFileSync(
+              path.join(dirent.parentPath, dirent.name, "option.tmc"),
+              "utf8"
+            );
 
-                return {
-                  aeroflyCode: dirent.name,
-                  name: parseTmdLine(tmdFileContent, "Description"),
-                };
-              }),
-          ]
-        : [];
+            return {
+              aeroflyCode: dirent.name,
+              name: parseTmdLine(tmdFileContent, "Description"),
+            };
+          }),
+      ];
 
       return {
         ...parseAircraft(tmdFileContent),
@@ -184,11 +181,61 @@ const convertDistance = (range) => {
 // -----------------------------------------------------------------------------
 
 const inputDirectory = process.argv[2] ?? ".";
-const withLiveries = process.argv[3] !== undefined;
-const aeroflyAircraft = getAeroflyAircraft(inputDirectory, withLiveries);
+const aeroflyAircraft = getAeroflyAircraft(inputDirectory);
 
 process.stderr
   .write(`Found \x1b[92m${aeroflyAircraft.length}\x1b[0m Aerofly FS Aircraft
 `);
 
-process.stdout.write(JSON.stringify(aeroflyAircraft, null, 2));
+// Ensure the output directory exists
+const outputDirectory = path.join("data");
+await fs.promises.mkdir(outputDirectory, { recursive: true });
+
+// Write the full output (with liveries) to aircraft-liveries.json
+const outputFilePathWithLiveries = path.join(
+  outputDirectory,
+  "aircraft-liveries.json"
+);
+await fs.promises.writeFile(
+  outputFilePathWithLiveries,
+  JSON.stringify(aeroflyAircraft, null, 2),
+  "utf-8"
+);
+process.stderr.write(
+  `Full aircraft data (with liveries) written to \x1b[92m${outputFilePathWithLiveries}\x1b[0m\n`
+);
+
+// Write the abbreviated output (without liveries) to aircraft.json
+const outputFilePathWithoutLiveries = path.join(
+  outputDirectory,
+  "aircraft.json"
+);
+await fs.promises.writeFile(
+  outputFilePathWithoutLiveries,
+  JSON.stringify(
+    aeroflyAircraft,
+    (key, value) => (key === "liveries" ? undefined : value),
+    2
+  ),
+  "utf-8"
+);
+process.stderr.write(
+  `Abbreviated aircraft data (without liveries) written to \x1b[92m${outputFilePathWithoutLiveries}\x1b[0m\n`
+);
+
+// Write summary to aircraft.md
+const summaryFilePath = path.join(outputDirectory, "aircraft.md");
+let summaryContent = `\
+# Aerofly FS Aircraft Summary
+
+| Aircraft Name                        | ICAO Code | Aerofly FS Code | Approach Speed (kts) | Cruise Altitude (ft) | Cruise Speed (kts) | Maximum Range (nm) |
+| ------------------------------------ | --------- | --------------- | -------------------: | -------------------: | -----------------: | -----------------: |
+`;
+summaryContent += aeroflyAircraft
+  .map((aircraft) => {
+    return `| ${aircraft.nameFull} | \`${aircraft.icaoCode}\` | \`${aircraft.aeroflyCode}\` | ${aircraft.approachAirspeedKts} | ${aircraft.cruiseAltitudeFt} | ${aircraft.cruiseSpeedKts} | ${aircraft.maximumRangeNm} |`;
+  })
+  .join("\n");
+
+await fs.promises.writeFile(summaryFilePath, summaryContent, "utf-8");
+process.stderr.write(`Summary written to \x1b[92m${summaryFilePath}\x1b[0m\n`);

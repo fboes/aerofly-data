@@ -5,7 +5,7 @@
   "main": "build.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "fetch-csv": "wget -O tmp/airports.csv https://davidmegginson.github.io/ourairports-data/airports.csv",
+    "fetch-csv": "curl -o tmp/airports.csv https://davidmegginson.github.io/ourairports-data/airports.csv",
     "eslint": "npx eslint **/*.js --fix",
     "prettier": "npx prettier --cache --write ."
   },

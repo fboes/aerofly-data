@@ -88,6 +88,10 @@ const airportsSource = fs.readFileSync(`tmp/airports.csv`);
 const airportsRecords = parse(airportsSource, { bom: true });
 
 let airportsRecordsProcessed = 0;
+
+// Collect all ICAO codes
+const icaoCodes = [];
+
 for (const airportsRecord of airportsRecords) {
   // 'id',             'ident',
   // 'type',           'name',
@@ -115,6 +119,9 @@ for (const airportsRecord of airportsRecords) {
     aeroflyAirports.get(icaoCode) ?? aeroflyAirports.get(icaoCodeAlternate);
 
   if (length !== undefined) {
+    // Add the ICAO code to the list
+    icaoCodes.push(icaoCode);
+
     // Remove airport from list of Aerofly FS4 Airports
     aeroflyAirports.delete(icaoCode) ||
       aeroflyAirports.delete(icaoCodeAlternate);
@@ -168,7 +175,24 @@ for (const airportsRecord of airportsRecords) {
   }
 }
 
-process.stdout.write(JSON.stringify(aeroflyGeoJson, null, 2));
+// Ensure the output directory exists
+const outputDirectory = path.join("data");
+if (!fs.existsSync(outputDirectory)) {
+  fs.mkdirSync(outputDirectory, { recursive: true });
+}
+
+// Write the GeoJSON data to a file
+const outputFilePath = path.join(outputDirectory, "airports.geojson");
+fs.writeFileSync(outputFilePath, JSON.stringify(aeroflyGeoJson, null, 2), "utf-8");
+
+// Write the ICAO codes to airport-list.json
+const icaoListFilePath = path.join(outputDirectory, "airport-list.json");
+fs.writeFileSync(icaoListFilePath, JSON.stringify(icaoCodes, null, 2), "utf-8");
+
+// Log a message to STDERR to confirm the files were written
+process.stderr.write(`GeoJSON data written to \x1b[92m${outputFilePath}\x1b[0m\n`);
+process.stderr.write(`ICAO code list written to \x1b[92m${icaoListFilePath}\x1b[0m\n`);
+
 if (aeroflyAirports.size > 0) {
   process.stderr.write(
     `Missing airport matches for \x1b[92m${

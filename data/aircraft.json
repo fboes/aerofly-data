@@ -19,8 +19,7 @@
     "cruiseAltitudeFt": 32000,
     "cruiseSpeedKts": 453,
     "maximumRangeNm": 3747,
-    "aeroflyCode": "a319",
-    "liveries": []
+    "aeroflyCode": "a319"
   },
   {
     "name": "A320",
@@ -42,8 +41,7 @@
     "cruiseAltitudeFt": 32000,
     "cruiseSpeedKts": 453,
     "maximumRangeNm": 3321,
-    "aeroflyCode": "a320",
-    "liveries": []
+    "aeroflyCode": "a320"
   },
   {
     "name": "A321",
@@ -65,8 +63,7 @@
     "cruiseAltitudeFt": 32000,
     "cruiseSpeedKts": 453,
     "maximumRangeNm": 3186,
-    "aeroflyCode": "a321",
-    "liveries": []
+    "aeroflyCode": "a321"
   },
   {
     "name": "A350-1000",
@@ -89,8 +86,7 @@
     "cruiseAltitudeFt": 37000,
     "cruiseSpeedKts": 488,
     "maximumRangeNm": 8909,
-    "aeroflyCode": "a350_1000",
-    "liveries": []
+    "aeroflyCode": "a350_1000"
   },
   {
     "name": "A380",
@@ -112,8 +108,7 @@
     "cruiseAltitudeFt": 36000,
     "cruiseSpeedKts": 517,
     "maximumRangeNm": 8207,
-    "aeroflyCode": "a380",
-    "liveries": []
+    "aeroflyCode": "a380"
   },
   {
     "name": "Antares 21E",
@@ -136,8 +131,7 @@
     "cruiseAltitudeFt": 8202,
     "cruiseSpeedKts": 81,
     "maximumRangeNm": 313,
-    "aeroflyCode": "antares",
-    "liveries": []
+    "aeroflyCode": "antares"
   },
   {
     "name": "ASG 29",
@@ -157,8 +151,7 @@
     "cruiseAltitudeFt": 8202,
     "cruiseSpeedKts": 76,
     "maximumRangeNm": 0,
-    "aeroflyCode": "asg29",
-    "liveries": []
+    "aeroflyCode": "asg29"
   },
   {
     "name": "ASK 21",
@@ -176,8 +169,7 @@
     "cruiseAltitudeFt": 4921,
     "cruiseSpeedKts": 59,
     "maximumRangeNm": 0,
-    "aeroflyCode": "ask21",
-    "liveries": []
+    "aeroflyCode": "ask21"
   },
   {
     "name": "Baron 58",
@@ -195,8 +187,7 @@
     "cruiseAltitudeFt": 11000,
     "cruiseSpeedKts": 202,
     "maximumRangeNm": 1229,
-    "aeroflyCode": "b58",
-    "liveries": []
+    "aeroflyCode": "b58"
   },
   {
     "name": "B737-500",
@@ -217,8 +208,7 @@
     "cruiseAltitudeFt": 33000,
     "cruiseSpeedKts": 490,
     "maximumRangeNm": 2808,
-    "aeroflyCode": "b737",
-    "liveries": []
+    "aeroflyCode": "b737"
   },
   {
     "name": "B737-900ER",
@@ -239,8 +229,7 @@
     "cruiseAltitudeFt": 37000,
     "cruiseSpeedKts": 453,
     "maximumRangeNm": 2948,
-    "aeroflyCode": "b737_900",
-    "liveries": []
+    "aeroflyCode": "b737_900"
   },
   {
     "name": "B737 MAX 9",
@@ -261,8 +250,7 @@
     "cruiseAltitudeFt": 37000,
     "cruiseSpeedKts": 453,
     "maximumRangeNm": 3548,
-    "aeroflyCode": "b737_max9",
-    "liveries": []
+    "aeroflyCode": "b737_max9"
   },
   {
     "name": "B747-400",
@@ -285,8 +273,7 @@
     "cruiseAltitudeFt": 34000,
     "cruiseSpeedKts": 492,
     "maximumRangeNm": 7262,
-    "aeroflyCode": "b747",
-    "liveries": []
+    "aeroflyCode": "b747"
   },
   {
     "name": "B777F",
@@ -308,8 +295,7 @@
     "cruiseAltitudeFt": 41000,
     "cruiseSpeedKts": 482,
     "maximumRangeNm": 9750,
-    "aeroflyCode": "b777f",
-    "liveries": []
+    "aeroflyCode": "b777f"
   },
   {
     "name": "B777-300ER",
@@ -331,8 +317,7 @@
     "cruiseAltitudeFt": 41000,
     "cruiseSpeedKts": 482,
     "maximumRangeNm": 7370,
-    "aeroflyCode": "b777_300er",
-    "liveries": []
+    "aeroflyCode": "b777_300er"
   },
   {
     "name": "B787-10",
@@ -354,8 +339,7 @@
     "cruiseAltitudeFt": 40000,
     "cruiseSpeedKts": 482,
     "maximumRangeNm": 6425,
-    "aeroflyCode": "b787",
-    "liveries": []
+    "aeroflyCode": "b787"
   },
   {
     "name": "Bf 109E",
@@ -375,8 +359,7 @@
     "cruiseAltitudeFt": 13123,
     "cruiseSpeedKts": 309,
     "maximumRangeNm": 432,
-    "aeroflyCode": "bf109e",
-    "liveries": []
+    "aeroflyCode": "bf109e"
   },
   {
     "name": "Cessna 172",
@@ -395,8 +378,7 @@
     "cruiseAltitudeFt": 8000,
     "cruiseSpeedKts": 130,
     "maximumRangeNm": 1031,
-    "aeroflyCode": "c172",
-    "liveries": []
+    "aeroflyCode": "c172"
   },
   {
     "name": "King Air",
@@ -415,8 +397,7 @@
     "cruiseAltitudeFt": 18000,
     "cruiseSpeedKts": 272,
     "maximumRangeNm": 1192,
-    "aeroflyCode": "c90gtx",
-    "liveries": []
+    "aeroflyCode": "c90gtx"
   },
   {
     "name": "Camel",
@@ -435,8 +416,7 @@
     "cruiseAltitudeFt": 9843,
     "cruiseSpeedKts": 100,
     "maximumRangeNm": 124,
-    "aeroflyCode": "camel",
-    "liveries": []
+    "aeroflyCode": "camel"
   },
   {
     "name": "Concorde",
@@ -458,8 +438,7 @@
     "cruiseAltitudeFt": 55000,
     "cruiseSpeedKts": 1177,
     "maximumRangeNm": 3900,
-    "aeroflyCode": "concorde",
-    "liveries": []
+    "aeroflyCode": "concorde"
   },
   {
     "name": "CRJ-900LR",
@@ -481,8 +460,7 @@
     "cruiseAltitudeFt": 38000,
     "cruiseSpeedKts": 470,
     "maximumRangeNm": 1550,
-    "aeroflyCode": "crj900",
-    "liveries": []
+    "aeroflyCode": "crj900"
   },
   {
     "name": "Dr.I",
@@ -501,8 +479,7 @@
     "cruiseAltitudeFt": 9843,
     "cruiseSpeedKts": 100,
     "maximumRangeNm": 162,
-    "aeroflyCode": "dr1",
-    "liveries": []
+    "aeroflyCode": "dr1"
   },
   {
     "name": "DR400",
@@ -520,8 +497,7 @@
     "cruiseAltitudeFt": 5991,
     "cruiseSpeedKts": 167,
     "maximumRangeNm": 586,
-    "aeroflyCode": "dr400",
-    "liveries": []
+    "aeroflyCode": "dr400"
   },
   {
     "name": "EC135",
@@ -536,8 +512,7 @@
     "cruiseAltitudeFt": 9000,
     "cruiseSpeedKts": 135,
     "maximumRangeNm": 343,
-    "aeroflyCode": "ec135",
-    "liveries": []
+    "aeroflyCode": "ec135"
   },
   {
     "name": "Extra 330",
@@ -555,8 +530,7 @@
     "cruiseAltitudeFt": 9843,
     "cruiseSpeedKts": 220,
     "maximumRangeNm": 459,
-    "aeroflyCode": "extra330",
-    "liveries": []
+    "aeroflyCode": "extra330"
   },
   {
     "name": "F-15E",
@@ -576,8 +550,7 @@
     "cruiseAltitudeFt": 40000,
     "cruiseSpeedKts": 1458,
     "maximumRangeNm": 3100,
-    "aeroflyCode": "f15e",
-    "liveries": []
+    "aeroflyCode": "f15e"
   },
   {
     "name": "F/A-18C",
@@ -600,8 +573,7 @@
     "cruiseAltitudeFt": 40000,
     "cruiseSpeedKts": 1034,
     "maximumRangeNm": 1080,
-    "aeroflyCode": "f18",
-    "liveries": []
+    "aeroflyCode": "f18"
   },
   {
     "name": "Corsair",
@@ -623,8 +595,7 @@
     "cruiseAltitudeFt": 20000,
     "cruiseSpeedKts": 389,
     "maximumRangeNm": 930,
-    "aeroflyCode": "f4u",
-    "liveries": []
+    "aeroflyCode": "f4u"
   },
   {
     "name": "Ju 52",
@@ -643,8 +614,7 @@
     "cruiseAltitudeFt": 19685,
     "cruiseSpeedKts": 136,
     "maximumRangeNm": 1080,
-    "aeroflyCode": "ju52",
-    "liveries": []
+    "aeroflyCode": "ju52"
   },
   {
     "name": "Jungmeister",
@@ -663,8 +633,7 @@
     "cruiseAltitudeFt": 13123,
     "cruiseSpeedKts": 119,
     "maximumRangeNm": 270,
-    "aeroflyCode": "jungmeister",
-    "liveries": []
+    "aeroflyCode": "jungmeister"
   },
   {
     "name": "Learjet 45",
@@ -684,8 +653,7 @@
     "cruiseAltitudeFt": 41000,
     "cruiseSpeedKts": 486,
     "maximumRangeNm": 1710,
-    "aeroflyCode": "lj45",
-    "liveries": []
+    "aeroflyCode": "lj45"
   },
   {
     "name": "MB-339",
@@ -704,8 +672,7 @@
     "cruiseAltitudeFt": 25000,
     "cruiseSpeedKts": 486,
     "maximumRangeNm": 1188,
-    "aeroflyCode": "mb339",
-    "liveries": []
+    "aeroflyCode": "mb339"
   },
   {
     "name": "P-38",
@@ -724,8 +691,7 @@
     "cruiseAltitudeFt": 20000,
     "cruiseSpeedKts": 315,
     "maximumRangeNm": 1031,
-    "aeroflyCode": "p38",
-    "liveries": []
+    "aeroflyCode": "p38"
   },
   {
     "name": "Pitts",
@@ -743,8 +709,7 @@
     "cruiseAltitudeFt": 9843,
     "cruiseSpeedKts": 132,
     "maximumRangeNm": 216,
-    "aeroflyCode": "pitts",
-    "liveries": []
+    "aeroflyCode": "pitts"
   },
   {
     "name": "Q400",
@@ -765,8 +730,7 @@
     "cruiseAltitudeFt": 24000,
     "cruiseSpeedKts": 286,
     "maximumRangeNm": 2808,
-    "aeroflyCode": "q400",
-    "liveries": []
+    "aeroflyCode": "q400"
   },
   {
     "name": "R22",
@@ -782,8 +746,7 @@
     "cruiseAltitudeFt": 6562,
     "cruiseSpeedKts": 105,
     "maximumRangeNm": 208,
-    "aeroflyCode": "r22",
-    "liveries": []
+    "aeroflyCode": "r22"
   },
   {
     "name": "Swift",
@@ -802,8 +765,7 @@
     "cruiseAltitudeFt": 6562,
     "cruiseSpeedKts": 65,
     "maximumRangeNm": 0,
-    "aeroflyCode": "swift",
-    "liveries": []
+    "aeroflyCode": "swift"
   },
   {
     "name": "UH-60M",
@@ -819,7 +781,6 @@
     "cruiseAltitudeFt": 9843,
     "cruiseSpeedKts": 160,
     "maximumRangeNm": 252,
-    "aeroflyCode": "uh60",
-    "liveries": []
+    "aeroflyCode": "uh60"
   }
 ]
