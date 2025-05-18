@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aerofly FS Airport Code Validator</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      text-align: center;
+    }
+    #status {
+      font-size: 1.5em;
+      margin-left: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Aerofly FS Airport Code Validator</h1>
+  <p>Enter an ICAO airport code:</p>
+  <input type="text" id="icaoInput" placeholder="Enter ICAO code" pattern="A-Za-z0-9" autocapitalize="on" />
+  <span id="status">❓</span>
+
+  <script>
+    // Load the airport list from the JSON file
+    let airportList = [];
+    fetch('./data/airport-list.json')
+      .then(response => response.json())
+      .then(data => {
+        airportList = data;
+      })
+      .catch(error => {
+        console.error('Error loading airport list:', error);
+      });
+
+    // Validate the input
+    const inputField = document.getElementById('icaoInput');
+    const status = document.getElementById('status');
+
+    inputField.addEventListener('input', () => {
+      const inputValue = inputField.value.toUpperCase();
+      if (airportList.includes(inputValue)) {
+        status.textContent = '✅'; // Green checkmark
+      } else if (inputValue.trim() === '') {
+        status.textContent = '❓'; // Question mark for empty input
+      } else {
+        status.textContent = '🚫'; // Red forbidden sign
+      }
+    });
+  </script>
+</body>
+</html>

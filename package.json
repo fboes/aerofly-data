@@ -1,13 +1,14 @@
 {
-  "name": "aerofly-airports",
+  "name": "@fboes/aerofly-data",
   "version": "1.0.0",
-  "description": "This project contains GeoJSON which show the location of all airports present in Aerofly FS 4.",
+  "description": "This project contains data sets for airports and aircraft present in Aerofly FS 4.",
   "main": "build.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "fetch-csv": "curl -o tmp/airports.csv https://davidmegginson.github.io/ourairports-data/airports.csv",
     "eslint": "npx eslint **/*.js --fix",
-    "prettier": "npx prettier --cache --write ."
+    "prettier": "npx prettier --cache --write .",
+    "serve": "npx http-server -p 8080 -c-1 . -o dist/index.html"
   },
   "type": "module",
   "author": "Frank Boës <info@3960.org> (https://3960.org/)",

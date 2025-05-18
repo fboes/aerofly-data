@@ -17,6 +17,8 @@ The `data` directory contains the following files:
 | [`airport-list.json`](./data/airport-list.json)           | JSON file containing an array of all ICAO codes.                                        |
 | [`airports.geojson`](./data/airports.geojson)             | GeoJSON file containing the location of all airports in Aerofly FS 4.                   |
 
+There is also a [ICAO code checker](https://fboes.github.io/aerofly-data/dist/), which checks if a given ICAO airport code exists in Aerofly FS 4.
+
 ## Building
 
 To generate a new list of all airports available in Aerofly FS 4:
@@ -29,6 +31,12 @@ To generate a new list of all airports available in Aerofly FS 4:
    `node ./get-airports.js 'C:\SteamLibrary\steamapps\common\Aerofly FS 4 Flight Simulator\scenery\airports_db'`
 4. Generate aircraft output files via:  
    `node ./get-aircraft.js 'C:\SteamLibrary\steamapps\common\Aerofly FS 4 Flight Simulator\aircraft'`
+
+## Status
+
+[![GitHub Tag](https://img.shields.io/github/v/tag/fboes/aerofly-data)](https://github.com/fboes/aerofly-data)
+[![NPM Version](https://img.shields.io/npm/v/%40fboes%2Faerofly-data.svg)](https://www.npmjs.com/package/@fboes/aerofly-data)
+![GitHub License](https://img.shields.io/github/license/fboes/aerofly-data)
 
 ## Legal stuff
 
