@@ -239,3 +239,28 @@ summaryContent += aeroflyAircraft
 
 await fs.promises.writeFile(summaryFilePath, summaryContent, "utf-8");
 process.stderr.write(`Summary written to \x1b[92m${summaryFilePath}\x1b[0m\n`);
+
+// Write HTML <select> options to aircraft-select.html
+const selectFilePath = path.join(outputDirectory, "aircraft-select.html");
+let selectContent = `\
+<select id="aircraft-select">
+`;
+
+// Sort aeroflyAircraft by nameFull
+const sortedAircraft = aeroflyAircraft.sort((a, b) =>
+  a.nameFull.localeCompare(b.nameFull)
+);
+
+selectContent += sortedAircraft
+  .map((aircraft) => {
+    return `  <option value="${aircraft.aeroflyCode}">${aircraft.nameFull}</option>`;
+  })
+  .join("\n");
+selectContent += `
+</select>
+`;
+
+await fs.promises.writeFile(selectFilePath, selectContent, "utf-8");
+process.stderr.write(
+  `HTML <select> options written to \x1b[92m${selectFilePath}\x1b[0m\n`
+);

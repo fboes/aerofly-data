@@ -1,12 +1,21 @@
 # Aerofly Airports
 
-This project contains [GeoJSON](https://geojson.org/) which show the location of all airports present in [Aerofly FS 4](https://www.aerofly.com/). This project is based on data from [OurAirports](https://ourairports.com/).
+This project contains data sets for airports and aircraft present in [Aerofly FS 4](https://www.aerofly.com/). This airport data is based on data from [OurAirports](https://ourairports.com/).
 
-## Usage
+It also contains [airport and navigation aid icons](./icons/) suitable for maps.
 
-- [`airports.geojson`](./data/airports.geojson) contains _all_ airports
-- [`airports-e.geojson`](./data/airports-e.geojson) contains airports from the European region
-- [`airports-k.geojson`](./data/airports-k.geojson) contains airports from the North American region
+## Enclosed files
+
+The `data` directory contains the following files:
+
+| File                                                      | Description                                                                             |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [`aircraft-liveries.json`](./data/aircraft-liveries.json) | JSON file containing detailed information about all aircraft, including liveries.       |
+| [`aircraft-select.html`](./data/aircraft-select.html)     | HTML snippet file containing all aircraft                                               |
+| [`aircraft.json`](./data/aircraft.json)                   | JSON file containing abbreviated information about all aircraft (without liveries).     |
+| [`aircraft.md`](./data/aircraft.md)                       | Markdown file containing abbreviated information about all aircraft (without liveries). |
+| [`airport-list.json`](./data/airport-list.json)           | JSON file containing an array of all ICAO codes.                                        |
+| [`airports.geojson`](./data/airports.geojson)             | GeoJSON file containing the location of all airports in Aerofly FS 4.                   |
 
 ## Building
 
@@ -15,10 +24,11 @@ To generate a new list of all airports available in Aerofly FS 4:
 1. Install this project  
    `npm install`
 2. Download a list of all airports from https://ourairports.com/data/ to `tmp/airports.csv`.  
-   `wget -O tmp/airports.csv https://davidmegginson.github.io/ourairports-data/airports.csv`
-3. Get a directory listing of all Aerofly airports from your local installation and paste it to `tmp/airports.txt`.
-   `ls 'C:\SteamLibrary\steamapps\common\Aerofly FS 4 Flight Simulator\scenery\airports_db' > airports.txt`
-4. Generate output file via `time node ./build.js < tmp/airports.txt > data/airports.geojson`. There is also an extra parameter after `build.js` which only uses airports with ICAO codes starting with the letters you supply.
+   `npm run fetch-csv`
+3. Generate airport output files via:  
+   `node ./get-airports.js 'C:\SteamLibrary\steamapps\common\Aerofly FS 4 Flight Simulator\scenery\airports_db'`
+4. Generate aircraft output files via:  
+   `node ./get-aircraft.js 'C:\SteamLibrary\steamapps\common\Aerofly FS 4 Flight Simulator\aircraft'`
 
 ## Legal stuff
 
