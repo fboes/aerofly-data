@@ -25,7 +25,7 @@
   <script>
     // Load the airport list from the JSON file
     let airportList = [];
-    fetch('./data/airport-list.json')
+    fetch('../data/airport-list.json')
       .then(response => response.json())
       .then(data => {
         airportList = data;
