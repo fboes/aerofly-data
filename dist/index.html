@@ -1,53 +1,165 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Aerofly FS Airport Code Validator</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-      text-align: center;
-    }
-    #status {
-      font-size: 1.5em;
-      margin-left: 10px;
-    }
-  </style>
-</head>
-<body>
-  <h1>Aerofly FS Airport Code Validator</h1>
-  <p>Enter an ICAO airport code:</p>
-  <input type="text" id="icaoInput" placeholder="Enter ICAO code" pattern="A-Za-z0-9" autocapitalize="on" />
-  <span id="status">❓</span>
-
-  <script>
-    // Load the airport list from the JSON file
-    let airportList = [];
-    fetch('../data/airport-list.json')
-      .then(response => response.json())
-      .then(data => {
-        airportList = data;
-      })
-      .catch(error => {
-        console.error('Error loading airport list:', error);
-      });
-
-    // Validate the input
-    const inputField = document.getElementById('icaoInput');
-    const status = document.getElementById('status');
-
-    inputField.addEventListener('input', () => {
-      const inputValue = inputField.value.toUpperCase();
-      if (airportList.includes(inputValue)) {
-        status.textContent = '✅'; // Green checkmark
-      } else if (inputValue.trim() === '') {
-        status.textContent = '❓'; // Question mark for empty input
-      } else {
-        status.textContent = '🚫'; // Red forbidden sign
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aerofly FS Airport Code Validator</title>
+    <meta
+      name="description"
+      content="Check if an airport is present in Aerofly FS 4 using its ICAO code."
+    />
+    <style>
+      :root {
+        color-scheme: light dark;
       }
-    });
-  </script>
-</body>
+      * {
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+      }
+      main {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        padding-bottom: 2em;
+      }
+      h1 {
+        font-size: 1.8em;
+        margin-bottom: 0.75em;
+        border-bottom: 1px solid #ccc;
+        padding: 0 1em 0.25em;
+      }
+      label {
+        display: block;
+        margin-bottom: 1em;
+      }
+      input {
+        font: inherit;
+        padding: 0.25em;
+        border-radius: 0.25em;
+        width: 6em;
+      }
+      .inputbox {
+        display: flex;
+        align-items: center;
+        gap: 0.5em;
+        font-size: 1.25em;
+      }
+      #status {
+        font-size: 1.25em;
+      }
+      #status2, p {
+        margin-top: 1em;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Aerofly FS Airport Code Validator</h1>
+      <label for="icaoInput"
+        >Check if an airport is present in Aerofly FS 4 using its ICAO
+        code:</label
+      >
+      <div class="inputbox">
+        <input
+          type="text"
+          id="icaoInput"
+          list="icaoInputList"
+          placeholder="ICAO code"
+          pattern="A-Za-z0-9"
+          autocapitalize="characters"
+          autofocus="autofocus"
+        />
+        <datalist id="icaoInputList">
+          <option value="KATL">KATL</option>
+          <option value="KLAX">KLAX</option>
+          <option value="EGLL">EGLL</option>
+          <option value="OMDB">OMDB</option>
+          <option value="RJTT">RJTT</option>
+        </datalist>
+        <span
+          id="status"
+          title="Enter an ICAO code to check if the airport is present in Aerofly FS 4"
+          >❓</span
+        >
+      </div>
+      <div id="status2">
+        Enter an ICAO code to check if the airport is present in Aerofly FS 4
+      </div>
+      <p>Data source: <a href="..">Aerofly FS 4 data repository</a>.</p>
+    </main>
+
+    <script>
+      // Load the airport list from the JSON file
+      let airportList = [];
+      fetch("../data/airport-list.json")
+        .then((response) => response.json())
+        .then((data) => {
+          airportList = data;
+        })
+        .catch((error) => {
+          console.error("Error loading airport list:", error);
+        });
+
+      // Validate the input
+      const inputField = document.getElementById("icaoInput");
+      const status = document.getElementById("status");
+      const status2 = document.getElementById("status2");
+
+      inputField.addEventListener("input", () => {
+        const inputValue = inputField.value.toUpperCase();
+
+        // Autocomplete: Populate datalist if input has 2+ chars
+        const datalist = document.getElementById("icaoInputList");
+        if (inputValue.length >= 2) {
+          // Filter airportList for codes starting with inputValue
+          const filtered = airportList.filter((code) =>
+            code.startsWith(inputValue)
+          );
+          // Clear existing options
+          datalist.innerHTML = "";
+          // Add filtered options
+          filtered.forEach((code) => {
+            const option = document.createElement("option");
+            option.value = code;
+            datalist.appendChild(option);
+          });
+        } else {
+          // Restore default options if input < 2 chars
+          datalist.innerHTML = `
+            <option value="KATL">KATL</option>
+            <option value="KLAX">KLAX</option>
+            <option value="EGLL">EGLL</option>
+            <option value="OMDB">OMDB</option>
+            <option value="RJTT">RJTT</option>
+          `;
+        }
+
+        if (airportList.includes(inputValue)) {
+          status.textContent = "✅"; // Green checkmark
+          status.title = "Airport is present in Aerofly FS 4";
+          status2.textContent = "Airport is present in Aerofly FS 4";
+        } else if (inputValue.trim() === "") {
+          status.textContent = "❓"; // Question mark for empty input
+          status.title =
+            "Enter an ICAO code to check if the airport is present in Aerofly FS 4";
+          status2.textContent =
+            "Enter an ICAO code to check if the airport is present in Aerofly FS 4";
+        } else {
+          status.textContent = "🚫"; // Red forbidden sign
+          status.title = "Airport is NOT present in Aerofly FS 4";
+          status2.textContent = "Airport is NOT present in Aerofly FS 4";
+        }
+      });
+    </script>
+  </body>
 </html>
