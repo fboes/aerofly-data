@@ -4,7 +4,7 @@
   "description": "This project contains data sets for airports and aircraft present in Aerofly FS 4.",
   "main": "build.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no test specified\"",
     "fetch-csv": "curl -o tmp/airports.csv https://davidmegginson.github.io/ourairports-data/airports.csv",
     "eslint": "npx eslint **/*.js --fix",
     "prettier": "npx prettier --cache --write .",
