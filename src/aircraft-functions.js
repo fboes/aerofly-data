@@ -263,10 +263,10 @@ export const getSelectOptgroupOptions = (sortedAircraft) => {
   let html = "";
   for (const optgroup of [
     options.airliner,
-    options.helicopter,
     options.general_aviation,
-    options.historical,
     options.military,
+    options.historical,
+    options.helicopter,
     options.aerobatic,
     options.glider,
   ]) {

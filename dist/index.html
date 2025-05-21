@@ -17,7 +17,10 @@
         padding: 0;
       }
       body {
-        font-family: Arial, sans-serif;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica,
+          Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+          "Segoe UI Symbol";
+        line-height: 1.5;
         margin: 20px;
         display: flex;
         justify-content: center;
@@ -57,7 +60,8 @@
       #status {
         font-size: 1.25em;
       }
-      #status2, p {
+      #status2,
+      p {
         margin-top: 1em;
       }
     </style>
@@ -89,10 +93,11 @@
         <span
           id="status"
           title="Enter an ICAO code to check if the airport is present in Aerofly FS 4"
+          aria-hidden="true"
           >❓</span
         >
       </div>
-      <div id="status2">
+      <div id="status2" role="status" aria-live="polite">
         Enter an ICAO code to check if the airport is present in Aerofly FS 4
       </div>
       <p>Data source: <a href="..">Aerofly FS 4 data repository</a>.</p>

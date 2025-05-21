@@ -2,22 +2,23 @@
 
 This project contains data sets for airports and aircraft present in [Aerofly FS 4](https://www.aerofly.com/). This airport data is based on data from [OurAirports](https://ourairports.com/).
 
+There is also a [ICAO code checker](https://fboes.github.io/aerofly-data/dist/), which checks if a given ICAO airport code exists in Aerofly FS 4.
+
 It also contains [airport and navigation aid icons](./icons/) suitable for maps.
 
 ## Enclosed files
 
 The `data` directory contains the following files:
 
-| File                                                      | Description                                                                             |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| [`aircraft-liveries.json`](./data/aircraft-liveries.json) | JSON file containing detailed information about all aircraft, including liveries.       |
-| [`aircraft-select.html`](./data/aircraft-select.html)     | HTML snippet file containing all aircraft                                               |
-| [`aircraft.json`](./data/aircraft.json)                   | JSON file containing abbreviated information about all aircraft (without liveries).     |
-| [`aircraft.md`](./data/aircraft.md)                       | Markdown file containing abbreviated information about all aircraft (without liveries). |
-| [`airport-list.json`](./data/airport-list.json)           | JSON file containing an array of all ICAO codes.                                        |
-| [`airports.geojson`](./data/airports.geojson)             | GeoJSON file containing the location of all airports in Aerofly FS 4.                   |
-
-There is also a [ICAO code checker](https://fboes.github.io/aerofly-data/dist/), which checks if a given ICAO airport code exists in Aerofly FS 4.
+| File                                                                    | Description                                                                             |
+| ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [`aircraft-liveries.json`](./data/aircraft-liveries.json)               | JSON file containing detailed information about all aircraft, including liveries.       |
+| [`aircraft-select-optgroup.html`](./data/aircraft-select-optgroup.html) | HTML snippet file containing all aircraft, sorted by category                           |
+| [`aircraft-select.html`](./data/aircraft-select.html)                   | HTML snippet file containing all aircraft                                               |
+| [`aircraft.json`](./data/aircraft.json)                                 | JSON file containing abbreviated information about all aircraft (without liveries).     |
+| [`aircraft.md`](./data/aircraft.md)                                     | Markdown file containing abbreviated information about all aircraft (without liveries). |
+| [`airport-list.json`](./data/airport-list.json)                         | JSON file containing an array of all ICAO codes.                                        |
+| [`airports.geojson`](./data/airports.geojson)                           | GeoJSON file containing the location of all airports in Aerofly FS 4.                   |
 
 ## Building
 
