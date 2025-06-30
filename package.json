@@ -2,7 +2,7 @@
   "name": "@fboes/aerofly-data",
   "version": "1.1.1",
   "description": "This project contains data sets for airports and aircraft present in Aerofly FS 4.",
-  "main": "build.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\"",
     "fetch-csv": "curl -o tmp/airports.csv https://davidmegginson.github.io/ourairports-data/airports.csv",

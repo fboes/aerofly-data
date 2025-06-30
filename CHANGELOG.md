@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Added NPM package main script for accessing data
+
+## [1.1.1] - 2025-05-21
+
 - Added `CHANGELOG.md`
 - Added directory listing for `/icons`
 
