@@ -1,3 +1,5 @@
+// @ts-check
+
 import * as fs from "node:fs";
 import * as path from "path";
 
@@ -21,6 +23,7 @@ import * as path from "path";
  *   liveries: {
  *     aeroflyCode: string,
  *     name: string,
+ *     requirements: string[],
  *   }[],
  * }}
  */
@@ -50,6 +53,7 @@ export const getAeroflyAircraft = (directory) => {
         {
           aeroflyCode: "default",
           name: parseTmdLine(tmdOptionFileContent, "Description"),
+          requirements: parseRequirements(tmdOptionFileContent),
         },
         ...fs
           .readdirSync(path.join(dirent.parentPath, dirent.name), {
@@ -71,6 +75,7 @@ export const getAeroflyAircraft = (directory) => {
             return {
               aeroflyCode: dirent.name,
               name: parseTmdLine(tmdFileContent, "Description"),
+              requirements: parseRequirements(tmdFileContent),
             };
           }),
       ];
@@ -132,6 +137,17 @@ export const parseAircraft = (tmdFileContent) => {
       .split(" ")
       .map((v) => convertSpeed(v)),*/
   };
+};
+
+const parseRequirements = (tmdFileContent) => {
+  const requirements = parseTmdLine(tmdFileContent, "Requirements").trim();
+  if (requirements === "") {
+    return [];
+  }
+  return requirements
+    .split(" ")
+    .map((req) => req.trim())
+    .filter((req) => req !== "");
 };
 
 /**
