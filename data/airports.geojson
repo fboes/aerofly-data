@@ -33207,16 +33207,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.889252,
-          30.108078,
-          146.9136
+          30.895728,
+          30.108179,
+          155.448
         ]
       },
       "properties": {
         "title": "HESX",
         "type": "small_airport",
         "description": "Sphinx International Airport",
-        "elevation": 482,
+        "elevation": 510,
         "municipality": "Al Jiza",
         "fileSize": 952,
         "marker-symbol": "airport",
@@ -40843,8 +40843,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.29399871826172,
-          36.16310119628906,
+          -120.293999,
+          36.163101,
           189.5856
         ]
       },
@@ -96098,8 +96098,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -148.2310028076172,
-          -15.119600296020508,
+          -148.231003,
+          -15.1196,
           1.8288000000000002
         ]
       },
@@ -96108,7 +96108,7 @@
         "type": "small_airport",
         "description": "Tikehau Airport",
         "elevation": 6,
-        "municipality": "",
+        "municipality": "Tuherahera",
         "fileSize": 936,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -131245,6 +131245,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          74.4776,
+          43.061298,
+          627.2784
+        ]
+      },
+      "properties": {
+        "title": "UAFM",
+        "type": "small_airport",
+        "description": "Manas International Airport",
+        "elevation": 2058,
+        "municipality": "Bishkek",
+        "fileSize": 952,
+        "marker-symbol": "airport",
+        "marker-color": "#5e6eba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.793297,
+          40.609001,
+          892.1496000000001
+        ]
+      },
+      "properties": {
+        "title": "UAFO",
+        "type": "small_airport",
+        "description": "Osh Airport",
+        "elevation": 2927,
+        "municipality": "Osh",
+        "fileSize": 952,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           74.84649658203125,
           42.85319900512695,
           776.9352
@@ -131687,8 +131729,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          46.3176,
-          40.737701,
+          46.320067,
+          40.738935,
           330.0984
         ]
       },
