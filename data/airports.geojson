@@ -2947,6 +2947,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -133.483001709,
+          68.30419921880001,
+          68.2752
+        ]
+      },
+      "properties": {
+        "title": "CYEV",
+        "type": "large_airport",
+        "description": "Inuvik Mike Zubko Airport",
+        "elevation": 224,
+        "municipality": "Inuvik",
+        "fileSize": 1224,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -78.249702,
           48.563903,
           325.5264
@@ -4092,7 +4113,7 @@
         "description": "Kelowna International Airport",
         "elevation": 1421,
         "municipality": "Kelowna",
-        "fileSize": 1376,
+        "fileSize": 1280,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -4214,11 +4235,11 @@
       },
       "properties": {
         "title": "CYMM",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Fort McMurray Airport",
         "elevation": 1211,
         "municipality": "Fort McMurray",
-        "fileSize": 936,
+        "fileSize": 1344,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -4613,11 +4634,11 @@
       },
       "properties": {
         "title": "CYOW",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Ottawa Macdonald-Cartier International Airport",
         "elevation": 374,
         "municipality": "Ottawa",
-        "fileSize": 1056,
+        "fileSize": 1408,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -4928,11 +4949,11 @@
       },
       "properties": {
         "title": "CYQB",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Quebec Jean Lesage International Airport",
         "elevation": 244,
         "municipality": "Quebec",
-        "fileSize": 992,
+        "fileSize": 1296,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -5075,11 +5096,11 @@
       },
       "properties": {
         "title": "CYQM",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Greater Moncton Roméo LeBlanc International Airport",
         "elevation": 232,
         "municipality": "Moncton",
-        "fileSize": 968,
+        "fileSize": 1248,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -6335,11 +6356,11 @@
       },
       "properties": {
         "title": "CYWG",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Winnipeg / James Armstrong Richardson International Airport",
         "elevation": 783,
         "municipality": "Winnipeg",
-        "fileSize": 984,
+        "fileSize": 1576,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -7049,11 +7070,11 @@
       },
       "properties": {
         "title": "CYZF",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Yellowknife International Airport",
         "elevation": 675,
         "municipality": "Yellowknife",
-        "fileSize": 1000,
+        "fileSize": 1288,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -7196,11 +7217,11 @@
       },
       "properties": {
         "title": "CYZV",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Sept-Îles Airport",
         "elevation": 180,
         "municipality": "Sept-Îles",
-        "fileSize": 984,
+        "fileSize": 1312,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
