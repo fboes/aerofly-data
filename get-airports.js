@@ -37,16 +37,23 @@ for (const airportsRecord of airportsRecords) {
   // 'elevation_ft',   'continent',
 
   // 3685,"KMIA","large_airport","Miami International Airport",25.79319953918457,-80.29060363769531,8,"NA","US","US-FL","Miami","yes","KMIA","MIA","MIA","http://www.miami-airport.com/","https://en.wikipedia.org/wiki/
+  // 19927,"KGBN","small_airport","Gila Bend Air Force Auxiliary Airport",32.887501,-112.720001,883,"NA","US","US-AZ","Gila Bend","no",,,"KGXF","GXF",,"https://en.wikipedia.org/wiki/Gila_Bend_Air_Force_Auxiliary_Field",
 
   const icaoCode = airportsRecord[1];
   const icaoCodeAlternate = airportsRecord[12];
+  const iataCode = airportsRecord[13];
+  const gpsCode = airportsRecord[14];
+  const localCode = airportsRecord[15];
 
   // EL = Europe
   // K = US
   if (
     icaoFilter &&
     !icaoCode.match(icaoFilter) &&
-    !icaoCodeAlternate.match(icaoFilter)
+    !icaoCodeAlternate.match(icaoFilter) &&
+    !iataCode.match(icaoFilter) &&
+    !gpsCode.match(icaoFilter) &&
+    !localCode.match(icaoFilter)
   ) {
     continue;
   }
@@ -54,7 +61,11 @@ for (const airportsRecord of airportsRecords) {
   airportsRecordsProcessed++;
 
   const length =
-    aeroflyAirports.get(icaoCode) ?? aeroflyAirports.get(icaoCodeAlternate);
+    aeroflyAirports.get(icaoCode) ??
+    aeroflyAirports.get(icaoCodeAlternate) ??
+    aeroflyAirports.get(iataCode) ??
+    aeroflyAirports.get(gpsCode) ??
+    aeroflyAirports.get(localCode);
 
   if (length !== undefined) {
     // Add the ICAO code to the list
@@ -62,7 +73,10 @@ for (const airportsRecord of airportsRecords) {
 
     // Remove airport from list of Aerofly FS4 Airports
     aeroflyAirports.delete(icaoCode) ||
-      aeroflyAirports.delete(icaoCodeAlternate);
+      aeroflyAirports.delete(icaoCodeAlternate) ||
+      aeroflyAirports.delete(iataCode) ||
+      aeroflyAirports.delete(gpsCode) ||
+      aeroflyAirports.delete(localCode);
 
     const isMilitary =
       airportsRecord[3].match(
@@ -121,15 +135,23 @@ if (!fs.existsSync(outputDirectory)) {
 
 // Write the GeoJSON data to a file
 const outputFilePath = path.join(outputDirectory, "airports.geojson");
-fs.writeFileSync(outputFilePath, JSON.stringify(aeroflyGeoJson, null, 2), "utf-8");
+fs.writeFileSync(
+  outputFilePath,
+  JSON.stringify(aeroflyGeoJson, null, 2),
+  "utf-8"
+);
 
 // Write the ICAO codes to airport-list.json
 const icaoListFilePath = path.join(outputDirectory, "airport-list.json");
 fs.writeFileSync(icaoListFilePath, JSON.stringify(icaoCodes, null, 2), "utf-8");
 
 // Log a message to STDERR to confirm the files were written
-process.stderr.write(`GeoJSON data written to \x1b[92m${outputFilePath}\x1b[0m\n`);
-process.stderr.write(`ICAO code list written to \x1b[92m${icaoListFilePath}\x1b[0m\n`);
+process.stderr.write(
+  `GeoJSON data written to \x1b[92m${outputFilePath}\x1b[0m\n`
+);
+process.stderr.write(
+  `ICAO code list written to \x1b[92m${icaoListFilePath}\x1b[0m\n`
+);
 
 if (aeroflyAirports.size > 0) {
   process.stderr.write(
