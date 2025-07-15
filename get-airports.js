@@ -39,8 +39,8 @@ for (const airportsRecord of airportsRecords) {
   // 3685,"KMIA","large_airport","Miami International Airport",25.79319953918457,-80.29060363769531,8,"NA","US","US-FL","Miami","yes","KMIA","MIA","MIA","http://www.miami-airport.com/","https://en.wikipedia.org/wiki/
   // 19927,"KGBN","small_airport","Gila Bend Air Force Auxiliary Airport",32.887501,-112.720001,883,"NA","US","US-AZ","Gila Bend","no",,,"KGXF","GXF",,"https://en.wikipedia.org/wiki/Gila_Bend_Air_Force_Auxiliary_Field",
 
-  const icaoCode = airportsRecord[1];
-  const icaoCodeAlternate = airportsRecord[12];
+  const ident = airportsRecord[1];
+  const icaoCode = airportsRecord[12];
   const iataCode = airportsRecord[13];
   const gpsCode = airportsRecord[14];
   const localCode = airportsRecord[15];
@@ -49,8 +49,8 @@ for (const airportsRecord of airportsRecords) {
   // K = US
   if (
     icaoFilter &&
+    !ident.match(icaoFilter) &&
     !icaoCode.match(icaoFilter) &&
-    !icaoCodeAlternate.match(icaoFilter) &&
     !iataCode.match(icaoFilter) &&
     !gpsCode.match(icaoFilter) &&
     !localCode.match(icaoFilter)
@@ -61,19 +61,19 @@ for (const airportsRecord of airportsRecords) {
   airportsRecordsProcessed++;
 
   const length =
+    aeroflyAirports.get(ident) ??
     aeroflyAirports.get(icaoCode) ??
-    aeroflyAirports.get(icaoCodeAlternate) ??
     aeroflyAirports.get(iataCode) ??
     aeroflyAirports.get(gpsCode) ??
     aeroflyAirports.get(localCode);
 
   if (length !== undefined) {
     // Add the ICAO code to the list
-    icaoCodes.push(icaoCode);
+    icaoCodes.push(icaoCode || ident);
 
     // Remove airport from list of Aerofly FS4 Airports
-    aeroflyAirports.delete(icaoCode) ||
-      aeroflyAirports.delete(icaoCodeAlternate) ||
+    aeroflyAirports.delete(ident) ||
+      aeroflyAirports.delete(icaoCode) ||
       aeroflyAirports.delete(iataCode) ||
       aeroflyAirports.delete(gpsCode) ||
       aeroflyAirports.delete(localCode);
@@ -94,7 +94,7 @@ for (const airportsRecord of airportsRecords) {
         Number(airportsRecord[6]) * 0.3048
       ),
       {
-        title: icaoCode,
+        title: icaoCode || ident,
         type: geoJsonType(type, isMilitary, length),
         description: airportsRecord[3],
         elevation: Number(airportsRecord[6]),

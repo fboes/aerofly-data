@@ -2662,7 +2662,7 @@
         ]
       },
       "properties": {
-        "title": "CD-0001",
+        "title": "FZNS",
         "type": "closed",
         "description": "Wageni Airport",
         "elevation": 3786,
@@ -2725,7 +2725,7 @@
         ]
       },
       "properties": {
-        "title": "CN-0062",
+        "title": "ZUBZ",
         "type": "small_airport",
         "description": "Bazhong Enyang Airport",
         "elevation": 1804,
@@ -9699,7 +9699,7 @@
         ]
       },
       "properties": {
-        "title": "DEX",
+        "title": "WAVD",
         "type": "small_airport",
         "description": "Nop Goliat Dekai Airport",
         "elevation": 198,
@@ -10077,7 +10077,7 @@
         ]
       },
       "properties": {
-        "title": "DN55",
+        "title": "DNEK",
         "type": "closed",
         "description": "Eket Airport",
         "elevation": 47,
@@ -10098,7 +10098,7 @@
         ]
       },
       "properties": {
-        "title": "DN56",
+        "title": "DNES",
         "type": "closed",
         "description": "Escravos Airport",
         "elevation": 10,
@@ -20185,7 +20185,7 @@
         ]
       },
       "properties": {
-        "title": "EJN",
+        "title": "ZBEN",
         "type": "small_airport",
         "description": "Ejin Banner Taolai Airport",
         "elevation": 3077,
@@ -27182,7 +27182,7 @@
         ]
       },
       "properties": {
-        "title": "FBFT",
+        "title": "FBPM",
         "type": "small_airport",
         "description": "P G Matante Intl",
         "elevation": 3283,
@@ -27371,7 +27371,7 @@
         ]
       },
       "properties": {
-        "title": "FBTP",
+        "title": "FBPT",
         "type": "small_airport",
         "description": "Thebephatshwa Airport",
         "elevation": 3750,
@@ -27497,7 +27497,7 @@
         ]
       },
       "properties": {
-        "title": "FCPL",
+        "title": "FCPD",
         "type": "closed",
         "description": "Ngot Nzoungou Airport",
         "elevation": 1079,
@@ -28128,7 +28128,7 @@
         ]
       },
       "properties": {
-        "title": "FLLI",
+        "title": "FLHN",
         "type": "small_airport",
         "description": "Harry Mwanga Nkumbula International Airport",
         "elevation": 3302,
@@ -28149,7 +28149,7 @@
         ]
       },
       "properties": {
-        "title": "FLLS",
+        "title": "FLKK",
         "type": "small_airport",
         "description": "Kenneth Kaunda International Airport",
         "elevation": 3779,
@@ -31449,7 +31449,7 @@
         ]
       },
       "properties": {
-        "title": "GA-GAX",
+        "title": "FOGX",
         "type": "closed",
         "description": "Gamba Airport",
         "elevation": 30,
@@ -31512,7 +31512,7 @@
         ]
       },
       "properties": {
-        "title": "GAKY",
+        "title": "GAKD",
         "type": "small_airport",
         "description": "Kayes Dag Dag Airport",
         "elevation": 164,
@@ -32982,7 +32982,7 @@
         ]
       },
       "properties": {
-        "title": "GR-0002",
+        "title": "LGAG",
         "type": "closed",
         "description": "Dhokimion Airfield",
         "elevation": 154,
@@ -36577,7 +36577,7 @@
         ]
       },
       "properties": {
-        "title": "ID-0012",
+        "title": "WIMO",
         "type": "small_airport",
         "description": "Lasondre Airport",
         "elevation": 30,
@@ -36640,7 +36640,7 @@
         ]
       },
       "properties": {
-        "title": "JUH",
+        "title": "ZSJH",
         "type": "small_airport",
         "description": "Chizhou Jiuhuashan Airport",
         "elevation": 60,
@@ -74161,7 +74161,7 @@
         ]
       },
       "properties": {
-        "title": "KU42",
+        "title": "KSVR",
         "type": "medium_airport",
         "description": "South Valley Regional Airport",
         "elevation": 4607,
@@ -93103,7 +93103,7 @@
         ]
       },
       "properties": {
-        "title": "MA-GLN",
+        "title": "GMAG",
         "type": "closed",
         "description": "Guelmim Airport",
         "elevation": 984,
@@ -98401,7 +98401,7 @@
         ]
       },
       "properties": {
-        "title": "NLH",
+        "title": "ZPNL",
         "type": "small_airport",
         "description": "Ninglang Luguhu Airport",
         "elevation": 10804,
@@ -109203,7 +109203,7 @@
         ]
       },
       "properties": {
-        "title": "RHT",
+        "title": "ZBAR",
         "type": "small_airport",
         "description": "Alxa Right Banner Badanjilin Airport",
         "elevation": 4659,
@@ -113354,7 +113354,7 @@
         ]
       },
       "properties": {
-        "title": "RU-0764",
+        "title": "UUMB",
         "type": "small_airbase",
         "description": "Kubinka Air Base",
         "elevation": 614,
@@ -128047,7 +128047,7 @@
         ]
       },
       "properties": {
-        "title": "SPIM",
+        "title": "SPJC",
         "type": "large_airport",
         "description": "Jorge Chávez International Airport",
         "elevation": 113,
@@ -130904,7 +130904,7 @@
         ]
       },
       "properties": {
-        "title": "SVDZ",
+        "title": "SVPP",
         "type": "small_airport",
         "description": "Puerto Paez Airport",
         "elevation": 146,
@@ -133887,7 +133887,7 @@
         ]
       },
       "properties": {
-        "title": "TWC",
+        "title": "ZWTS",
         "type": "small_airport",
         "description": "Tumxuk Tangwangcheng Airport",
         "elevation": 3566,
@@ -134161,7 +134161,7 @@
         ]
       },
       "properties": {
-        "title": "UAFM",
+        "title": "UCFM",
         "type": "small_airport",
         "description": "Manas International Airport",
         "elevation": 2058,
@@ -134182,7 +134182,7 @@
         ]
       },
       "properties": {
-        "title": "UAFO",
+        "title": "UCFO",
         "type": "small_airport",
         "description": "Osh Airport",
         "elevation": 2927,
@@ -134582,7 +134582,7 @@
         ]
       },
       "properties": {
-        "title": "UB13",
+        "title": "UBBS",
         "type": "small_airport",
         "description": "Khojaly Airport",
         "elevation": 2001,
@@ -138728,7 +138728,7 @@
         ]
       },
       "properties": {
-        "title": "VA2C",
+        "title": "VAGD",
         "type": "small_airport",
         "description": "Gondia Airport",
         "elevation": 987,
@@ -138854,7 +138854,7 @@
         ]
       },
       "properties": {
-        "title": "VABM",
+        "title": "VOBM",
         "type": "small_airport",
         "description": "Belagavi Airport",
         "elevation": 2487,
@@ -138980,7 +138980,7 @@
         ]
       },
       "properties": {
-        "title": "VAHB",
+        "title": "VOHB",
         "type": "closed",
         "description": "Hubli Airport",
         "elevation": 2171,
@@ -140497,7 +140497,7 @@
         ]
       },
       "properties": {
-        "title": "VEVZ",
+        "title": "VOVZ",
         "type": "small_airport",
         "description": "Visakhapatnam Airport",
         "elevation": 15,
@@ -140814,7 +140814,7 @@
         ]
       },
       "properties": {
-        "title": "VIAL",
+        "title": "VEAB",
         "type": "small_airport",
         "description": "Prayagraj Airport",
         "elevation": 322,
@@ -145706,7 +145706,7 @@
         ]
       },
       "properties": {
-        "title": "WADW",
+        "title": "WATU",
         "type": "small_airport",
         "description": "Umbu Mehang Kunda Airport",
         "elevation": 33,
@@ -146189,7 +146189,7 @@
         ]
       },
       "properties": {
-        "title": "WAOI",
+        "title": "WAGI",
         "type": "small_airport",
         "description": "Iskandar Airport",
         "elevation": 75,
@@ -146273,7 +146273,7 @@
         ]
       },
       "properties": {
-        "title": "WAOS",
+        "title": "WAGS",
         "type": "closed",
         "description": "Sampit (Hasan) Airport",
         "elevation": 50,
@@ -146442,7 +146442,7 @@
         ]
       },
       "properties": {
-        "title": "WARJ",
+        "title": "WAHH",
         "type": "medium_airport",
         "description": "Adisutjipto Airport",
         "elevation": 379,
@@ -146463,7 +146463,7 @@
         ]
       },
       "properties": {
-        "title": "WARQ",
+        "title": "WAHQ",
         "type": "small_airport",
         "description": "Adisumarmo Airport",
         "elevation": 421,
@@ -146505,7 +146505,7 @@
         ]
       },
       "properties": {
-        "title": "WARS",
+        "title": "WAHS",
         "type": "large_airport",
         "description": "Achmad Yani Airport",
         "elevation": 10,
@@ -147282,7 +147282,7 @@
         ]
       },
       "properties": {
-        "title": "WICB",
+        "title": "WIRR",
         "type": "small_airport",
         "description": "Budiarto Airport",
         "elevation": 151,
@@ -147809,7 +147809,7 @@
         ]
       },
       "properties": {
-        "title": "WIPK",
+        "title": "WIKK",
         "type": "small_airport",
         "description": "Depati Amir Airport",
         "elevation": 109,
@@ -148293,7 +148293,7 @@
         ]
       },
       "properties": {
-        "title": "WPAS",
+        "title": "WAPS",
         "type": "small_airport",
         "description": "Mathilda Batlayeri Airport",
         "elevation": 446,
@@ -148398,7 +148398,7 @@
         ]
       },
       "properties": {
-        "title": "WRLC",
+        "title": "WALC",
         "type": "small_airport",
         "description": "LNG Badak Airport",
         "elevation": 49,
@@ -158029,7 +158029,7 @@
         ]
       },
       "properties": {
-        "title": "ZA-0324",
+        "title": "FACO",
         "type": "small_airport",
         "description": "Alkantpan Test Range Airport",
         "elevation": 3530,
@@ -161538,7 +161538,7 @@
         ]
       },
       "properties": {
-        "title": "ZUTC",
+        "title": "ZPTC",
         "type": "small_airport",
         "description": "Tengchong Tuofeng Airport",
         "elevation": 6250,
