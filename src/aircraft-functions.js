@@ -38,6 +38,9 @@ export const getAeroflyAircraft = (directory) => {
     .readdirSync(directory, { withFileTypes: true })
     .filter((dirent) => dirent.isDirectory())
     .sort()
+    .filter((dirent) =>
+      fs.existsSync(path.join(dirent.parentPath, dirent.name, dirent.name + ".tmc"))
+    )
     .map((dirent) => {
       const tmdFileContent = fs.readFileSync(
         path.join(dirent.parentPath, dirent.name, dirent.name + ".tmc"),
@@ -291,7 +294,8 @@ export const getSelectOptgroupOptions = (sortedAircraft) => {
     }
     html += `  <optgroup label="${optgroup.label}">` + "\n";
     for (const option of optgroup.options) {
-      html += `    <option value="${option.value}">${option.label}</option>` + "\n";
+      html +=
+        `    <option value="${option.value}">${option.label}</option>` + "\n";
     }
     html += "  </optgroup>\n";
   }

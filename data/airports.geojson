@@ -2807,11 +2807,11 @@
       },
       "properties": {
         "title": "CYEG",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Edmonton International Airport",
         "elevation": 2373,
         "municipality": "Edmonton",
-        "fileSize": 984,
+        "fileSize": 1288,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -3542,11 +3542,11 @@
       },
       "properties": {
         "title": "CYHZ",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Halifax / Stanfield International Airport",
         "elevation": 477,
         "municipality": "Halifax",
-        "fileSize": 976,
+        "fileSize": 1424,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -5201,11 +5201,11 @@
       },
       "properties": {
         "title": "CYQT",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Thunder Bay Airport",
         "elevation": 653,
         "municipality": "Thunder Bay",
-        "fileSize": 992,
+        "fileSize": 1400,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -5978,11 +5978,11 @@
       },
       "properties": {
         "title": "CYTS",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Timmins/Victor M. Power",
         "elevation": 967,
         "municipality": "Timmins",
-        "fileSize": 968,
+        "fileSize": 1304,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -6377,11 +6377,11 @@
       },
       "properties": {
         "title": "CYWK",
-        "type": "closed",
+        "type": "medium_airport",
         "description": "Wabush Airport",
         "elevation": 1808,
         "municipality": "Wabush",
-        "fileSize": 920,
+        "fileSize": 1192,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -6885,7 +6885,7 @@
         "description": "Victoria International Airport",
         "elevation": 63,
         "municipality": "Victoria",
-        "fileSize": 1344,
+        "fileSize": 1480,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -6965,11 +6965,11 @@
       },
       "properties": {
         "title": "CYYT",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "St. John's International Airport",
         "elevation": 461,
         "municipality": "St. John's",
-        "fileSize": 992,
+        "fileSize": 1448,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -33131,7 +33131,7 @@
       "properties": {
         "title": "HESG",
         "type": "small_airport",
-        "description": "Suhaj Mubarak International Airport",
+        "description": "Sohag International Airport",
         "elevation": 322,
         "municipality": "Suhaj",
         "fileSize": 944,
@@ -54384,7 +54384,7 @@
         "description": "John F Kennedy International Airport",
         "elevation": 13,
         "municipality": "New York",
-        "fileSize": 1608,
+        "fileSize": 1976,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -68309,11 +68309,11 @@
       },
       "properties": {
         "title": "KSEZ",
-        "type": "medium_airport",
+        "type": "small_airport",
         "description": "Sedona Airport",
         "elevation": 4830,
         "municipality": "Sedona",
-        "fileSize": 1152,
+        "fileSize": 928,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
