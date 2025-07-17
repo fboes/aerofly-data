@@ -7,6 +7,7 @@ import * as fs from "node:fs";
 import * as path from "node:path";
 import { parse } from "csv-parse/sync";
 import { geoJsonType, getAeroflyAirports } from "./src/airport-functions.js";
+import { get } from "node:http";
 
 const inputDirectory = process.argv[2] ?? ".";
 const icaoFilterArg = process.argv[3]?.replace(/[^A-Z]/, "").toUpperCase();
@@ -41,42 +42,47 @@ for (const airportsRecord of airportsRecords) {
 
   const ident = airportsRecord[1];
   const icaoCode = airportsRecord[12];
-  const iataCode = airportsRecord[13];
-  const gpsCode = airportsRecord[14];
-  const localCode = airportsRecord[15];
+
+  const searchWords = [
+    ident,
+    icaoCode,
+    airportsRecord[13],
+    airportsRecord[14],
+    airportsRecord[15],
+    ...airportsRecord[18].split(/,\s*/),
+  ].filter((word) => word && word.length > 0);
 
   // EL = Europe
   // K = US
-  if (
-    icaoFilter &&
-    !ident.match(icaoFilter) &&
-    !icaoCode.match(icaoFilter) &&
-    !iataCode.match(icaoFilter) &&
-    !gpsCode.match(icaoFilter) &&
-    !localCode.match(icaoFilter)
-  ) {
+  if (icaoFilter && !ident.match(icaoFilter) && !icaoCode.match(icaoFilter)) {
     continue;
   }
 
   airportsRecordsProcessed++;
 
-  const length =
-    aeroflyAirports.get(ident) ??
-    aeroflyAirports.get(icaoCode) ??
-    aeroflyAirports.get(iataCode) ??
-    aeroflyAirports.get(gpsCode) ??
-    aeroflyAirports.get(localCode);
+  /**
+   * 
+   * @param {string[]} searchWords
+   * @returns {[number, string]|[undefined, undefined]} Returns the length of the airport and the code if found, otherwise undefined.
+   */
+  const getAeroflyAirport = (searchWords) => {
+    for (const word of searchWords) {
+      if (aeroflyAirports.has(word)) {
+        return [aeroflyAirports.get(word) || 0, word];
+      }
+    }
+    return [undefined, undefined];
+  };
 
-  if (length !== undefined) {
+  const [length, code] = getAeroflyAirport(searchWords);
+
+  if (length !== undefined && code !== undefined) {
+    const bestCode = icaoCode || code || ident;
     // Add the ICAO code to the list
-    icaoCodes.push(icaoCode || ident);
+    icaoCodes.push(bestCode);
 
     // Remove airport from list of Aerofly FS4 Airports
-    aeroflyAirports.delete(ident) ||
-      aeroflyAirports.delete(icaoCode) ||
-      aeroflyAirports.delete(iataCode) ||
-      aeroflyAirports.delete(gpsCode) ||
-      aeroflyAirports.delete(localCode);
+    aeroflyAirports.delete(code);
 
     const isMilitary =
       airportsRecord[3].match(
@@ -94,7 +100,7 @@ for (const airportsRecord of airportsRecords) {
         Number(airportsRecord[6]) * 0.3048
       ),
       {
-        title: icaoCode || ident,
+        title: bestCode,
         type: geoJsonType(type, isMilitary, length),
         description: airportsRecord[3],
         elevation: Number(airportsRecord[6]),
