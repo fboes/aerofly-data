@@ -45,7 +45,7 @@
   },
   {
     "name": "A321",
-    "nameFull": "Airbus A321-213",
+    "nameFull": "Airbus A321-211",
     "icaoCode": "A321",
     "tags": [
       "airplane",
@@ -209,6 +209,27 @@
     "cruiseSpeedKts": 490,
     "maximumRangeNm": 2808,
     "aeroflyCode": "b737"
+  },
+  {
+    "name": "B737-800",
+    "nameFull": "Boeing 737-800",
+    "icaoCode": "B738",
+    "tags": [
+      "airplane",
+      "airliner",
+      "jet",
+      "flaps",
+      "retractable_gear",
+      "thrust_reverse",
+      "autopilot",
+      "autothrottle",
+      "pushback"
+    ],
+    "approachAirspeedKts": 140,
+    "cruiseAltitudeFt": 37000,
+    "cruiseSpeedKts": 453,
+    "maximumRangeNm": 2935,
+    "aeroflyCode": "b737_800"
   },
   {
     "name": "B737-900ER",
