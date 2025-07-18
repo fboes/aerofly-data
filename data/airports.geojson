@@ -7388,11 +7388,11 @@
       },
       "properties": {
         "title": "CYUL",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Montreal / Pierre Elliott Trudeau International Airport",
         "elevation": 118,
         "municipality": "Montréal",
-        "fileSize": 1016,
+        "fileSize": 1496,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }

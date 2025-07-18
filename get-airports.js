@@ -7,7 +7,6 @@ import * as fs from "node:fs";
 import * as path from "node:path";
 import { parse } from "csv-parse/sync";
 import { geoJsonType, getAeroflyAirports } from "./src/airport-functions.js";
-import { get } from "node:http";
 
 const inputDirectory = process.argv[2] ?? ".";
 const icaoFilterArg = process.argv[3]?.replace(/[^A-Z]/, "").toUpperCase();

@@ -14,7 +14,7 @@ const inputDirectory = process.argv[2] ?? ".";
 const aeroflyAircraft = getAeroflyAircraft(inputDirectory);
 
 process.stderr
-  .write(`Found \x1b[92m${aeroflyAircraft.length}\x1b[0m Aerofly FS Aircraft
+  .write(`Found \x1b[92m${aeroflyAircraft.length}\x1b[0m Aerofly FS Aircraft with \x1b[92m${aeroflyAircraft.reduce((sum, aircraft) => sum + aircraft.liveries.length, 0)}\x1b[0m liveries
 `);
 
 // Ensure the output directory exists
@@ -60,24 +60,45 @@ const sortedAircraft = aeroflyAircraft.sort((a, b) =>
 
 // Write summary to aircraft.md
 const summaryFilePath = path.join(outputDirectory, "aircraft.md");
-let summaryContent = `\
+
+/**
+ * Formats a number with commas as thousands separators.
+ * @param {number} number - The number to format.
+ * @returns {string} The formatted number.
+ */
+const numberFormat = (number) => new Intl.NumberFormat().format(number);
+
+const summaryContent =
+  `\
 # Aerofly FS Aircraft Summary
 
 | Aircraft Name                        | ICAO Code | Aerofly FS Code | Approach Speed (kts) | Cruise Altitude (ft) | Cruise Speed (kts) | Maximum Range (nm) |
 | ------------------------------------ | --------- | --------------- | -------------------: | -------------------: | -----------------: | -----------------: |
-`;
-summaryContent += sortedAircraft
-  .map((aircraft) => {
-    return `| ${aircraft.nameFull} | \`${aircraft.icaoCode}\` | \`${aircraft.aeroflyCode}\` | ${aircraft.approachAirspeedKts} | ${aircraft.cruiseAltitudeFt} | ${aircraft.cruiseSpeedKts} | ${aircraft.maximumRangeNm} |`;
-  })
-  .join("\n");
+` +
+  sortedAircraft
+    .map((aircraft) => {
+      return (
+        "| " +
+        [
+          aircraft.nameFull,
+          aircraft.icaoCode ? `\`${aircraft.icaoCode}\`` : "",
+          `\`${aircraft.aeroflyCode}\``,
+          numberFormat(aircraft.approachAirspeedKts),
+          numberFormat(aircraft.cruiseAltitudeFt),
+          numberFormat(aircraft.cruiseSpeedKts),
+          numberFormat(aircraft.maximumRangeNm),
+        ].join(" | ") +
+        " |"
+      );
+    })
+    .join("\n") +
+  "\n";
 
 await fs.promises.writeFile(summaryFilePath, summaryContent, "utf-8");
 process.stderr.write(`Summary written to \x1b[92m${summaryFilePath}\x1b[0m\n`);
 
 // Write HTML <select> options to aircraft-select.html
 const selectFilePath = path.join(outputDirectory, "aircraft-select.html");
-
 
 let selectContent = getSelectOptions(sortedAircraft);
 
@@ -106,4 +127,3 @@ process.stderr.write(
 process.stderr.write(
   `\nAll aircraft files written to \x1b[92m${path.resolve(outputDirectory)}\x1b[0m\n`
 );
-
