@@ -61,7 +61,7 @@ for (const airportsRecord of airportsRecords) {
   airportsRecordsProcessed++;
 
   /**
-   * 
+   *
    * @param {string[]} searchWords
    * @returns {[number, string]|[undefined, undefined]} Returns the length of the airport and the code if found, otherwise undefined.
    */
@@ -149,7 +149,11 @@ fs.writeFileSync(
 
 // Write the ICAO codes to airport-list.json
 const icaoListFilePath = path.join(outputDirectory, "airport-list.json");
-fs.writeFileSync(icaoListFilePath, JSON.stringify(icaoCodes, null, 2), "utf-8");
+fs.writeFileSync(
+  icaoListFilePath,
+  JSON.stringify(icaoCodes.sort(), null, 2),
+  "utf-8"
+);
 
 // Log a message to STDERR to confirm the files were written
 process.stderr.write(
