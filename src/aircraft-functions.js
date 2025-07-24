@@ -29,66 +29,76 @@ import * as path from "path";
  */
 
 /**
- *
+ * Get all potential aircraft directories in the given directory.
  * @param {string} directory
- * @returns {AeroflyAircraft[]}
+ * @returns {fs.Dirent<string>[]}
  */
-export const getAeroflyAircraft = (directory) => {
+const getAeroflyAircraftDirectories = (directory) => {
   return fs
     .readdirSync(directory, { withFileTypes: true })
     .filter((dirent) => dirent.isDirectory())
     .sort()
     .filter((dirent) =>
-      fs.existsSync(path.join(dirent.parentPath, dirent.name, dirent.name + ".tmc"))
-    )
-    .map((dirent) => {
-      const tmdFileContent = fs.readFileSync(
-        path.join(dirent.parentPath, dirent.name, dirent.name + ".tmc"),
-        "utf8"
-      );
+      fs.existsSync(
+        path.join(dirent.parentPath, dirent.name, dirent.name + ".tmc")
+      )
+    );
+};
 
-      const tmdOptionFileContent = fs.readFileSync(
-        path.join(dirent.parentPath, dirent.name, "option.tmc"),
-        "utf8"
-      );
+/**
+ *
+ * @param {string} directory
+ * @returns {AeroflyAircraft[]}
+ */
+export const getAeroflyAircraft = (directory) => {
+  return getAeroflyAircraftDirectories(directory).map((dirent) => {
+    const tmdFileContent = fs.readFileSync(
+      path.join(dirent.parentPath, dirent.name, dirent.name + ".tmc"),
+      "utf8"
+    );
 
-      const liveries = [
-        {
-          aeroflyCode: "default",
-          name: parseTmdLine(tmdOptionFileContent, "Description"),
-          requirements: parseRequirements(tmdOptionFileContent),
-        },
-        ...fs
-          .readdirSync(path.join(dirent.parentPath, dirent.name), {
-            withFileTypes: true,
-          })
-          .filter((dirent) => dirent.isDirectory())
-          .filter((dirent) =>
-            fs.existsSync(
-              path.join(dirent.parentPath, dirent.name, "preview.ttx")
-            )
+    const tmdOptionFileContent = fs.readFileSync(
+      path.join(dirent.parentPath, dirent.name, "option.tmc"),
+      "utf8"
+    );
+
+    const liveries = [
+      {
+        aeroflyCode: "default",
+        name: parseTmdLine(tmdOptionFileContent, "Description"),
+        requirements: parseRequirements(tmdOptionFileContent),
+      },
+      ...fs
+        .readdirSync(path.join(dirent.parentPath, dirent.name), {
+          withFileTypes: true,
+        })
+        .filter((dirent) => dirent.isDirectory())
+        .filter((dirent) =>
+          fs.existsSync(
+            path.join(dirent.parentPath, dirent.name, "preview.ttx")
           )
-          .sort()
-          .map((dirent) => {
-            const tmdFileContent = fs.readFileSync(
-              path.join(dirent.parentPath, dirent.name, "option.tmc"),
-              "utf8"
-            );
+        )
+        .sort()
+        .map((dirent) => {
+          const tmdFileContent = fs.readFileSync(
+            path.join(dirent.parentPath, dirent.name, "option.tmc"),
+            "utf8"
+          );
 
-            return {
-              aeroflyCode: dirent.name,
-              name: parseTmdLine(tmdFileContent, "Description"),
-              requirements: parseRequirements(tmdFileContent),
-            };
-          }),
-      ];
+          return {
+            aeroflyCode: dirent.name,
+            name: parseTmdLine(tmdFileContent, "Description"),
+            requirements: parseRequirements(tmdFileContent),
+          };
+        }),
+    ];
 
-      return {
-        ...parseAircraft(tmdFileContent),
-        aeroflyCode: dirent.name,
-        liveries,
-      };
-    });
+    return {
+      ...parseAircraft(tmdFileContent),
+      aeroflyCode: dirent.name,
+      liveries,
+    };
+  });
 };
 
 /**

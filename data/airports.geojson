@@ -3377,11 +3377,11 @@
       },
       "properties": {
         "title": "CYAM",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Sault Ste Marie Airport",
         "elevation": 630,
         "municipality": "Sault Ste Marie",
-        "fileSize": 984,
+        "fileSize": 1248,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -3545,11 +3545,11 @@
       },
       "properties": {
         "title": "CYBC",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Baie-Comeau Airport",
         "elevation": 71,
         "municipality": "Baie-Comeau",
-        "fileSize": 936,
+        "fileSize": 1168,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -3650,11 +3650,11 @@
       },
       "properties": {
         "title": "CYBK",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Baker Lake Airport",
         "elevation": 59,
         "municipality": "Baker Lake",
-        "fileSize": 936,
+        "fileSize": 1160,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -3671,11 +3671,11 @@
       },
       "properties": {
         "title": "CYBL",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Campbell River Airport",
         "elevation": 346,
         "municipality": "Campbell River",
-        "fileSize": 1192,
+        "fileSize": 1240,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -4112,11 +4112,11 @@
       },
       "properties": {
         "title": "CYDF",
-        "type": "closed",
+        "type": "medium_airport",
         "description": "Deer Lake Airport",
         "elevation": 72,
         "municipality": "Deer Lake",
-        "fileSize": 920,
+        "fileSize": 1184,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -4385,11 +4385,11 @@
       },
       "properties": {
         "title": "CYFB",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Iqaluit Airport",
         "elevation": 110,
         "municipality": "Iqaluit",
-        "fileSize": 944,
+        "fileSize": 1232,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -6548,11 +6548,11 @@
       },
       "properties": {
         "title": "CYQR",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Regina International Airport",
         "elevation": 1894,
         "municipality": "Regina",
-        "fileSize": 976,
+        "fileSize": 1288,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -7346,11 +7346,11 @@
       },
       "properties": {
         "title": "CYTZ",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Billy Bishop Toronto City Centre Airport",
         "elevation": 252,
         "municipality": "Toronto",
-        "fileSize": 984,
+        "fileSize": 1296,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -7808,11 +7808,11 @@
       },
       "properties": {
         "title": "CYXE",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Saskatoon John G. Diefenbaker International Airport",
         "elevation": 1653,
         "municipality": "Saskatoon",
-        "fileSize": 1000,
+        "fileSize": 1288,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -7976,11 +7976,11 @@
       },
       "properties": {
         "title": "CYXT",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Northwest Regional Airport Terrace-Kitimat",
         "elevation": 713,
         "municipality": "Terrace",
-        "fileSize": 984,
+        "fileSize": 1336,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
