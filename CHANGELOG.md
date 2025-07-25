@@ -7,7 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.0] - 2025-07-25
+
 - Added NPM package main script for accessing data
+- Added TypeScript types
+- Added new aircraft and airports
 
 ## [1.1.1] - 2025-05-21
 
