@@ -1,6 +1,6 @@
 {
   "name": "@fboes/aerofly-data",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "This project contains data sets for airports and aircraft present in Aerofly FS 4.",
   "main": "index.js",
   "scripts": {
