@@ -2424,27 +2424,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -50.328499,
-          -9.31997,
-          181.96560000000002
-        ]
-      },
-      "properties": {
-        "title": "SNKE",
-        "type": "small_airport",
-        "description": "Santana do Araguaia Airport",
-        "elevation": 597,
-        "municipality": "Santana do Araguaia",
-        "fileSize": 936,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -49.789101,
           -24.103901,
           804.9768
@@ -14629,8 +14608,8 @@
         "elevation": 1818,
         "municipality": "Mengen",
         "fileSize": 1504,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -18584,7 +18563,7 @@
       "properties": {
         "title": "EGPW",
         "type": "medium_airport",
-        "description": "Unst Airport",
+        "description": "Unst Airfield",
         "elevation": 0,
         "municipality": "Baltasound, Shetland Islands",
         "fileSize": 1152,
@@ -23575,8 +23554,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.5257,
-          58.402302,
+          15.522422,
+          58.397666,
           93.8784
         ]
       },
@@ -23915,8 +23894,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.87,
-          55.945999,
+          12.870001,
+          55.946124,
           59.1312
         ]
       },
@@ -23999,8 +23978,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.1372,
-          57.292198,
+          14.136792,
+          57.292194,
           169.46880000000002
         ]
       },
@@ -76503,8 +76482,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.53040314,
-          42.23789978,
+          -83.530403,
+          42.2379,
           218.23680000000002
         ]
       },
@@ -87757,8 +87736,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.025,
-          50.768299,
+          15.023071,
+          50.767053,
           405.0792
         ]
       },
@@ -90042,8 +90021,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.885900497436523,
-          46.50230026245117,
+          23.8859,
+          46.5023,
           330.0984
         ]
       },
@@ -93235,14 +93214,14 @@
         "coordinates": [
           20.533889,
           48.940833,
-          0
+          494.9952
         ]
       },
       "properties": {
         "title": "LZSV",
         "type": "small_airport",
         "description": "Spišská Nová Ves Airfield",
-        "elevation": 0,
+        "elevation": 1624,
         "municipality": "Spišská Nová Ves",
         "fileSize": 928,
         "marker-symbol": "airfield",
@@ -93254,8 +93233,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.9923,
-          48.865002,
+          18.000147,
+          48.865171,
           206.0448
         ]
       },
@@ -104713,7 +104692,7 @@
       "properties": {
         "title": "OPDI",
         "type": "small_airport",
-        "description": "Dera Ismael Khan Airport",
+        "description": "Dera Ismael Khan Airport [IN-ACTIVE]",
         "elevation": 594,
         "municipality": "Dera Ismael Khan",
         "fileSize": 936,
@@ -125254,8 +125233,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -42.249168395996094,
-          -13.446110725402832,
+          -42.229164,
+          -13.490582,
           544.9824
         ]
       },
@@ -125896,6 +125875,27 @@
         "elevation": 3117,
         "municipality": "São João Del Rei",
         "fileSize": 952,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.321389,
+          -18.581944,
+          595.884
+        ]
+      },
+      "properties": {
+        "title": "SNKE",
+        "type": "small_airport",
+        "description": "Fazenda São Francisco Airstrip",
+        "elevation": 1955,
+        "municipality": "Morada Nova de Minas",
+        "fileSize": 936,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -129312,15 +129312,15 @@
         "coordinates": [
           -52.412201,
           -29.684099,
-          196.9008
+          199.0344
         ]
       },
       "properties": {
         "title": "SSSC",
         "type": "small_airport",
         "description": "Santa Cruz do Sul Airport",
-        "elevation": 646,
-        "municipality": "Santa Cruz Do Sul",
+        "elevation": 653,
+        "municipality": "Santa Cruz do Sul",
         "fileSize": 944,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -129331,16 +129331,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -52.54059982299805,
-          -28.863100051879883,
-          659.892
+          -52.540569,
+          -28.863762,
+          672.9984000000001
         ]
       },
       "properties": {
         "title": "SSSD",
         "type": "small_airport",
         "description": "Soledade Airport",
-        "elevation": 2165,
+        "elevation": 2208,
         "municipality": "Soledade",
         "fileSize": 936,
         "marker-symbol": "airfield",
@@ -145287,8 +145287,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          117.416,
-          -0.306075,
+          117.415667,
+          -0.305999,
           14.9352
         ]
       },
@@ -145455,8 +145455,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.165001,
-          -3.29472,
+          116.163815,
+          -3.294796,
           1.2192
         ]
       },
@@ -146535,7 +146535,7 @@
       "properties": {
         "title": "WICD",
         "type": "small_airport",
-        "description": "Penggung Airport",
+        "description": "Cakrabhuwana  Airport",
         "elevation": 89,
         "municipality": "Cirebon-Java Island",
         "fileSize": 928,
