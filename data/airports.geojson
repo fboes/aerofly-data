@@ -2424,6 +2424,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -50.328536,
+          -9.319906,
+          187.1472
+        ]
+      },
+      "properties": {
+        "title": "SNKE",
+        "type": "small_airport",
+        "description": "Santana do Araguaia Airport",
+        "elevation": 614,
+        "municipality": "Santana do Araguaia",
+        "fileSize": 936,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -49.789101,
           -24.103901,
           804.9768
@@ -20053,8 +20074,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.645559787750244,
-          53.59170150756836,
+          -7.642947,
+          53.591373,
           59.436
         ]
       },
@@ -20095,8 +20116,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.898330211639404,
-          53.07059860229492,
+          -7.897468,
+          53.070599,
           76.2
         ]
       },
@@ -20200,8 +20221,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.122745513916016,
-          53.249656677246094,
+          -7.122746,
+          53.249657,
           73.152
         ]
       },
@@ -78535,9 +78556,9 @@
       "properties": {
         "title": "LFAC",
         "type": "small_airport",
-        "description": "Calais-Dunkerque Airport",
+        "description": "Calais Marck Airport",
         "elevation": 12,
-        "municipality": "Marck",
+        "municipality": "Calais",
         "fileSize": 1016,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -78661,9 +78682,9 @@
       "properties": {
         "title": "LFAQ",
         "type": "small_airport",
-        "description": "Albert-Picardie Airport",
+        "description": "Albert Bray airport",
         "elevation": 364,
-        "municipality": "Méaulte, Somme",
+        "municipality": "Albert",
         "fileSize": 984,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -78724,9 +78745,9 @@
       "properties": {
         "title": "LFAY",
         "type": "small_airport",
-        "description": "Amiens-Glisy Airfield",
+        "description": "Amiens Glisy Airfield",
         "elevation": 208,
-        "municipality": "Glisy, Somme",
+        "municipality": "Amiens",
         "fileSize": 984,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -78745,9 +78766,9 @@
       "properties": {
         "title": "LFBA",
         "type": "small_airport",
-        "description": "Agen-La Garenne Airport",
+        "description": "Agen La Garenne airport",
         "elevation": 204,
-        "municipality": "Agen/La Garenne",
+        "municipality": "Agen",
         "fileSize": 960,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -78780,17 +78801,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.715556,
-          44.8283,
+          -0.715356,
+          44.82865,
           49.3776
         ]
       },
       "properties": {
         "title": "LFBD",
         "type": "large_airport",
-        "description": "Bordeaux-Mérignac Airport",
+        "description": "Bordeaux–Mérignac Airport",
         "elevation": 162,
-        "municipality": "Bordeaux/Mérignac",
+        "municipality": "Bordeaux",
         "fileSize": 1392,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
@@ -78809,9 +78830,9 @@
       "properties": {
         "title": "LFBE",
         "type": "large_airport",
-        "description": "Bergerac Dordogne Périgord Airport",
+        "description": "Bergerac Dordogne-Périgord airport",
         "elevation": 171,
-        "municipality": "Bergerac/Roumanière",
+        "municipality": "Bergerac",
         "fileSize": 1256,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -78874,9 +78895,9 @@
       "properties": {
         "title": "LFBH",
         "type": "large_airport",
-        "description": "La Rochelle-Île de Ré Airport",
+        "description": "La Rochelle Île de Ré Airport",
         "elevation": 74,
-        "municipality": "La Rochelle/Île de Ré",
+        "municipality": "La Rochelle",
         "fileSize": 1216,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -79064,9 +79085,9 @@
       "properties": {
         "title": "LFBS",
         "type": "small_airport",
-        "description": "Biscarrosse Parentis Airfield",
+        "description": "Biscarrosse Parentis airfield",
         "elevation": 98,
-        "municipality": "Muret",
+        "municipality": "Biscarrosse",
         "fileSize": 1048,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -79106,9 +79127,9 @@
       "properties": {
         "title": "LFBU",
         "type": "closed",
-        "description": "Angoulême-Brie-Champniers Airport",
+        "description": "Angoulême Brie-Champniers airport",
         "elevation": 436,
-        "municipality": "Angoulême/Brie/Champniers",
+        "municipality": "Angoulême",
         "fileSize": 920,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -79140,17 +79161,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.531111,
-          43.468333,
+          -1.523223,
+          43.468372,
           74.676
         ]
       },
       "properties": {
         "title": "LFBZ",
         "type": "large_airport",
-        "description": "Biarritz-Anglet-Bayonne Airport",
+        "description": "Biarritz Pays Basque airport",
         "elevation": 245,
-        "municipality": "Biarritz/Anglet/Bayonne",
+        "municipality": "Biarritz",
         "fileSize": 1216,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -79169,9 +79190,9 @@
       "properties": {
         "title": "LFCC",
         "type": "small_airport",
-        "description": "Aérodrome de Cahors-Lalbenque",
+        "description": "Cahors Lalbenque airport",
         "elevation": 912,
-        "municipality": "Cahors/Lalbenque",
+        "municipality": "Cahors",
         "fileSize": 984,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -79253,9 +79274,9 @@
       "properties": {
         "title": "LFCI",
         "type": "small_airport",
-        "description": "Albi-Le Séquestre Airport",
+        "description": "Albi Le Sequestre airport",
         "elevation": 564,
-        "municipality": "Albi/Le Séquestre",
+        "municipality": "Albi",
         "fileSize": 960,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -79295,9 +79316,9 @@
       "properties": {
         "title": "LFCK",
         "type": "small_airport",
-        "description": "Castres-Mazamet Airport",
+        "description": "Castres Mazamet Airport",
         "elevation": 788,
-        "municipality": "Castres/Mazamet",
+        "municipality": "Castres",
         "fileSize": 960,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -79560,17 +79581,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.601667,
-          43.687801,
+          0.599747,
+          43.683606,
           125.2728
         ]
       },
       "properties": {
         "title": "LFDH",
         "type": "small_airport",
-        "description": "Auch-Lamothe Airfield",
+        "description": "Auch Gers Airfield",
         "elevation": 411,
-        "municipality": "Auch/Lamothe",
+        "municipality": "Auch",
         "fileSize": 976,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -79967,9 +79988,9 @@
       "properties": {
         "title": "LFGA",
         "type": "small_airport",
-        "description": "Colmar-Houssen Airport",
+        "description": "Colmar Houssen airport",
         "elevation": 628,
-        "municipality": "Colmar, Haut-Rhin",
+        "municipality": "Colmar",
         "fileSize": 1040,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -80030,9 +80051,9 @@
       "properties": {
         "title": "LFGJ",
         "type": "medium_airport",
-        "description": "Dole-Jura Airport",
+        "description": "Dole Tavaux Airport",
         "elevation": 645,
-        "municipality": "Tavaux, Jura",
+        "municipality": "Dole",
         "fileSize": 1136,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -80471,9 +80492,9 @@
       "properties": {
         "title": "LFJR",
         "type": "small_airport",
-        "description": "Angers-Loire Airport",
+        "description": "Angers Marcé airport",
         "elevation": 194,
-        "municipality": "Marcé, Maine-et-Loire",
+        "municipality": "Angers",
         "fileSize": 1048,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -80513,9 +80534,9 @@
       "properties": {
         "title": "LFJY",
         "type": "medium_airport",
-        "description": "Chambley Airfield",
+        "description": "Chambley airfield",
         "elevation": 866,
-        "municipality": "Chambley-Bussières, Meurthe-et-Moselle",
+        "municipality": "Chambley-Bussières",
         "fileSize": 1088,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -80547,17 +80568,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.48373031616211,
-          42.55270004272461,
+          9.48373,
+          42.5527,
           7.9248
         ]
       },
       "properties": {
         "title": "LFKB",
         "type": "large_airport",
-        "description": "Bastia-Poretta Airport",
+        "description": "Bastia Poretta airport",
         "elevation": 26,
-        "municipality": "Bastia/Poretta",
+        "municipality": "Bastia",
         "fileSize": 1248,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -80568,17 +80589,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.793056,
-          42.524444,
+          8.792984,
+          42.530422,
           63.7032
         ]
       },
       "properties": {
         "title": "LFKC",
         "type": "medium_airport",
-        "description": "Calvi-Sainte-Catherine Airport",
+        "description": "Calvi Sainte Catherine Airport",
         "elevation": 209,
-        "municipality": "Calvi/Sainte-Catherine",
+        "municipality": "Calvi",
         "fileSize": 1200,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -80599,7 +80620,7 @@
         "type": "medium_airport",
         "description": "Figari Sud-Corse Airport",
         "elevation": 85,
-        "municipality": "Figari Sud-Corse",
+        "municipality": "Figari",
         "fileSize": 1184,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -80610,17 +80631,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.8029203414917,
-          41.92359924316406,
+          8.80292,
+          41.923599,
           5.486400000000001
         ]
       },
       "properties": {
         "title": "LFKJ",
         "type": "large_airport",
-        "description": "Ajaccio-Napoléon Bonaparte Airport",
+        "description": "Ajaccio Napoléon Bonaparte airport",
         "elevation": 18,
-        "municipality": "Ajaccio/Napoléon Bonaparte",
+        "municipality": "Ajaccio",
         "fileSize": 1248,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -80682,9 +80703,9 @@
       "properties": {
         "title": "LFLA",
         "type": "small_airport",
-        "description": "Auxerre-Branches Airport",
+        "description": "Auxerre Branches airport",
         "elevation": 523,
-        "municipality": "Appoigny, Yonne",
+        "municipality": "Auxerre",
         "fileSize": 944,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -80703,9 +80724,9 @@
       "properties": {
         "title": "LFLB",
         "type": "large_airport",
-        "description": "Chambéry Savoie Mont Blanc Airport",
+        "description": "Chambéry Aix les Bains airport",
         "elevation": 779,
-        "municipality": "Viviers-du-Lac",
+        "municipality": "Chambéry",
         "fileSize": 1632,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -80724,9 +80745,9 @@
       "properties": {
         "title": "LFLC",
         "type": "medium_airport",
-        "description": "Clermont-Ferrand Auvergne Airport",
+        "description": "Clermont-Ferrand Auvergne airport",
         "elevation": 1090,
-        "municipality": "Aulnat, Puy-de-Dôme",
+        "municipality": "Clermont-Ferrand",
         "fileSize": 1184,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -80745,9 +80766,9 @@
       "properties": {
         "title": "LFLD",
         "type": "small_airport",
-        "description": "Bourges Airport",
+        "description": "Bourges airport",
         "elevation": 529,
-        "municipality": "Bourges, Cher",
+        "municipality": "Bourges",
         "fileSize": 984,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -80779,8 +80800,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.84972,
-          45.2192,
+          5.848317,
+          45.218047,
           220.06560000000002
         ]
       },
@@ -80800,20 +80821,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.819479,
-          46.827021,
+          4.817646,
+          46.825813,
           189.8904
         ]
       },
       "properties": {
         "title": "LFLH",
         "type": "small_airport",
-        "description": "Chalon-Champforgeuil Airfield",
+        "description": "Chalon Champforgeuil Airfield",
         "elevation": 623,
-        "municipality": "Fragnes-la-Loyère, Saône-et-Loire",
+        "municipality": "Châlon sur Saône",
         "fileSize": 1008,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -80955,9 +80976,9 @@
       "properties": {
         "title": "LFLP",
         "type": "large_airport",
-        "description": "Annecy Haute-Savoie Mont Blanc Airport",
+        "description": "Annecy Meythet airport",
         "elevation": 1521,
-        "municipality": "Epagny Metz-Tessy",
+        "municipality": "Annecy",
         "fileSize": 1440,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -80999,7 +81020,7 @@
         "type": "large_airport",
         "description": "Grenoble Alpes Isère Airport",
         "elevation": 1302,
-        "municipality": "Saint-Étienne-de-Saint-Geoirs, Isère",
+        "municipality": "Grenoble",
         "fileSize": 1208,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -81073,15 +81094,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.4219400882720947,
-          44.89139938354492,
+          2.42194,
+          44.891399,
           638.8608
         ]
       },
       "properties": {
         "title": "LFLW",
         "type": "closed",
-        "description": "Aurillac Airport",
+        "description": "Aurillac airport",
         "elevation": 2096,
         "municipality": "Aurillac",
         "fileSize": 920,
@@ -81102,9 +81123,9 @@
       "properties": {
         "title": "LFLX",
         "type": "small_airport",
-        "description": "Châteauroux-Déols Marcel Dassault Airport",
+        "description": "Châteauroux Déols airport",
         "elevation": 529,
-        "municipality": "Déols, Indre",
+        "municipality": "Châteauroux",
         "fileSize": 936,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -81144,9 +81165,9 @@
       "properties": {
         "title": "LFMA",
         "type": "small_airport",
-        "description": "Aix-Les Milles Airfield",
+        "description": "Aix Les Milles airport",
         "elevation": 367,
-        "municipality": "Aix-en-Provence, Bouches-du-Rhône",
+        "municipality": "Aix en Provence",
         "fileSize": 928,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -81186,9 +81207,9 @@
       "properties": {
         "title": "LFMD",
         "type": "small_airport",
-        "description": "Cannes-Mandelieu Airport",
+        "description": "Cannes Mandelieu Airport",
         "elevation": 13,
-        "municipality": "Cannes, Alpes-Maritimes",
+        "municipality": "Cannes",
         "fileSize": 1040,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -81271,9 +81292,9 @@
       "properties": {
         "title": "LFMK",
         "type": "large_airport",
-        "description": "Carcassonne Airport",
+        "description": "Carcassonne Salvaza Airport",
         "elevation": 433,
-        "municipality": "Carcassonne/Salvaza",
+        "municipality": "Carcassonne",
         "fileSize": 1216,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -81461,9 +81482,9 @@
       "properties": {
         "title": "LFMU",
         "type": "medium_airport",
-        "description": "Béziers-Vias Airport",
+        "description": "Béziers Vias airport",
         "elevation": 56,
-        "municipality": "Béziers/Vias",
+        "municipality": "Béziers",
         "fileSize": 1152,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -81482,9 +81503,9 @@
       "properties": {
         "title": "LFMV",
         "type": "medium_airport",
-        "description": "Avignon-Caumont Airport",
+        "description": "Avignon Caumont airport",
         "elevation": 124,
-        "municipality": "Avignon, Vaucluse",
+        "municipality": "Avignon",
         "fileSize": 1088,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -81820,9 +81841,9 @@
       "properties": {
         "title": "LFOB",
         "type": "large_airport",
-        "description": "Paris-Beauvais Airport",
+        "description": "Beauvais Tillé airport",
         "elevation": 359,
-        "municipality": "Tillé",
+        "municipality": "Beauvais",
         "fileSize": 1248,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -81969,9 +81990,9 @@
       "properties": {
         "title": "LFOK",
         "type": "small_airport",
-        "description": "Châlons-Vatry Airport",
+        "description": "Chalons Vatry airport",
         "elevation": 587,
-        "municipality": "Bussy-Lettrée",
+        "municipality": "Chalons en Champagne",
         "fileSize": 960,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -82032,9 +82053,9 @@
       "properties": {
         "title": "LFOQ",
         "type": "medium_airport",
-        "description": "Blois-Le Breuil Airfield",
+        "description": "Blois Le Breuil Airfield",
         "elevation": 398,
-        "municipality": "Villefrancœur, Loire-et-Cher",
+        "municipality": "Blois",
         "fileSize": 1176,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -82139,7 +82160,7 @@
         "type": "large_airport",
         "description": "Paris-Le Bourget Airport",
         "elevation": 218,
-        "municipality": "Paris (Le Bourget, Seine-Saint-Denis)",
+        "municipality": "Paris",
         "fileSize": 1344,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -82594,17 +82615,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.083681,
-          47.2066,
+          6.083168,
+          47.206615,
           387.4008
         ]
       },
       "properties": {
         "title": "LFQM",
         "type": "small_airport",
-        "description": "Besançon-La Vèze Airfield",
+        "description": "Besançon La Vèze Airfield",
         "elevation": 1271,
-        "municipality": "La Vèze",
+        "municipality": "Besançon",
         "fileSize": 960,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -82729,9 +82750,9 @@
       "properties": {
         "title": "LFRB",
         "type": "large_airport",
-        "description": "Brest Bretagne Airport",
+        "description": "Brest Bretagne airport",
         "elevation": 325,
-        "municipality": "Brest/Guipavas",
+        "municipality": "Brest",
         "fileSize": 1224,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -82750,9 +82771,9 @@
       "properties": {
         "title": "LFRC",
         "type": "small_airport",
-        "description": "Cherbourg-Maupertus Airport",
+        "description": "Cherbourg Manche airport",
         "elevation": 459,
-        "municipality": "Gonneville-Le Theil, Manche",
+        "municipality": "Cherbourg",
         "fileSize": 936,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -82771,9 +82792,9 @@
       "properties": {
         "title": "LFRD",
         "type": "large_airport",
-        "description": "Dinard-Pleurtuit-Saint-Malo Airport",
+        "description": "Dinard Pleurtuit Saint-Malo airport",
         "elevation": 219,
-        "municipality": "Pleurtuit, Ille-et-Vilaine",
+        "municipality": "Dinard",
         "fileSize": 1240,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -82792,9 +82813,9 @@
       "properties": {
         "title": "LFRG",
         "type": "large_airport",
-        "description": "Deauville-Normandie Airport",
+        "description": "Deauville Normandie airport",
         "elevation": 479,
-        "municipality": "Deauville, Calvados",
+        "municipality": "Deauville",
         "fileSize": 1208,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -82834,9 +82855,9 @@
       "properties": {
         "title": "LFRI",
         "type": "small_airport",
-        "description": "La Roche-sur-Yon Airport",
+        "description": "La Roche-sur-Yon Les Ajoncs Airport",
         "elevation": 299,
-        "municipality": "La Roche-sur-Yon/Les Ajoncs",
+        "municipality": "La Roche-sur-Yon",
         "fileSize": 992,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -82877,9 +82898,9 @@
       "properties": {
         "title": "LFRK",
         "type": "large_airport",
-        "description": "Caen-Carpiquet Airport",
+        "description": "Caen Carpiquet airport",
         "elevation": 256,
-        "municipality": "Carpiquet, Calvados",
+        "municipality": "Caen",
         "fileSize": 1344,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -82962,7 +82983,7 @@
       "properties": {
         "title": "LFRO",
         "type": "small_airport",
-        "description": "Lannion-Côte de Granit Airport",
+        "description": "Lannion Airport",
         "elevation": 290,
         "municipality": "Lannion",
         "fileSize": 944,
@@ -83088,9 +83109,9 @@
       "properties": {
         "title": "LFSB",
         "type": "large_airport",
-        "description": "EuroAirport Basel-Mulhouse-Freiburg",
+        "description": "EuroAirport Basel–Mulhouse–Freiburg",
         "elevation": 885,
-        "municipality": "Saint-Louis",
+        "municipality": "Bâle / Mulhouse",
         "fileSize": 1216,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
@@ -83109,9 +83130,9 @@
       "properties": {
         "title": "LFSD",
         "type": "small_airport",
-        "description": "Dijon-Bourgogne Airport",
+        "description": "Dijon Longvic airport",
         "elevation": 726,
-        "municipality": "Ouges, Côte-d'Or",
+        "municipality": "Dijon",
         "fileSize": 976,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -83130,9 +83151,9 @@
       "properties": {
         "title": "LFSG",
         "type": "small_airport",
-        "description": "Épinal-Mirecourt Airport",
+        "description": "Épinal Mirecourt Airport",
         "elevation": 1084,
-        "municipality": "Juvaincourt, Vosges",
+        "municipality": "Épinal",
         "fileSize": 944,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -83194,9 +83215,9 @@
       "properties": {
         "title": "LFSL",
         "type": "small_airport",
-        "description": "Brive-Souillac Airport",
+        "description": "Brive Souillac airport",
         "elevation": 1016,
-        "municipality": "Brive la Gaillarde",
+        "municipality": "Brive",
         "fileSize": 992,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -83469,9 +83490,9 @@
       "properties": {
         "title": "LFTZ",
         "type": "closed",
-        "description": "La Môle-Saint-Tropez Airport",
+        "description": "La Môle Airport",
         "elevation": 59,
-        "municipality": "La Môle, Var",
+        "municipality": "Saint-Tropez",
         "fileSize": 920,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -84857,7 +84878,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.7101,
+          12.71237,
           42.9328,
           222.50400000000002
         ]
@@ -84899,8 +84920,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.717942,
-          41.493566,
+          13.719342,
+          41.491983,
           110.03280000000001
         ]
       },
@@ -84941,8 +84962,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.7181,
-          41.541401,
+          15.717181,
+          41.538443,
           55.778400000000005
         ]
       },
@@ -86952,8 +86973,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.2998,
-          41.6464,
+          13.294573,
+          41.648537,
           0
         ]
       },
@@ -125884,27 +125905,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -45.321389,
-          -18.581944,
-          595.884
-        ]
-      },
-      "properties": {
-        "title": "SNKE",
-        "type": "small_airport",
-        "description": "Fazenda São Francisco Airstrip",
-        "elevation": 1955,
-        "municipality": "Morada Nova de Minas",
-        "fileSize": 936,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -41.1856,
           -20.834299,
           78.0288
@@ -139109,15 +139109,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          85.8178024292,
-          20.244400024399997,
+          85.817802,
+          20.2444,
           42.062400000000004
         ]
       },
       "properties": {
         "title": "VEBS",
         "type": "small_airport",
-        "description": "Biju Patnaik Airport",
+        "description": "Biju Patnaik International Airport",
         "elevation": 138,
         "municipality": "Bhubaneswar",
         "fileSize": 976,
@@ -139384,8 +139384,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          86.169739,
-          22.813786,
+          86.168981,
+          22.813706,
           144.78
         ]
       },
@@ -139405,8 +139405,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.1754989624,
-          26.7315006256,
+          94.175416,
+          26.730456,
           94.7928
         ]
       },
@@ -139531,8 +139531,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.097603,
-          27.2955,
+          94.097266,
+          27.295682,
           100.584
         ]
       },
@@ -139826,8 +139826,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.30120086669922,
-          22.801000595092773,
+          90.301201,
+          22.801001,
           7.010400000000001
         ]
       },
@@ -139847,8 +139847,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.96389770507812,
-          21.452199935913086,
+          91.963263,
+          21.457517,
           3.6576000000000004
         ]
       },
@@ -139952,8 +139952,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.61650085449219,
-          24.43720054626465,
+          88.616501,
+          24.437201,
           19.5072
         ]
       },
@@ -139973,8 +139973,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          88.90889739990234,
-          25.759199142456055,
+          88.908897,
+          25.759199,
           38.1
         ]
       },
@@ -140015,8 +140015,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.382698,
-          23.778799,
+          90.382719,
+          23.778507,
           7.315200000000001
         ]
       },

@@ -17,7 +17,7 @@ const icaoFilter = icaoFilterArg
 const aeroflyGeoJson = new GeoJSON.FeatureCollection();
 const aeroflyAirports = getAeroflyAirports(inputDirectory, icaoFilter);
 const aeroflyAirportsLength = aeroflyAirports.size;
-process.stderr
+process.stdout
   .write(`Found \x1b[92m${aeroflyAirports.size}\x1b[0m Aerofly FS Airports
 `);
 
@@ -126,7 +126,7 @@ for (const airportsRecord of airportsRecords) {
 
   if (airportsRecordsProcessed % 5000 === 0) {
     const index = aeroflyAirportsLength - aeroflyAirports.size;
-    process.stderr
+    process.stdout
       .write(`  Processed \x1b[92m${String(airportsRecordsProcessed).padStart(5)}\x1b[0m airport records, found \x1b[92m${String(index).padStart(5)}\x1b[0m Aerofly FS Airports
 `);
   }
@@ -145,6 +145,9 @@ fs.writeFileSync(
   JSON.stringify(aeroflyGeoJson, null, 2),
   "utf-8"
 );
+process.stdout.write(
+  `GeoJSON data written to \x1b[92m${outputFilePath}\x1b[0m\n`
+);
 
 // Write the ICAO codes to airport-list.json
 const icaoListFilePath = path.join(outputDirectory, "airport-list.json");
@@ -153,17 +156,28 @@ fs.writeFileSync(
   JSON.stringify(icaoCodes.sort(), null, 2),
   "utf-8"
 );
-
-// Log a message to STDERR to confirm the files were written
-process.stderr.write(
-  `GeoJSON data written to \x1b[92m${outputFilePath}\x1b[0m\n`
-);
-process.stderr.write(
+process.stdout.write(
   `ICAO code list written to \x1b[92m${icaoListFilePath}\x1b[0m\n`
 );
 
+// Write the missing codes to airports-unmatched.md
+const unmatchedFilePath = path.join(outputDirectory, "airports-unmatched.md");
+const unmatchedCodes = [...aeroflyAirports]
+  .map((a) => {
+    return `- \`${a[0]}\``;
+  })
+  .join("\n");
+fs.writeFileSync(
+  unmatchedFilePath,
+  `# Aerofly FS4 Unmatched Airports\n\nThe following Aerofly FS4 Airports were not matched to any known airport:\n\n${unmatchedCodes}\n`,
+  "utf-8"
+);
+process.stdout.write(
+  `Unmatched airports file written to \x1b[92m${unmatchedFilePath}\x1b[0m\n`
+);
+
 if (aeroflyAirports.size > 0) {
-  process.stderr.write(
+  process.stdout.write(
     `Missing airport matches for \x1b[92m${
       aeroflyAirports.size
     }\x1b[0m Aerofly FS4 Airports, \x1b[92m${(

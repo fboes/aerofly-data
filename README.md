@@ -18,6 +18,7 @@ The `data` directory contains the following files:
 | [`aircraft.json`](./data/aircraft.json)                                 | JSON file containing abbreviated information about all aircraft (without liveries).     |
 | [`aircraft.md`](./data/aircraft.md)                                     | Markdown file containing abbreviated information about all aircraft (without liveries). |
 | [`airport-list.json`](./data/airport-list.json)                         | JSON file containing an array of all ICAO codes.                                        |
+| [`airports-unmatched.md`](./data/airports-unmatched.md)                 | Markdown file containing all airports not contained in `aiports.geojson`                |
 | [`airports.geojson`](./data/airports.geojson)                           | GeoJSON file containing the location of all airports in Aerofly FS 4.                   |
 
 ## Building

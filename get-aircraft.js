@@ -13,7 +13,7 @@ import {
 const inputDirectory = process.argv[2] ?? ".";
 const aeroflyAircraft = getAeroflyAircraft(inputDirectory);
 
-process.stderr
+process.stdout
   .write(`Found \x1b[92m${aeroflyAircraft.length}\x1b[0m Aerofly FS Aircraft with \x1b[92m${aeroflyAircraft.reduce((sum, aircraft) => sum + aircraft.liveries.length, 0)}\x1b[0m liveries
 `);
 
@@ -31,7 +31,7 @@ await fs.promises.writeFile(
   JSON.stringify(aeroflyAircraft, null, 2),
   "utf-8"
 );
-process.stderr.write(
+process.stdout.write(
   `Full aircraft data (with liveries) written to \x1b[92m${outputFilePathWithLiveries}\x1b[0m\n`
 );
 
@@ -49,7 +49,7 @@ await fs.promises.writeFile(
   ),
   "utf-8"
 );
-process.stderr.write(
+process.stdout.write(
   `Abbreviated aircraft data (without liveries) written to \x1b[92m${outputFilePathWithoutLiveries}\x1b[0m\n`
 );
 
@@ -95,7 +95,7 @@ const summaryContent =
   "\n";
 
 await fs.promises.writeFile(summaryFilePath, summaryContent, "utf-8");
-process.stderr.write(`Summary written to \x1b[92m${summaryFilePath}\x1b[0m\n`);
+process.stdout.write(`Summary written to \x1b[92m${summaryFilePath}\x1b[0m\n`);
 
 // Write HTML <select> options to aircraft-select.html
 const selectFilePath = path.join(outputDirectory, "aircraft-select.html");
@@ -103,7 +103,7 @@ const selectFilePath = path.join(outputDirectory, "aircraft-select.html");
 let selectContent = getSelectOptions(sortedAircraft);
 
 await fs.promises.writeFile(selectFilePath, selectContent, "utf-8");
-process.stderr.write(
+process.stdout.write(
   `HTML <select> options written to \x1b[92m${selectFilePath}\x1b[0m\n`
 );
 
@@ -120,10 +120,10 @@ await fs.promises.writeFile(
   selectOptgroupContent,
   "utf-8"
 );
-process.stderr.write(
+process.stdout.write(
   `HTML <select> with <optgroup> options written to \x1b[92m${selectOptgroupFilePath}\x1b[0m\n`
 );
 
-process.stderr.write(
+process.stdout.write(
   `\nAll aircraft files written to \x1b[92m${path.resolve(outputDirectory)}\x1b[0m\n`
 );
