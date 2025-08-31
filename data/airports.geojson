@@ -16257,6 +16257,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.42886,
+          53.304809,
+          228.60000000000002
+        ]
+      },
+      "properties": {
+        "title": "EG22",
+        "type": "medium_airport",
+        "description": "Coal Aston Airfield",
+        "elevation": 750,
+        "municipality": "Dronfield, Derbyshire",
+        "fileSize": 1096,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.38972,
           53.471699,
           22.250400000000003
@@ -25429,8 +25450,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.9711,
-          56.923599,
+          23.970711,
+          56.920752,
           10.972800000000001
         ]
       },
@@ -28115,6 +28136,27 @@
         "fileSize": 952,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.872778,
+          60.603333,
+          80.1624
+        ]
+      },
+      "properties": {
+        "title": "EG39",
+        "type": "medium_airport",
+        "description": "Fetlar Airstrip",
+        "elevation": 263,
+        "municipality": "Fetlar Island",
+        "fileSize": 1064,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -31968,6 +32010,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.693611,
+          54.293611,
+          96.012
+        ]
+      },
+      "properties": {
+        "title": "EG41",
+        "type": "medium_airport",
+        "description": "Blease Hall Airfield",
+        "elevation": 315,
+        "municipality": "Kendal, Cumbria",
+        "fileSize": 1056,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.717291,
+          51.546906,
+          46.9392
+        ]
+      },
+      "properties": {
+        "title": "EG35",
+        "type": "medium_airport",
+        "description": "Old Park Farm Airstrip",
+        "elevation": 154,
+        "municipality": "Port Talbot, Neath Port Talbot",
+        "fileSize": 1176,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.714897,
+          55.280484,
+          60.0456
+        ]
+      },
+      "properties": {
+        "title": "EG38",
+        "type": "medium_airport",
+        "description": "Eshott Airfield",
+        "elevation": 197,
+        "municipality": "Morpeth, Northumberland",
+        "fileSize": 1072,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.733427,
+          51.390238,
+          189.8904
+        ]
+      },
+      "properties": {
+        "title": "EG20",
+        "type": "medium_airport",
+        "description": "Clench Common Airfield",
+        "elevation": 623,
+        "municipality": "Marlborough, Wiltshire",
+        "fileSize": 1184,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.572222,
           53.16451,
           45.72
@@ -31980,6 +32106,90 @@
         "elevation": 150,
         "municipality": "Winsford, Cheshire",
         "fileSize": 1200,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.684844,
+          51.188302,
+          45.72
+        ]
+      },
+      "properties": {
+        "title": "EG69",
+        "type": "medium_airport",
+        "description": "Egerton Airfield",
+        "elevation": 150,
+        "municipality": "Ashford, Kent",
+        "fileSize": 1152,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.735324,
+          56.000849,
+          37.1856
+        ]
+      },
+      "properties": {
+        "title": "EG32",
+        "type": "medium_airport",
+        "description": "East Fortune Airfield",
+        "elevation": 122,
+        "municipality": "North Berwick, East Lothian",
+        "fileSize": 1120,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1232,
+          52.947824,
+          0
+        ]
+      },
+      "properties": {
+        "title": "EGX3",
+        "type": "medium_airport",
+        "description": "Weybourne Airstrip",
+        "elevation": 0,
+        "municipality": "Holt, Norfolk",
+        "fileSize": 1104,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.089111,
+          52.4873,
+          1.524
+        ]
+      },
+      "properties": {
+        "title": "EG17",
+        "type": "medium_airport",
+        "description": "Chatteris Airfield",
+        "elevation": 5,
+        "municipality": "Chatteris",
+        "fileSize": 1152,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -32496,6 +32706,27 @@
         "elevation": 825,
         "municipality": "Huddersfield, West Yorkshire",
         "fileSize": 1104,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.962299,
+          54.163753,
+          6.096
+        ]
+      },
+      "properties": {
+        "title": "EG15",
+        "type": "medium_airport",
+        "description": "Cark airfield",
+        "elevation": 20,
+        "municipality": "Cark",
+        "fileSize": 1112,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -78393,7 +78624,7 @@
         "municipality": "Valencia",
         "fileSize": 1160,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -99246,6 +99477,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -115.995003,
+          36.271099,
+          830.8848
+        ]
+      },
+      "properties": {
+        "title": "K74P",
+        "type": "medium_airport",
+        "description": "Calvada Meadows Airport",
+        "elevation": 2726,
+        "municipality": "Pahrump",
+        "fileSize": 1160,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           167.220001221,
           -15.505000114399998,
           56.083200000000005
@@ -100444,16 +100696,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          174.6300048828125,
-          -36.78779983520508,
-          30.48
+          174.630005,
+          -36.7878,
+          31.3944
         ]
       },
       "properties": {
         "title": "NZWP",
         "type": "large_airbase",
         "description": "RNZAF Base Auckland-Whenuapai",
-        "elevation": 100,
+        "elevation": 103,
         "municipality": "",
         "fileSize": 1360,
         "marker-symbol": "airport",
@@ -100529,8 +100781,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          175.02499389648438,
-          -39.96220016479492,
+          175.02444,
+          -39.963467,
           8.2296
         ]
       },
@@ -100550,8 +100802,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          176.53700256347656,
-          -39.996700286865234,
+          176.537003,
+          -39.9967,
           131.064
         ]
       },
@@ -100562,6 +100814,27 @@
         "elevation": 430,
         "municipality": "",
         "fileSize": 912,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.211998,
+          40.780998,
+          6.096
+        ]
+      },
+      "properties": {
+        "title": "KO33",
+        "type": "medium_airport",
+        "description": "Samoa Field Airport",
+        "elevation": 20,
+        "municipality": "Eureka",
+        "fileSize": 1072,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -112091,8 +112364,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.039402,
-          14.419365,
+          122.03923,
+          14.418624,
           7.62
         ]
       },
@@ -120993,7 +121266,7 @@
       "properties": {
         "title": "SDSC",
         "type": "small_airport",
-        "description": "Mário Pereira Lopes–São Carlos Airport",
+        "description": "Mário Pereira Lopes–São Carlos International Airport",
         "elevation": 2649,
         "municipality": "São Carlos",
         "fileSize": 952,
@@ -125674,8 +125947,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -46.731201171875,
-          -21.326400756835938,
+          -46.730835,
+          -21.325766,
           849.1728
         ]
       },
@@ -138962,8 +139235,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.631001,
-          10.569498,
+          103.632689,
+          10.571969,
           10.0584
         ]
       },
