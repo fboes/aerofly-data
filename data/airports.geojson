@@ -48,6 +48,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.170851,
+          39.944555,
+          89.00160000000001
+        ]
+      },
+      "properties": {
+        "title": "K0O4",
+        "type": "medium_airport",
+        "description": "Corning Municipal Airport",
+        "elevation": 292,
+        "municipality": "Corning",
+        "fileSize": 1064,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.272003,
           41.263199,
           993.0384
@@ -60,6 +81,27 @@
         "elevation": 3258,
         "municipality": "Dunsmuir",
         "fileSize": 1072,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.231063,
+          36.257984,
+          1249.68
+        ]
+      },
+      "properties": {
+        "title": "K1Z1",
+        "type": "medium_airport",
+        "description": "Grand Canyon Bar Ten Airstrip",
+        "elevation": 4100,
+        "municipality": "Littlefield",
+        "fileSize": 1088,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -11662,6 +11704,27 @@
         "fileSize": 944,
         "marker-symbol": "airport",
         "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.530504,
+          38.801602,
+          286.512
+        ]
+      },
+      "properties": {
+        "title": "KE55",
+        "type": "medium_airport",
+        "description": "Ocean Ridge Airport",
+        "elevation": 940,
+        "municipality": "Gualala",
+        "fileSize": 1064,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -32094,6 +32157,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -5.228403,
+          50.285065,
+          103.9368
+        ]
+      },
+      "properties": {
+        "title": "EG60",
+        "type": "medium_airport",
+        "description": "Porthtowan Airfield",
+        "elevation": 341,
+        "municipality": "St Agnes, Cornwall",
+        "fileSize": 1152,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.15566,
+          50.697839,
+          152.4
+        ]
+      },
+      "properties": {
+        "title": "EG62",
+        "type": "medium_airport",
+        "description": "Branscombe Airfield",
+        "elevation": 500,
+        "municipality": "Branscombe, Devon",
+        "fileSize": 1112,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.572222,
           53.16451,
           45.72
@@ -32127,6 +32232,27 @@
         "elevation": 150,
         "municipality": "Ashford, Kent",
         "fileSize": 1152,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.974655,
+          54.231147,
+          38.1
+        ]
+      },
+      "properties": {
+        "title": "EGX4",
+        "type": "medium_airport",
+        "description": "Wombleton Airfield",
+        "elevation": 125,
+        "municipality": "York, North Yorkshire",
+        "fileSize": 1136,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -32178,6 +32304,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.750857,
+          56.268957,
+          117.9576
+        ]
+      },
+      "properties": {
+        "title": "EG59",
+        "type": "medium_airport",
+        "description": "Kingsmuir Airfield",
+        "elevation": 387,
+        "municipality": "St Andrews, Fife",
+        "fileSize": 1088,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.384377,
+          54.766838,
+          0
+        ]
+      },
+      "properties": {
+        "title": "EG80",
+        "type": "medium_airport",
+        "description": "Peterlee Airfield",
+        "elevation": 0,
+        "municipality": "Durham, County Durham",
+        "fileSize": 1200,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.575937,
+          53.772322,
+          0
+        ]
+      },
+      "properties": {
+        "title": "EG54",
+        "type": "small_airport",
+        "description": "South Cave / Mount Airy Airfield",
+        "elevation": 0,
+        "municipality": "Brough, East Riding of Yorkshire",
+        "fileSize": 1048,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.622433,
+          53.478357,
+          43.891200000000005
+        ]
+      },
+      "properties": {
+        "title": "EG49",
+        "type": "medium_airport",
+        "description": "Haydock Park Airstrip",
+        "elevation": 144,
+        "municipality": "Newton-le-Willows, Merseyside",
+        "fileSize": 1088,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.089111,
           52.4873,
           1.524
@@ -32211,6 +32421,27 @@
         "elevation": 0,
         "municipality": "Kenley",
         "fileSize": 1232,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.06953,
+          54.5847,
+          27.127200000000002
+        ]
+      },
+      "properties": {
+        "title": "EGX5",
+        "type": "medium_airport",
+        "description": "Yearby Airstrip",
+        "elevation": 89,
+        "municipality": "",
+        "fileSize": 1056,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -32727,6 +32958,69 @@
         "elevation": 20,
         "municipality": "Cark",
         "fileSize": 1112,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.053202,
+          60.121725,
+          45.72
+        ]
+      },
+      "properties": {
+        "title": "EG42",
+        "type": "medium_airport",
+        "description": "Foula Airfield",
+        "elevation": 150,
+        "municipality": "Foula",
+        "fileSize": 1056,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.75,
+          60.4252,
+          23.1648
+        ]
+      },
+      "properties": {
+        "title": "EG78",
+        "type": "medium_airport",
+        "description": "Out Skerries Airfield",
+        "elevation": 76,
+        "municipality": "Grunay Island",
+        "fileSize": 1072,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.69306,
+          60.321701,
+          22.86
+        ]
+      },
+      "properties": {
+        "title": "EG79",
+        "type": "medium_airport",
+        "description": "Papa Stour Airstrip",
+        "elevation": 75,
+        "municipality": "Papa Stour Island",
+        "fileSize": 1056,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -76853,6 +77147,90 @@
         "fileSize": 1008,
         "marker-symbol": "airport",
         "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.045998,
+          36.093601,
+          896.4168000000001
+        ]
+      },
+      "properties": {
+        "title": "KL25",
+        "type": "medium_airport",
+        "description": "Pearce Ferry Airport",
+        "elevation": 2941,
+        "municipality": "Meadview",
+        "fileSize": 1072,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.247636,
+          35.527168,
+          1641.6528
+        ]
+      },
+      "properties": {
+        "title": "KL37",
+        "type": "medium_airport",
+        "description": "Grand Canyon Caverns Airport",
+        "elevation": 5386,
+        "municipality": "Peach Springs",
+        "fileSize": 1080,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.622002,
+          35.101398,
+          4.572
+        ]
+      },
+      "properties": {
+        "title": "KL52",
+        "type": "medium_airport",
+        "description": "Oceano County Airport",
+        "elevation": 15,
+        "municipality": "Oceano",
+        "fileSize": 1072,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.268997,
+          35.968601,
+          477.9264
+        ]
+      },
+      "properties": {
+        "title": "KL61",
+        "type": "medium_airport",
+        "description": "Shoshone Airport",
+        "elevation": 1568,
+        "municipality": "Shoshone",
+        "fileSize": 1056,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
