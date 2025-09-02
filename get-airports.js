@@ -164,12 +164,18 @@ process.stdout.write(
 const unmatchedFilePath = path.join(outputDirectory, "airports-unmatched.md");
 const unmatchedCodes = [...aeroflyAirports]
   .map((a) => {
-    return `- \`${a[0]}\``;
+    return `1. \`${a[0]}\``;
   })
   .join("\n");
 fs.writeFileSync(
   unmatchedFilePath,
-  `# Aerofly FS4 Unmatched Airports\n\nThe following Aerofly FS4 Airports were not matched to any known airport:\n\n${unmatchedCodes}\n`,
+  `\
+# Aerofly FS4 Unmatched Airports
+
+The following Aerofly FS4 Airports were not matched to any known airport. You may want to add these codes (e.g. as keywords) to [OurAirports](https://ourairports.com/) to improve matching.
+
+${unmatchedCodes}
+`,
   "utf-8"
 );
 process.stdout.write(

@@ -19627,6 +19627,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.891667,
+          57.103667,
+          0
+        ]
+      },
+      "properties": {
+        "title": "EGZL",
+        "type": "medium_airport",
+        "description": "Feshiebridge Glider Field",
+        "elevation": 0,
+        "municipality": "",
+        "fileSize": 1072,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.678396,
           53.453612,
           3.3528000000000002
@@ -22849,8 +22870,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.773512,
-          54.417664,
+          17.765734,
+          54.416525,
           150.876
         ]
       },
@@ -22871,8 +22892,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.8936004639,
-          51.551399231,
+          21.892322,
+          51.551021,
           119.4816
         ]
       },
@@ -22957,8 +22978,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.0849,
-          50.529202,
+          18.079283,
+          50.530598,
           208.1784
         ]
       },
@@ -23150,14 +23171,14 @@
         "coordinates": [
           19.143792,
           52.004945,
-          114.90960000000001
+          123.1392
         ]
       },
       "properties": {
         "title": "EPLY",
         "type": "closed",
         "description": "Leźnica Wielka Air Base",
-        "elevation": 377,
+        "elevation": 404,
         "municipality": "Leźnica Wielka",
         "fileSize": 920,
         "marker-symbol": "airport",
@@ -32052,6 +32073,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.45831,
+          54.686798,
+          114.90960000000001
+        ]
+      },
+      "properties": {
+        "title": "EG41",
+        "type": "medium_airport",
+        "description": "Fishburn Airfield",
+        "elevation": 377,
+        "municipality": "Ferryhill, Durham",
+        "fileSize": 1056,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.204731,
+          54.882099,
+          4.8768
+        ]
+      },
+      "properties": {
+        "title": "EG60",
+        "type": "medium_airport",
+        "description": "Kirkbride Airfield",
+        "elevation": 16,
+        "municipality": "Wigton, Cumbria",
+        "fileSize": 1152,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.4285,
           51.928167,
           167.64000000000001
@@ -32073,60 +32136,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.693611,
-          54.293611,
-          96.012
+          -0.90101,
+          52.89593,
+          36.8808
         ]
       },
       "properties": {
-        "title": "EG41",
+        "title": "EG32",
         "type": "medium_airport",
-        "description": "Blease Hall Airfield",
-        "elevation": 315,
-        "municipality": "Kendal, Cumbria",
-        "fileSize": 1056,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.717291,
-          51.546906,
-          46.9392
-        ]
-      },
-      "properties": {
-        "title": "EG35",
-        "type": "medium_airport",
-        "description": "Old Park Farm Airstrip",
-        "elevation": 154,
-        "municipality": "Port Talbot, Neath Port Talbot",
-        "fileSize": 1176,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.714897,
-          55.280484,
-          60.0456
-        ]
-      },
-      "properties": {
-        "title": "EG38",
-        "type": "medium_airport",
-        "description": "Eshott Airfield",
-        "elevation": 197,
-        "municipality": "Morpeth, Northumberland",
-        "fileSize": 1072,
+        "description": "Langar Airfield",
+        "elevation": 121,
+        "municipality": "Nottingham, Nottinghamshire",
+        "fileSize": 1120,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -32157,48 +32178,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.228403,
-          50.285065,
-          103.9368
-        ]
-      },
-      "properties": {
-        "title": "EG60",
-        "type": "medium_airport",
-        "description": "Porthtowan Airfield",
-        "elevation": 341,
-        "municipality": "St Agnes, Cornwall",
-        "fileSize": 1152,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.15566,
-          50.697839,
-          152.4
-        ]
-      },
-      "properties": {
-        "title": "EG62",
-        "type": "medium_airport",
-        "description": "Branscombe Airfield",
-        "elevation": 500,
-        "municipality": "Branscombe, Devon",
-        "fileSize": 1112,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.572222,
           53.16451,
           45.72
@@ -32220,27 +32199,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.684844,
-          51.188302,
-          45.72
-        ]
-      },
-      "properties": {
-        "title": "EG69",
-        "type": "medium_airport",
-        "description": "Egerton Airfield",
-        "elevation": 150,
-        "municipality": "Ashford, Kent",
-        "fileSize": 1152,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.974655,
           54.231147,
           38.1
@@ -32253,27 +32211,6 @@
         "elevation": 125,
         "municipality": "York, North Yorkshire",
         "fileSize": 1136,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.735324,
-          56.000849,
-          37.1856
-        ]
-      },
-      "properties": {
-        "title": "EG32",
-        "type": "medium_airport",
-        "description": "East Fortune Airfield",
-        "elevation": 122,
-        "municipality": "North Berwick, East Lothian",
-        "fileSize": 1120,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -32421,6 +32358,27 @@
         "elevation": 0,
         "municipality": "Kenley",
         "fileSize": 1232,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.89184,
+          58.8876,
+          19.812
+        ]
+      },
+      "properties": {
+        "title": "EG62",
+        "type": "medium_airport",
+        "description": "Lamb Holm Airfield",
+        "elevation": 65,
+        "municipality": "",
+        "fileSize": 1112,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -32946,6 +32904,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.670758,
+          51.170505,
+          138.684
+        ]
+      },
+      "properties": {
+        "title": "EG69",
+        "type": "medium_airport",
+        "description": "Lundy Island Airfield",
+        "elevation": 455,
+        "municipality": "",
+        "fileSize": 1152,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.962299,
           54.163753,
           6.096
@@ -32958,6 +32937,27 @@
         "elevation": 20,
         "municipality": "Cark",
         "fileSize": 1112,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.974114,
+          54.308098,
+          0
+        ]
+      },
+      "properties": {
+        "title": "EG35",
+        "type": "medium_airport",
+        "description": "Boon Hill Farm Airstrip",
+        "elevation": 0,
+        "municipality": "Fadmoor, Kirbymoorside",
+        "fileSize": 1176,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -37813,6 +37813,27 @@
         "elevation": 20,
         "municipality": "Nabire",
         "fileSize": 936,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.21085,
+          53.6196,
+          0
+        ]
+      },
+      "properties": {
+        "title": "EIIB",
+        "type": "medium_airport",
+        "description": "Inishbofin Airfield",
+        "elevation": 0,
+        "municipality": "Middlequarter",
+        "fileSize": 1144,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
