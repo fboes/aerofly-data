@@ -34,6 +34,7 @@
 | McDonnell Douglas F-15E Strike Eagle | `F15` | `f15e` | 140 | 40.000 | 1.458 | 3.100 |
 | McDonnell Douglas F/A-18C Hornet | `F18` | `f18` | 135 | 40.000 | 1.034 | 1.080 |
 | Messerschmitt Bf 109E | `ME09` | `bf109e` | 94 | 13.123 | 309 | 432 |
+| Messerschmitt Me 262 A-1 | `ME62` | `me262` | 119 | 19.685 | 432 | 57 |
 | Pitts S-2B | `PTS2` | `pitts` | 90 | 9.843 | 132 | 216 |
 | Robin DR400 | `DR40` | `dr400` | 62 | 5.991 | 167 | 586 |
 | Robinson R22 Beta II | `R22` | `r22` | 60 | 6.562 | 105 | 208 |

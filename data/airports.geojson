@@ -59,7 +59,7 @@
         "description": "Corning Municipal Airport",
         "elevation": 292,
         "municipality": "Corning",
-        "fileSize": 1064,
+        "fileSize": 1128,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -80,7 +80,7 @@
         "description": "Dunsmuir Muni-Mott Airport",
         "elevation": 3258,
         "municipality": "Dunsmuir",
-        "fileSize": 1072,
+        "fileSize": 1096,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -186,7 +186,7 @@
         "description": "Fort Bidwell Airport",
         "elevation": 4602,
         "municipality": "Fort Bidwell",
-        "fileSize": 1056,
+        "fileSize": 1080,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -280,16 +280,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          155.56500244140625,
-          -7.416940212249756,
-          0
+          155.565002,
+          -7.41694,
+          10.668000000000001
         ]
       },
       "properties": {
         "title": "AGGO",
         "type": "closed",
         "description": "Mono Airport",
-        "elevation": 0,
+        "elevation": 35,
         "municipality": "Stirling Island",
         "fileSize": 920,
         "marker-symbol": "airfield",
@@ -448,8 +448,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          154.67300415039062,
-          -5.4223198890686035,
+          154.672698,
+          -5.422299,
           3.3528000000000002
         ]
       },
@@ -2688,7 +2688,7 @@
         "description": "The Sea Ranch Airport",
         "elevation": 360,
         "municipality": "The Sea Ranch",
-        "fileSize": 1072,
+        "fileSize": 1144,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -2985,6 +2985,27 @@
         "fileSize": 936,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.008003,
+          33.063599,
+          505.968
+        ]
+      },
+      "properties": {
+        "title": "ZLHZ",
+        "type": "small_airport",
+        "description": "Hanzhong Xiguan Airport",
+        "elevation": 1660,
+        "municipality": "Hanzhong (Hantai)",
+        "fileSize": 944,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -8144,11 +8165,11 @@
       },
       "properties": {
         "title": "CYYC",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Calgary International Airport",
         "elevation": 3557,
         "municipality": "Calgary",
-        "fileSize": 1024,
+        "fileSize": 1768,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -8438,11 +8459,11 @@
       },
       "properties": {
         "title": "CYYZ",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Toronto Lester B. Pearson International Airport",
         "elevation": 569,
         "municipality": "Toronto",
-        "fileSize": 1184,
+        "fileSize": 1752,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -11722,7 +11743,7 @@
         "description": "Ocean Ridge Airport",
         "elevation": 940,
         "municipality": "Gualala",
-        "fileSize": 1064,
+        "fileSize": 1152,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -17460,8 +17481,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.195509910583496,
-          49.20790100097656,
+          -2.19551,
+          49.207901,
           84.42960000000001
         ]
       },
@@ -17470,7 +17491,7 @@
         "type": "small_airport",
         "description": "Jersey Airport",
         "elevation": 277,
-        "municipality": "Saint Helier",
+        "municipality": "St. Peter",
         "fileSize": 936,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -18662,14 +18683,14 @@
         "coordinates": [
           -0.85385,
           60.7472,
-          0
+          18.8976
         ]
       },
       "properties": {
         "title": "EGPW",
         "type": "medium_airport",
         "description": "Unst Airfield",
-        "elevation": 0,
+        "elevation": 62,
         "municipality": "Baltasound, Shetland Islands",
         "fileSize": 1152,
         "marker-symbol": "airfield",
@@ -19629,14 +19650,14 @@
         "coordinates": [
           -3.891667,
           57.103667,
-          0
+          266.0904
         ]
       },
       "properties": {
         "title": "EGZL",
         "type": "medium_airport",
         "description": "Feshiebridge Glider Field",
-        "elevation": 0,
+        "elevation": 873,
         "municipality": "",
         "fileSize": 1072,
         "marker-symbol": "airfield",
@@ -35837,7 +35858,7 @@
         "description": "Kowloon Hills Heliport",
         "elevation": 719,
         "municipality": "Tai Wai",
-        "fileSize": 1064,
+        "fileSize": 1168,
         "marker-symbol": "heliport",
         "marker-color": "#555555"
       }
@@ -38022,7 +38043,7 @@
         "description": "Shelter Cove Airport",
         "elevation": 73,
         "municipality": "Shelter Cove",
-        "fileSize": 1064,
+        "fileSize": 1120,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -38144,11 +38165,11 @@
       },
       "properties": {
         "title": "K1O3",
-        "type": "large_airport",
+        "type": "medium_airport",
         "description": "Lodi Airport",
         "elevation": 60,
         "municipality": "Lodi",
-        "fileSize": 1264,
+        "fileSize": 1168,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -38169,7 +38190,7 @@
         "description": "Spalding Airport",
         "elevation": 5116,
         "municipality": "Susanville",
-        "fileSize": 1056,
+        "fileSize": 1128,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -38232,7 +38253,7 @@
         "description": "Gansner Field",
         "elevation": 3415,
         "municipality": "Quincy",
-        "fileSize": 1064,
+        "fileSize": 1144,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -38253,7 +38274,7 @@
         "description": "Angwin Airport-Parrett Field",
         "elevation": 1875,
         "municipality": "Angwin",
-        "fileSize": 1064,
+        "fileSize": 1096,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -38274,7 +38295,7 @@
         "description": "Independence Airport",
         "elevation": 3908,
         "municipality": "Independence",
-        "fileSize": 1072,
+        "fileSize": 1184,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -38758,7 +38779,7 @@
         "description": "Alturas Municipal Airport",
         "elevation": 4378,
         "municipality": "Alturas",
-        "fileSize": 1224,
+        "fileSize": 1240,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -38989,7 +39010,7 @@
         "description": "California Redwood Coast-Humboldt County Airport",
         "elevation": 221,
         "municipality": "Arcata/Eureka",
-        "fileSize": 1264,
+        "fileSize": 1304,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -40252,7 +40273,7 @@
         "description": "Napa County Airport",
         "elevation": 35,
         "municipality": "Napa",
-        "fileSize": 1256,
+        "fileSize": 1328,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -40921,11 +40942,11 @@
       },
       "properties": {
         "title": "KAUN",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Auburn Municipal Airport",
         "elevation": 1539,
         "municipality": "Auburn",
-        "fileSize": 1072,
+        "fileSize": 1216,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -41409,7 +41430,7 @@
         "description": "Beale Air Force Base",
         "elevation": 113,
         "municipality": "Beale Air Force Base",
-        "fileSize": 1080,
+        "fileSize": 1088,
         "marker-symbol": "airport",
         "marker-color": "#555555",
         "isMilitary": true
@@ -42293,7 +42314,7 @@
         "description": "Eastern Sierra Regional Airport",
         "elevation": 4124,
         "municipality": "Bishop",
-        "fileSize": 1296,
+        "fileSize": 1344,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -42695,7 +42716,7 @@
         "description": "Blythe Airport",
         "elevation": 399,
         "municipality": "Blythe",
-        "fileSize": 1144,
+        "fileSize": 1184,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -42758,7 +42779,7 @@
         "description": "Blue Canyon Nyack Airport",
         "elevation": 5284,
         "municipality": "Emigrant Gap",
-        "fileSize": 1072,
+        "fileSize": 1144,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -43868,11 +43889,11 @@
       },
       "properties": {
         "title": "KC80",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "New Coalinga Municipal Airport",
         "elevation": 622,
         "municipality": "Coalinga",
-        "fileSize": 1144,
+        "fileSize": 1216,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -43889,11 +43910,11 @@
       },
       "properties": {
         "title": "KC83",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Byron Airport",
         "elevation": 79,
         "municipality": "Byron",
-        "fileSize": 1136,
+        "fileSize": 1224,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -44373,11 +44394,11 @@
       },
       "properties": {
         "title": "KCEC",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Jack Mc Namara Field Airport",
         "elevation": 61,
         "municipality": "Crescent City",
-        "fileSize": 1160,
+        "fileSize": 1240,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -44857,11 +44878,11 @@
       },
       "properties": {
         "title": "KCIC",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Chico Regional Airport",
         "elevation": 240,
         "municipality": "Chico",
-        "fileSize": 1168,
+        "fileSize": 1328,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -45277,11 +45298,11 @@
       },
       "properties": {
         "title": "KCMA",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Camarillo International Airport",
         "elevation": 77,
         "municipality": "Camarillo",
-        "fileSize": 1080,
+        "fileSize": 1272,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -45849,7 +45870,7 @@
         "description": "Calaveras Co Maury Rasmussen Field",
         "elevation": 1325,
         "municipality": "San Andreas",
-        "fileSize": 1072,
+        "fileSize": 1152,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -45992,11 +46013,11 @@
       },
       "properties": {
         "title": "KCRQ",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "McClellan-Palomar Airport",
         "elevation": 331,
         "municipality": "Carlsbad",
-        "fileSize": 1096,
+        "fileSize": 1272,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -46328,11 +46349,11 @@
       },
       "properties": {
         "title": "KCVH",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Hollister Municipal Airport",
         "elevation": 230,
         "municipality": "Hollister",
-        "fileSize": 1200,
+        "fileSize": 1248,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -46811,11 +46832,11 @@
       },
       "properties": {
         "title": "KDAG",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Barstow Daggett Airport",
         "elevation": 1930,
         "municipality": "Daggett",
-        "fileSize": 1144,
+        "fileSize": 1312,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -47529,7 +47550,7 @@
         "description": "Delano Municipal Airport",
         "elevation": 314,
         "municipality": "Delano",
-        "fileSize": 1080,
+        "fileSize": 1136,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -48115,11 +48136,11 @@
       },
       "properties": {
         "title": "KDVO",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Marin County Airport - Gnoss Field",
         "elevation": 2,
         "municipality": "Novato",
-        "fileSize": 1168,
+        "fileSize": 1208,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -48161,7 +48182,7 @@
         "description": "Yolo County Davis Woodland Winters Airport",
         "elevation": 100,
         "municipality": "Davis/Woodland/Winters",
-        "fileSize": 1072,
+        "fileSize": 1104,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -48351,7 +48372,7 @@
         "description": "San Martin Airport",
         "elevation": 281,
         "municipality": "San Martin",
-        "fileSize": 1088,
+        "fileSize": 1120,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -48368,11 +48389,11 @@
       },
       "properties": {
         "title": "KE45",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Pine Mountain Lake Airport",
         "elevation": 2930,
         "municipality": "Groveland",
-        "fileSize": 1064,
+        "fileSize": 1216,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -48794,7 +48815,7 @@
         "description": "University Airport",
         "elevation": 69,
         "municipality": "Davis",
-        "fileSize": 1072,
+        "fileSize": 1144,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -49173,7 +49194,7 @@
         "description": "Murray Field",
         "elevation": 7,
         "municipality": "Eureka",
-        "fileSize": 1072,
+        "fileSize": 1152,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -49484,11 +49505,11 @@
       },
       "properties": {
         "title": "KEMT",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "San Gabriel Valley Airport",
         "elevation": 296,
         "municipality": "El Monte",
-        "fileSize": 1152,
+        "fileSize": 1288,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -50330,7 +50351,7 @@
         "description": "Hayfork Airport",
         "elevation": 2321,
         "municipality": "Hayfork",
-        "fileSize": 1064,
+        "fileSize": 1144,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -50499,7 +50520,7 @@
         "description": "Fresno Chandler Executive Airport",
         "elevation": 279,
         "municipality": "Fresno",
-        "fileSize": 1080,
+        "fileSize": 1168,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -51385,7 +51406,7 @@
         "description": "Rohnerville Airport",
         "elevation": 393,
         "municipality": "Fortuna",
-        "fileSize": 1072,
+        "fileSize": 1152,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -53105,11 +53126,11 @@
       },
       "properties": {
         "title": "KGOO",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Nevada County Airport",
         "elevation": 3152,
         "municipality": "Grass Valley",
-        "fileSize": 1080,
+        "fileSize": 1208,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -53969,11 +53990,11 @@
       },
       "properties": {
         "title": "KHAF",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Half Moon Bay Airport",
         "elevation": 66,
         "municipality": "Half Moon Bay",
-        "fileSize": 1120,
+        "fileSize": 1208,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -54604,7 +54625,7 @@
         "description": "Hanford Municipal Airport",
         "elevation": 240,
         "municipality": "Hanford",
-        "fileSize": 1072,
+        "fileSize": 1136,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -54833,11 +54854,11 @@
       },
       "properties": {
         "title": "KHMT",
-        "type": "large_airport",
+        "type": "medium_airport",
         "description": "Hemet Ryan Airport",
         "elevation": 1512,
         "municipality": "Hemet",
-        "fileSize": 1240,
+        "fileSize": 1192,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -55658,7 +55679,7 @@
         "description": "Hayward Executive Airport",
         "elevation": 52,
         "municipality": "Hayward",
-        "fileSize": 1224,
+        "fileSize": 1384,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -56874,11 +56895,11 @@
       },
       "properties": {
         "title": "KIPL",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Imperial County Airport",
         "elevation": -54,
         "municipality": "Imperial",
-        "fileSize": 1152,
+        "fileSize": 1344,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -57172,7 +57193,7 @@
         "description": "Inyokern Airport",
         "elevation": 2457,
         "municipality": "Inyokern",
-        "fileSize": 1208,
+        "fileSize": 1280,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -58050,11 +58071,11 @@
       },
       "properties": {
         "title": "KKIC",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Mesa Del Rey Airport",
         "elevation": 370,
         "municipality": "King City",
-        "fileSize": 1072,
+        "fileSize": 1216,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -58113,11 +58134,11 @@
       },
       "properties": {
         "title": "KL35",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Big Bear City Airport",
         "elevation": 6752,
         "municipality": "Big Bear",
-        "fileSize": 1064,
+        "fileSize": 1248,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -58159,7 +58180,7 @@
         "description": "Agua Dulce Airpark",
         "elevation": 2660,
         "municipality": "Agua Dulce",
-        "fileSize": 1072,
+        "fileSize": 1160,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -58976,11 +58997,11 @@
       },
       "properties": {
         "title": "KLHM",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Lincoln Regional Karl Harder Field",
         "elevation": 121,
         "municipality": "Lincoln",
-        "fileSize": 1168,
+        "fileSize": 1224,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -59211,7 +59232,7 @@
         "description": "Little River Airport",
         "elevation": 572,
         "municipality": "Little River",
-        "fileSize": 1080,
+        "fileSize": 1160,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -59473,8 +59494,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.09619904,
-          41.6072998,
+          -88.096199,
+          41.6073,
           206.9592
         ]
       },
@@ -59522,11 +59543,11 @@
       },
       "properties": {
         "title": "KLPC",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Lompoc Airport",
         "elevation": 88,
         "municipality": "Lompoc",
-        "fileSize": 1072,
+        "fileSize": 1208,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -59822,7 +59843,7 @@
         "description": "Los Banos Municipal Airport",
         "elevation": 121,
         "municipality": "Los Banos",
-        "fileSize": 1080,
+        "fileSize": 1136,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -60035,7 +60056,7 @@
         "description": "Livermore Municipal Airport",
         "elevation": 400,
         "municipality": "Livermore",
-        "fileSize": 1296,
+        "fileSize": 1328,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -60434,7 +60455,7 @@
         "description": "Alpine County Airport",
         "elevation": 5867,
         "municipality": "Markleeville",
-        "fileSize": 1064,
+        "fileSize": 1152,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -60476,7 +60497,7 @@
         "description": "William Robert Johnston Municipal Airport",
         "elevation": 162,
         "municipality": "Mendota",
-        "fileSize": 1072,
+        "fileSize": 1104,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -60497,7 +60518,7 @@
         "description": "Madera Municipal Airport",
         "elevation": 255,
         "municipality": "Madera",
-        "fileSize": 1248,
+        "fileSize": 1224,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -60770,7 +60791,7 @@
         "description": "Merced Regional Macready Field",
         "elevation": 155,
         "municipality": "Merced",
-        "fileSize": 1128,
+        "fileSize": 1144,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -62075,7 +62096,7 @@
         "description": "Mammoth Yosemite Airport",
         "elevation": 7135,
         "municipality": "Mammoth Lakes",
-        "fileSize": 1080,
+        "fileSize": 1168,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -62349,7 +62370,7 @@
         "description": "Modesto City Co-Harry Sham Field",
         "elevation": 97,
         "municipality": "Modesto",
-        "fileSize": 1224,
+        "fileSize": 1232,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -62496,7 +62517,7 @@
         "description": "Mariposa Yosemite Airport",
         "elevation": 2254,
         "municipality": "Mariposa",
-        "fileSize": 1160,
+        "fileSize": 1192,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -63503,11 +63524,11 @@
       },
       "properties": {
         "title": "KMYV",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Yuba County Airport",
         "elevation": 64,
         "municipality": "Marysville",
-        "fileSize": 1168,
+        "fileSize": 1256,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -64516,11 +64537,11 @@
       },
       "properties": {
         "title": "KNZY",
-        "type": "medium_airbase",
+        "type": "large_airbase",
         "description": "North Island Naval Air Station-Halsey Field",
         "elevation": 26,
         "municipality": "San Diego",
-        "fileSize": 1176,
+        "fileSize": 1352,
         "marker-symbol": "airport",
         "marker-color": "#555555",
         "isMilitary": true
@@ -64538,11 +64559,11 @@
       },
       "properties": {
         "title": "KO05",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Rogers Field",
         "elevation": 4528,
         "municipality": "Chester",
-        "fileSize": 1072,
+        "fileSize": 1232,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -64563,7 +64584,7 @@
         "description": "Round Valley Airport",
         "elevation": 1434,
         "municipality": "Covelo",
-        "fileSize": 1064,
+        "fileSize": 1152,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -64605,7 +64626,7 @@
         "description": "Lee Vining Airport",
         "elevation": 6802,
         "municipality": "Lee Vining",
-        "fileSize": 1064,
+        "fileSize": 1128,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -64626,7 +64647,7 @@
         "description": "Lone Pine/Death Valley Airport",
         "elevation": 3680,
         "municipality": "Lone Pine",
-        "fileSize": 1056,
+        "fileSize": 1168,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -64647,7 +64668,7 @@
         "description": "Oakdale Airport",
         "elevation": 237,
         "municipality": "Oakdale",
-        "fileSize": 1056,
+        "fileSize": 1152,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -64668,7 +64689,7 @@
         "description": "Reedley Municipal Airport",
         "elevation": 383,
         "municipality": "Reedley",
-        "fileSize": 1064,
+        "fileSize": 1152,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -64689,7 +64710,7 @@
         "description": "Woodlake Airport",
         "elevation": 425,
         "municipality": "Woodlake",
-        "fileSize": 1064,
+        "fileSize": 1144,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -64706,11 +64727,11 @@
       },
       "properties": {
         "title": "KO57",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Bryant Field",
         "elevation": 6468,
         "municipality": "Bridgeport",
-        "fileSize": 1056,
+        "fileSize": 1208,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -64731,7 +64752,7 @@
         "description": "Cloverdale Municipal Airport",
         "elevation": 277,
         "municipality": "Cloverdale",
-        "fileSize": 1072,
+        "fileSize": 1152,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -64752,7 +64773,7 @@
         "description": "Petaluma Municipal Airport",
         "elevation": 90,
         "municipality": "Petaluma",
-        "fileSize": 1064,
+        "fileSize": 1176,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -64769,11 +64790,11 @@
       },
       "properties": {
         "title": "KJAQ",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Westover Field Amador County Airport",
         "elevation": 1690,
         "municipality": "Jackson",
-        "fileSize": 1152,
+        "fileSize": 1208,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -64794,7 +64815,7 @@
         "description": "Tulelake Municipal Airport",
         "elevation": 4044,
         "municipality": "Tulelake",
-        "fileSize": 1064,
+        "fileSize": 1144,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -64815,7 +64836,7 @@
         "description": "Trinity Center Airport",
         "elevation": 2390,
         "municipality": "Trinity Center",
-        "fileSize": 1072,
+        "fileSize": 1152,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -64832,11 +64853,11 @@
       },
       "properties": {
         "title": "KO88",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Rio Vista Municipal Airport",
         "elevation": 20,
         "municipality": "Rio Vista",
-        "fileSize": 1144,
+        "fileSize": 1328,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -64857,7 +64878,7 @@
         "description": "Fall River Mills Airport",
         "elevation": 3323,
         "municipality": "Fall River Mills",
-        "fileSize": 1072,
+        "fileSize": 1128,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -65077,8 +65098,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -92.691902160645,
-          45.310001373291,
+          -92.691902,
+          45.310001,
           275.2344
         ]
       },
@@ -66223,7 +66244,7 @@
         "description": "Oroville Municipal Airport",
         "elevation": 192,
         "municipality": "Oroville",
-        "fileSize": 1144,
+        "fileSize": 1192,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -67438,11 +67459,11 @@
       },
       "properties": {
         "title": "KPMD",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Palmdale Regional Airport / USAF Plant 42 Airport",
         "elevation": 2543,
         "municipality": "Palmdale",
-        "fileSize": 1152,
+        "fileSize": 1304,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -67736,7 +67757,7 @@
         "description": "Brackett Field",
         "elevation": 1011,
         "municipality": "La Verne",
-        "fileSize": 1232,
+        "fileSize": 1376,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -67968,7 +67989,7 @@
         "description": "Paso Robles Municipal Airport",
         "elevation": 840,
         "municipality": "Paso Robles",
-        "fileSize": 1232,
+        "fileSize": 1256,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -68405,11 +68426,11 @@
       },
       "properties": {
         "title": "KPTV",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Porterville Municipal Airport",
         "elevation": 442,
         "municipality": "Porterville",
-        "fileSize": 1160,
+        "fileSize": 1224,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -68573,11 +68594,11 @@
       },
       "properties": {
         "title": "KPVF",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Placerville Airport",
         "elevation": 2585,
         "municipality": "Placerville",
-        "fileSize": 1072,
+        "fileSize": 1208,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -68871,7 +68892,7 @@
         "description": "Riverside Municipal Airport",
         "elevation": 819,
         "municipality": "Riverside",
-        "fileSize": 1216,
+        "fileSize": 1280,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -69018,7 +69039,7 @@
         "description": "Red Bluff Municipal Airport",
         "elevation": 352,
         "municipality": "Red Bluff",
-        "fileSize": 1072,
+        "fileSize": 1136,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -69415,11 +69436,11 @@
       },
       "properties": {
         "title": "KRHV",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Reid-Hillview Airport of Santa Clara County",
         "elevation": 135,
         "municipality": "San Jose",
-        "fileSize": 1168,
+        "fileSize": 1248,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -70123,8 +70144,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.7128982544,
-          45.1988983154,
+          -89.712898,
+          45.198898,
           401.7264
         ]
       },
@@ -70659,7 +70680,7 @@
         "description": "Sacramento Executive Airport",
         "elevation": 24,
         "municipality": "Sacramento",
-        "fileSize": 1344,
+        "fileSize": 1288,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -70949,11 +70970,11 @@
       },
       "properties": {
         "title": "KSBP",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "San Luis County Regional Airport",
         "elevation": 212,
         "municipality": "San Luis Obispo",
-        "fileSize": 1176,
+        "fileSize": 1264,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -71100,7 +71121,7 @@
         "description": "Stockton Metropolitan Airport",
         "elevation": 33,
         "municipality": "Stockton",
-        "fileSize": 1344,
+        "fileSize": 1360,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -71773,7 +71794,7 @@
         "description": "Siskiyou County Airport",
         "elevation": 2648,
         "municipality": "Montague",
-        "fileSize": 1080,
+        "fileSize": 1176,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -72150,11 +72171,11 @@
       },
       "properties": {
         "title": "KSMO",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Santa Monica Municipal Airport",
         "elevation": 170,
         "municipality": "Santa Monica",
-        "fileSize": 1064,
+        "fileSize": 1232,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -72659,7 +72680,7 @@
         "description": "San Carlos Airport",
         "elevation": 5,
         "municipality": "San Carlos",
-        "fileSize": 1144,
+        "fileSize": 1128,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -73161,11 +73182,11 @@
       },
       "properties": {
         "title": "KSVE",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Susanville Municipal Airport",
         "elevation": 4149,
         "municipality": "Susanville",
-        "fileSize": 1160,
+        "fileSize": 1288,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -77228,7 +77249,7 @@
         "description": "Oceano County Airport",
         "elevation": 15,
         "municipality": "Oceano",
-        "fileSize": 1072,
+        "fileSize": 1144,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -77249,7 +77270,7 @@
         "description": "Shoshone Airport",
         "elevation": 1568,
         "municipality": "Shoshone",
-        "fileSize": 1056,
+        "fileSize": 1080,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -78758,14 +78779,14 @@
         "coordinates": [
           -3.969944,
           38.856479,
-          0
+          646.176
         ]
       },
       "properties": {
         "title": "LERL",
         "type": "small_airport",
         "description": "Ciudad Real International Airport",
-        "elevation": 0,
+        "elevation": 2120,
         "municipality": "Ciudad Real",
         "fileSize": 960,
         "marker-symbol": "airport",
@@ -84451,8 +84472,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.0170001984,
-          36.2742996216,
+          23.016719,
+          36.273978,
           318.516
         ]
       },
@@ -85211,8 +85232,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.391105,
-          47.459202,
+          21.390904,
+          47.459717,
           102.108
         ]
       },
@@ -85232,8 +85253,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.6056,
-          46.7472,
+          19.604754,
+          46.747855,
           106.0704
         ]
       },
@@ -96628,7 +96649,7 @@
         "type": "small_airport",
         "description": "Bluefields Airport",
         "elevation": 20,
-        "municipality": "Bluefileds",
+        "municipality": "Bluefields",
         "fileSize": 952,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -98846,16 +98867,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -161.0019989013672,
-          -10.376700401306152,
-          0
+          -161.001999,
+          -10.3767,
+          3.3528000000000002
         ]
       },
       "properties": {
         "title": "NCMH",
         "type": "closed",
         "description": "Manihiki Island Airport",
-        "elevation": 0,
+        "elevation": 11,
         "municipality": "Manihiki Island",
         "fileSize": 912,
         "marker-symbol": "airfield",
@@ -101233,7 +101254,7 @@
         "description": "Samoa Field Airport",
         "elevation": 20,
         "municipality": "Eureka",
-        "fileSize": 1072,
+        "fileSize": 1136,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -118685,7 +118706,7 @@
         "description": "Santos Dumont Airport",
         "elevation": 11,
         "municipality": "Rio de Janeiro",
-        "fileSize": 1304,
+        "fileSize": 1328,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -120399,14 +120420,14 @@
         "coordinates": [
           -70.775703,
           -34.173698,
-          440.74080000000004
+          490.728
         ]
       },
       "properties": {
         "title": "SCRG",
         "type": "small_airport",
         "description": "La Independencia Airport",
-        "elevation": 1446,
+        "elevation": 1610,
         "municipality": "Rancagua",
         "fileSize": 928,
         "marker-symbol": "airport",
@@ -121678,16 +121699,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -50.5051,
-          -21.889099,
-          550.164
+          -50.505052,
+          -21.889052,
+          549.8592
         ]
       },
       "properties": {
         "title": "SDTP",
         "type": "closed",
         "description": "Tupã Airport",
-        "elevation": 1805,
+        "elevation": 1804,
         "municipality": "Tupã",
         "fileSize": 912,
         "marker-symbol": "airfield",
@@ -121699,16 +121720,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.316200256347656,
-          -21.332300186157227,
-          606.8568
+          -48.315786,
+          -21.331926,
+          618.1344
         ]
       },
       "properties": {
         "title": "SDUD",
         "type": "small_airport",
         "description": "Usina Santa Adélia Airport",
-        "elevation": 1991,
+        "elevation": 2028,
         "municipality": "Jaboticabal",
         "fileSize": 936,
         "marker-symbol": "airfield",
@@ -126808,17 +126829,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -52.236099,
-          -1.74145,
-          16.154400000000003
+          -52.236026,
+          -1.741307,
+          15.8496
         ]
       },
       "properties": {
         "title": "SNMZ",
         "type": "closed",
         "description": "Porto de Moz Airport",
-        "elevation": 53,
-        "municipality": "Porto De Moz",
+        "elevation": 52,
+        "municipality": "Porto de Moz",
         "fileSize": 920,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -126850,16 +126871,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -42.167198,
-          -7.01889,
-          249.936
+          -42.167247,
+          -7.01835,
+          266.0904
         ]
       },
       "properties": {
         "title": "SNOE",
         "type": "small_airport",
         "description": "Oeiras Airport",
-        "elevation": 820,
+        "elevation": 873,
         "municipality": "Oeiras",
         "fileSize": 928,
         "marker-symbol": "airfield",
@@ -126871,15 +126892,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -46.661800384521484,
-          -20.732200622558594,
+          -46.662011,
+          -20.731838,
           822.0456
         ]
       },
       "properties": {
         "title": "SNOS",
         "type": "small_airport",
-        "description": "Municipal José Figueiredo Airport",
+        "description": "José Figueiredo Municipal Airport",
         "elevation": 2697,
         "municipality": "Passos",
         "fileSize": 944,
@@ -131978,16 +131999,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -56.40039825439453,
-          -14.376899719238281,
-          449.88480000000004
+          -56.400398,
+          -14.3769,
+          469.0872
         ]
       },
       "properties": {
         "title": "SWDM",
         "type": "small_airport",
         "description": "Diamantino Airport",
-        "elevation": 1476,
+        "elevation": 1539,
         "municipality": "Diamantino",
         "fileSize": 928,
         "marker-symbol": "airfield",
@@ -131999,16 +132020,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.879799,
-          -6.63953,
-          125.5776
+          -69.879709,
+          -6.639533,
+          121.92
         ]
       },
       "properties": {
         "title": "SWEI",
         "type": "small_airport",
         "description": "Eirunepé Airport",
-        "elevation": 412,
+        "elevation": 400,
         "municipality": "Eirunepé",
         "fileSize": 928,
         "marker-symbol": "airfield",
@@ -132860,8 +132881,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -50.197601318359375,
-          -13.331299781799316,
+          -50.197601,
+          -13.3313,
           380.6952
         ]
       },
@@ -132870,7 +132891,7 @@
         "type": "small_airport",
         "description": "São Miguel do Araguaia Airport",
         "elevation": 1249,
-        "municipality": "São Miguel Do Araguaia",
+        "municipality": "São Miguel do Araguaia",
         "fileSize": 936,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -138118,8 +138139,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          69.2811965942,
-          41.257900238,
+          69.281197,
+          41.2579,
           431.90160000000003
         ]
       },
@@ -139255,8 +139276,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          70.77950286869999,
-          22.3092002869,
+          70.779503,
+          22.3092,
           134.4168
         ]
       },
@@ -146302,11 +146323,11 @@
       },
       "properties": {
         "title": "WARA",
-        "type": "closed",
+        "type": "large_airport",
         "description": "Abdul Rachman Saleh Airport",
         "elevation": 1726,
         "municipality": "Malang",
-        "fileSize": 920,
+        "fileSize": 1288,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -159124,27 +159145,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.203817,
-          33.133527,
-          0
-        ]
-      },
-      "properties": {
-        "title": "ZLHZ",
-        "type": "small_airport",
-        "description": "Hanzhong Chenggu Airport",
-        "elevation": 0,
-        "municipality": "Hanzhong (Chenggu)",
-        "fileSize": 944,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           106.393214,
           38.322758,
           1140.8664
@@ -161729,8 +161729,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.550178,
-          44.938114,
+          124.552121,
+          44.931143,
           139.9032
         ]
       },
