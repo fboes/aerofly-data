@@ -25547,7 +25547,7 @@
         "municipality": "Liepāja",
         "fileSize": 1096,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -35242,14 +35242,14 @@
         ]
       },
       "properties": {
-        "title": "HEBA",
+        "title": "HEAX",
         "type": "medium_airport",
-        "description": "Borj El Arab International Airport",
+        "description": "Alexandria International Airport",
         "elevation": 171,
         "municipality": "Alexandria",
         "fileSize": 1088,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -79283,8 +79283,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.002022,
-          47.692934,
+          -0.002198,
+          47.69261,
           36.576
         ]
       },
@@ -79367,8 +79367,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.46126,
-          50.325802,
+          3.461061,
+          50.327823,
           50.292
         ]
       },
@@ -109502,7 +109502,7 @@
       "properties": {
         "title": "PTRO",
         "type": "small_airport",
-        "description": "Babelthuap Airport",
+        "description": "Palau International Airport",
         "elevation": 176,
         "municipality": "Babelthuap Island",
         "fileSize": 928,
@@ -125569,8 +125569,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.9179992676,
-          -14.8186998367,
+          -64.917999,
+          -14.8187,
           155.1432
         ]
       },
@@ -137808,7 +137808,7 @@
         ]
       },
       "properties": {
-        "title": "UTFN",
+        "title": "UZFN",
         "type": "small_airport",
         "description": "Namangan Airport",
         "elevation": 1555,
@@ -137816,48 +137816,6 @@
         "fileSize": 944,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          72.293999,
-          40.727699,
-          461.77200000000005
-        ]
-      },
-      "properties": {
-        "title": "UTFA",
-        "type": "small_airport",
-        "description": "Andizhan Airport",
-        "elevation": 1515,
-        "municipality": "Andizhan",
-        "fileSize": 944,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          71.745003,
-          40.358799,
-          603.504
-        ]
-      },
-      "properties": {
-        "title": "UTFF",
-        "type": "small_airport",
-        "description": "Fergana International Airport",
-        "elevation": 1980,
-        "municipality": "Fergana",
-        "fileSize": 952,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
       }
     },
     {
@@ -137892,7 +137850,7 @@
         ]
       },
       "properties": {
-        "title": "UTNN",
+        "title": "UZNN",
         "type": "small_airport",
         "description": "Nukus Airport",
         "elevation": 246,
@@ -137907,13 +137865,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          60.641700744628906,
-          41.58430099487305,
+          60.641701,
+          41.584301,
           97.536
         ]
       },
       "properties": {
-        "title": "UTNU",
+        "title": "UZNU",
         "type": "small_airport",
         "description": "Urgench Airport",
         "elevation": 320,
@@ -137934,7 +137892,7 @@
         ]
       },
       "properties": {
-        "title": "UTSA",
+        "title": "UZSA",
         "type": "small_airport",
         "description": "Navoi Airport",
         "elevation": 1140,
@@ -137955,7 +137913,7 @@
         ]
       },
       "properties": {
-        "title": "UTSB",
+        "title": "UZSB",
         "type": "small_airport",
         "description": "Bukhara International Airport",
         "elevation": 751,
@@ -137976,7 +137934,7 @@
         ]
       },
       "properties": {
-        "title": "UTSK",
+        "title": "UZSK",
         "type": "small_airport",
         "description": "Karshi Airport",
         "elevation": 1230,
@@ -138055,13 +138013,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          66.98380279541016,
-          39.70050048828125,
+          66.983803,
+          39.7005,
           677.8752000000001
         ]
       },
       "properties": {
-        "title": "UTSS",
+        "title": "UZSS",
         "type": "small_airport",
         "description": "Samarkand Airport",
         "elevation": 2224,
@@ -138082,7 +138040,7 @@
         ]
       },
       "properties": {
-        "title": "UTST",
+        "title": "UZST",
         "type": "small_airport",
         "description": "Termez Airport",
         "elevation": 1027,
@@ -138124,7 +138082,7 @@
         ]
       },
       "properties": {
-        "title": "UTTP",
+        "title": "UZTP",
         "type": "small_airport",
         "description": "Tashkent East Airport",
         "elevation": 1574,
@@ -138145,7 +138103,7 @@
         ]
       },
       "properties": {
-        "title": "UTTT",
+        "title": "UZTT",
         "type": "small_airport",
         "description": "Tashkent International Airport",
         "elevation": 1417,
@@ -143372,8 +143330,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.74700164794922,
-          13.681099891662598,
+          100.747002,
+          13.6811,
           1.524
         ]
       },
@@ -146514,7 +146472,7 @@
       "properties": {
         "title": "WASK",
         "type": "small_airport",
-        "description": "Kaimana Airport",
+        "description": "Utarom Airport",
         "elevation": 19,
         "municipality": "Kaimana",
         "fileSize": 936,
@@ -147157,8 +147115,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          108.166692,
-          -6.648924,
+          108.165561,
+          -6.647384,
           40.8432
         ]
       },
@@ -147410,8 +147368,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.65599823,
-          -6.1255698204,
+          106.655998,
+          -6.12557,
           10.3632
         ]
       },
@@ -148445,8 +148403,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          117.80899810791016,
-          -34.94329833984375,
+          117.808896,
+          -34.944519,
           71.0184
         ]
       },
@@ -148529,8 +148487,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.713688,
-          -27.640976,
+          152.711223,
+          -27.635381,
           27.736800000000002
         ]
       },
@@ -155740,8 +155698,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          144.2530059814453,
-          -26.612199783325195,
+          144.253746,
+          -26.609176,
           199.644
         ]
       },
@@ -155761,8 +155719,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.531998,
-          -42.075001,
+          145.530088,
+          -42.075731,
           264.2616
         ]
       },
@@ -157737,8 +157695,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.248001,
-          -34.2556,
+          148.247118,
+          -34.255576,
           386.1816
         ]
       },
@@ -157779,8 +157737,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.755005,
-          -38.5667,
+          146.752854,
+          -38.566654,
           4.572
         ]
       },
@@ -157821,8 +157779,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.0290069580078,
-          -36.028900146484375,
+          146.027958,
+          -36.031512,
           128.93040000000002
         ]
       },

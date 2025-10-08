@@ -86,6 +86,8 @@ The following Aerofly FS4 Airports were not matched to any known airport. You ma
 1. `UCFP`
 1. `UFTA`
 1. `USWHTH`
+1. `UTFA`
+1. `UTFF`
 1. `VNS10`
 1. `VNS8`
 1. `ZBTS`
