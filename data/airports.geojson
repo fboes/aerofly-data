@@ -48825,8 +48825,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.884003,
-          34.905399,
+          -117.886391,
+          34.910781,
           704.6976000000001
         ]
       },
@@ -106595,11 +106595,11 @@
       },
       "properties": {
         "title": "OTBD",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Doha International Airport",
         "elevation": 35,
         "municipality": "Doha",
-        "fileSize": 968,
+        "fileSize": 1320,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
