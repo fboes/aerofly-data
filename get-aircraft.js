@@ -4,11 +4,7 @@
 
 import * as fs from "node:fs";
 import * as path from "node:path";
-import {
-  getAeroflyAircraft,
-  getSelectOptgroupOptions,
-  getSelectOptions,
-} from "./src/aircraft-functions.js";
+import { getAeroflyAircraft, getSelectOptgroupOptions, getSelectOptions } from "./src/aircraft-functions.js";
 
 const inputDirectory = process.argv[2] ?? ".";
 const aeroflyAircraft = getAeroflyAircraft(inputDirectory);
@@ -22,41 +18,23 @@ const outputDirectory = path.join("data");
 await fs.promises.mkdir(outputDirectory, { recursive: true });
 
 // Write the full output (with liveries) to aircraft-liveries.json
-const outputFilePathWithLiveries = path.join(
-  outputDirectory,
-  "aircraft-liveries.json"
-);
-await fs.promises.writeFile(
-  outputFilePathWithLiveries,
-  JSON.stringify(aeroflyAircraft, null, 2),
-  "utf-8"
-);
-process.stdout.write(
-  `Full aircraft data (with liveries) written to \x1b[92m${outputFilePathWithLiveries}\x1b[0m\n`
-);
+const outputFilePathWithLiveries = path.join(outputDirectory, "aircraft-liveries.json");
+await fs.promises.writeFile(outputFilePathWithLiveries, JSON.stringify(aeroflyAircraft, null, 2), "utf-8");
+process.stdout.write(`Full aircraft data (with liveries) written to \x1b[92m${outputFilePathWithLiveries}\x1b[0m\n`);
 
 // Write the abbreviated output (without liveries) to aircraft.json
-const outputFilePathWithoutLiveries = path.join(
-  outputDirectory,
-  "aircraft.json"
-);
+const outputFilePathWithoutLiveries = path.join(outputDirectory, "aircraft.json");
 await fs.promises.writeFile(
   outputFilePathWithoutLiveries,
-  JSON.stringify(
-    aeroflyAircraft,
-    (key, value) => (key === "liveries" ? undefined : value),
-    2
-  ),
-  "utf-8"
+  JSON.stringify(aeroflyAircraft, (key, value) => (key === "liveries" ? undefined : value), 2),
+  "utf-8",
 );
 process.stdout.write(
-  `Abbreviated aircraft data (without liveries) written to \x1b[92m${outputFilePathWithoutLiveries}\x1b[0m\n`
+  `Abbreviated aircraft data (without liveries) written to \x1b[92m${outputFilePathWithoutLiveries}\x1b[0m\n`,
 );
 
 // Sort aeroflyAircraft by nameFull
-const sortedAircraft = aeroflyAircraft.sort((a, b) =>
-  a.nameFull.localeCompare(b.nameFull)
-);
+const sortedAircraft = aeroflyAircraft.sort((a, b) => a.nameFull.localeCompare(b.nameFull));
 
 // Write summary to aircraft.md
 const summaryFilePath = path.join(outputDirectory, "aircraft.md");
@@ -103,27 +81,14 @@ const selectFilePath = path.join(outputDirectory, "aircraft-select.html");
 let selectContent = getSelectOptions(sortedAircraft);
 
 await fs.promises.writeFile(selectFilePath, selectContent, "utf-8");
-process.stdout.write(
-  `HTML <select> options written to \x1b[92m${selectFilePath}\x1b[0m\n`
-);
+process.stdout.write(`HTML <select> options written to \x1b[92m${selectFilePath}\x1b[0m\n`);
 
 // Write HTML <select> with <optgroup> to aircraft-select-optgroup.html
-const selectOptgroupFilePath = path.join(
-  outputDirectory,
-  "aircraft-select-optgroup.html"
-);
+const selectOptgroupFilePath = path.join(outputDirectory, "aircraft-select-optgroup.html");
 
 let selectOptgroupContent = getSelectOptgroupOptions(sortedAircraft);
 
-await fs.promises.writeFile(
-  selectOptgroupFilePath,
-  selectOptgroupContent,
-  "utf-8"
-);
-process.stdout.write(
-  `HTML <select> with <optgroup> options written to \x1b[92m${selectOptgroupFilePath}\x1b[0m\n`
-);
+await fs.promises.writeFile(selectOptgroupFilePath, selectOptgroupContent, "utf-8");
+process.stdout.write(`HTML <select> with <optgroup> options written to \x1b[92m${selectOptgroupFilePath}\x1b[0m\n`);
 
-process.stdout.write(
-  `\nAll aircraft files written to \x1b[92m${path.resolve(outputDirectory)}\x1b[0m\n`
-);
+process.stdout.write(`\nAll aircraft files written to \x1b[92m${path.resolve(outputDirectory)}\x1b[0m\n`);

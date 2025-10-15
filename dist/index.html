@@ -3,110 +3,71 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Aerofly FS Airport Code Validator</title>
-    <meta
-      name="description"
-      content="Check if an airport is present in Aerofly FS 4 using its ICAO code."
-    />
-    <style>
-      :root {
-        color-scheme: light dark;
-      }
-      * {
-        margin: 0;
-        padding: 0;
-      }
-      body {
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica,
-          Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
-          "Segoe UI Symbol";
-        line-height: 1.5;
-        margin: 20px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        min-height: 100vh;
-      }
-      main {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        text-align: center;
-        padding-bottom: 2em;
-      }
-      h1 {
-        font-size: 1.8em;
-        margin-bottom: 0.75em;
-        border-bottom: 1px solid #ccc;
-        padding: 0 1em 0.25em;
-      }
-      label {
-        display: block;
-        margin-bottom: 1em;
-      }
-      input {
-        font: inherit;
-        padding: 0.25em;
-        border-radius: 0.25em;
-        width: 6em;
-      }
-      .inputbox {
-        display: flex;
-        align-items: center;
-        gap: 0.5em;
-        font-size: 1.25em;
-      }
-      #status {
-        font-size: 1.25em;
-      }
-      #status2,
-      p {
-        margin-top: 1em;
-      }
-    </style>
+    <title>Aerofly Flight Simulator Airports Map</title>
+    <meta property="og:title" name="title" content="Aerofly Flight Simulator Airports Map" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://fboes.github.io/aerofly-data/dist/" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:description" name="description" content="See all of Aerofly FS4 airports on the map and check if a specific airport is included." />
+    <meta property="og:site_name" name="application-name" content="Aerofly Flight Simulator Airports Map" />
+    <meta property="og:image" content="https://fboes.github.io/aerofly-missions/dist/social-1200x630.png" />
+    <link rel="icon" sizes="180x180" href="https://fboes.github.io/aerofly-missions/dist/favicon-180x180.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="https://fboes.github.io/aerofly-missions/dist/favicon-180x180.png" />
+    <meta name="theme-color" content="#010d2b" />
+    <link rel="stylesheet" href="./styles.css" />
+    <link href="https://api.mapbox.com/mapbox-gl-js/v3.15.0/mapbox-gl.css" rel="stylesheet" />
+    <script src="https://api.mapbox.com/mapbox-gl-js/v3.15.0/mapbox-gl.js"></script>
   </head>
   <body>
-    <main>
-      <h1>Aerofly FS Airport Code Validator</h1>
-      <label for="icaoInput"
-        >Check if an airport is present in Aerofly FS 4 using its ICAO
-        code:</label
-      >
+    <header>
+      <h1>Find Aerofly FS airport</h1>
+      <label for="icaoInput">by ICAO code</label>
       <div class="inputbox">
-        <input
-          type="text"
-          id="icaoInput"
-          list="icaoInputList"
-          placeholder="ICAO code"
-          pattern="A-Za-z0-9"
-          autocapitalize="characters"
-          autofocus="autofocus"
-        />
+        <input type="text" id="icaoInput" list="icaoInputList" placeholder="ICAO code" pattern="A-Za-z0-9" autocapitalize="characters" autofocus="autofocus" />
         <datalist id="icaoInputList">
-          <option value="KATL">KATL</option>
-          <option value="KLAX">KLAX</option>
-          <option value="EGLL">EGLL</option>
-          <option value="OMDB">OMDB</option>
-          <option value="RJTT">RJTT</option>
+          <option value="KATL">KATL - Atlanta Airport</option>
+          <option value="KLAX">KLAX - Los Angeles International Airport</option>
+          <option value="EGLL">EGLL - London Heathrow Airport</option>
+          <option value="OMDB">OMDB - Dubai International Airport</option>
+          <option value="RJTT">RJTT - Tokyo Haneda Airport</option>
         </datalist>
-        <span
-          id="status"
-          title="Enter an ICAO code to check if the airport is present in Aerofly FS 4"
-          aria-hidden="true"
-          >❓</span
-        >
+        <span id="status" title="Enter an ICAO code to check if the airport is present in Aerofly FS 4" aria-hidden="true">❓</span>
       </div>
-      <div id="status2" role="status" aria-live="polite">
-        Enter an ICAO code to check if the airport is present in Aerofly FS 4
-      </div>
-      <p>Data source: <a href="..">Aerofly FS 4 data repository</a>.</p>
-    </main>
+    </header>
+    <main id="map"></main>
+    <footer>Data source: <a href="..">Aerofly FS 4 data repository</a>.</footer>
 
     <script>
+      // Mapbox
+      const map = new mapboxgl.Map({
+        container: "map",
+        style: "mapbox://styles/fboes/cls6d447f00xy01qsds04606f",
+        accessToken: "pk.eyJ1IjoiZmJvZXMiLCJhIjoiY2xjZWsyZmo2MDh3cjNybWljM2cxNDA4cSJ9.jsRuxcBPqXXsDjDOnUAZFw",
+        projection: "globe",
+        zoom: 2,
+        center: [15, 30],
+      });
+
+      map.addControl(new mapboxgl.NavigationControl(), "bottom-left");
+
+      map.on("style.load", () => {
+        map.setFog({}); // Set the default atmosphere style
+      });
+
+      map.on("load", () => {
+        map.addSource("mapbox-dem", {
+          type: "raster-dem",
+          url: "mapbox://mapbox.mapbox-terrain-dem-v1",
+          tileSize: 512,
+          maxzoom: 14,
+        });
+        // add the DEM source as a terrain layer with exaggerated height
+        map.setTerrain({ source: "mapbox-dem" });
+      });
+
       // Load the airport list from the JSON file
       let airportList = [];
-      fetch("../data/airport-list.json")
+      fetch("../data/airport-coordinates.json")
         .then((response) => response.json())
         .then((data) => {
           airportList = data;
@@ -118,51 +79,49 @@
       // Validate the input
       const inputField = document.getElementById("icaoInput");
       const status = document.getElementById("status");
-      const status2 = document.getElementById("status2");
 
       inputField.addEventListener("input", () => {
-        const inputValue = inputField.value.toUpperCase();
+        const inputValue = inputField.value.trim().toUpperCase();
 
         // Autocomplete: Populate datalist if input has 2+ chars
         const datalist = document.getElementById("icaoInputList");
+        let filtered = [];
         if (inputValue.length >= 2) {
           // Filter airportList for codes starting with inputValue
-          const filtered = airportList.filter((code) =>
-            code.startsWith(inputValue)
-          );
+          filtered = airportList.filter((entry) => entry.at(0)?.startsWith(inputValue) || entry.at(1)?.startsWith(inputField.value));
           // Clear existing options
           datalist.innerHTML = "";
           // Add filtered options
-          filtered.forEach((code) => {
+          filtered.forEach((entry) => {
             const option = document.createElement("option");
-            option.value = code;
+            option.value = entry.at(0); // ICAO code
+            option.textContent = `${entry.at(0)} - ${entry.at(1)}`;
             datalist.appendChild(option);
           });
         } else {
           // Restore default options if input < 2 chars
           datalist.innerHTML = `
-            <option value="KATL">KATL</option>
-            <option value="KLAX">KLAX</option>
-            <option value="EGLL">EGLL</option>
-            <option value="OMDB">OMDB</option>
-            <option value="RJTT">RJTT</option>
+            <option value="KATL">KATL - Atlanta Airport</option>
+            <option value="KLAX">KLAX - Los Angeles International Airport</option>
+            <option value="EGLL">EGLL - London Heathrow Airport</option>
+            <option value="OMDB">OMDB - Dubai International Airport</option>
+            <option value="RJTT">RJTT - Tokyo Haneda Airport</option>
           `;
         }
 
-        if (airportList.includes(inputValue)) {
+        if (filtered.length === 1 && inputValue.length >= 4) {
           status.textContent = "✅"; // Green checkmark
           status.title = "Airport is present in Aerofly FS 4";
-          status2.textContent = "Airport is present in Aerofly FS 4";
+          map.flyTo({
+            center: [filtered[0][3], filtered[0][2]], // Longitude, Latitude
+            zoom: 10,
+          });
         } else if (inputValue.trim() === "") {
           status.textContent = "❓"; // Question mark for empty input
-          status.title =
-            "Enter an ICAO code to check if the airport is present in Aerofly FS 4";
-          status2.textContent =
-            "Enter an ICAO code to check if the airport is present in Aerofly FS 4";
+          status.title = "Enter an ICAO code to check if the airport is present in Aerofly FS 4";
         } else {
           status.textContent = "🚫"; // Red forbidden sign
           status.title = "Airport is NOT present in Aerofly FS 4";
-          status2.textContent = "Airport is NOT present in Aerofly FS 4";
         }
       });
     </script>

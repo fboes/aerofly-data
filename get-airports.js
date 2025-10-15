@@ -10,15 +10,12 @@ import { geoJsonType, getAeroflyAirports } from "./src/airport-functions.js";
 
 const inputDirectory = process.argv[2] ?? ".";
 const icaoFilterArg = process.argv[3]?.replace(/[^A-Z]/, "").toUpperCase();
-const icaoFilter = icaoFilterArg
-  ? new RegExp("^[" + icaoFilterArg + "]")
-  : null;
+const icaoFilter = icaoFilterArg ? new RegExp("^[" + icaoFilterArg + "]") : null;
 
 const aeroflyGeoJson = new GeoJSON.FeatureCollection();
 const aeroflyAirports = getAeroflyAirports(inputDirectory, icaoFilter);
 const aeroflyAirportsLength = aeroflyAirports.size;
-process.stdout
-  .write(`Found \x1b[92m${aeroflyAirports.size}\x1b[0m Aerofly FS Airports
+process.stdout.write(`Found \x1b[92m${aeroflyAirports.size}\x1b[0m Aerofly FS Airports
 `);
 
 const airportsSource = fs.readFileSync(`tmp/airports.csv`);
@@ -84,20 +81,14 @@ for (const airportsRecord of airportsRecords) {
     aeroflyAirports.delete(code);
 
     const isMilitary =
-      airportsRecord[3].match(
-        /\b(base|rnas|raf|naval|air\s?force|coast\s?guard|army|afs|mod)\b/i
-      ) !== null;
+      airportsRecord[3].match(/\b(base|rnas|raf|naval|air\s?force|coast\s?guard|army|afs|mod)\b/i) !== null;
     let type = airportsRecord[2];
     if (isMilitary) {
       type = type.replace(/port/, "base");
     }
 
     const feature = new GeoJSON.Feature(
-      new GeoJSON.Point(
-        Number(airportsRecord[5]),
-        Number(airportsRecord[4]),
-        Number(airportsRecord[6]) * 0.3048
-      ),
+      new GeoJSON.Point(Number(airportsRecord[5]), Number(airportsRecord[4]), Number(airportsRecord[6]) * 0.3048),
       {
         title: bestCode,
         type: geoJsonType(type, isMilitary, length),
@@ -115,7 +106,7 @@ for (const airportsRecord of airportsRecords) {
           : airportsRecord[2].match(/small/)
             ? "#777777"
             : "#555555",
-      }
+      },
     );
     if (isMilitary) {
       feature.setProperty("isMilitary", true);
@@ -140,25 +131,26 @@ if (!fs.existsSync(outputDirectory)) {
 
 // Write the GeoJSON data to a file
 const outputFilePath = path.join(outputDirectory, "airports.geojson");
-fs.writeFileSync(
-  outputFilePath,
-  JSON.stringify(aeroflyGeoJson, null, 2),
-  "utf-8"
-);
-process.stdout.write(
-  `GeoJSON data written to \x1b[92m${outputFilePath}\x1b[0m\n`
-);
+fs.writeFileSync(outputFilePath, JSON.stringify(aeroflyGeoJson, null, 2), "utf-8");
+process.stdout.write(`GeoJSON data written to \x1b[92m${outputFilePath}\x1b[0m\n`);
 
 // Write the ICAO codes to airport-list.json
 const icaoListFilePath = path.join(outputDirectory, "airport-list.json");
-fs.writeFileSync(
-  icaoListFilePath,
-  JSON.stringify(icaoCodes.sort(), null, 2),
-  "utf-8"
-);
-process.stdout.write(
-  `ICAO code list written to \x1b[92m${icaoListFilePath}\x1b[0m\n`
-);
+fs.writeFileSync(icaoListFilePath, JSON.stringify(icaoCodes.sort(), null, 2), "utf-8");
+process.stdout.write(`ICAO code list written to \x1b[92m${icaoListFilePath}\x1b[0m\n`);
+
+// Write the ICAO codes with aiport names and geocoordinates to airport-coordinates.json
+const icaoCoordinates = aeroflyGeoJson.features.map((feature) => {
+  return [
+    feature.properties.title,
+    feature.properties.description,
+    feature.geometry.coordinates[1],
+    feature.geometry.coordinates[0],
+  ];
+});
+const icaoCoordinatesFilePath = path.join(outputDirectory, "airport-coordinates.json");
+fs.writeFileSync(icaoCoordinatesFilePath, JSON.stringify(icaoCoordinates, null, 2), "utf-8");
+process.stdout.write(`ICAO coordinates list written to \x1b[92m${icaoCoordinatesFilePath}\x1b[0m\n`);
 
 // Write the missing codes to airports-unmatched.md
 const unmatchedFilePath = path.join(outputDirectory, "airports-unmatched.md");
@@ -176,17 +168,13 @@ The following Aerofly FS4 Airports were not matched to any known airport. You ma
 
 ${unmatchedCodes}
 `,
-  "utf-8"
+  "utf-8",
 );
-process.stdout.write(
-  `Unmatched airports file written to \x1b[92m${unmatchedFilePath}\x1b[0m\n`
-);
+process.stdout.write(`Unmatched airports file written to \x1b[92m${unmatchedFilePath}\x1b[0m\n`);
 
 if (aeroflyAirports.size > 0) {
   process.stdout.write(
-    `Missing airport matches for \x1b[92m${
-      aeroflyAirports.size
-    }\x1b[0m Aerofly FS4 Airports, \x1b[92m${(
+    `Missing airport matches for \x1b[92m${aeroflyAirports.size}\x1b[0m Aerofly FS4 Airports, \x1b[92m${(
       (aeroflyAirports.size / aeroflyAirportsLength) *
       100
     ).toFixed(1)}%\x1b[0m
@@ -196,6 +184,6 @@ Missing matches for Aerofly FS4 Airport codes:
         return a[0];
       })
       .join(", ")}\x1b[0m
-`
+`,
   );
 }

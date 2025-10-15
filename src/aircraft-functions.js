@@ -38,11 +38,7 @@ const getAeroflyAircraftDirectories = (directory) => {
     .readdirSync(directory, { withFileTypes: true })
     .filter((dirent) => dirent.isDirectory())
     .sort()
-    .filter((dirent) =>
-      fs.existsSync(
-        path.join(dirent.parentPath, dirent.name, dirent.name + ".tmc")
-      )
-    );
+    .filter((dirent) => fs.existsSync(path.join(dirent.parentPath, dirent.name, dirent.name + ".tmc")));
 };
 
 /**
@@ -52,15 +48,9 @@ const getAeroflyAircraftDirectories = (directory) => {
  */
 export const getAeroflyAircraft = (directory) => {
   return getAeroflyAircraftDirectories(directory).map((dirent) => {
-    const tmdFileContent = fs.readFileSync(
-      path.join(dirent.parentPath, dirent.name, dirent.name + ".tmc"),
-      "utf8"
-    );
+    const tmdFileContent = fs.readFileSync(path.join(dirent.parentPath, dirent.name, dirent.name + ".tmc"), "utf8");
 
-    const tmdOptionFileContent = fs.readFileSync(
-      path.join(dirent.parentPath, dirent.name, "option.tmc"),
-      "utf8"
-    );
+    const tmdOptionFileContent = fs.readFileSync(path.join(dirent.parentPath, dirent.name, "option.tmc"), "utf8");
 
     const liveries = [
       {
@@ -73,17 +63,10 @@ export const getAeroflyAircraft = (directory) => {
           withFileTypes: true,
         })
         .filter((dirent) => dirent.isDirectory())
-        .filter((dirent) =>
-          fs.existsSync(
-            path.join(dirent.parentPath, dirent.name, "preview.ttx")
-          )
-        )
+        .filter((dirent) => fs.existsSync(path.join(dirent.parentPath, dirent.name, "preview.ttx")))
         .sort()
         .map((dirent) => {
-          const tmdFileContent = fs.readFileSync(
-            path.join(dirent.parentPath, dirent.name, "option.tmc"),
-            "utf8"
-          );
+          const tmdFileContent = fs.readFileSync(path.join(dirent.parentPath, dirent.name, "option.tmc"), "utf8");
 
           return {
             aeroflyCode: dirent.name,
@@ -117,15 +100,11 @@ export const parseAircraft = (tmdFileContent) => {
     /*MinimumAirspeed: convertSpeed(
       parseTmdLine(tmdFileContent, "MinimumAirspeed")
     ),*/
-    approachAirspeedKts: convertSpeed(
-      parseTmdLine(tmdFileContent, "ApproachAirspeed")
-    ),
+    approachAirspeedKts: convertSpeed(parseTmdLine(tmdFileContent, "ApproachAirspeed")),
     /*CruiseAirspeed: convertSpeed(
       parseTmdLine(tmdFileContent, "CruiseAirspeed")
     ),*/
-    cruiseAltitudeFt: convertAltitude(
-      parseTmdLine(tmdFileContent, "CruiseAltitude")
-    ),
+    cruiseAltitudeFt: convertAltitude(parseTmdLine(tmdFileContent, "CruiseAltitude")),
     cruiseSpeedKts: convertSpeed(parseTmdLine(tmdFileContent, "CruiseSpeed")),
     /*MaximumAirspeed: convertSpeed(
       parseTmdLine(tmdFileContent, "MaximumAirspeed")
@@ -134,9 +113,7 @@ export const parseAircraft = (tmdFileContent) => {
       parseTmdLine(tmdFileContent, "MaximumAltitude")
     ),
     MaximumSpeed: convertSpeed(parseTmdLine(tmdFileContent, "MaximumSpeed")),*/
-    maximumRangeNm: convertDistance(
-      parseTmdLine(tmdFileContent, "MaximumRange")
-    ),
+    maximumRangeNm: convertDistance(parseTmdLine(tmdFileContent, "MaximumRange")),
     /*FlapAirspeedRange: parseTmdLine(tmdFileContent, "FlapAirspeedRange")
       .trim()
       .split(" ")
@@ -304,8 +281,7 @@ export const getSelectOptgroupOptions = (sortedAircraft) => {
     }
     html += `  <optgroup label="${optgroup.label}">` + "\n";
     for (const option of optgroup.options) {
-      html +=
-        `    <option value="${option.value}">${option.label}</option>` + "\n";
+      html += `    <option value="${option.value}">${option.label}</option>` + "\n";
     }
     html += "  </optgroup>\n";
   }

@@ -44209,7 +44209,7 @@
         "description": "Buchanan Field",
         "elevation": 26,
         "municipality": "Concord",
-        "fileSize": 1400,
+        "fileSize": 1464,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -61145,11 +61145,11 @@
       },
       "properties": {
         "title": "KMER",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Castle Airport",
         "elevation": 191,
         "municipality": "Merced",
-        "fileSize": 1160,
+        "fileSize": 1248,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -61486,7 +61486,7 @@
         "description": "Sacramento Mather Airport",
         "elevation": 98,
         "municipality": "Sacramento",
-        "fileSize": 1400,
+        "fileSize": 1328,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -62853,7 +62853,7 @@
         "description": "Monterey Peninsula Airport",
         "elevation": 257,
         "municipality": "Monterey",
-        "fileSize": 1256,
+        "fileSize": 1264,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -63465,7 +63465,7 @@
         "description": "Montgomery-Gibbs Executive Airport",
         "elevation": 427,
         "municipality": "San Diego",
-        "fileSize": 1312,
+        "fileSize": 1424,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -66644,7 +66644,7 @@
         "description": "Palo Alto Airport",
         "elevation": 4,
         "municipality": "Palo Alto",
-        "fileSize": 1184,
+        "fileSize": 1160,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -69545,7 +69545,7 @@
         "description": "March Air Reserve Base",
         "elevation": 1536,
         "municipality": "Riverside",
-        "fileSize": 1160,
+        "fileSize": 1176,
         "marker-symbol": "airport",
         "marker-color": "#555555",
         "isMilitary": true
@@ -70886,11 +70886,11 @@
       },
       "properties": {
         "title": "KSBD",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "San Bernardino International Airport",
         "elevation": 1159,
         "municipality": "San Bernardino",
-        "fileSize": 1080,
+        "fileSize": 1392,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -72213,11 +72213,11 @@
       },
       "properties": {
         "title": "KSMX",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Santa Maria Public Airport Captain G Allan Hancock Field",
         "elevation": 261,
         "municipality": "Santa Maria",
-        "fileSize": 1176,
+        "fileSize": 1296,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -74009,7 +74009,7 @@
         "description": "Mefford Field",
         "elevation": 265,
         "municipality": "Tulare",
-        "fileSize": 1072,
+        "fileSize": 1168,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -74110,11 +74110,11 @@
       },
       "properties": {
         "title": "KTNP",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Twentynine Palms Airport",
         "elevation": 1888,
         "municipality": "Twentynine Palms",
-        "fileSize": 1152,
+        "fileSize": 1216,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -74198,7 +74198,7 @@
         "description": "Zamperini Field",
         "elevation": 103,
         "municipality": "Torrance",
-        "fileSize": 1240,
+        "fileSize": 1320,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -74446,11 +74446,11 @@
       },
       "properties": {
         "title": "KTRK",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Truckee Tahoe Airport",
         "elevation": 5900,
         "municipality": "Truckee",
-        "fileSize": 1152,
+        "fileSize": 1312,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -74492,7 +74492,7 @@
         "description": "Jacqueline Cochran Regional Airport",
         "elevation": -115,
         "municipality": "Palm Springs",
-        "fileSize": 1224,
+        "fileSize": 1208,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -74530,11 +74530,11 @@
       },
       "properties": {
         "title": "KTSP",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Tehachapi Municipal Airport",
         "elevation": 4001,
         "municipality": "Tehachapi",
-        "fileSize": 1088,
+        "fileSize": 1240,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -74766,7 +74766,7 @@
         "description": "Lake Tahoe Airport",
         "elevation": 6264,
         "municipality": "South Lake Tahoe",
-        "fileSize": 1088,
+        "fileSize": 1160,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -75434,11 +75434,11 @@
       },
       "properties": {
         "title": "KUKI",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Ukiah Municipal Airport",
         "elevation": 614,
         "municipality": "Ukiah",
-        "fileSize": 1072,
+        "fileSize": 1208,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -75881,7 +75881,7 @@
         "description": "Nut Tree Airport",
         "elevation": 117,
         "municipality": "Vacaville",
-        "fileSize": 1064,
+        "fileSize": 1184,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -75923,7 +75923,7 @@
         "description": "Southern California Logistics Airport",
         "elevation": 2885,
         "municipality": "Victorville",
-        "fileSize": 1144,
+        "fileSize": 1160,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -76108,11 +76108,11 @@
       },
       "properties": {
         "title": "KVIS",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Visalia Municipal Airport",
         "elevation": 295,
         "municipality": "Visalia",
-        "fileSize": 1088,
+        "fileSize": 1240,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -76700,7 +76700,7 @@
         "description": "Willows Glenn County Airport",
         "elevation": 141,
         "municipality": "Willows",
-        "fileSize": 1248,
+        "fileSize": 1256,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -76828,7 +76828,7 @@
         "description": "Watsonville Municipal Airport",
         "elevation": 163,
         "municipality": "Watsonville",
-        "fileSize": 1264,
+        "fileSize": 1304,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
