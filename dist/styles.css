@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
 }
+
 body {
   font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
   line-height: 1.5;
@@ -52,6 +53,7 @@ footer {
 main {
   background: #4da6e6;
   min-height: 100vh;
+  min-height: 100dvh;
 }
 
 h1 {
