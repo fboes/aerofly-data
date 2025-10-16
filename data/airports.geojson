@@ -105293,6 +105293,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          69.14884,
+          27.203205,
+          50.9016
+        ]
+      },
+      "properties": {
+        "title": "OPKW",
+        "type": "small_airport",
+        "description": "Thar Airport",
+        "elevation": 167,
+        "municipality": "Kandanwari",
+        "fileSize": 928,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           70.527901,
           32.9729,
           403.86
@@ -105446,7 +105467,7 @@
         ]
       },
       "properties": {
-        "title": "OPGD",
+        "title": "OPGW",
         "type": "small_airport",
         "description": "New Gwadar International Airport",
         "elevation": 61,
@@ -106247,8 +106268,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.3399009705,
-          36.5336990356,
+          44.339901,
+          36.533699,
           633.6792
         ]
       },
@@ -106417,8 +106438,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.25669860839844,
-          33.52389907836914,
+          44.256699,
+          33.523899,
           36.8808
         ]
       },
@@ -109313,30 +109334,9 @@
       "properties": {
         "title": "OPJI",
         "type": "small_airport",
-        "description": "Jiwani Airport",
+        "description": "Jiwani Airport (INACTIVE}",
         "elevation": 186,
         "municipality": "Jiwani",
-        "fileSize": 928,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          69.31670379639999,
-          27.1667003632,
-          75.5904
-        ]
-      },
-      "properties": {
-        "title": "OPKW",
-        "type": "small_airport",
-        "description": "Kadanwari Airport",
-        "elevation": 248,
-        "municipality": "Kadanwari",
         "fileSize": 928,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -127186,20 +127186,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.987598,
-          -4.97907,
-          199.0344
+          -38.987622,
+          -4.979006,
+          224.02800000000002
         ]
       },
       "properties": {
         "title": "SNQX",
         "type": "small_airport",
         "description": "Quixadá Airport",
-        "elevation": 653,
+        "elevation": 735,
         "municipality": "Quixadá",
         "fileSize": 928,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -127459,8 +127459,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -44.61722183227539,
-          -13.380556106567383,
+          -44.62207,
+          -13.379952,
           658.0632
         ]
       },

@@ -24,106 +24,16 @@
       <label for="icaoInput">by ICAO code</label>
       <div class="inputbox">
         <input type="text" id="icaoInput" list="icaoInputList" placeholder="ICAO code" pattern="A-Za-z0-9" autocapitalize="characters" autofocus="autofocus" />
-        <datalist id="icaoInputList">
-          <option value="KATL">KATL - Atlanta Airport</option>
-          <option value="KLAX">KLAX - Los Angeles International Airport</option>
-          <option value="EGLL">EGLL - London Heathrow Airport</option>
-          <option value="OMDB">OMDB - Dubai International Airport</option>
-          <option value="RJTT">RJTT - Tokyo Haneda Airport</option>
-        </datalist>
+        <datalist id="icaoInputList"> </datalist>
         <span id="status" title="Enter an ICAO code to check if the airport is present in Aerofly FS 4" aria-hidden="true">❓</span>
       </div>
     </header>
     <main id="map"></main>
-    <footer>Data source: <a href="..">Aerofly FS 4 data repository</a>.</footer>
+    <footer>
+      Data source: <a href="..">Aerofly FS 4 data repository</a> - <span id="data-status"></span><br />
+      This tool is NOT affiliated with, endorsed, or sponsored by IPACS GbR.
+    </footer>
 
-    <script>
-      // Mapbox
-      const map = new mapboxgl.Map({
-        container: "map",
-        style: "mapbox://styles/fboes/cls6d447f00xy01qsds04606f",
-        accessToken: "pk.eyJ1IjoiZmJvZXMiLCJhIjoiY2xjZWsyZmo2MDh3cjNybWljM2cxNDA4cSJ9.jsRuxcBPqXXsDjDOnUAZFw",
-        projection: "globe",
-        zoom: 2,
-        center: [15, 30],
-      });
-
-      map.addControl(new mapboxgl.NavigationControl(), "bottom-left");
-
-      map.on("style.load", () => {
-        map.setFog({}); // Set the default atmosphere style
-      });
-
-      map.on("load", () => {
-        map.addSource("mapbox-dem", {
-          type: "raster-dem",
-          url: "mapbox://mapbox.mapbox-terrain-dem-v1",
-          tileSize: 512,
-          maxzoom: 14,
-        });
-        // add the DEM source as a terrain layer with exaggerated height
-        map.setTerrain({ source: "mapbox-dem" });
-      });
-
-      // Load the airport list from the JSON file
-      let airportList = [];
-      fetch("../data/airport-coordinates.json")
-        .then((response) => response.json())
-        .then((data) => {
-          airportList = data;
-        })
-        .catch((error) => {
-          console.error("Error loading airport list:", error);
-        });
-
-      // Validate the input
-      const inputField = document.getElementById("icaoInput");
-      const status = document.getElementById("status");
-
-      inputField.addEventListener("input", () => {
-        const inputValue = inputField.value.trim().toUpperCase();
-
-        // Autocomplete: Populate datalist if input has 2+ chars
-        const datalist = document.getElementById("icaoInputList");
-        let filtered = [];
-        if (inputValue.length >= 2) {
-          // Filter airportList for codes starting with inputValue
-          filtered = airportList.filter((entry) => entry.at(0)?.startsWith(inputValue) || entry.at(1)?.startsWith(inputField.value));
-          // Clear existing options
-          datalist.innerHTML = "";
-          // Add filtered options
-          filtered.forEach((entry) => {
-            const option = document.createElement("option");
-            option.value = entry.at(0); // ICAO code
-            option.textContent = `${entry.at(0)} - ${entry.at(1)}`;
-            datalist.appendChild(option);
-          });
-        } else {
-          // Restore default options if input < 2 chars
-          datalist.innerHTML = `
-            <option value="KATL">KATL - Atlanta Airport</option>
-            <option value="KLAX">KLAX - Los Angeles International Airport</option>
-            <option value="EGLL">EGLL - London Heathrow Airport</option>
-            <option value="OMDB">OMDB - Dubai International Airport</option>
-            <option value="RJTT">RJTT - Tokyo Haneda Airport</option>
-          `;
-        }
-
-        if (filtered.length === 1 && inputValue.length >= 4) {
-          status.textContent = "✅"; // Green checkmark
-          status.title = "Airport is present in Aerofly FS 4";
-          map.flyTo({
-            center: [filtered[0][3], filtered[0][2]], // Longitude, Latitude
-            zoom: 10,
-          });
-        } else if (inputValue.trim() === "") {
-          status.textContent = "❓"; // Question mark for empty input
-          status.title = "Enter an ICAO code to check if the airport is present in Aerofly FS 4";
-        } else {
-          status.textContent = "🚫"; // Red forbidden sign
-          status.title = "Airport is NOT present in Aerofly FS 4";
-        }
-      });
-    </script>
+    <script src="./main.js"></script>
   </body>
 </html>

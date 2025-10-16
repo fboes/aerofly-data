@@ -2,7 +2,7 @@
 
 This project contains data sets for airports and aircraft present in [Aerofly FS 4](https://www.aerofly.com/). This airport data is based on data from [OurAirports](https://ourairports.com/).
 
-There is also a [ICAO code checker](https://fboes.github.io/aerofly-data/dist/), which checks if a given ICAO airport code exists in Aerofly FS 4.
+There is also a [Aerofly Flight Simulator Airports Map with ICAO code checker](https://fboes.github.io/aerofly-data/dist/), which checks if a given ICAO airport code exists in Aerofly FS 4.
 
 It also contains [airport and navigation aid icons](./icons/) suitable for maps.
 
