@@ -6,14 +6,23 @@ import GeoJSON from "@fboes/geojson";
 import * as fs from "node:fs";
 import * as path from "node:path";
 import { parse } from "csv-parse/sync";
-import { geoJsonType, getAeroflyAirports } from "./src/airport-functions.js";
+import { geoJsonType, getAeroflyAirports, addCustomAeroflyAirportsToMap } from "./src/airport-functions.js";
 
 const inputDirectory = process.argv[2] ?? ".";
 const icaoFilterArg = process.argv[3]?.replace(/[^A-Z]/, "").toUpperCase();
 const icaoFilter = icaoFilterArg ? new RegExp("^[" + icaoFilterArg + "]") : null;
 
+// Ensure the output directory exists
+const outputDirectory = path.join("data");
+if (!fs.existsSync(outputDirectory)) {
+  fs.mkdirSync(outputDirectory, { recursive: true });
+}
+
 const aeroflyGeoJson = new GeoJSON.FeatureCollection();
-const aeroflyAirports = getAeroflyAirports(inputDirectory, icaoFilter);
+const aeroflyAirports = new Map([
+  ...addCustomAeroflyAirportsToMap(path.join(outputDirectory, "airports-custom.md")),
+  ...getAeroflyAirports(inputDirectory, icaoFilter),
+]);
 const aeroflyAirportsLength = aeroflyAirports.size;
 process.stdout.write(`Found \x1b[92m${aeroflyAirports.size}\x1b[0m Aerofly FS Airports
 `);
@@ -121,12 +130,6 @@ for (const airportsRecord of airportsRecords) {
       .write(`  Processed \x1b[92m${String(airportsRecordsProcessed).padStart(5)}\x1b[0m airport records, found \x1b[92m${String(index).padStart(5)}\x1b[0m Aerofly FS Airports
 `);
   }
-}
-
-// Ensure the output directory exists
-const outputDirectory = path.join("data");
-if (!fs.existsSync(outputDirectory)) {
-  fs.mkdirSync(outputDirectory, { recursive: true });
 }
 
 // Write the GeoJSON data to a file

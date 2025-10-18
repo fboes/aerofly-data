@@ -2887,6 +2887,49 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.87908,
+          46.676601,
+          0
+        ]
+      },
+      "properties": {
+        "title": "LSMI",
+        "type": "private_airfield",
+        "description": "Interlaken Air Base",
+        "elevation": 0,
+        "municipality": "Interlaken",
+        "fileSize": 0,
+        "marker-symbol": "airport",
+        "marker-color": "#555555",
+        "isMilitary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.88194,
+          47.279999,
+          758.0376
+        ]
+      },
+      "properties": {
+        "title": "LSPK",
+        "type": "private_airfield",
+        "description": "Hasenstrick Airfield",
+        "elevation": 2487,
+        "municipality": "Dürnten",
+        "fileSize": 0,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.6510009765625,
           48.8119010925293,
           39.624
@@ -91051,6 +91094,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.864574,
+          46.957371,
+          434.94960000000003
+        ]
+      },
+      "properties": {
+        "title": "LSGN",
+        "type": "private_airfield",
+        "description": "Neuchâtel Airfield",
+        "elevation": 1427,
+        "municipality": "Boudry",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.25806,
+          46.406399,
+          412.0896
+        ]
+      },
+      "properties": {
+        "title": "LSGP",
+        "type": "private_airfield",
+        "description": "La Côte Airfield",
+        "elevation": 1352,
+        "municipality": "La Côte",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.67778,
           46.613602,
           726.9480000000001
@@ -91087,6 +91172,48 @@
         "fileSize": 1264,
         "marker-symbol": "airport",
         "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.09444,
+          46.5942,
+          687.9336000000001
+        ]
+      },
+      "properties": {
+        "title": "LSGT",
+        "type": "private_airfield",
+        "description": "La Gruyère  Airfield",
+        "elevation": 2257,
+        "municipality": "Epagny",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.61333,
+          46.761902,
+          433.12080000000003
+        ]
+      },
+      "properties": {
+        "title": "LSGY",
+        "type": "private_airfield",
+        "description": "Yverdon-les-Bains Airfield",
+        "elevation": 1421,
+        "municipality": "Yverdon-les-Bains",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -91226,6 +91353,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.047785,
+          47.573983,
+          417.8808
+        ]
+      },
+      "properties": {
+        "title": "LSPA",
+        "type": "private_airfield",
+        "description": "Amlikon Airfield",
+        "elevation": 1371,
+        "municipality": "Amlikon",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.49139,
+          47.438599,
+          535.8384
+        ]
+      },
+      "properties": {
+        "title": "LSPD",
+        "type": "private_airfield",
+        "description": "Dittingen Airfield",
+        "elevation": 1758,
+        "municipality": "Dittingen",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.526178,
+          47.690203,
+          462.99120000000005
+        ]
+      },
+      "properties": {
+        "title": "LSPF",
+        "type": "private_airfield",
+        "description": "Schmerlat Airfield",
+        "elevation": 1519,
+        "municipality": "Neunkirch",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.25417,
           46.908298,
           464.82000000000005
@@ -91247,6 +91437,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.77194,
+          47.514999,
+          459.02880000000005
+        ]
+      },
+      "properties": {
+        "title": "LSPH",
+        "type": "private_airfield",
+        "description": "Winterthur Airfield",
+        "elevation": 1506,
+        "municipality": "Winterthur",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.741191,
+          47.18281,
+          480.06
+        ]
+      },
+      "properties": {
+        "title": "LSPL",
+        "type": "private_airfield",
+        "description": "Langenthal Airfield",
+        "elevation": 1575,
+        "municipality": "Bleienbach",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.68978,
           46.512501,
           987.8568
@@ -91259,6 +91491,48 @@
         "elevation": 3241,
         "municipality": "Quinto",
         "fileSize": 1072,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.07806,
+          47.2267,
+          485.8512
+        ]
+      },
+      "properties": {
+        "title": "LSPN",
+        "type": "private_airfield",
+        "description": "Triengen Airfield",
+        "elevation": 1594,
+        "municipality": "Triengen",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.88494,
+          47.34131,
+          416.9664
+        ]
+      },
+      "properties": {
+        "title": "LSPO",
+        "type": "private_airfield",
+        "description": "Olten Airfield",
+        "elevation": 1368,
+        "municipality": "Olten",
+        "fileSize": 0,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -91322,6 +91596,69 @@
         "elevation": 2029,
         "municipality": "Raron",
         "fileSize": 1072,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.13253,
+          46.979315,
+          433.12080000000003
+        ]
+      },
+      "properties": {
+        "title": "LSTB",
+        "type": "private_airfield",
+        "description": "Bellechasse Airfield",
+        "elevation": 1421,
+        "municipality": "Sugiez",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.615,
+          46.916698,
+          732.1296
+        ]
+      },
+      "properties": {
+        "title": "LSTO",
+        "type": "private_airfield",
+        "description": "Môtiers Airfield",
+        "elevation": 2402,
+        "municipality": "Môtiers",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.400591,
+          46.590263,
+          663.8544
+        ]
+      },
+      "properties": {
+        "title": "LSTR",
+        "type": "private_airfield",
+        "description": "Montricher Airfield",
+        "elevation": 2178,
+        "municipality": "Montricher",
+        "fileSize": 0,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -91520,6 +91857,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.95,
+          47.5089,
+          544.9824
+        ]
+      },
+      "properties": {
+        "title": "LSZI",
+        "type": "private_airfield",
+        "description": "Fricktal-Schupfart Airfield",
+        "elevation": 1788,
+        "municipality": "Schupfart",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.09083,
+          47.183601,
+          684.8856000000001
+        ]
+      },
+      "properties": {
+        "title": "LSZJ",
+        "type": "private_airfield",
+        "description": "Courtelary Airfield",
+        "elevation": 2247,
+        "municipality": "Courtelary",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.7575,
           47.3764,
           532.7904
@@ -91583,6 +91962,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.51556,
+          47.238602,
+          587.6544
+        ]
+      },
+      "properties": {
+        "title": "LSZN",
+        "type": "private_airfield",
+        "description": "Hausen am Albis Airfield",
+        "elevation": 1928,
+        "municipality": "Hausen am Albis",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.204556,
           47.188993,
           654.1008
@@ -91616,6 +92016,27 @@
         "elevation": 1437,
         "municipality": "Kappelen",
         "fileSize": 1168,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.028648,
+          47.392677,
+          568.7568
+        ]
+      },
+      "properties": {
+        "title": "LSZQ",
+        "type": "private_airfield",
+        "description": "Bressaucourt Airfield",
+        "elevation": 1866,
+        "municipality": "Bressaucourt",
+        "fileSize": 0,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -91667,6 +92088,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.00306,
+          47.524399,
+          469.0872
+        ]
+      },
+      "properties": {
+        "title": "LSZT",
+        "type": "private_airfield",
+        "description": "Lommis Airfield",
+        "elevation": 1539,
+        "municipality": "Lommis",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3025,
+          47.264702,
+          722.9856000000001
+        ]
+      },
+      "properties": {
+        "title": "LSZU",
+        "type": "private_airfield",
+        "description": "Buttwil Airfield",
+        "elevation": 2372,
+        "municipality": "Buttwil",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.26278,
           47.5089,
           505.968
@@ -91679,6 +92142,27 @@
         "elevation": 1660,
         "municipality": "Sitterdorf",
         "fileSize": 1320,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60056,
+          46.756401,
+          559.9176
+        ]
+      },
+      "properties": {
+        "title": "LSZW",
+        "type": "private_airfield",
+        "description": "Thun Airfield",
+        "elevation": 1837,
+        "municipality": "Thun",
+        "fileSize": 0,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }

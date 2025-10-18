@@ -129,6 +129,11 @@ export const parseAircraft = (tmdFileContent) => {
   };
 };
 
+/**
+ *
+ * @param {string} tmdFileContent
+ * @returns {string[]}
+ */
 const parseRequirements = (tmdFileContent) => {
   const requirements = parseTmdLine(tmdFileContent, "Requirements").trim();
   if (requirements === "") {

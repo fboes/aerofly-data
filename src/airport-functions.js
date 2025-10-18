@@ -23,6 +23,8 @@ export const geoJsonType = (type, isMilitary, lenght) => {
       size = "medium";
     } else if (lenght > 920) {
       size = "small";
+    } else if (lenght <= 0) {
+      return "private_airfield";
     }
 
     if (size === "closed") {
@@ -58,6 +60,26 @@ export const getAeroflyAirports = (directory, icaoFilter) => {
       maxLength = Math.max(maxLength, stats.size);
       minLength = Math.min(minLength, stats.size);
       aeroflyAirports.set(icaoCode, stats.size);
+    }
+  }
+
+  return aeroflyAirports;
+};
+
+/**
+ *
+ * @param {string} filename
+ * @returns {Map<string,number>}
+ */
+export const addCustomAeroflyAirportsToMap = (filename) => {
+  const aeroflyAirports = new Map();
+  const fileContent = fs.readFileSync(filename, "utf-8");
+  const lines = fileContent.split(/\r?\n/).sort();
+
+  for (const line of lines) {
+    const match = line.match(/^(?:-|\*)\s*([A-Z0-9]+)/);
+    if (match && match[1]) {
+      aeroflyAirports.set(match[1], 0);
     }
   }
 
