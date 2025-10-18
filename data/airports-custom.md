@@ -1,6 +1,6 @@
 # Custom airports
 
-These airports are provided by third-party developers.
+These airports are provided by third-party developers. See [the contribution guide](../CONTRIBUTING.md) on how to add additional entries.
 
 ## Swiss Airfields by Tomfa
 
