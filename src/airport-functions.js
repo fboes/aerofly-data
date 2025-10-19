@@ -85,3 +85,31 @@ export const addCustomAeroflyAirportsToMap = (filename) => {
 
   return aeroflyAirports;
 };
+
+/**
+ *
+ * @param {string} ident
+ * @param {string} icaoCode
+ * @param {string[]} airportsRecord
+ * @returns {string[]}
+ */
+export const getAirportSearchWords = (ident, icaoCode, airportsRecord) => {
+  /**
+   * @type {string[]}
+   */
+  const extraWords = [];
+
+  if (airportsRecord[8] === "US" && airportsRecord[15]) {
+    extraWords.push("K" + airportsRecord[15]);
+  }
+
+  return [
+    ident,
+    icaoCode,
+    airportsRecord[13],
+    airportsRecord[14],
+    airportsRecord[15],
+    ...airportsRecord[18].split(/,\s*/),
+    ...extraWords,
+  ].filter((word) => word && word.length > 0);
+};

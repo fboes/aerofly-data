@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Added community airports in separate file `data/airports-custom.md`
 - Improved search in Mapbox map
+- Improved handling of small US airports
 
 ## [1.3.0] - 2025-10-15
 

@@ -6,7 +6,12 @@ import GeoJSON from "@fboes/geojson";
 import * as fs from "node:fs";
 import * as path from "node:path";
 import { parse } from "csv-parse/sync";
-import { geoJsonType, getAeroflyAirports, addCustomAeroflyAirportsToMap } from "./src/airport-functions.js";
+import {
+  geoJsonType,
+  getAeroflyAirports,
+  addCustomAeroflyAirportsToMap,
+  getAirportSearchWords,
+} from "./src/airport-functions.js";
 
 const inputDirectory = process.argv[2] ?? ".";
 const icaoFilterArg = process.argv[3]?.replace(/[^A-Z]/, "").toUpperCase();
@@ -47,15 +52,7 @@ for (const airportsRecord of airportsRecords) {
 
   const ident = airportsRecord[1];
   const icaoCode = airportsRecord[12];
-
-  const searchWords = [
-    ident,
-    icaoCode,
-    airportsRecord[13],
-    airportsRecord[14],
-    airportsRecord[15],
-    ...airportsRecord[18].split(/,\s*/),
-  ].filter((word) => word && word.length > 0);
+  const searchWords = getAirportSearchWords(ident, icaoCode, airportsRecord);
 
   // EL = Europe
   // K = US

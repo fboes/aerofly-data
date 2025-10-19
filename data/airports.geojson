@@ -48,6 +48,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -112.98200225830078,
+          45.769100189208984,
+          1776.9840000000002
+        ]
+      },
+      "properties": {
+        "title": "K02T",
+        "type": "private_airfield",
+        "description": "Wise River Airport",
+        "elevation": 5830,
+        "municipality": "Wise River",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.670666,
           34.566631,
           920.4960000000001
@@ -60,6 +81,27 @@
         "elevation": 3020,
         "municipality": "Palmdale",
         "fileSize": 944,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.24199676513672,
+          45.85150146484375,
+          197.2056
+        ]
+      },
+      "properties": {
+        "title": "K05S",
+        "type": "private_airfield",
+        "description": "Vernonia Airfield",
+        "elevation": 647,
+        "municipality": "Vernonia",
+        "fileSize": 0,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -122,6 +164,27 @@
         "description": "Meadow Creek USFS Airport",
         "elevation": 3984,
         "municipality": "Hungry Horse",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.23857,
+          46.238574,
+          975.6648
+        ]
+      },
+      "properties": {
+        "title": "K0S5",
+        "type": "private_airfield",
+        "description": "Nezperce Municipal Airport",
+        "elevation": 3201,
+        "municipality": "Nezperce",
         "fileSize": 0,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -279,6 +342,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -120.60199737548828,
+          46.75189971923828,
+          457.20000000000005
+        ]
+      },
+      "properties": {
+        "title": "K0WN1",
+        "type": "private_airfield",
+        "description": "Shangri-La Airport",
+        "elevation": 1500,
+        "municipality": "Selah",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -124.314003,
           48.266102,
           108.20400000000001
@@ -311,6 +395,27 @@
         "description": "Monument Municipal Airport",
         "elevation": 2323,
         "municipality": "Monument",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.100998,
+          46.8969,
+          4.2672
+        ]
+      },
+      "properties": {
+        "title": "K14S",
+        "type": "private_airfield",
+        "description": "Westport Airport",
+        "elevation": 14,
+        "municipality": "Westport",
         "fileSize": 0,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -363,6 +468,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.05400085449219,
+          45.323699951171875,
+          57.912000000000006
+        ]
+      },
+      "properties": {
+        "title": "K17S",
+        "type": "private_airfield",
+        "description": "Chehalem Airpark",
+        "elevation": 190,
+        "municipality": "Newberg",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.272003,
           41.263199,
           993.0384
@@ -405,6 +531,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -121.610001,
+          48.258598,
+          168.55440000000002
+        ]
+      },
+      "properties": {
+        "title": "K1S2",
+        "type": "private_airfield",
+        "description": "Darrington Municipal Airport",
+        "elevation": 553,
+        "municipality": "Darrington",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -116.909895,
           48.190614,
           666.5976
@@ -416,6 +563,69 @@
         "description": "Priest River Municipal Airport",
         "elevation": 2187,
         "municipality": "Priest River",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.305647,
+          45.671744,
+          505.968
+        ]
+      },
+      "properties": {
+        "title": "K1S7",
+        "type": "private_airfield",
+        "description": "Slate Creek Airport",
+        "elevation": 1660,
+        "municipality": "White Bird",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.176418,
+          45.722683,
+          271.272
+        ]
+      },
+      "properties": {
+        "title": "K1S8",
+        "type": "private_airfield",
+        "description": "Arlington Municipal Airport",
+        "elevation": 890,
+        "municipality": "Arlington",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.35099792480469,
+          42.97489929199219,
+          1437.4368000000002
+        ]
+      },
+      "properties": {
+        "title": "K1U0",
+        "type": "private_airfield",
+        "description": "Bear Trap Airport",
+        "elevation": 4716,
+        "municipality": "Minidoka",
         "fileSize": 0,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -447,6 +657,111 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -116.54900360107422,
+          43.215999603271484,
+          870.2040000000001
+        ]
+      },
+      "properties": {
+        "title": "K1U3",
+        "type": "private_airfield",
+        "description": "Murphy Airport",
+        "elevation": 2855,
+        "municipality": "Murphy",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.28399658203125,
+          44.97909927368164,
+          1191.1584
+        ]
+      },
+      "properties": {
+        "title": "K1U4",
+        "type": "private_airfield",
+        "description": "New Meadows Airport",
+        "elevation": 3908,
+        "municipality": "New Meadows",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.87799835205078,
+          42.234100341796875,
+          1417.3200000000002
+        ]
+      },
+      "properties": {
+        "title": "K1U6",
+        "type": "private_airfield",
+        "description": "Oakley Municipal Airport",
+        "elevation": 4650,
+        "municipality": "Oakley",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.310057,
+          43.466057,
+          1289.9136
+        ]
+      },
+      "properties": {
+        "title": "K1U9",
+        "type": "private_airfield",
+        "description": "Pine Airport",
+        "elevation": 4232,
+        "municipality": "Pine",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40399932861328,
+          45.62779998779297,
+          130.7592
+        ]
+      },
+      "properties": {
+        "title": "K1W1",
+        "type": "private_airfield",
+        "description": "Grove Field",
+        "elevation": 429,
+        "municipality": "Camas",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -113.231063,
           36.257984,
           1249.68
@@ -468,6 +783,111 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -121.533997,
+          47.012901,
+          807.72
+        ]
+      },
+      "properties": {
+        "title": "K21W",
+        "type": "private_airfield",
+        "description": "Ranger Creek State Airport",
+        "elevation": 2650,
+        "municipality": "Greenwater",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.44499969482422,
+          47.179100036621094,
+          1290.828
+        ]
+      },
+      "properties": {
+        "title": "K23S",
+        "type": "private_airfield",
+        "description": "Seeley Lake Airport",
+        "elevation": 4235,
+        "municipality": "Seeley Lake",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.730003357,
+          44.9743003845,
+          1213.7136
+        ]
+      },
+      "properties": {
+        "title": "K24K",
+        "type": "private_airfield",
+        "description": "Krassel US Forest Service Airport",
+        "elevation": 3982,
+        "municipality": "Mc Call",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38300323486328,
+          42.110198974609375,
+          1108.8624
+        ]
+      },
+      "properties": {
+        "title": "K24S",
+        "type": "private_airfield",
+        "description": "Pinehurst State Airport",
+        "elevation": 3638,
+        "municipality": "Pinehurst",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.69400024414062,
+          45.42770004272461,
+          2044.5984
+        ]
+      },
+      "properties": {
+        "title": "K25U",
+        "type": "private_airfield",
+        "description": "Memaloose Airport",
+        "elevation": 6708,
+        "municipality": "Imnaha",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.607498,
           39.2635,
           1.524
@@ -480,6 +900,27 @@
         "elevation": 5,
         "municipality": "Ocean City",
         "fileSize": 1120,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.72000122070312,
+          47.819400787353516,
+          591.0072
+        ]
+      },
+      "properties": {
+        "title": "K27W",
+        "type": "private_airfield",
+        "description": "Lake Wenatchee State Airport",
+        "elevation": 1939,
+        "municipality": "Leavenworth",
+        "fileSize": 0,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -531,6 +972,384 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -120.094002,
+          48.350601,
+          488.2896
+        ]
+      },
+      "properties": {
+        "title": "K2S0",
+        "type": "private_airfield",
+        "description": "Twisp Municipal Airport",
+        "elevation": 1602,
+        "municipality": "Twisp",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.473999,
+          47.458599,
+          96.3168
+        ]
+      },
+      "properties": {
+        "title": "K2S1",
+        "type": "private_airfield",
+        "description": "Vashon Municipal Airport",
+        "elevation": 316,
+        "municipality": "Vashon",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.81800079345703,
+          43.12900161743164,
+          1413.6624000000002
+        ]
+      },
+      "properties": {
+        "title": "K2S2",
+        "type": "private_airfield",
+        "description": "Beaver Marsh State Airport",
+        "elevation": 4638,
+        "municipality": "Beaver Marsh",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.056,
+          47.655998,
+          806.196
+        ]
+      },
+      "properties": {
+        "title": "K2S5",
+        "type": "private_airfield",
+        "description": "Waterville Airport",
+        "elevation": 2645,
+        "municipality": "Waterville",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5479965209961,
+          43.49850082397461,
+          1511.1984
+        ]
+      },
+      "properties": {
+        "title": "K2U0",
+        "type": "private_airfield",
+        "description": "Smith Prairie Airport",
+        "elevation": 4958,
+        "municipality": "Prairie",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.53199768066406,
+          43.19020080566406,
+          1360.932
+        ]
+      },
+      "properties": {
+        "title": "K2U4",
+        "type": "private_airfield",
+        "description": "Rockford Municipal Airport",
+        "elevation": 4465,
+        "municipality": "Rockford",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.841003,
+          45.9916,
+          802.8432
+        ]
+      },
+      "properties": {
+        "title": "K2U5",
+        "type": "private_airfield",
+        "description": "Shearer US Forest Service Airport",
+        "elevation": 2634,
+        "municipality": "Kooskia",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.934998,
+          44.2085,
+          1951.6344000000001
+        ]
+      },
+      "properties": {
+        "title": "K2U7",
+        "type": "private_airfield",
+        "description": "Stanley Airport",
+        "elevation": 6403,
+        "municipality": "Stanley",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.00299835205078,
+          44.72629928588867,
+          1341.1200000000001
+        ]
+      },
+      "properties": {
+        "title": "K2U8",
+        "type": "private_airfield",
+        "description": "Thomas Creek Airport",
+        "elevation": 4400,
+        "municipality": "Stanley",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.85299682617188,
+          47.1776008605957,
+          548.64
+        ]
+      },
+      "properties": {
+        "title": "K2W1",
+        "type": "private_airfield",
+        "description": "De Vere Field",
+        "elevation": 1800,
+        "municipality": "Cle Elum",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25700378417969,
+          46.87160110473633,
+          256.94640000000004
+        ]
+      },
+      "properties": {
+        "title": "K2W3",
+        "type": "private_airfield",
+        "description": "Swanson Airport",
+        "elevation": 843,
+        "municipality": "Eatonville",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.48200225830078,
+          48.005001068115234,
+          697.9920000000001
+        ]
+      },
+      "properties": {
+        "title": "K37S",
+        "type": "private_airfield",
+        "description": "Fort Peck Airport",
+        "elevation": 2290,
+        "municipality": "Fort Peck",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45800018310547,
+          48.95589828491211,
+          32.308800000000005
+        ]
+      },
+      "properties": {
+        "title": "K38W",
+        "type": "private_airfield",
+        "description": "Lynden Airport",
+        "elevation": 106,
+        "municipality": "Lynden",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.266998,
+          46.5504,
+          286.8168
+        ]
+      },
+      "properties": {
+        "title": "K39P",
+        "type": "private_airfield",
+        "description": "Strom Field",
+        "elevation": 941,
+        "municipality": "Morton",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.371002,
+          47.0704,
+          135.636
+        ]
+      },
+      "properties": {
+        "title": "K3B8",
+        "type": "private_airfield",
+        "description": "Shady Acres Airport",
+        "elevation": 445,
+        "municipality": "Spanaway",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4209976196289,
+          43.2234992980957,
+          1024.4328
+        ]
+      },
+      "properties": {
+        "title": "K3S6",
+        "type": "private_airfield",
+        "description": "Toketee State Airport",
+        "elevation": 3361,
+        "municipality": "Clearwater",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.93000030517578,
+          45.69820022583008,
+          6.7056000000000004
+        ]
+      },
+      "properties": {
+        "title": "K3S7",
+        "type": "private_airfield",
+        "description": "Nehalem Bay State Airport",
+        "elevation": 22,
+        "municipality": "Manzanita",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.33799743652344,
+          42.02069854736328,
+          1776.6792
+        ]
+      },
+      "properties": {
+        "title": "K3U0",
+        "type": "private_airfield",
+        "description": "Murphy Hot Springs Airport",
+        "elevation": 5829,
+        "municipality": "Three Creek",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -115.683106,
           45.267767,
           1797.1008000000002
@@ -552,6 +1371,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -115.485433,
+          44.912215,
+          1503.5784
+        ]
+      },
+      "properties": {
+        "title": "K3U2",
+        "type": "private_airfield",
+        "description": "Johnson Creek Airport",
+        "elevation": 4933,
+        "municipality": "Yellow Pine",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.37999725341797,
+          47.46329879760742,
+          1263.396
+        ]
+      },
+      "properties": {
+        "title": "K3U5",
+        "type": "private_airfield",
+        "description": "Augusta Airport",
+        "elevation": 4145,
+        "municipality": "Augusta",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.106003,
+          46.211601,
+          1514.2464
+        ]
+      },
+      "properties": {
+        "title": "K3U9",
+        "type": "private_airfield",
+        "description": "Boulder Airport",
+        "elevation": 4968,
+        "municipality": "Boulder",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -121.758003,
           48.5298,
           81.3816
@@ -563,6 +1445,48 @@
         "description": "Mears Field Airport",
         "elevation": 267,
         "municipality": "Concrete",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.828003,
+          46.992438,
+          64.92240000000001
+        ]
+      },
+      "properties": {
+        "title": "K44T",
+        "type": "private_airfield",
+        "description": "Hoskins Field",
+        "elevation": 213,
+        "municipality": "Olympia",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.09400177001953,
+          43.111000061035156,
+          1369.1616000000001
+        ]
+      },
+      "properties": {
+        "title": "K45S",
+        "type": "private_airfield",
+        "description": "Silver Lake F S Strip",
+        "elevation": 4492,
+        "municipality": "Silver Lake",
         "fileSize": 0,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -615,6 +1539,111 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.0530014038086,
+          45.58259963989258,
+          53.0352
+        ]
+      },
+      "properties": {
+        "title": "K4S4",
+        "type": "private_airfield",
+        "description": "Skyport Airport",
+        "elevation": 174,
+        "municipality": "Cornelius",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1240005493164,
+          46.63759994506836,
+          903.4272000000001
+        ]
+      },
+      "properties": {
+        "title": "K4S6",
+        "type": "private_airfield",
+        "description": "Tieton State Airport",
+        "elevation": 2964,
+        "municipality": "Rimrock",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.39600372314453,
+          42.000999450683594,
+          1235.0496
+        ]
+      },
+      "properties": {
+        "title": "K4S7",
+        "type": "private_airfield",
+        "description": "Malin Airport",
+        "elevation": 4052,
+        "municipality": "Malin",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.22000122070312,
+          45.860599517822266,
+          1294.4856
+        ]
+      },
+      "properties": {
+        "title": "K4U7",
+        "type": "private_airfield",
+        "description": "West Fork Lodge Airport",
+        "elevation": 4247,
+        "municipality": "Conner",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.53600311279297,
+          47.39540100097656,
+          498.6528
+        ]
+      },
+      "properties": {
+        "title": "K4W0",
+        "type": "private_airfield",
+        "description": "Bandera State Airport",
+        "elevation": 1636,
+        "municipality": "Bandera",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.96800231933594,
           46.92720031738281,
           56.083200000000005
@@ -636,6 +1665,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -116.936288,
+          43.777478,
+          679.0944000000001
+        ]
+      },
+      "properties": {
+        "title": "K50S",
+        "type": "private_airfield",
+        "description": "Parma Airport",
+        "elevation": 2228,
+        "municipality": "Parma",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -114.08098,
           47.325007,
           916.2288000000001
@@ -647,6 +1697,216 @@
         "description": "St Ignatius Airport",
         "elevation": 3006,
         "municipality": "St Ignatius",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.332000732,
+          43.8249015808,
+          1369.7712000000001
+        ]
+      },
+      "properties": {
+        "title": "K52U",
+        "type": "private_airfield",
+        "description": "Weatherby US Forest Service Airport",
+        "elevation": 4494,
+        "municipality": "Atlanta",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.001377,
+          48.061045,
+          932.6880000000001
+        ]
+      },
+      "properties": {
+        "title": "K53U",
+        "type": "private_airfield",
+        "description": "Ferndale Airfield",
+        "elevation": 3060,
+        "municipality": "Bigfork",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.134144,
+          43.810418,
+          1676.4
+        ]
+      },
+      "properties": {
+        "title": "K55H",
+        "type": "private_airfield",
+        "description": "Atlanta Airport",
+        "elevation": 5500,
+        "municipality": "Atlanta",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.9049988,
+          46.01649857,
+          3.6576000000000004
+        ]
+      },
+      "properties": {
+        "title": "K56S",
+        "type": "private_airfield",
+        "description": "Seaside Municipal Airport",
+        "elevation": 12,
+        "municipality": "Seaside",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.30000305175781,
+          48.40800094604492,
+          934.5168000000001
+        ]
+      },
+      "properties": {
+        "title": "K58S",
+        "type": "private_airfield",
+        "description": "Whitefish Airport",
+        "elevation": 3066,
+        "municipality": "Whitefish",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.39700317382812,
+          43.22480010986328,
+          130.4544
+        ]
+      },
+      "properties": {
+        "title": "K5S1",
+        "type": "private_airfield",
+        "description": "George Felt Airport",
+        "elevation": 428,
+        "municipality": "Roseburg",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.94000244140625,
+          44.60100173950195,
+          2.1336
+        ]
+      },
+      "properties": {
+        "title": "K5S4",
+        "type": "private_airfield",
+        "description": "Toledo State Airport",
+        "elevation": 7,
+        "municipality": "Toledo",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3196,
+          44.519805,
+          821.436
+        ]
+      },
+      "properties": {
+        "title": "K5S5",
+        "type": "private_airfield",
+        "description": "Lake Billy Chinook Airport",
+        "elevation": 2695,
+        "municipality": "Culver",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.942001,
+          47.320801,
+          1094.8416
+        ]
+      },
+      "properties": {
+        "title": "K5U0",
+        "type": "private_airfield",
+        "description": "Denton Airport",
+        "elevation": 3592,
+        "municipality": "Denton",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.072998046875,
+          47.86109924316406,
+          655.9296
+        ]
+      },
+      "properties": {
+        "title": "K5U6",
+        "type": "private_airfield",
+        "description": "Fairview Airport",
+        "elevation": 2152,
+        "municipality": "Fairview",
         "fileSize": 0,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -699,6 +1959,174 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -117.88400268554688,
+          48.54389953613281,
+          573.6336
+        ]
+      },
+      "properties": {
+        "title": "K63S",
+        "type": "private_airfield",
+        "description": "Colville Municipal Airport",
+        "elevation": 1882,
+        "municipality": "Colville",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.822047,
+          48.518168,
+          757.1232
+        ]
+      },
+      "properties": {
+        "title": "K66S",
+        "type": "private_airfield",
+        "description": "Cavanaugh Bay Airport",
+        "elevation": 2484,
+        "municipality": "Coolin",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.963997,
+          48.574902,
+          795.8328
+        ]
+      },
+      "properties": {
+        "title": "K67S",
+        "type": "private_airfield",
+        "description": "Priest Lake Usfs Airport",
+        "elevation": 2611,
+        "municipality": "Nordman",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.222605,
+          48.998264,
+          504.444
+        ]
+      },
+      "properties": {
+        "title": "K69S",
+        "type": "private_airfield",
+        "description": "Avey Field State/Laurier Airport",
+        "elevation": 1655,
+        "municipality": "Laurier",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4209976196289,
+          44.74570083618164,
+          312.7248
+        ]
+      },
+      "properties": {
+        "title": "K6S4",
+        "type": "private_airfield",
+        "description": "Davis Airport",
+        "elevation": 1026,
+        "municipality": "Gates",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.05899810791016,
+          42.869598388671875,
+          99.3648
+        ]
+      },
+      "properties": {
+        "title": "K6S6",
+        "type": "private_airfield",
+        "description": "Powers Airport",
+        "elevation": 326,
+        "municipality": "Powers",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.72100067138672,
+          48.345699310302734,
+          374.904
+        ]
+      },
+      "properties": {
+        "title": "K6S9",
+        "type": "private_airfield",
+        "description": "Stehekin State Airport",
+        "elevation": 1230,
+        "municipality": "Stehekin",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.083264,
+          48.387646,
+          676.6560000000001
+        ]
+      },
+      "properties": {
+        "title": "K6U5",
+        "type": "private_airfield",
+        "description": "Hinsdale Airport",
+        "elevation": 2220,
+        "municipality": "Hinsdale",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -108.659543,
           48.858996,
           956.4624
@@ -720,6 +2148,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -117.35800170898438,
+          47.787200927734375,
+          580.644
+        ]
+      },
+      "properties": {
+        "title": "K70S",
+        "type": "private_airfield",
+        "description": "Mead Flying Service Airport",
+        "elevation": 1905,
+        "municipality": "Mead",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.421424,
           47.236602,
           661.1112
@@ -731,6 +2180,111 @@
         "description": "Rosalia Municipal Airport",
         "elevation": 2169,
         "municipality": "Rosalia",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.04399871826172,
+          47.23550033569336,
+          768.096
+        ]
+      },
+      "properties": {
+        "title": "K73S",
+        "type": "private_airfield",
+        "description": "Willard Field",
+        "elevation": 2520,
+        "municipality": "Tekoa",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.528,
+          45.730202,
+          1342.644
+        ]
+      },
+      "properties": {
+        "title": "K75C",
+        "type": "private_airfield",
+        "description": "Orogrande Airport",
+        "elevation": 4405,
+        "municipality": "Orogrande",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.94200134277344,
+          45.42850112915039,
+          51.816
+        ]
+      },
+      "properties": {
+        "title": "K7S3",
+        "type": "private_airfield",
+        "description": "Stark's Twin Oaks Airpark",
+        "elevation": 170,
+        "municipality": "Hillsboro",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.45767,
+          45.587416,
+          1869.3384
+        ]
+      },
+      "properties": {
+        "title": "K7S4",
+        "type": "private_airfield",
+        "description": "Wisdom Airport",
+        "elevation": 6133,
+        "municipality": "Wisdom",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.977997,
+          48.9986,
+          1082.6496
+        ]
+      },
+      "properties": {
+        "title": "K7S8",
+        "type": "private_airfield",
+        "description": "Ross International Airport",
+        "elevation": 3552,
+        "municipality": "Sweetgrass",
         "fileSize": 0,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -763,6 +2317,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -105.079569,
+          47.62647,
+          759.8664
+        ]
+      },
+      "properties": {
+        "title": "K7U8",
+        "type": "private_airfield",
+        "description": "Richey Airport",
+        "elevation": 2493,
+        "municipality": "Richey",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.00399780273438,
+          46.31489944458008,
+          3.9624
+        ]
+      },
+      "properties": {
+        "title": "K7W1",
+        "type": "private_airfield",
+        "description": "Port of Ilwaco Airport",
+        "elevation": 13,
+        "municipality": "Ilwaco",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.64299774169922,
           48.0984001159668,
           252.984
@@ -784,6 +2380,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -108.956001,
+          46.307201,
+          1063.752
+        ]
+      },
+      "properties": {
+        "title": "K80S",
+        "type": "private_airfield",
+        "description": "Lavina Airport",
+        "elevation": 3490,
+        "municipality": "Lavina",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -106.18239,
           41.88363,
           2025.7008
@@ -795,6 +2412,27 @@
         "description": "Medicine Bow Airport",
         "elevation": 6646,
         "municipality": "Medicine Bow",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.64099884033203,
+          44.09049987792969,
+          1307.592
+        ]
+      },
+      "properties": {
+        "title": "K83V",
+        "type": "private_airfield",
+        "description": "Upton Municipal Airport",
+        "elevation": 4290,
+        "municipality": "Upton",
         "fileSize": 0,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -868,6 +2506,153 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -120.48500061035156,
+          47.51470184326172,
+          261.5184
+        ]
+      },
+      "properties": {
+        "title": "K8S2",
+        "type": "private_airfield",
+        "description": "Cashmere-Dryden Airport",
+        "elevation": 858,
+        "municipality": "Cashmere",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.942406,
+          44.434347,
+          1152.144
+        ]
+      },
+      "properties": {
+        "title": "K8S3",
+        "type": "private_airfield",
+        "description": "Santiam Junction State Airport",
+        "elevation": 3780,
+        "municipality": "Sisters",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.26499938964844,
+          45.42490005493164,
+          1206.0936000000002
+        ]
+      },
+      "properties": {
+        "title": "K8S4",
+        "type": "private_airfield",
+        "description": "Enterprise Municipal Airport",
+        "elevation": 3957,
+        "municipality": "Enterprise",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.248001,
+          46.290501,
+          1124.4072
+        ]
+      },
+      "properties": {
+        "title": "K8U0",
+        "type": "private_airfield",
+        "description": "Ryegate Airport",
+        "elevation": 3689,
+        "municipality": "Ryegate",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.50299835205078,
+          47.10419845581055,
+          969.264
+        ]
+      },
+      "properties": {
+        "title": "K8U1",
+        "type": "private_airfield",
+        "description": "Sand Springs Strip",
+        "elevation": 3180,
+        "municipality": "Sand Springs",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.398994,
+          48.999493,
+          762.3048
+        ]
+      },
+      "properties": {
+        "title": "K8U3",
+        "type": "private_airfield",
+        "description": "Scobey Border Station /East Poplar International/ Airport",
+        "elevation": 2501,
+        "municipality": "Scobey",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5770034790039,
+          46.418800354003906,
+          1170.432
+        ]
+      },
+      "properties": {
+        "title": "K8U9",
+        "type": "private_airfield",
+        "description": "Canyon Ferry Airport",
+        "elevation": 3840,
+        "municipality": "Townsend",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -119.637191,
           47.809244,
           692.5056000000001
@@ -889,6 +2674,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.09100341796875,
+          46.832698822021484,
+          45.415200000000006
+        ]
+      },
+      "properties": {
+        "title": "K8W9",
+        "type": "private_airfield",
+        "description": "R & K Skyranch Airport",
+        "elevation": 149,
+        "municipality": "Rochester",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -109.38602,
           47.555395,
           1009.1928
@@ -900,6 +2706,27 @@
         "description": "Winifred Airport",
         "elevation": 3311,
         "municipality": "Winifred",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.68499755859375,
+          46.04970169067383,
+          1564.8432
+        ]
+      },
+      "properties": {
+        "title": "K9U1",
+        "type": "private_airfield",
+        "description": "Wilsall Airport",
+        "elevation": 5134,
+        "municipality": "Wilsall",
         "fileSize": 0,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -39808,6 +41635,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -112.789222,
+          48.998198,
+          1321.6128
+        ]
+      },
+      "properties": {
+        "title": "KH28",
+        "type": "private_airfield",
+        "description": "Whetstone International Airport",
+        "elevation": 4336,
+        "municipality": "Port of Del Bonita",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           38.799301,
           8.97789,
           2325.6240000000003
@@ -43078,6 +44926,27 @@
         "description": "Wilson Bar US Forest Service Airport",
         "elevation": 2250,
         "municipality": "Dixie",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.71299743652,
+          44.894298553467,
+          1265.8344
+        ]
+      },
+      "properties": {
+        "title": "KI92",
+        "type": "private_airfield",
+        "description": "Reed Ranch Airport",
+        "elevation": 4153,
+        "municipality": "Yellow Pine",
         "fileSize": 0,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -103794,6 +105663,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -113.201751,
+          46.621599,
+          1293.876
+        ]
+      },
+      "properties": {
+        "title": "KM26",
+        "type": "private_airfield",
+        "description": "Drummond Airport",
+        "elevation": 4245,
+        "municipality": "Drummond",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -10.0503,
           29.026699,
           299.9232
@@ -119572,6 +121462,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -105.165003,
+          48.132945,
+          620.5728
+        ]
+      },
+      "properties": {
+        "title": "KPO1",
+        "type": "private_airfield",
+        "description": "Poplar Muni Airport",
+        "elevation": 2036,
+        "municipality": "Poplar",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.84300231933594,
           7.461870193481445,
           3.3528000000000002
@@ -119691,6 +121602,69 @@
         "fileSize": 936,
         "marker-symbol": "airport",
         "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.975995,
+          43.087399,
+          1314.2976
+        ]
+      },
+      "properties": {
+        "title": "KR03",
+        "type": "private_airfield",
+        "description": "Alkali Lake State Airport",
+        "elevation": 4312,
+        "municipality": "Alkali Lake",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.08499908447266,
+          44.38460159301758,
+          12.4968
+        ]
+      },
+      "properties": {
+        "title": "KR33",
+        "type": "private_airfield",
+        "description": "Wakonda Beach State Airport",
+        "elevation": 41,
+        "municipality": "Waldport",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.657997,
+          46.7271,
+          1081.1256
+        ]
+      },
+      "properties": {
+        "title": "KRC0",
+        "type": "private_airfield",
+        "description": "Rock Creek Airport",
+        "elevation": 3547,
+        "municipality": "Clinton",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -124213,6 +126187,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -106.41699981689453,
+          48.86669921875,
+          994.8672
+        ]
+      },
+      "properties": {
+        "title": "KS00",
+        "type": "private_airfield",
+        "description": "Opheim Airport",
+        "elevation": 3264,
+        "municipality": "Opheim",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.720001,
+          47.538799,
+          1123.4928
+        ]
+      },
+      "properties": {
+        "title": "KS04",
+        "type": "private_airfield",
+        "description": "Condon USFS Airport",
+        "elevation": 3686,
+        "municipality": "Condon",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -114.612679,
           47.614148,
           842.1624
@@ -124224,6 +126240,174 @@
         "description": "Hot Springs Airport",
         "elevation": 2763,
         "municipality": "Hot Springs",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.396004,
+          47.937698,
+          91.1352
+        ]
+      },
+      "properties": {
+        "title": "KS18",
+        "type": "private_airfield",
+        "description": "Forks Airport",
+        "elevation": 299,
+        "municipality": "Forks",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.93000030517578,
+          44.52980041503906,
+          104.8512
+        ]
+      },
+      "properties": {
+        "title": "KS30",
+        "type": "private_airfield",
+        "description": "Lebanon State Airport",
+        "elevation": 344,
+        "municipality": "Lebanon",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.93800354003906,
+          48.4838981628418,
+          63.7032
+        ]
+      },
+      "properties": {
+        "title": "KS31",
+        "type": "private_airfield",
+        "description": "Lopez Island Airport",
+        "elevation": 209,
+        "municipality": "Lopez",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.568001,
+          48.3619,
+          317.6016
+        ]
+      },
+      "properties": {
+        "title": "KS35",
+        "type": "private_airfield",
+        "description": "Okanogan Legion Airport",
+        "elevation": 1042,
+        "municipality": "Okanogan",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.105003,
+          47.908199,
+          6.7056000000000004
+        ]
+      },
+      "properties": {
+        "title": "KS43",
+        "type": "private_airfield",
+        "description": "Harvey Field",
+        "elevation": 22,
+        "municipality": "Snohomish",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.25900268554688,
+          43.96379852294922,
+          685.4952000000001
+        ]
+      },
+      "properties": {
+        "title": "KS49",
+        "type": "private_airfield",
+        "description": "Miller Memorial Airpark",
+        "elevation": 2249,
+        "municipality": "Vale",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9219970703125,
+          43.614898681640625,
+          673.6080000000001
+        ]
+      },
+      "properties": {
+        "title": "KS66",
+        "type": "private_airfield",
+        "description": "Homedale Municipal Airport",
+        "elevation": 2210,
+        "municipality": "Homedale",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2770004272461,
+          46.49129867553711,
+          306.324
+        ]
+      },
+      "properties": {
+        "title": "KS68",
+        "type": "private_airfield",
+        "description": "Orofino Municipal Airport",
+        "elevation": 1005,
+        "municipality": "Orofino",
         "fileSize": 0,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -124255,6 +126439,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -115.107002,
+          44.761299,
+          1432.8648
+        ]
+      },
+      "properties": {
+        "title": "KS81",
+        "type": "private_airfield",
+        "description": "Indian Creek US Forest Service Airport",
+        "elevation": 4701,
+        "municipality": "Indian Creek",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.97899627685547,
+          46.1327018737793,
+          384.9624
+        ]
+      },
+      "properties": {
+        "title": "KS82",
+        "type": "private_airfield",
+        "description": "Kooskia Municipal Airport",
+        "elevation": 1263,
+        "municipality": "Kooskia",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.338997,
+          47.710899,
+          305.4096
+        ]
+      },
+      "properties": {
+        "title": "KS88",
+        "type": "private_airfield",
+        "description": "Skykomish State Airport",
+        "elevation": 1002,
+        "municipality": "Skykomish",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4800033569336,
+          46.247100830078125,
+          1159.7640000000001
+        ]
+      },
+      "properties": {
+        "title": "KS89",
+        "type": "private_airfield",
+        "description": "Craigmont Municipal Airport",
+        "elevation": 3805,
+        "municipality": "Craigmont",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -115.063033,
           46.32998,
           1720.9008000000001
@@ -124266,6 +126534,27 @@
         "description": "Fish Lake US Forest Service Airport",
         "elevation": 5646,
         "municipality": "Kooskia",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.88300323486328,
+          47.19430160522461,
+          592.5312
+        ]
+      },
+      "properties": {
+        "title": "KS93",
+        "type": "private_airfield",
+        "description": "Cle Elum Municipal Airport",
+        "elevation": 1944,
+        "municipality": "Cle Elum",
         "fileSize": 0,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -144219,6 +146508,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -115.273002625,
+          43.9552001953,
+          1745.2848000000001
+        ]
+      },
+      "properties": {
+        "title": "KU45",
+        "type": "private_airfield",
+        "description": "Graham US Forest Service Airport",
+        "elevation": 5726,
+        "municipality": "Atlanta",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.055583,
+          43.432508,
+          1546.2504000000001
+        ]
+      },
+      "properties": {
+        "title": "KU46",
+        "type": "private_airfield",
+        "description": "Big Southern Butte Airport",
+        "elevation": 5073,
+        "municipality": "Blackfoot",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -113.227557,
           43.217669,
           1534.3632
@@ -144240,6 +146571,195 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.86699676513672,
+          42.72079849243164,
+          1656.5880000000002
+        ]
+      },
+      "properties": {
+        "title": "KU51",
+        "type": "private_airfield",
+        "description": "Bancroft Municipal Airport",
+        "elevation": 5435,
+        "municipality": "Bancroft",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.345261,
+          44.634376,
+          2010.4608
+        ]
+      },
+      "properties": {
+        "title": "KU53",
+        "type": "private_airfield",
+        "description": "Henry's Lake Airport",
+        "elevation": 6596,
+        "municipality": "Island Park",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.73500061,
+          44.979598999,
+          1105.2048
+        ]
+      },
+      "properties": {
+        "title": "KU54",
+        "type": "private_airfield",
+        "description": "Bernard US Forest Service Airport",
+        "elevation": 3626,
+        "municipality": "Bernard",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.321999,
+          45.133202,
+          1750.4664
+        ]
+      },
+      "properties": {
+        "title": "KU60",
+        "type": "private_airfield",
+        "description": "Big Creek Airport",
+        "elevation": 5743,
+        "municipality": "Big Creek",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.110356,
+          43.943544,
+          2100.9864000000002
+        ]
+      },
+      "properties": {
+        "title": "KU61",
+        "type": "private_airfield",
+        "description": "Twin Bridges Airport",
+        "elevation": 6893,
+        "municipality": "Ketchum",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.93399810791016,
+          43.30820083618164,
+          1457.8584
+        ]
+      },
+      "properties": {
+        "title": "KU65",
+        "type": "private_airfield",
+        "description": "Carey Airport",
+        "elevation": 4783,
+        "municipality": "Carey",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.82481,
+          44.591231,
+          1676.4
+        ]
+      },
+      "properties": {
+        "title": "KU72",
+        "type": "private_airfield",
+        "description": "Upper Loon Creek US Forest Service Airport",
+        "elevation": 5500,
+        "municipality": "Challis",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.09123992919922,
+          44.72545623779297,
+          1481.328
+        ]
+      },
+      "properties": {
+        "title": "KU84",
+        "type": "private_airfield",
+        "description": "Donald D. Coski Memorial Airport",
+        "elevation": 4860,
+        "municipality": "Donnelly",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.798186,
+          43.341839,
+          1541.6784
+        ]
+      },
+      "properties": {
+        "title": "KU86",
+        "type": "private_airfield",
+        "description": "Camas County Airport",
+        "elevation": 5058,
+        "municipality": "Fairfield",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -114.79622,
           43.912209,
           2182.368
@@ -144251,6 +146771,27 @@
         "description": "Smiley Creek Airport",
         "elevation": 7160,
         "municipality": "Ketchum",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.930903,
+          44.066863,
+          968.3496
+        ]
+      },
+      "properties": {
+        "title": "KU88",
+        "type": "private_airfield",
+        "description": "Garden Valley Airport",
+        "elevation": 3177,
+        "municipality": "Garden Valley",
         "fileSize": 0,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -144303,6 +146844,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -114.3949966430664,
+          43.28239822387695,
+          1476.4512
+        ]
+      },
+      "properties": {
+        "title": "KU93",
+        "type": "private_airfield",
+        "description": "Magic Reservoir Airport",
+        "elevation": 4844,
+        "municipality": "Hailey",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -113.057893,
           43.851378,
           1502.664
@@ -144314,6 +146876,27 @@
         "description": "Howe Airport",
         "elevation": 4930,
         "municipality": "Howe",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.844573,
+          43.823676,
+          1194.816
+        ]
+      },
+      "properties": {
+        "title": "KU98",
+        "type": "private_airfield",
+        "description": "Idaho City US Forest Service Airport",
+        "elevation": 3920,
+        "municipality": "Idaho City",
         "fileSize": 0,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -147585,6 +150168,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -109.008611111,
+          47.9475,
+          1005.2304
+        ]
+      },
+      "properties": {
+        "title": "KCW0",
+        "type": "private_airfield",
+        "description": "Cow Creek Airport",
+        "elevation": 3298,
+        "municipality": "Winifred",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.18656,
+          47.84542,
+          984.504
+        ]
+      },
+      "properties": {
+        "title": "KBB0",
+        "type": "private_airfield",
+        "description": "Black Butte North Airport",
+        "elevation": 3230,
+        "municipality": "Lloyd",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.098972,
+          47.847639,
+          959.2056
+        ]
+      },
+      "properties": {
+        "title": "KBW8",
+        "type": "private_airfield",
+        "description": "Bullwhacker Airport",
+        "elevation": 3147,
+        "municipality": "Winifred",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.4178278,
+          46.7243111,
+          1931.2128
+        ]
+      },
+      "properties": {
+        "title": "KM42",
+        "type": "private_airfield",
+        "description": "Russian Flat Airport",
+        "elevation": 6336,
+        "municipality": "Russian Flat",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -107.660472,
           45.744416,
           922.0200000000001
@@ -147627,6 +150294,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.777543,
+          42.448186,
+          1546.8600000000001
+        ]
+      },
+      "properties": {
+        "title": "K0ID",
+        "type": "private_airfield",
+        "description": "W E Ranch Airport",
+        "elevation": 5075,
+        "municipality": "Thatcher",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.618358,
+          45.666461,
+          1705.0512
+        ]
+      },
+      "properties": {
+        "title": "KOR9",
+        "type": "private_airfield",
+        "description": "Lord Flat Airport",
+        "elevation": 5594,
+        "municipality": "Imnaha",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -106.40253,
           32.337081,
           1199.0832
@@ -147642,6 +150351,27 @@
         "marker-symbol": "airport",
         "marker-color": "#555555",
         "isMilitary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.985278,
+          44.773472,
+          1427.988
+        ]
+      },
+      "properties": {
+        "title": "KID8",
+        "type": "private_airfield",
+        "description": "Marble Creek Airstrip",
+        "elevation": 4685,
+        "municipality": "Challis",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -147691,6 +150421,174 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -116.763597,
+          45.941616,
+          429.76800000000003
+        ]
+      },
+      "properties": {
+        "title": "KI45",
+        "type": "private_airfield",
+        "description": "Wapshilla Airport",
+        "elevation": 1410,
+        "municipality": "Winchester",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.145296,
+          45.288043,
+          1005.84
+        ]
+      },
+      "properties": {
+        "title": "K1M6",
+        "type": "private_airfield",
+        "description": "Stevens Ranch Airport",
+        "elevation": 3300,
+        "municipality": "Ashland",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.84805,
+          47.61666,
+          899.1600000000001
+        ]
+      },
+      "properties": {
+        "title": "KMT3",
+        "type": "private_airfield",
+        "description": "Knox Ridge Airport",
+        "elevation": 2950,
+        "municipality": "Winifred",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.078574,
+          47.779561,
+          944.88
+        ]
+      },
+      "properties": {
+        "title": "KWH0",
+        "type": "private_airfield",
+        "description": "Woodhawk Airport",
+        "elevation": 3100,
+        "municipality": "Winifred",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5596,
+          45.055404,
+          2518.2576
+        ]
+      },
+      "properties": {
+        "title": "K4D2",
+        "type": "private_airfield",
+        "description": "Hoodoo Meadows Airport",
+        "elevation": 8262,
+        "municipality": "Salmon",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.475138,
+          45.62973,
+          361.18800000000005
+        ]
+      },
+      "properties": {
+        "title": "KO29",
+        "type": "private_airfield",
+        "description": "Pittsburg Landing Airport",
+        "elevation": 1185,
+        "municipality": "Imnaha",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.022698,
+          47.885427,
+          960.12
+        ]
+      },
+      "properties": {
+        "title": "KLC0",
+        "type": "private_airfield",
+        "description": "Left Coulee Airport",
+        "elevation": 3150,
+        "municipality": "Winifred",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.365831,
+          46.978723,
+          911.0472000000001
+        ]
+      },
+      "properties": {
+        "title": "K7S2",
+        "type": "private_airfield",
+        "description": "Winnett Airport",
+        "elevation": 2989,
+        "municipality": "Winnett",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -116.797873,
           45.860257,
           288.6456
@@ -147712,20 +150610,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.303398,
-          39.1945,
-          665.0736
+          -116.584953,
+          45.447546,
+          417.576
         ]
       },
       "properties": {
-        "title": "KS04",
+        "title": "KO68",
         "type": "private_airfield",
-        "description": "Plainville Airpark",
-        "elevation": 2182,
-        "municipality": "Plainville",
+        "description": "Sluice Creek Airport",
+        "elevation": 1370,
+        "municipality": "Imnaha",
         "fileSize": 0,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -156009,6 +158907,237 @@
         "fileSize": 952,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.142418,
+          46.999324,
+          3.9624
+        ]
+      },
+      "properties": {
+        "title": "KW04",
+        "type": "private_airfield",
+        "description": "Ocean Shores Municipal Airport",
+        "elevation": 13,
+        "municipality": "Ocean Shores",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.53600311279297,
+          46.55039978027344,
+          247.8024
+        ]
+      },
+      "properties": {
+        "title": "KW09",
+        "type": "private_airfield",
+        "description": "Lower Monumental State Airport",
+        "elevation": 813,
+        "municipality": "Kahlotus",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43800354003906,
+          48.01750183105469,
+          82.6008
+        ]
+      },
+      "properties": {
+        "title": "KW10",
+        "type": "private_airfield",
+        "description": "Whidbey Air Park",
+        "elevation": 271,
+        "municipality": "Langley",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.501999,
+          48.649602,
+          736.092
+        ]
+      },
+      "properties": {
+        "title": "KW12",
+        "type": "private_airfield",
+        "description": "Lost River Airport",
+        "elevation": 2415,
+        "municipality": "Mazama",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.995698,
+          47.871375,
+          15.24
+        ]
+      },
+      "properties": {
+        "title": "KW16",
+        "type": "private_airfield",
+        "description": "First Air Field",
+        "elevation": 50,
+        "municipality": "Monroe",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.237999,
+          47.141998,
+          366.6744
+        ]
+      },
+      "properties": {
+        "title": "KW20",
+        "type": "private_airfield",
+        "description": "Moses Lake Municipal Airport",
+        "elevation": 1203,
+        "municipality": "Moses Lake",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73699951171875,
+          45.898799896240234,
+          8.8392
+        ]
+      },
+      "properties": {
+        "title": "KW27",
+        "type": "private_airfield",
+        "description": "Woodland State Airport",
+        "elevation": 29,
+        "municipality": "Woodland",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.577003,
+          45.826801,
+          89.00160000000001
+        ]
+      },
+      "properties": {
+        "title": "KW52",
+        "type": "private_airfield",
+        "description": "Goheen Airport",
+        "elevation": 292,
+        "municipality": "Battle Ground",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.522003,
+          45.687302,
+          90.52560000000001
+        ]
+      },
+      "properties": {
+        "title": "KW56",
+        "type": "private_airfield",
+        "description": "Fly For Fun Airport",
+        "elevation": 297,
+        "municipality": "Vancouver",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.515229,
+          45.764469,
+          83.82000000000001
+        ]
+      },
+      "properties": {
+        "title": "KW58",
+        "type": "private_airfield",
+        "description": "Cedars North Airpark",
+        "elevation": 275,
+        "municipality": "Battle Ground",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.733002,
+          47.656799,
+          160.02
+        ]
+      },
+      "properties": {
+        "title": "K8W5",
+        "type": "private_airfield",
+        "description": "Apex Airpark",
+        "elevation": 525,
+        "municipality": "Silverdale",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
