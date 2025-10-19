@@ -158,6 +158,7 @@ const unmatchedCodes = [...aeroflyAirports]
   .map((a) => {
     return `1. \`${a[0]}\``;
   })
+  .sort()
   .join("\n");
 fs.writeFileSync(
   unmatchedFilePath,

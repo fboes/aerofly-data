@@ -15780,14 +15780,14 @@
         "coordinates": [
           14.585696,
           52.197199,
-          43.891200000000005
+          45.415200000000006
         ]
       },
       "properties": {
         "title": "EDAE",
         "type": "small_airport",
         "description": "Eisenhüttenstadt Airfield",
-        "elevation": 144,
+        "elevation": 149,
         "municipality": "Siehdichum",
         "fileSize": 952,
         "marker-symbol": "airfield",
@@ -15822,14 +15822,14 @@
         "coordinates": [
           14.1523,
           53.8787,
-          28.346400000000003
+          28.651200000000003
         ]
       },
       "properties": {
         "title": "EDAH",
         "type": "medium_airport",
         "description": "Heringsdorf Airport",
-        "elevation": 93,
+        "elevation": 94,
         "municipality": "Zirchow",
         "fileSize": 1120,
         "marker-symbol": "airport",
@@ -15843,14 +15843,14 @@
         "coordinates": [
           12.541944,
           52.826668,
-          42.976800000000004
+          42.672000000000004
         ]
       },
       "properties": {
         "title": "EDAI",
         "type": "private_airfield",
         "description": "Sonderlandeplatz Segeletz",
-        "elevation": 141,
+        "elevation": 140,
         "municipality": "Neustadt",
         "fileSize": 0,
         "marker-symbol": "airfield",
@@ -15864,14 +15864,14 @@
         "coordinates": [
           11.94113,
           51.362564,
-          103.9368
+          103.632
         ]
       },
       "properties": {
         "title": "EDAM",
         "type": "small_airport",
         "description": "Merseburg Airfield",
-        "elevation": 341,
+        "elevation": 340,
         "municipality": "Merseburg",
         "fileSize": 928,
         "marker-symbol": "airfield",
@@ -15883,8 +15883,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.615278,
-          53.359722,
+          11.613764,
+          53.362444,
           35.052
         ]
       },
@@ -15927,14 +15927,14 @@
         "coordinates": [
           12.053889,
           51.552223,
-          106.0704
+          106.68
         ]
       },
       "properties": {
         "title": "EDAQ",
         "type": "small_airport",
         "description": "Halle-Oppin Airfield",
-        "elevation": 348,
+        "elevation": 350,
         "municipality": "Landsberg",
         "fileSize": 984,
         "marker-symbol": "airfield",
@@ -19708,14 +19708,14 @@
         "coordinates": [
           8.052222,
           53.50222,
-          4.8768
+          5.7912
         ]
       },
       "properties": {
         "title": "EDWI",
         "type": "medium_airport",
         "description": "JadeWeser Airport",
-        "elevation": 16,
+        "elevation": 19,
         "municipality": "Wilhelmshaven",
         "fileSize": 1152,
         "marker-symbol": "airfield",
@@ -20168,8 +20168,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.91583299637,
-          54.185279846200004,
+          7.915833,
+          54.18528,
           2.4384
         ]
       },
