@@ -2450,7 +2450,7 @@
       },
       "properties": {
         "title": "85NJ",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Webcraft Heliport",
         "elevation": 115,
         "municipality": "North Brunswick",
@@ -2996,7 +2996,7 @@
       },
       "properties": {
         "title": "LOIU",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Innsbruck University Hospital Heliport",
         "elevation": 2057,
         "municipality": "Innsbruck",
@@ -3017,7 +3017,7 @@
       },
       "properties": {
         "title": "LOJO",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Innsbruck Air Rescue Center ÖAMTC Heliport",
         "elevation": 1998,
         "municipality": "Innsbruck",
@@ -5519,7 +5519,7 @@
       },
       "properties": {
         "title": "CBC7",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Harbour (Public) Heliport",
         "elevation": 2,
         "municipality": "Vancouver",
@@ -5540,7 +5540,7 @@
       },
       "properties": {
         "title": "CBK4",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Vancouver General Hospital Heliport",
         "elevation": 235,
         "municipality": "Vancouver",
@@ -5666,7 +5666,7 @@
       },
       "properties": {
         "title": "LSXV",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "San Vittore Heliport",
         "elevation": 0,
         "municipality": "San Vittore",
@@ -5687,7 +5687,7 @@
       },
       "properties": {
         "title": "LSHC",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Grisons Cantonal Hospital Heliport",
         "elevation": 2052,
         "municipality": "Chur",
@@ -17717,7 +17717,7 @@
       },
       "properties": {
         "title": "EDHX",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Bad Bramstedt Heliport",
         "elevation": 118,
         "municipality": "Bad Bramstedt",
@@ -19566,7 +19566,7 @@
       },
       "properties": {
         "title": "EDVX",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Gifhorn Federal Police Heliport",
         "elevation": 207,
         "municipality": "Gifhorn",
@@ -25650,7 +25650,7 @@
       },
       "properties": {
         "title": "EHHE",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Eemshaven Heliport",
         "elevation": 0,
         "municipality": "Eemshaven",
@@ -25778,7 +25778,7 @@
       },
       "properties": {
         "title": "EHMA",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "AWG-1 Helipad",
         "elevation": 0,
         "municipality": "Buren",
@@ -26768,7 +26768,7 @@
       },
       "properties": {
         "title": "EKCB",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Arslev Heliport",
         "elevation": 132,
         "municipality": "",
@@ -27104,7 +27104,7 @@
       },
       "properties": {
         "title": "EKHL",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Holsted Helipad",
         "elevation": 0,
         "municipality": "Holsted",
@@ -27609,7 +27609,7 @@
       },
       "properties": {
         "title": "EKSG",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Schelenburg God Heliport",
         "elevation": 0,
         "municipality": "",
@@ -32136,7 +32136,7 @@
       },
       "properties": {
         "title": "ETIY",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Landstuhl Regional Medical Center Heliport",
         "elevation": 1136,
         "municipality": "Landstuhl",
@@ -32157,7 +32157,7 @@
       },
       "properties": {
         "title": "ETJB",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Schonewald CRC Helipad",
         "elevation": 271,
         "municipality": "Cölpin",
@@ -45069,7 +45069,7 @@
       },
       "properties": {
         "title": "KJRA",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "West 30th Street Heliport",
         "elevation": 7,
         "municipality": "New York",
@@ -101597,7 +101597,7 @@
       },
       "properties": {
         "title": "LSER",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Raron Heliport",
         "elevation": 0,
         "municipality": "Raron",
@@ -101618,7 +101618,7 @@
       },
       "properties": {
         "title": "LSEZ",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Zermatt  Heliport",
         "elevation": 0,
         "municipality": "Zermatt",
@@ -101892,7 +101892,7 @@
       },
       "properties": {
         "title": "LSEC",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Collombey-Muraz Heliport",
         "elevation": 0,
         "municipality": "Collombey-Muraz",
@@ -101913,7 +101913,7 @@
       },
       "properties": {
         "title": "LSHG",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Gampel Heliport",
         "elevation": 0,
         "municipality": "Gampel",
@@ -101934,7 +101934,7 @@
       },
       "properties": {
         "title": "LSHI",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Inselspital Hospital Heliport",
         "elevation": 1880,
         "municipality": "Bern",
@@ -101955,7 +101955,7 @@
       },
       "properties": {
         "title": "LSHU",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Geneva University Hospital Helipad",
         "elevation": 1390,
         "municipality": "Geneva",
@@ -102528,7 +102528,7 @@
       },
       "properties": {
         "title": "LSXB",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Balzers Heliport",
         "elevation": 1585,
         "municipality": "Balzers",
@@ -102549,7 +102549,7 @@
       },
       "properties": {
         "title": "LSXG",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Gsteigwiler Heliport",
         "elevation": 0,
         "municipality": "Gsteigwiler",
@@ -102570,7 +102570,7 @@
       },
       "properties": {
         "title": "LSXH",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Holziken Heliport",
         "elevation": 0,
         "municipality": "Holziken",
@@ -102591,7 +102591,7 @@
       },
       "properties": {
         "title": "LSXL",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Lauterbrunnen Heliport",
         "elevation": 0,
         "municipality": "Lauterbrunnen",
@@ -102612,7 +102612,7 @@
       },
       "properties": {
         "title": "LSXM",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Sankt Moritz-Bad Heliport",
         "elevation": 0,
         "municipality": "Sankt Moritz",
@@ -102633,7 +102633,7 @@
       },
       "properties": {
         "title": "LSXO",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Sankt Gallen-Winkeln Heliport",
         "elevation": 0,
         "municipality": "Sankt Gallen",
@@ -102654,7 +102654,7 @@
       },
       "properties": {
         "title": "LSXP",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Pfaffnau Heliport",
         "elevation": 0,
         "municipality": "Pfaffnau",
@@ -102675,7 +102675,7 @@
       },
       "properties": {
         "title": "LSXS",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Schindellegi Heliport",
         "elevation": 2600,
         "municipality": "Schindellegi",
@@ -102696,7 +102696,7 @@
       },
       "properties": {
         "title": "LSXT",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Trogen Heliport",
         "elevation": 2647,
         "municipality": "Trogen",
@@ -102717,7 +102717,7 @@
       },
       "properties": {
         "title": "LSXU",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Untervaz Heliport",
         "elevation": 0,
         "municipality": "Untervaz",
@@ -102738,7 +102738,7 @@
       },
       "properties": {
         "title": "LSEY",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Leysin  Heliport",
         "elevation": 0,
         "municipality": "Leysin",
@@ -111011,7 +111011,7 @@
       },
       "properties": {
         "title": "EHMC",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Air Operations Control Station Nieuw Milligen Heliport",
         "elevation": 171,
         "municipality": "Uddel",
@@ -154154,7 +154154,7 @@
       },
       "properties": {
         "title": "VHSS",
-        "type": "heliport",
+        "type": "private_airfield",
         "description": "Shun Tak Heliport",
         "elevation": 107,
         "municipality": "Central and Western",

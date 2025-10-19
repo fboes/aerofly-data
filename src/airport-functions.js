@@ -11,7 +11,7 @@ import * as path from "path";
  * @returns {string}
  */
 export const geoJsonType = (type, isMilitary, lenght) => {
-  if (type === "heliport") {
+  if (type === "heliport" && lenght > 0) {
     return type;
   }
 
