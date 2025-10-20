@@ -15990,14 +15990,14 @@
         "coordinates": [
           13.701324,
           52.826313,
-          36.8808
+          35.3568
         ]
       },
       "properties": {
         "title": "EDAV",
         "type": "small_airport",
         "description": "Eberswalde-Finow Airfield",
-        "elevation": 121,
+        "elevation": 116,
         "municipality": "Eberswalde",
         "fileSize": 952,
         "marker-symbol": "airfield",
@@ -16095,14 +16095,14 @@
         "coordinates": [
           11.4203,
           51.8564,
-          181.05120000000002
+          182.5752
         ]
       },
       "properties": {
         "title": "EDBC",
         "type": "medium_airport",
         "description": "Cochstedt Airport",
-        "elevation": 594,
+        "elevation": 599,
         "municipality": "Hecklingen",
         "fileSize": 1080,
         "marker-symbol": "airfield",
@@ -16116,14 +16116,14 @@
         "coordinates": [
           12.59,
           52.4375,
-          29.8704
+          30.48
         ]
       },
       "properties": {
         "title": "EDBE",
         "type": "private_airfield",
         "description": "Brandenburg-Mühlenfeld Airfield",
-        "elevation": 98,
+        "elevation": 100,
         "municipality": "Brandenburg an der Havel",
         "fileSize": 0,
         "marker-symbol": "airfield",
@@ -16137,14 +16137,14 @@
         "coordinates": [
           12.760324,
           52.793493,
-          42.062400000000004
+          41.148
         ]
       },
       "properties": {
         "title": "EDBF",
         "type": "private_airfield",
         "description": "Fehrbellin Airfield",
-        "elevation": 138,
+        "elevation": 135,
         "municipality": "Fehrbellin",
         "fileSize": 0,
         "marker-symbol": "airfield",
@@ -16179,14 +16179,14 @@
         "coordinates": [
           11.714201,
           50.915345,
-          380.0856
+          374.2944
         ]
       },
       "properties": {
         "title": "EDBJ",
         "type": "small_airport",
         "description": "Jena-Schöngleina Airfield",
-        "elevation": 1247,
+        "elevation": 1228,
         "municipality": "Schöngleina",
         "fileSize": 1032,
         "marker-symbol": "airfield",
@@ -16200,14 +16200,14 @@
         "coordinates": [
           12.425278,
           52.918888,
-          39.9288
+          39.624
         ]
       },
       "properties": {
         "title": "EDBK",
         "type": "small_airport",
         "description": "Kyritz Airfield",
-        "elevation": 131,
+        "elevation": 130,
         "municipality": "Kyritz",
         "fileSize": 976,
         "marker-symbol": "airfield",
@@ -16242,14 +16242,14 @@
         "coordinates": [
           11.626389,
           52.073612,
-          81.9912
+          81.6864
         ]
       },
       "properties": {
         "title": "EDBM",
         "type": "small_airport",
         "description": "Magdeburg City Airfield",
-        "elevation": 269,
+        "elevation": 268,
         "municipality": "Magdeburg",
         "fileSize": 1000,
         "marker-symbol": "airfield",
@@ -16284,14 +16284,14 @@
         "coordinates": [
           13.052809,
           51.899734,
-          88.08720000000001
+          87.47760000000001
         ]
       },
       "properties": {
         "title": "EDBO",
         "type": "private_airfield",
         "description": "Oehna Airfield",
-        "elevation": 289,
+        "elevation": 287,
         "municipality": "Niedergörsdorf",
         "fileSize": 0,
         "marker-symbol": "airfield",
@@ -16347,14 +16347,14 @@
         "coordinates": [
           14.95,
           51.363335,
-          157.8864
+          156.972
         ]
       },
       "properties": {
         "title": "EDBR",
         "type": "small_airport",
         "description": "Rothenburg/Görlitz Airfield",
-        "elevation": 518,
+        "elevation": 515,
         "municipality": "Rothenburg/Oberlausitz",
         "fileSize": 976,
         "marker-symbol": "airport",
