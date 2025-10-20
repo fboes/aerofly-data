@@ -20,14 +20,56 @@
   </head>
   <body>
     <header>
-      <h1>Find Aerofly FS airports</h1>
-      <label for="icaoInput">by ICAO code</label>
-      <div class="inputbox">
-        <input type="text" id="icaoInput" list="icaoInputList" placeholder="ICAO code" pattern="A-Za-z0-9" autocapitalize="characters" autofocus="autofocus" />
-        <datalist id="icaoInputList"> </datalist>
-        <span id="status" title="Enter an ICAO code to check if the airport is present in Aerofly FS 4" aria-hidden="true">❓</span>
+      <span></span>
+      <div class="flex">
+        <h1>Find Aerofly FS airports</h1>
+        <label for="icaoInput">by ICAO code</label>
+        <div class="inputbox">
+          <input type="text" id="icaoInput" list="icaoInputList" placeholder="ICAO code" pattern="A-Za-z0-9" autocapitalize="characters" autofocus="autofocus" />
+          <datalist id="icaoInputList"> </datalist>
+          <span id="status" title="Enter an ICAO code to check if the airport is present in Aerofly FS 4" role="status">❓</span>
+        </div>
       </div>
+      <button id="info-button" aria-label="Show info dialog" popovertarget="info-dialog">?</button>
     </header>
+    <dialog id="info-dialog" closedby="any" popover>
+      <button id="info-dialog-close" aria-label="Close info dialog" popovertarget="info-dialog">✖</button>
+      <table>
+        <thead>
+          <th colspan="2">Icon</th>
+          <th>Meaning</th>
+        </thead>
+        <tbody>
+          <tr>
+            <td><img src="../icons/af-large_airport.svg" alt="large airport" /></td>
+            <td><img src="../icons/af-large_airbase.svg" alt="large airbase" /></td>
+            <td>Airport is present in Aerofly FS 4, large file size</td>
+          </tr>
+          <tr>
+            <td><img src="../icons/af-medium_airport.svg" alt="medium airport" /></td>
+            <td><img src="../icons/af-medium_airbase.svg" alt="medium airbase" /></td>
+            <td>Airport is present in Aerofly FS 4, medium file size</td>
+          </tr>
+          <tr>
+            <td><img src="../icons/af-small_airport.svg" alt="small airport" /></td>
+            <td><img src="../icons/af-small_airbase.svg" alt="small airbase" /></td>
+            <td>Airport is present in Aerofly FS 4, small file size</td>
+          </tr>
+          <tr>
+            <td colspan="2"><img src="../icons/af-closed.svg" alt="closed airport" /></td>
+            <td>Airport is present in Aerofly FS 4, very small file size</td>
+          </tr>
+          <tr>
+            <td colspan="2"><img src="../icons/af-private_airfield.svg" alt="private airfield" /></td>
+            <td>Community-created airport, not included in Aerofly FS 4</td>
+          </tr>
+          <tr>
+            <td colspan="2"><img src="../icons/af-heliport.svg" alt="heliport" /></td>
+            <td>Heliport is present in Aerofly FS 4</td>
+          </tr>
+        </tbody>
+      </table>
+    </dialog>
     <main id="map"></main>
     <footer>
       Data source: <a href="..">Aerofly FS 4 data repository</a> - <span id="data-status"></span><br />

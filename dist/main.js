@@ -51,18 +51,26 @@ const map = new mapboxgl.Map({
 });
 
 map.addControl(new mapboxgl.NavigationControl(), "bottom-left");
+map.addControl(
+  new mapboxgl.GeolocateControl({
+    fitBoundsOptions: {
+      maxZoom: 10,
+    },
+  }),
+  "bottom-left",
+);
 
 map.on("style.load", () => {
   map.setFog({}); // Set the default atmosphere style
 
-  // Currently disabled because it is broken with the custom map style
-  /*map.addSource("mapbox-dem", {
+  // Currently broken with the custom map style
+  map.addSource("mapbox-dem", {
     type: "raster-dem",
     url: "mapbox://mapbox.mapbox-terrain-dem-v1",
     tileSize: 512,
     maxzoom: 14,
   });
-  map.setTerrain({ source: "mapbox-dem" });*/
+  map.setTerrain({ source: "mapbox-dem" });
 });
 
 // -----------------------------------------------------------------------------
@@ -113,6 +121,7 @@ const onInput = () => {
     statusField.textContent = "🚫"; // Red forbidden sign
     statusField.title = "Airport is NOT present in Aerofly FS 4";
   }
+  statusField.setAttribute("aria-label", statusField.title);
 };
 
 // Load the airport list from the JSON file
