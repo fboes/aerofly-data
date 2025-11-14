@@ -6290,27 +6290,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -59.996147,
-          43.930951,
-          1.2192
-        ]
-      },
-      "properties": {
-        "title": "CYSA",
-        "type": "closed",
-        "description": "Sable Island Landing Strip",
-        "elevation": 4,
-        "municipality": "Sable Island",
-        "fileSize": 920,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -75.531502,
           20.688601,
           7.9248
@@ -9986,6 +9965,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.93440246579999,
+          43.415599823,
+          370.332
+        ]
+      },
+      "properties": {
+        "title": "CYSA",
+        "type": "closed",
+        "description": "Stratford Municipal Airport",
+        "elevation": 1215,
+        "municipality": "Stratford",
+        "fileSize": 920,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.691399,
           45.438599,
           241.4016
@@ -10595,8 +10595,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -126.126,
-          67.02,
+          -126.128364,
+          67.02015,
           265.176
         ]
       },
