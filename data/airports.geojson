@@ -73173,13 +73173,14 @@
       },
       "properties": {
         "title": "KNOW",
-        "type": "small_airport",
+        "type": "small_airbase",
         "description": "Port Angeles Cgas Airport",
         "elevation": 13,
         "municipality": "Port Angeles",
         "fileSize": 928,
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {

@@ -59,6 +59,13 @@ map.addControl(
   }),
   "bottom-left",
 );
+map.addControl(
+  new mapboxgl.ScaleControl({
+    maxWidth: 240,
+    unit: "nautical",
+  }),
+  "bottom-right",
+);
 
 map.on("style.load", () => {
   map.setFog({}); // Set the default atmosphere style

@@ -87,7 +87,7 @@ for (const airportsRecord of airportsRecords) {
     aeroflyAirports.delete(code);
 
     const isMilitary =
-      airportsRecord[3].match(/\b(base|rnas|raf|naval|air\s?force|coast\s?guard|army|afs|mod)\b/i) !== null;
+      airportsRecord[3].match(/\b(base|rnas|raf|naval|air\s?force|coast\s?guard|army|afs|mod|cgas)\b/i) !== null;
     let type = airportsRecord[2];
     if (isMilitary) {
       type = type.replace(/port/, "base");
