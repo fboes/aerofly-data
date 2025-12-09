@@ -3031,6 +3031,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          147.015096,
+          -41.161173,
+          91.44
+        ]
+      },
+      "properties": {
+        "title": "YCRN",
+        "type": "closed",
+        "description": "Cranbourn Airfield",
+        "elevation": 300,
+        "municipality": "Mount Direction",
+        "fileSize": 920,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           144.7307003,
           -5.145699978,
           106.68
@@ -13982,20 +14003,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.076621,
-          56.178925,
+          10.167553,
+          56.192954,
           0
         ]
       },
       "properties": {
         "title": "EKAS",
         "type": "private_airfield",
-        "description": "True Gliderfield",
+        "description": "Aarhus University Hospital Helipad",
         "elevation": 0,
-        "municipality": "Tilst",
+        "municipality": "Åarhus",
         "fileSize": 0,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "heliport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -29726,8 +29747,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.3306007385,
-          52.8293991089,
+          18.330601,
+          52.829399,
           78.9432
         ]
       },
@@ -37035,7 +37056,7 @@
         "municipality": "São Tomé",
         "fileSize": 976,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -59556,8 +59577,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.727996826,
-          33.4608001709,
+          -111.727997,
+          33.4608,
           424.8912
         ]
       },
@@ -59894,15 +59915,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.7593994141,
-          39.08539962769999,
+          -76.759399,
+          39.0854,
           45.72
         ]
       },
       "properties": {
         "title": "KFME",
         "type": "medium_airport",
-        "description": "Tipton Airport",
+        "description": "Fort Meade Executive Airport",
         "elevation": 150,
         "municipality": "Fort Meade(Odenton)",
         "fileSize": 1136,
@@ -60189,15 +60210,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.36830139,
-          27.49510002,
+          -80.368301,
+          27.4951,
           7.315200000000001
         ]
       },
       "properties": {
         "title": "KFPR",
         "type": "small_airport",
-        "description": "St Lucie County International Airport",
+        "description": "Treasure Coast International Airport",
         "elevation": 24,
         "municipality": "Fort Pierce",
         "fileSize": 1048,
@@ -69448,8 +69469,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.0661010742,
-          34.0998001099,
+          -93.066101,
+          34.0998,
           55.473600000000005
         ]
       },
@@ -70542,8 +70563,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.29060363769531,
-          25.79319953918457,
+          -80.290604,
+          25.7932,
           2.4384
         ]
       },
@@ -96554,8 +96575,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.3133,
-          38.110802,
+          13.31337,
+          38.115919,
           105.156
         ]
       },
@@ -96681,8 +96702,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.666031,
-          44.697701,
+          10.664885,
+          44.698039,
           46.3296
         ]
       },
@@ -96765,8 +96786,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.293344,
-          45.129259,
+          11.293218,
+          45.130116,
           9.144
         ]
       },
@@ -96786,8 +96807,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.8317,
-          44.322399,
+          10.831667,
+          44.322222,
           683.9712000000001
         ]
       },
@@ -96828,8 +96849,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.1242,
-          46.0214,
+          11.125,
+          46.023333,
           185.928
         ]
       },
@@ -97144,8 +97165,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.417931,
-          45.309935,
+          8.4175,
+          45.311111,
           127.1016
         ]
       },
@@ -97291,8 +97312,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.60337,
-          45.086399,
+          7.603056,
+          45.084444,
           287.4264
         ]
       },
@@ -97312,8 +97333,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.202452,
-          45.539182,
+          9.202222,
+          45.541389,
           147.5232
         ]
       },
@@ -126166,8 +126187,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.608334,
-          55.228333,
+          36.608609,
+          55.228627,
           195.072
         ]
       },
@@ -137527,7 +137548,7 @@
         "type": "medium_airport",
         "description": "Alcantarí Airport",
         "elevation": 10184,
-        "municipality": "Yamparaez",
+        "municipality": "Sucre",
         "fileSize": 1144,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -138021,15 +138042,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.786797,
-          -14.0662,
+          -66.787391,
+          -14.073072,
           224.94240000000002
         ]
       },
       "properties": {
         "title": "SLSR",
         "type": "small_airport",
-        "description": "Santa Rosa De Yacuma Airport",
+        "description": "Santa Rosa de Yacuma Airport",
         "elevation": 738,
         "municipality": "Santa Rosa",
         "fileSize": 944,
@@ -138050,7 +138071,7 @@
       "properties": {
         "title": "SLSU",
         "type": "small_airport",
-        "description": "Juana Azurduy De Padilla Airport",
+        "description": "Juana Azurduy de Padilla Airport",
         "elevation": 9540,
         "municipality": "Sucre",
         "fileSize": 952,
@@ -143106,8 +143127,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.48100280761719,
-          10.328100204467773,
+          -72.480803,
+          10.328744,
           199.9488
         ]
       },
@@ -143169,8 +143190,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.816902,
-          6.57805,
+          -66.816564,
+          6.577504,
           81.0768
         ]
       },
@@ -143471,9 +143492,9 @@
       "properties": {
         "title": "SVCU",
         "type": "small_airport",
-        "description": "Cumaná (Antonio José de Sucre) Airport",
+        "description": "Antonio José de Sucre Airport",
         "elevation": 14,
-        "municipality": "",
+        "municipality": "Cumaná",
         "fileSize": 952,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -143484,17 +143505,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.269798278808594,
-          7.493790149688721,
+          -63.269169,
+          7.493,
           267.9192
         ]
       },
       "properties": {
-        "title": "SVDW",
+        "title": "SVPI",
         "type": "small_airport",
         "description": "Ciudad Piar Airport",
         "elevation": 879,
-        "municipality": "",
+        "municipality": "Ciudad Piar",
         "fileSize": 936,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -143926,17 +143947,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.62229919433594,
-          9.69849967956543,
+          -63.625424,
+          9.702262,
           245.0592
         ]
       },
       "properties": {
-        "title": "SVOF",
+        "title": "SVSM",
         "type": "small_airport",
         "description": "Santa Bárbara de Monagas Airport",
         "elevation": 804,
-        "municipality": "",
+        "municipality": "Punta de Mata",
         "fileSize": 936,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -144073,17 +144094,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.439697,
-          7.84083,
+          -72.439878,
+          7.840809,
           399.8976
         ]
       },
       "properties": {
         "title": "SVSA",
         "type": "small_airport",
-        "description": "San Antonio Del Tachira Airport",
+        "description": "Juan Vicente Gómez International Airport",
         "elevation": 1312,
-        "municipality": "",
+        "municipality": "San Antonio del Tachira",
         "fileSize": 928,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -144123,7 +144144,7 @@
       "properties": {
         "title": "SVSE",
         "type": "small_airport",
-        "description": "Santa Elena de Uairen Airport",
+        "description": "Santa Elena de Uairén Airport",
         "elevation": 2938,
         "municipality": "Santa Elena de Uairén",
         "fileSize": 952,
@@ -148401,8 +148422,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          158.451863,
-          53.16764,
+          158.451068,
+          53.168716,
           39.9288
         ]
       },
@@ -149454,8 +149475,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.592599868774414,
-          54.88999938964844,
+          20.598607,
+          54.891616,
           12.8016
         ]
       },
@@ -149959,8 +149980,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          43.636600494384766,
-          43.512901306152344,
+          43.6366,
+          43.512901,
           445.31280000000004
         ]
       },
@@ -150989,8 +151010,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          65.31611,
-          57.16833,
+          65.327696,
+          57.178984,
           115.21440000000001
         ]
       },
@@ -162136,8 +162157,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          117.808896,
-          -34.944519,
+          117.808889,
+          -34.943333,
           71.0184
         ]
       },
@@ -162410,8 +162431,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          128.451004,
-          -16.6369,
+          128.451389,
+          -16.636944,
           159.1056
         ]
       },
@@ -162809,8 +162830,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.973,
-          -20.1483,
+          127.973889,
+          -20.148333,
           438.91200000000003
         ]
       },
@@ -163040,8 +163061,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.401596,
-          -33.688423,
+          115.400278,
+          -33.687222,
           16.764
         ]
       },
@@ -163082,8 +163103,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.594435,
-          -27.612302,
+          120.593889,
+          -27.612778,
           473.964
         ]
       },
@@ -163356,8 +163377,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.227407,
-          -17.948789,
+          122.227778,
+          -17.949444,
           17.0688
         ]
       },
@@ -163419,8 +163440,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.16600036621,
-          -22.673900604248,
+          119.166111,
+          -22.673889,
           634.5936
         ]
       },
@@ -163610,8 +163631,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.677002,
-          -33.3783,
+          115.676944,
+          -33.378056,
           16.154400000000003
         ]
       },
@@ -163715,8 +163736,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.405998,
-          -20.864401,
+          115.406111,
+          -20.864444,
           7.9248
         ]
       },
@@ -163799,8 +163820,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          113.670752,
-          -24.880091,
+          113.666393,
+          -24.884337,
           3.9624
         ]
       },
@@ -164051,8 +164072,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.6426,
-          -22.3543,
+          119.642603,
+          -22.354302,
           445.61760000000004
         ]
       },
@@ -164114,8 +164135,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          123.828449,
-          -17.580458,
+          123.828333,
+          -17.581389,
           91.44
         ]
       },
@@ -164472,27 +164493,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          117.550003,
-          -34.283298,
-          0
-        ]
-      },
-      "properties": {
-        "title": "YCRN",
-        "type": "closed",
-        "description": "Cranbrook Airport",
-        "elevation": 0,
-        "municipality": "",
-        "fileSize": 920,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           142.25799560546875,
           -18.225000381469727,
           32.6136
@@ -164598,8 +164598,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          117.217003,
-          -31.6222,
+          117.216667,
+          -31.622222,
           214.88400000000001
         ]
       },
@@ -167244,15 +167244,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          144.468994,
-          -38.039398,
+          144.467196,
+          -38.040269,
           10.668000000000001
         ]
       },
       "properties": {
         "title": "YMAV",
         "type": "small_airport",
-        "description": "Avalon Airport",
+        "description": "Melbourne Avalon International Airport",
         "elevation": 35,
         "municipality": "Lara",
         "fileSize": 928,
@@ -169767,8 +169767,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          122.322249,
-          -30.174236,
+          122.322222,
+          -30.173611,
           398.0688
         ]
       },
@@ -171919,7 +171919,7 @@
       "properties": {
         "title": "ZBYC",
         "type": "small_airport",
-        "description": "Yuncheng Zhangxiao Airport",
+        "description": "Yuncheng Yanhu International Airport",
         "elevation": 1242,
         "municipality": "Yuncheng (Yanhu)",
         "fileSize": 960,
