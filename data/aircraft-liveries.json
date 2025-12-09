@@ -15,16 +15,21 @@
       "winglets",
       "pushback"
     ],
-    "approachAirspeedKts": 142,
+    "approachAirspeedKts": 141,
     "cruiseAltitudeFt": 32000,
     "cruiseSpeedKts": 453,
-    "maximumRangeNm": 3747,
+    "maximumRangeNm": 3050,
     "aeroflyCode": "a319",
     "liveries": [
       {
         "aeroflyCode": "default",
         "name": "Eurowings",
         "requirements": ["wingtips", "engine_iae"]
+      },
+      {
+        "aeroflyCode": "aer_lingus",
+        "name": "Aer Lingus",
+        "requirements": ["wingtips", "engine_cfm"]
       },
       {
         "aeroflyCode": "air_france",
@@ -240,7 +245,7 @@
   },
   {
     "name": "A320",
-    "nameFull": "Airbus A320-214",
+    "nameFull": "Airbus A320",
     "icaoCode": "A320",
     "tags": [
       "airplane",
@@ -254,10 +259,10 @@
       "winglets",
       "pushback"
     ],
-    "approachAirspeedKts": 142,
+    "approachAirspeedKts": 141,
     "cruiseAltitudeFt": 32000,
     "cruiseSpeedKts": 453,
-    "maximumRangeNm": 3321,
+    "maximumRangeNm": 2900,
     "aeroflyCode": "a320",
     "liveries": [
       {
@@ -443,6 +448,320 @@
     ]
   },
   {
+    "name": "A320neo",
+    "nameFull": "Airbus A320neo",
+    "icaoCode": "A20N",
+    "tags": [
+      "airplane",
+      "airliner",
+      "jet",
+      "flaps",
+      "retractable_gear",
+      "thrust_reverse",
+      "autopilot",
+      "autothrottle",
+      "winglets",
+      "pushback"
+    ],
+    "approachAirspeedKts": 136,
+    "cruiseAltitudeFt": 32000,
+    "cruiseSpeedKts": 453,
+    "maximumRangeNm": 3400,
+    "aeroflyCode": "a320_neo",
+    "liveries": [
+      {
+        "aeroflyCode": "default",
+        "name": "IndiGo",
+        "requirements": ["engine_pw"]
+      },
+      {
+        "aeroflyCode": "aegean",
+        "name": "Aegean",
+        "requirements": ["engine_pw"]
+      },
+      {
+        "aeroflyCode": "aer_lingus",
+        "name": "Aer Lingus",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "aircalin",
+        "name": "Aircalin",
+        "requirements": ["engine_pw", "option_satcom"]
+      },
+      {
+        "aeroflyCode": "air_asia",
+        "name": "AirAsia",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "air_cairo",
+        "name": "Air Cairo",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "air_corsica",
+        "name": "Air Corsica",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "air_cote_divoire",
+        "name": "Air Cote d'Ivoire",
+        "requirements": ["engine_cfm", "option_satcom"]
+      },
+      {
+        "aeroflyCode": "air_india",
+        "name": "Air India",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "air_macau",
+        "name": "Air Macau",
+        "requirements": ["engine_pw"]
+      },
+      {
+        "aeroflyCode": "air_new_zealand",
+        "name": "Air New Zealand",
+        "requirements": ["engine_pw", "option_satcom"]
+      },
+      {
+        "aeroflyCode": "air_seychelles",
+        "name": "Air Seychelles",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "ana",
+        "name": "ANA",
+        "requirements": ["engine_pw", "option_satcom"]
+      },
+      {
+        "aeroflyCode": "atlantic_airways",
+        "name": "Atlantic Airways",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "austrian",
+        "name": "Austrian",
+        "requirements": ["engine_pw"]
+      },
+      {
+        "aeroflyCode": "avianca",
+        "name": "Avianca",
+        "requirements": ["engine_cfm", "option_satcom"]
+      },
+      {
+        "aeroflyCode": "azores",
+        "name": "Azores",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "azul",
+        "name": "Azul",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "bamboo",
+        "name": "Bamboo",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "batik",
+        "name": "Batik",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "british_airways",
+        "name": "British Airways",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "brussels",
+        "name": "Brussels",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "cebu_pacific",
+        "name": "Cebu Pacific",
+        "requirements": ["engine_pw"]
+      },
+      {
+        "aeroflyCode": "citilink",
+        "name": "Citilink",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "condor",
+        "name": "Condor",
+        "requirements": ["engine_pw"]
+      },
+      {
+        "aeroflyCode": "drukair",
+        "name": "Druk Air",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "easyjet",
+        "name": "EasyJet",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "eurowings",
+        "name": "Eurowings",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "flynas",
+        "name": "Flynas",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "fly_arystan",
+        "name": "Fly Arystan",
+        "requirements": ["engine_pw"]
+      },
+      {
+        "aeroflyCode": "frontier",
+        "name": "Frontier",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "hainan",
+        "name": "Hainan",
+        "requirements": ["engine_pw"]
+      },
+      {
+        "aeroflyCode": "hkexpress",
+        "name": "Hong Kong express",
+        "requirements": ["engine_pw"]
+      },
+      {
+        "aeroflyCode": "iberia",
+        "name": "Iberia",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "ita",
+        "name": "ITA Airways",
+        "requirements": ["engine_pw", "option_satcom"]
+      },
+      {
+        "aeroflyCode": "jazeera",
+        "name": "Jazeera",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "jetsmart",
+        "name": "JetSmart",
+        "requirements": ["engine_pw"]
+      },
+      {
+        "aeroflyCode": "jetstar",
+        "name": "Jetstar",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "latam",
+        "name": "LATAM",
+        "requirements": ["engine_pw"]
+      },
+      {
+        "aeroflyCode": "latam_green",
+        "name": "LATAM Green",
+        "requirements": ["engine_pw", "option_satcom"]
+      },
+      {
+        "aeroflyCode": "lufthansa",
+        "name": "Lufthansa",
+        "requirements": ["engine_pw"]
+      },
+      {
+        "aeroflyCode": "malta",
+        "name": "Malta",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "peach",
+        "name": "Peach",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "pegasus",
+        "name": "Pegasus",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "play",
+        "name": "Play",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "sas",
+        "name": "SAS",
+        "requirements": ["engine_cfm", "option_satcom"]
+      },
+      {
+        "aeroflyCode": "scoot",
+        "name": "Scoot",
+        "requirements": ["engine_pw"]
+      },
+      {
+        "aeroflyCode": "sky",
+        "name": "Sky",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "spirit",
+        "name": "Spirit",
+        "requirements": ["engine_pw", "option_satcom"]
+      },
+      {
+        "aeroflyCode": "starflyer",
+        "name": "Starflyer",
+        "requirements": ["engine_cfm", "option_satcom"]
+      },
+      {
+        "aeroflyCode": "swiss",
+        "name": "Swiss",
+        "requirements": ["engine_pw"]
+      },
+      {
+        "aeroflyCode": "tap",
+        "name": "TAP",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "vietnam",
+        "name": "Vietnam",
+        "requirements": ["engine_pw"]
+      },
+      {
+        "aeroflyCode": "vistara",
+        "name": "Vistara",
+        "requirements": ["engine_cfm"]
+      },
+      {
+        "aeroflyCode": "viva",
+        "name": "Viva",
+        "requirements": ["engine_pw"]
+      },
+      {
+        "aeroflyCode": "volaris",
+        "name": "Volaris",
+        "requirements": ["engine_pw"]
+      },
+      {
+        "aeroflyCode": "vueling",
+        "name": "Vueling",
+        "requirements": ["engine_pw"]
+      },
+      {
+        "aeroflyCode": "wizzair",
+        "name": "Wizz Air",
+        "requirements": ["engine_pw"]
+      }
+    ]
+  },
+  {
     "name": "A321",
     "nameFull": "Airbus A321-211",
     "icaoCode": "A321",
@@ -458,16 +777,21 @@
       "winglets",
       "pushback"
     ],
-    "approachAirspeedKts": 145,
+    "approachAirspeedKts": 147,
     "cruiseAltitudeFt": 32000,
     "cruiseSpeedKts": 453,
-    "maximumRangeNm": 3186,
+    "maximumRangeNm": 2600,
     "aeroflyCode": "a321",
     "liveries": [
       {
         "aeroflyCode": "default",
         "name": "Condor",
         "requirements": ["sharklets", "engine_cfm"]
+      },
+      {
+        "aeroflyCode": "aer_lingus",
+        "name": "Aer Lingus",
+        "requirements": ["wingtips", "engine_cfm"]
       },
       {
         "aeroflyCode": "air_busan",
@@ -487,11 +811,6 @@
       {
         "aeroflyCode": "air_france",
         "name": "Air France",
-        "requirements": ["wingtips", "engine_cfm"]
-      },
-      {
-        "aeroflyCode": "air_lingus",
-        "name": "Aer Lingus",
         "requirements": ["wingtips", "engine_cfm"]
       },
       {
@@ -738,7 +1057,7 @@
       "winglets",
       "pushback"
     ],
-    "approachAirspeedKts": 151,
+    "approachAirspeedKts": 152,
     "cruiseAltitudeFt": 37000,
     "cruiseSpeedKts": 488,
     "maximumRangeNm": 8909,
@@ -817,10 +1136,10 @@
       "autothrottle",
       "pushback"
     ],
-    "approachAirspeedKts": 142,
+    "approachAirspeedKts": 141,
     "cruiseAltitudeFt": 36000,
     "cruiseSpeedKts": 517,
-    "maximumRangeNm": 8207,
+    "maximumRangeNm": 8800,
     "aeroflyCode": "a380",
     "liveries": [
       {
@@ -935,7 +1254,7 @@
     "approachAirspeedKts": 65,
     "cruiseAltitudeFt": 8202,
     "cruiseSpeedKts": 81,
-    "maximumRangeNm": 313,
+    "maximumRangeNm": 205,
     "aeroflyCode": "antares",
     "liveries": [
       {
@@ -1001,10 +1320,10 @@
     "nameFull": "Beechcraft Baron 58",
     "icaoCode": "BE58",
     "tags": ["airplane", "general_aviation", "piston", "flaps", "retractable_gear", "autopilot"],
-    "approachAirspeedKts": 90,
+    "approachAirspeedKts": 100,
     "cruiseAltitudeFt": 11000,
     "cruiseSpeedKts": 202,
-    "maximumRangeNm": 1229,
+    "maximumRangeNm": 1480,
     "aeroflyCode": "b58",
     "liveries": [
       {
@@ -1034,10 +1353,10 @@
       "autothrottle",
       "pushback"
     ],
-    "approachAirspeedKts": 125,
-    "cruiseAltitudeFt": 33000,
+    "approachAirspeedKts": 139,
+    "cruiseAltitudeFt": 34000,
     "cruiseSpeedKts": 490,
-    "maximumRangeNm": 2808,
+    "maximumRangeNm": 2800,
     "aeroflyCode": "b737",
     "liveries": [
       {
@@ -1142,10 +1461,10 @@
       "autothrottle",
       "pushback"
     ],
-    "approachAirspeedKts": 140,
+    "approachAirspeedKts": 147,
     "cruiseAltitudeFt": 37000,
     "cruiseSpeedKts": 453,
-    "maximumRangeNm": 2935,
+    "maximumRangeNm": 3000,
     "aeroflyCode": "b737_800",
     "liveries": [
       {
@@ -1291,7 +1610,7 @@
       {
         "aeroflyCode": "hainan",
         "name": "Hainan",
-        "requirements": ["winglets_blended"]
+        "requirements": ["winglets_split"]
       },
       {
         "aeroflyCode": "hapag_lloyd",
@@ -1510,10 +1829,10 @@
       "autothrottle",
       "pushback"
     ],
-    "approachAirspeedKts": 144,
+    "approachAirspeedKts": 152,
     "cruiseAltitudeFt": 37000,
     "cruiseSpeedKts": 453,
-    "maximumRangeNm": 2948,
+    "maximumRangeNm": 2600,
     "aeroflyCode": "b737_900",
     "liveries": [
       {
@@ -1593,7 +1912,7 @@
       "autothrottle",
       "pushback"
     ],
-    "approachAirspeedKts": 144,
+    "approachAirspeedKts": 154,
     "cruiseAltitudeFt": 37000,
     "cruiseSpeedKts": 453,
     "maximumRangeNm": 3548,
@@ -1673,10 +1992,10 @@
       "winglets",
       "pushback"
     ],
-    "approachAirspeedKts": 145,
+    "approachAirspeedKts": 150,
     "cruiseAltitudeFt": 34000,
     "cruiseSpeedKts": 492,
-    "maximumRangeNm": 7262,
+    "maximumRangeNm": 7127,
     "aeroflyCode": "b747",
     "liveries": [
       {
@@ -1767,10 +2086,10 @@
       "autothrottle",
       "pushback"
     ],
-    "approachAirspeedKts": 147,
+    "approachAirspeedKts": 153,
     "cruiseAltitudeFt": 41000,
     "cruiseSpeedKts": 482,
-    "maximumRangeNm": 9750,
+    "maximumRangeNm": 8100,
     "aeroflyCode": "b777f",
     "liveries": [
       {
@@ -1786,11 +2105,16 @@
       {
         "aeroflyCode": "air_france",
         "name": "Air France Cargo",
-        "requirements": []
+        "requirements": ["engine_ge"]
       },
       {
         "aeroflyCode": "ana",
         "name": "ANA Cargo",
+        "requirements": []
+      },
+      {
+        "aeroflyCode": "atlas",
+        "name": "Atlas",
         "requirements": []
       },
       {
@@ -1854,6 +2178,11 @@
         "requirements": []
       },
       {
+        "aeroflyCode": "maersk",
+        "name": "Maersk",
+        "requirements": []
+      },
+      {
         "aeroflyCode": "msc",
         "name": "MSC Cargo",
         "requirements": []
@@ -1906,10 +2235,10 @@
       "autothrottle",
       "pushback"
     ],
-    "approachAirspeedKts": 145,
+    "approachAirspeedKts": 150,
     "cruiseAltitudeFt": 41000,
     "cruiseSpeedKts": 482,
-    "maximumRangeNm": 7370,
+    "maximumRangeNm": 7800,
     "aeroflyCode": "b777_300er",
     "liveries": [
       {
@@ -2078,6 +2407,11 @@
         "requirements": []
       },
       {
+        "aeroflyCode": "korean_new",
+        "name": "Korean Air",
+        "requirements": []
+      },
+      {
         "aeroflyCode": "kuwait",
         "name": "Kuwait",
         "requirements": []
@@ -2165,51 +2499,280 @@
       "autothrottle",
       "pushback"
     ],
-    "approachAirspeedKts": 150,
+    "approachAirspeedKts": 159,
     "cruiseAltitudeFt": 40000,
     "cruiseSpeedKts": 482,
-    "maximumRangeNm": 6425,
+    "maximumRangeNm": 8100,
     "aeroflyCode": "b787",
     "liveries": [
       {
         "aeroflyCode": "default",
+        "name": "KLM",
+        "requirements": ["engine_ge", "engine_ge_decals"]
+      },
+      {
+        "aeroflyCode": "ana",
         "name": "All Nippon Airways",
-        "requirements": []
+        "requirements": ["engine_rr", "engine_rr_decals"]
+      },
+      {
+        "aeroflyCode": "angola",
+        "name": "Angola Airlines",
+        "requirements": ["engine_ge"]
       },
       {
         "aeroflyCode": "british_airways",
         "name": "British Airways",
-        "requirements": []
+        "requirements": ["engine_rr", "engine_rr_decals"]
       },
       {
         "aeroflyCode": "etihad",
         "name": "Etihad",
-        "requirements": []
+        "requirements": ["engine_ge", "engine_ge_decals"]
       },
       {
         "aeroflyCode": "eva",
         "name": "EVA Airlines",
-        "requirements": []
+        "requirements": ["engine_ge", "engine_ge_decals"]
       },
       {
         "aeroflyCode": "klm",
         "name": "KLM",
-        "requirements": []
+        "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "korean_new",
+        "name": "Korean Airlines",
+        "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "korean_old",
+        "name": "Korean Airlines",
+        "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "saudia",
+        "name": "Saudia",
+        "requirements": ["engine_ge"]
       },
       {
         "aeroflyCode": "singapore",
         "name": "Singapore Airlines",
-        "requirements": []
+        "requirements": ["engine_rr", "engine_rr_decals"]
       },
       {
         "aeroflyCode": "united",
         "name": "United Airlines",
-        "requirements": []
+        "requirements": ["engine_ge"]
       },
       {
         "aeroflyCode": "vietnam",
         "name": "Vietnam Airlines",
-        "requirements": []
+        "requirements": ["engine_ge"]
+      }
+    ]
+  },
+  {
+    "name": "B787-9",
+    "nameFull": "Boeing 787-9 Dreamliner",
+    "icaoCode": "B789",
+    "tags": [
+      "airplane",
+      "airliner",
+      "widebody",
+      "jet",
+      "flaps",
+      "retractable_gear",
+      "thrust_reverse",
+      "autopilot",
+      "autothrottle",
+      "pushback"
+    ],
+    "approachAirspeedKts": 155,
+    "cruiseAltitudeFt": 40000,
+    "cruiseSpeedKts": 482,
+    "maximumRangeNm": 6425,
+    "aeroflyCode": "b787_9",
+    "liveries": [
+      {
+        "aeroflyCode": "default",
+        "name": "Hawaiian",
+        "requirements": ["engine_ge", "engine_ge_decals"]
+      },
+      {
+        "aeroflyCode": "aeromexico",
+        "name": "Aeromexico",
+        "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "air_canada",
+        "name": "Air Canada",
+        "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "air_europa",
+        "name": "Air Europa",
+        "requirements": ["engine_rr", "engine_rr_decals"]
+      },
+      {
+        "aeroflyCode": "air_new_zealand",
+        "name": "Air New Zealand",
+        "requirements": ["engine_rr"]
+      },
+      {
+        "aeroflyCode": "air_tahiti_nui",
+        "name": "Air Tahiti Nui",
+        "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "american",
+        "name": "American",
+        "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "ana",
+        "name": "All Nippon Airways",
+        "requirements": ["engine_ge", "engine_ge_decals"]
+      },
+      {
+        "aeroflyCode": "bamboo",
+        "name": "Bamboo",
+        "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "british_airways",
+        "name": "British Airways",
+        "requirements": ["engine_rr", "engine_rr_decals"]
+      },
+      {
+        "aeroflyCode": "china_southern",
+        "name": "China Southern",
+        "requirements": ["engine_ge", "engine_ge_decals"]
+      },
+      {
+        "aeroflyCode": "elal",
+        "name": "El Al",
+        "requirements": ["engine_rr", "engine_rr_decals"]
+      },
+      {
+        "aeroflyCode": "etihad",
+        "name": "Ethiad",
+        "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "hainan",
+        "name": "Hainan",
+        "requirements": ["engine_ge", "engine_ge_decals"]
+      },
+      {
+        "aeroflyCode": "japan",
+        "name": "Japan Airlines",
+        "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "juneyao_air",
+        "name": "Juneyao Air",
+        "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "klm",
+        "name": "KLM",
+        "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "korean_new",
+        "name": "Korean Airlines",
+        "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "latam",
+        "name": "Latam",
+        "requirements": ["engine_rr", "engine_rr_decals"]
+      },
+      {
+        "aeroflyCode": "lot",
+        "name": "LOT",
+        "requirements": ["engine_rr", "engine_rr_decals"]
+      },
+      {
+        "aeroflyCode": "lufthansa",
+        "name": "Lufthansa",
+        "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "lufthansa_100",
+        "name": "Lufthansa 100 Years",
+        "requirements": ["engine_rr"]
+      },
+      {
+        "aeroflyCode": "norse",
+        "name": "Norse",
+        "requirements": ["engine_rr", "engine_rr_decals"]
+      },
+      {
+        "aeroflyCode": "qantas",
+        "name": "Qantas",
+        "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "qatar",
+        "name": "Qatar",
+        "requirements": ["engine_rr"]
+      },
+      {
+        "aeroflyCode": "saudia",
+        "name": "Saudia",
+        "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "scoot",
+        "name": "Scoot",
+        "requirements": ["engine_rr", "engine_rr_decals"]
+      },
+      {
+        "aeroflyCode": "thai",
+        "name": "Thai",
+        "requirements": ["engine_rr", "engine_rr_decals"]
+      },
+      {
+        "aeroflyCode": "tui",
+        "name": "TUI",
+        "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "turkish",
+        "name": "Turkish Airlines",
+        "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "united",
+        "name": "United Airlines",
+        "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "vietnam",
+        "name": "Vietnam Airlines",
+        "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "vietnam_special",
+        "name": "Vietnam Airlines",
+        "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "virgin_atlantic",
+        "name": "Virgin Atlantic",
+        "requirements": ["engine_rr", "engine_rr_decals"]
+      },
+      {
+        "aeroflyCode": "vistara",
+        "name": "Vistara",
+        "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "westjet",
+        "name": "WestJet",
+        "requirements": ["engine_ge"]
       }
     ]
   },
@@ -2239,7 +2802,7 @@
     "approachAirspeedKts": 62,
     "cruiseAltitudeFt": 8000,
     "cruiseSpeedKts": 130,
-    "maximumRangeNm": 1031,
+    "maximumRangeNm": 696,
     "aeroflyCode": "c172",
     "liveries": [
       {
@@ -2274,7 +2837,7 @@
     "nameFull": "Beechcraft King Air C90 GTx",
     "icaoCode": "BE9L",
     "tags": ["airplane", "general_aviation", "executive", "turboprop", "flaps", "retractable_gear", "autopilot"],
-    "approachAirspeedKts": 100,
+    "approachAirspeedKts": 106,
     "cruiseAltitudeFt": 18000,
     "cruiseSpeedKts": 272,
     "maximumRangeNm": 1192,
@@ -2331,10 +2894,10 @@
       "flaps",
       "pushback"
     ],
-    "approachAirspeedKts": 165,
+    "approachAirspeedKts": 182,
     "cruiseAltitudeFt": 55000,
     "cruiseSpeedKts": 1177,
-    "maximumRangeNm": 3900,
+    "maximumRangeNm": 3553,
     "aeroflyCode": "concorde",
     "liveries": [
       {
@@ -2375,10 +2938,10 @@
       "winglets",
       "pushback"
     ],
-    "approachAirspeedKts": 125,
+    "approachAirspeedKts": 138,
     "cruiseAltitudeFt": 38000,
     "cruiseSpeedKts": 470,
-    "maximumRangeNm": 1550,
+    "maximumRangeNm": 1980,
     "aeroflyCode": "crj900",
     "liveries": [
       {
@@ -2487,7 +3050,7 @@
     "approachAirspeedKts": 60,
     "cruiseAltitudeFt": 9000,
     "cruiseSpeedKts": 135,
-    "maximumRangeNm": 343,
+    "maximumRangeNm": 305,
     "aeroflyCode": "ec135",
     "liveries": [
       {
@@ -2550,10 +3113,10 @@
     "nameFull": "McDonnell Douglas F-15E Strike Eagle",
     "icaoCode": "F15",
     "tags": ["airplane", "military", "fighter", "jet", "flaps", "retractable_gear", "autopilot", "autothrottle"],
-    "approachAirspeedKts": 140,
+    "approachAirspeedKts": 174,
     "cruiseAltitudeFt": 40000,
     "cruiseSpeedKts": 1458,
-    "maximumRangeNm": 3100,
+    "maximumRangeNm": 687,
     "aeroflyCode": "f15e",
     "liveries": [
       {
@@ -2576,7 +3139,7 @@
   {
     "name": "F/A-18C",
     "nameFull": "McDonnell Douglas F/A-18C Hornet",
-    "icaoCode": "F18",
+    "icaoCode": "F18H",
     "tags": [
       "airplane",
       "military",
@@ -2590,10 +3153,10 @@
       "autopilot",
       "autothrottle"
     ],
-    "approachAirspeedKts": 135,
+    "approachAirspeedKts": 144,
     "cruiseAltitudeFt": 40000,
     "cruiseSpeedKts": 1034,
-    "maximumRangeNm": 1080,
+    "maximumRangeNm": 1089,
     "aeroflyCode": "f18",
     "liveries": [
       {
@@ -2632,6 +3195,11 @@
         "requirements": ["antenna_installed"]
       },
       {
+        "aeroflyCode": "golden_dragons",
+        "name": "Golden Dragons",
+        "requirements": ["antenna_installed"]
+      },
+      {
         "aeroflyCode": "nasa",
         "name": "NASA",
         "requirements": []
@@ -2640,6 +3208,16 @@
         "aeroflyCode": "norad",
         "name": "Norad",
         "requirements": ["uppergps_installed"]
+      },
+      {
+        "aeroflyCode": "red_devils",
+        "name": "Red Devils",
+        "requirements": []
+      },
+      {
+        "aeroflyCode": "spanish_air_force",
+        "name": "Spanish Air Force",
+        "requirements": []
       },
       {
         "aeroflyCode": "swiss_air_force",
@@ -2692,10 +3270,10 @@
     "nameFull": "Junkers Ju 52/3m",
     "icaoCode": "JU52",
     "tags": ["airplane", "airliner", "historical", "piston", "flaps", "gear", "tailgear"],
-    "approachAirspeedKts": 65,
+    "approachAirspeedKts": 82,
     "cruiseAltitudeFt": 19685,
     "cruiseSpeedKts": 136,
-    "maximumRangeNm": 1080,
+    "maximumRangeNm": 648,
     "aeroflyCode": "ju52",
     "liveries": [
       {
@@ -2757,10 +3335,10 @@
       "thrust_reverse",
       "autopilot"
     ],
-    "approachAirspeedKts": 120,
+    "approachAirspeedKts": 131,
     "cruiseAltitudeFt": 41000,
     "cruiseSpeedKts": 486,
-    "maximumRangeNm": 1710,
+    "maximumRangeNm": 1937,
     "aeroflyCode": "lj45",
     "liveries": [
       {
@@ -2932,10 +3510,10 @@
       "autopilot",
       "pushback"
     ],
-    "approachAirspeedKts": 135,
+    "approachAirspeedKts": 143,
     "cruiseAltitudeFt": 24000,
     "cruiseSpeedKts": 286,
-    "maximumRangeNm": 2808,
+    "maximumRangeNm": 1530,
     "aeroflyCode": "q400",
     "liveries": [
       {
@@ -3143,7 +3721,7 @@
     "approachAirspeedKts": 60,
     "cruiseAltitudeFt": 6562,
     "cruiseSpeedKts": 105,
-    "maximumRangeNm": 208,
+    "maximumRangeNm": 209,
     "aeroflyCode": "r22",
     "liveries": [
       {
