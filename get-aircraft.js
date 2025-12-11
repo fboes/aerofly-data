@@ -44,7 +44,7 @@ const summaryFilePath = path.join(outputDirectory, "aircraft.md");
  * @param {number} number - The number to format.
  * @returns {string} The formatted number.
  */
-const numberFormat = (number) => new Intl.NumberFormat().format(number);
+const numberFormat = (number) => new Intl.NumberFormat("en-US").format(number);
 
 const summaryContent =
   `\

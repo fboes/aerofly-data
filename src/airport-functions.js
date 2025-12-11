@@ -7,23 +7,23 @@ import * as path from "path";
  *
  * @param {string} type
  * @param {boolean} isMilitary
- * @param {number|undefined} lenght in Bytes
+ * @param {number|undefined} length in Bytes
  * @returns {string}
  */
-export const geoJsonType = (type, isMilitary, lenght) => {
-  if (type === "heliport" && lenght > 0) {
+export const geoJsonType = (type, isMilitary, length) => {
+  if (type === "heliport" && length !== undefined && length > 0) {
     return type;
   }
 
-  if (lenght !== undefined) {
+  if (length !== undefined) {
     let size = "closed";
-    if (lenght > 1200) {
+    if (length > 1200) {
       size = "large";
-    } else if (lenght > 1050) {
+    } else if (length > 1050) {
       size = "medium";
-    } else if (lenght > 920) {
+    } else if (length > 920) {
       size = "small";
-    } else if (lenght <= 0) {
+    } else if (length <= 0) {
       return "private_airfield";
     }
 
