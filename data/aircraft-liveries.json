@@ -2615,6 +2615,11 @@
         "requirements": ["engine_rr", "engine_rr_decals"]
       },
       {
+        "aeroflyCode": "air_france",
+        "name": "Air France",
+        "requirements": ["engine_ge"]
+      },
+      {
         "aeroflyCode": "air_new_zealand",
         "name": "Air New Zealand",
         "requirements": ["engine_rr"]
@@ -2652,6 +2657,11 @@
       {
         "aeroflyCode": "elal",
         "name": "El Al",
+        "requirements": ["engine_rr", "engine_rr_decals"]
+      },
+      {
+        "aeroflyCode": "ethiopian",
+        "name": "Ethiopian",
         "requirements": ["engine_rr", "engine_rr_decals"]
       },
       {
@@ -2705,6 +2715,11 @@
         "requirements": ["engine_rr"]
       },
       {
+        "aeroflyCode": "neos",
+        "name": "Neos",
+        "requirements": ["engine_rr", "engine_rr_decals"]
+      },
+      {
         "aeroflyCode": "norse",
         "name": "Norse",
         "requirements": ["engine_rr", "engine_rr_decals"]
@@ -2720,6 +2735,11 @@
         "requirements": ["engine_rr"]
       },
       {
+        "aeroflyCode": "royal_air_maroc",
+        "name": "Royal Air Maroc",
+        "requirements": ["engine_ge"]
+      },
+      {
         "aeroflyCode": "saudia",
         "name": "Saudia",
         "requirements": ["engine_ge"]
@@ -2728,6 +2748,11 @@
         "aeroflyCode": "scoot",
         "name": "Scoot",
         "requirements": ["engine_rr", "engine_rr_decals"]
+      },
+      {
+        "aeroflyCode": "shanghai",
+        "name": "Shanghai Airlines",
+        "requirements": ["engine_ge"]
       },
       {
         "aeroflyCode": "thai",

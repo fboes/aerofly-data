@@ -1949,7 +1949,7 @@
         "description": "Bank of America Data Center Heliport",
         "elevation": 440,
         "municipality": "Los Angeles",
-        "fileSize": 1080,
+        "fileSize": 1072,
         "marker-symbol": "heliport",
         "marker-color": "#555555"
       }
@@ -4279,11 +4279,11 @@
       },
       "properties": {
         "title": "BIKF",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Keflavik International Airport",
         "elevation": 171,
         "municipality": "Reykjavík",
-        "fileSize": 1200,
+        "fileSize": 1424,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -95845,7 +95845,7 @@
         "description": "Budapest Liszt Ferenc International Airport",
         "elevation": 495,
         "municipality": "Budapest",
-        "fileSize": 1328,
+        "fileSize": 1376,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -144129,6 +144129,27 @@
         "fileSize": 928,
         "marker-symbol": "airport",
         "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.668333,
+          11.946935,
+          5.1816
+        ]
+      },
+      "properties": {
+        "title": "SVRS",
+        "type": "medium_airport",
+        "description": "Los Roques Airport",
+        "elevation": 17,
+        "municipality": "Gran Roque Island",
+        "fileSize": 1056,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
