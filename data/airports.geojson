@@ -2781,14 +2781,14 @@
         "coordinates": [
           51.44989,
           24.214693,
-          0
+          78.3336
         ]
       },
       "properties": {
         "title": "OEBT",
         "type": "small_airport",
         "description": "Batha Airport",
-        "elevation": 0,
+        "elevation": 257,
         "municipality": "Batha",
         "fileSize": 936,
         "marker-symbol": "airfield",
@@ -84138,8 +84138,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.897003173828,
-          25.861799240112,
+          -80.89701,
+          25.861788,
           3.9624
         ]
       },
@@ -95484,7 +95484,7 @@
         "type": "small_airbase",
         "description": "Maritsa Air Base",
         "elevation": 204,
-        "municipality": "Rodes Island",
+        "municipality": "Rhodes Island",
         "fileSize": 976,
         "marker-symbol": "airfield",
         "marker-color": "#777777",
@@ -114163,8 +114163,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.17300033569336,
-          21.348100662231445,
+          39.173,
+          21.348101,
           2.1336
         ]
       },
@@ -114332,8 +114332,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.143699645996094,
-          24.276100158691406,
+          42.1437,
+          24.2761,
           914.4000000000001
         ]
       },
@@ -114353,8 +114353,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          41.0359992980957,
-          24.1072998046875,
+          41.035999,
+          24.1073,
           865.6320000000001
         ]
       },
@@ -114627,8 +114627,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          46.640999,
-          25.212999,
+          46.640847,
+          25.212979,
           569.976
         ]
       },
@@ -114690,8 +114690,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.3288002014,
-          25.1511001587,
+          49.3288,
+          25.1511,
           231.34320000000002
         ]
       },
@@ -175694,8 +175694,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.569000244,
-          44.5241012573,
+          129.568634,
+          44.525172,
           269.1384
         ]
       },
