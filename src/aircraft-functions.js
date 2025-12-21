@@ -77,8 +77,8 @@ export const getAeroflyAircraft = (directory) => {
     ];
 
     return {
-      ...parseAircraft(tmdFileContent),
       aeroflyCode: dirent.name,
+      ...parseAircraft(tmdFileContent),
       liveries,
     };
   });
@@ -295,5 +295,32 @@ export const getSelectOptgroupOptions = (sortedAircraft) => {
 <select id="aircraft-select-optgroup">
 ${html}\
 </select>
+<!-- Found ${sortedAircraft.length} aircraft in total -->
+`;
+};
+
+/**
+ *
+ * @param {AeroflyAircraft[]} sortedAircraft
+ * @returns {string}
+ */
+export const getSelectLiveryOptgroupOptions = (sortedAircraft) => {
+  let html = "";
+  for (const aircraft of sortedAircraft) {
+    if (aircraft.liveries.length === 0) {
+      continue;
+    }
+    html += `  <optgroup label="${aircraft.nameFull}">` + "\n";
+    for (const livery of aircraft.liveries) {
+      html += `    <option value="${aircraft.aeroflyCode}|${livery.aeroflyCode}">${livery.name}</option>` + "\n";
+    }
+    html += "  </optgroup>\n";
+  }
+
+  return `\
+<select id="aircraft-livery-select-optgroup">
+${html}\
+</select>
+<!-- Found ${sortedAircraft.reduce((sum, aircraft) => sum + aircraft.liveries.length, 0)} liveries in total -->
 `;
 };

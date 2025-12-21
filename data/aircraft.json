@@ -1,5 +1,6 @@
 [
   {
+    "aeroflyCode": "a319",
     "name": "A319",
     "nameFull": "Airbus A319-115",
     "icaoCode": "A319",
@@ -18,10 +19,10 @@
     "approachAirspeedKts": 141,
     "cruiseAltitudeFt": 32000,
     "cruiseSpeedKts": 453,
-    "maximumRangeNm": 3050,
-    "aeroflyCode": "a319"
+    "maximumRangeNm": 3050
   },
   {
+    "aeroflyCode": "a320",
     "name": "A320",
     "nameFull": "Airbus A320",
     "icaoCode": "A320",
@@ -40,10 +41,10 @@
     "approachAirspeedKts": 141,
     "cruiseAltitudeFt": 32000,
     "cruiseSpeedKts": 453,
-    "maximumRangeNm": 2900,
-    "aeroflyCode": "a320"
+    "maximumRangeNm": 2900
   },
   {
+    "aeroflyCode": "a320_neo",
     "name": "A320neo",
     "nameFull": "Airbus A320neo",
     "icaoCode": "A20N",
@@ -62,10 +63,10 @@
     "approachAirspeedKts": 136,
     "cruiseAltitudeFt": 32000,
     "cruiseSpeedKts": 453,
-    "maximumRangeNm": 3400,
-    "aeroflyCode": "a320_neo"
+    "maximumRangeNm": 3400
   },
   {
+    "aeroflyCode": "a321",
     "name": "A321",
     "nameFull": "Airbus A321-211",
     "icaoCode": "A321",
@@ -84,10 +85,10 @@
     "approachAirspeedKts": 147,
     "cruiseAltitudeFt": 32000,
     "cruiseSpeedKts": 453,
-    "maximumRangeNm": 2600,
-    "aeroflyCode": "a321"
+    "maximumRangeNm": 2600
   },
   {
+    "aeroflyCode": "a350_1000",
     "name": "A350-1000",
     "nameFull": "Airbus A350-1000",
     "icaoCode": "A35K",
@@ -107,10 +108,10 @@
     "approachAirspeedKts": 152,
     "cruiseAltitudeFt": 37000,
     "cruiseSpeedKts": 488,
-    "maximumRangeNm": 8909,
-    "aeroflyCode": "a350_1000"
+    "maximumRangeNm": 8909
   },
   {
+    "aeroflyCode": "a380",
     "name": "A380",
     "nameFull": "Airbus A380-800",
     "icaoCode": "A388",
@@ -129,10 +130,10 @@
     "approachAirspeedKts": 141,
     "cruiseAltitudeFt": 36000,
     "cruiseSpeedKts": 517,
-    "maximumRangeNm": 8800,
-    "aeroflyCode": "a380"
+    "maximumRangeNm": 8800
   },
   {
+    "aeroflyCode": "antares",
     "name": "Antares 21E",
     "nameFull": "Antares 21 Electro",
     "icaoCode": "LAE1",
@@ -152,10 +153,10 @@
     "approachAirspeedKts": 65,
     "cruiseAltitudeFt": 8202,
     "cruiseSpeedKts": 81,
-    "maximumRangeNm": 205,
-    "aeroflyCode": "antares"
+    "maximumRangeNm": 205
   },
   {
+    "aeroflyCode": "asg29",
     "name": "ASG 29",
     "nameFull": "Schleicher ASG 29-18m",
     "icaoCode": "AS29",
@@ -163,10 +164,10 @@
     "approachAirspeedKts": 54,
     "cruiseAltitudeFt": 8202,
     "cruiseSpeedKts": 76,
-    "maximumRangeNm": 0,
-    "aeroflyCode": "asg29"
+    "maximumRangeNm": 0
   },
   {
+    "aeroflyCode": "ask21",
     "name": "ASK 21",
     "nameFull": "Schleicher ASK 21",
     "icaoCode": "AS21",
@@ -174,10 +175,10 @@
     "approachAirspeedKts": 57,
     "cruiseAltitudeFt": 4921,
     "cruiseSpeedKts": 59,
-    "maximumRangeNm": 0,
-    "aeroflyCode": "ask21"
+    "maximumRangeNm": 0
   },
   {
+    "aeroflyCode": "b58",
     "name": "Baron 58",
     "nameFull": "Beechcraft Baron 58",
     "icaoCode": "BE58",
@@ -185,10 +186,10 @@
     "approachAirspeedKts": 100,
     "cruiseAltitudeFt": 11000,
     "cruiseSpeedKts": 202,
-    "maximumRangeNm": 1480,
-    "aeroflyCode": "b58"
+    "maximumRangeNm": 1480
   },
   {
+    "aeroflyCode": "b737",
     "name": "B737-500",
     "nameFull": "Boeing 737-500",
     "icaoCode": "B735",
@@ -206,10 +207,10 @@
     "approachAirspeedKts": 139,
     "cruiseAltitudeFt": 34000,
     "cruiseSpeedKts": 490,
-    "maximumRangeNm": 2800,
-    "aeroflyCode": "b737"
+    "maximumRangeNm": 2800
   },
   {
+    "aeroflyCode": "b737_800",
     "name": "B737-800",
     "nameFull": "Boeing 737-800",
     "icaoCode": "B738",
@@ -227,10 +228,10 @@
     "approachAirspeedKts": 147,
     "cruiseAltitudeFt": 37000,
     "cruiseSpeedKts": 453,
-    "maximumRangeNm": 3000,
-    "aeroflyCode": "b737_800"
+    "maximumRangeNm": 3000
   },
   {
+    "aeroflyCode": "b737_900",
     "name": "B737-900ER",
     "nameFull": "Boeing 737-900ER",
     "icaoCode": "B739",
@@ -248,10 +249,10 @@
     "approachAirspeedKts": 152,
     "cruiseAltitudeFt": 37000,
     "cruiseSpeedKts": 453,
-    "maximumRangeNm": 2600,
-    "aeroflyCode": "b737_900"
+    "maximumRangeNm": 2600
   },
   {
+    "aeroflyCode": "b737_max9",
     "name": "B737 MAX 9",
     "nameFull": "Boeing 737 MAX 9",
     "icaoCode": "B39M",
@@ -269,10 +270,10 @@
     "approachAirspeedKts": 154,
     "cruiseAltitudeFt": 37000,
     "cruiseSpeedKts": 453,
-    "maximumRangeNm": 3548,
-    "aeroflyCode": "b737_max9"
+    "maximumRangeNm": 3548
   },
   {
+    "aeroflyCode": "b747",
     "name": "B747-400",
     "nameFull": "Boeing 747-400",
     "icaoCode": "B744",
@@ -292,10 +293,10 @@
     "approachAirspeedKts": 150,
     "cruiseAltitudeFt": 34000,
     "cruiseSpeedKts": 492,
-    "maximumRangeNm": 7127,
-    "aeroflyCode": "b747"
+    "maximumRangeNm": 7127
   },
   {
+    "aeroflyCode": "b777f",
     "name": "B777F",
     "nameFull": "Boeing 777F",
     "icaoCode": "B77F",
@@ -314,10 +315,10 @@
     "approachAirspeedKts": 153,
     "cruiseAltitudeFt": 41000,
     "cruiseSpeedKts": 482,
-    "maximumRangeNm": 8100,
-    "aeroflyCode": "b777f"
+    "maximumRangeNm": 8100
   },
   {
+    "aeroflyCode": "b777_300er",
     "name": "B777-300ER",
     "nameFull": "Boeing 777-300ER",
     "icaoCode": "B77W",
@@ -336,10 +337,10 @@
     "approachAirspeedKts": 150,
     "cruiseAltitudeFt": 41000,
     "cruiseSpeedKts": 482,
-    "maximumRangeNm": 7800,
-    "aeroflyCode": "b777_300er"
+    "maximumRangeNm": 7800
   },
   {
+    "aeroflyCode": "b787",
     "name": "B787-10",
     "nameFull": "Boeing 787-10 Dreamliner",
     "icaoCode": "B78X",
@@ -358,10 +359,10 @@
     "approachAirspeedKts": 159,
     "cruiseAltitudeFt": 40000,
     "cruiseSpeedKts": 482,
-    "maximumRangeNm": 8100,
-    "aeroflyCode": "b787"
+    "maximumRangeNm": 8100
   },
   {
+    "aeroflyCode": "b787_9",
     "name": "B787-9",
     "nameFull": "Boeing 787-9 Dreamliner",
     "icaoCode": "B789",
@@ -380,10 +381,10 @@
     "approachAirspeedKts": 155,
     "cruiseAltitudeFt": 40000,
     "cruiseSpeedKts": 482,
-    "maximumRangeNm": 6425,
-    "aeroflyCode": "b787_9"
+    "maximumRangeNm": 6425
   },
   {
+    "aeroflyCode": "bf109e",
     "name": "Bf 109E",
     "nameFull": "Messerschmitt Bf 109E",
     "icaoCode": "ME09",
@@ -391,10 +392,10 @@
     "approachAirspeedKts": 94,
     "cruiseAltitudeFt": 13123,
     "cruiseSpeedKts": 309,
-    "maximumRangeNm": 432,
-    "aeroflyCode": "bf109e"
+    "maximumRangeNm": 432
   },
   {
+    "aeroflyCode": "c172",
     "name": "Cessna 172",
     "nameFull": "Cessna 172 SP Skyhawk",
     "icaoCode": "C172",
@@ -402,10 +403,10 @@
     "approachAirspeedKts": 62,
     "cruiseAltitudeFt": 8000,
     "cruiseSpeedKts": 130,
-    "maximumRangeNm": 696,
-    "aeroflyCode": "c172"
+    "maximumRangeNm": 696
   },
   {
+    "aeroflyCode": "c90gtx",
     "name": "King Air",
     "nameFull": "Beechcraft King Air C90 GTx",
     "icaoCode": "BE9L",
@@ -413,10 +414,10 @@
     "approachAirspeedKts": 106,
     "cruiseAltitudeFt": 18000,
     "cruiseSpeedKts": 272,
-    "maximumRangeNm": 1192,
-    "aeroflyCode": "c90gtx"
+    "maximumRangeNm": 1192
   },
   {
+    "aeroflyCode": "camel",
     "name": "Camel",
     "nameFull": "Sopwith F.1 Camel",
     "icaoCode": "CAML",
@@ -424,10 +425,10 @@
     "approachAirspeedKts": 45,
     "cruiseAltitudeFt": 9843,
     "cruiseSpeedKts": 100,
-    "maximumRangeNm": 124,
-    "aeroflyCode": "camel"
+    "maximumRangeNm": 124
   },
   {
+    "aeroflyCode": "concorde",
     "name": "Concorde",
     "nameFull": "Aérospatiale/BAC Concorde",
     "icaoCode": "CONC",
@@ -446,10 +447,10 @@
     "approachAirspeedKts": 182,
     "cruiseAltitudeFt": 55000,
     "cruiseSpeedKts": 1177,
-    "maximumRangeNm": 3553,
-    "aeroflyCode": "concorde"
+    "maximumRangeNm": 3553
   },
   {
+    "aeroflyCode": "crj900",
     "name": "CRJ-900LR",
     "nameFull": "Bombardier CRJ-900LR",
     "icaoCode": "CRJ9",
@@ -468,10 +469,10 @@
     "approachAirspeedKts": 138,
     "cruiseAltitudeFt": 38000,
     "cruiseSpeedKts": 470,
-    "maximumRangeNm": 1980,
-    "aeroflyCode": "crj900"
+    "maximumRangeNm": 1980
   },
   {
+    "aeroflyCode": "dr1",
     "name": "Dr.I",
     "nameFull": "Fokker Dr.I",
     "icaoCode": "DR1",
@@ -479,10 +480,10 @@
     "approachAirspeedKts": 49,
     "cruiseAltitudeFt": 9843,
     "cruiseSpeedKts": 100,
-    "maximumRangeNm": 162,
-    "aeroflyCode": "dr1"
+    "maximumRangeNm": 162
   },
   {
+    "aeroflyCode": "dr400",
     "name": "DR400",
     "nameFull": "Robin DR400",
     "icaoCode": "DR40",
@@ -490,10 +491,10 @@
     "approachAirspeedKts": 62,
     "cruiseAltitudeFt": 5991,
     "cruiseSpeedKts": 167,
-    "maximumRangeNm": 586,
-    "aeroflyCode": "dr400"
+    "maximumRangeNm": 586
   },
   {
+    "aeroflyCode": "ec135",
     "name": "EC135",
     "nameFull": "Eurocopter EC135-T1",
     "icaoCode": "EC35",
@@ -501,10 +502,10 @@
     "approachAirspeedKts": 60,
     "cruiseAltitudeFt": 9000,
     "cruiseSpeedKts": 135,
-    "maximumRangeNm": 305,
-    "aeroflyCode": "ec135"
+    "maximumRangeNm": 305
   },
   {
+    "aeroflyCode": "extra330",
     "name": "Extra 330",
     "nameFull": "Extra 330 LX",
     "icaoCode": "E300",
@@ -512,10 +513,10 @@
     "approachAirspeedKts": 90,
     "cruiseAltitudeFt": 9843,
     "cruiseSpeedKts": 220,
-    "maximumRangeNm": 459,
-    "aeroflyCode": "extra330"
+    "maximumRangeNm": 459
   },
   {
+    "aeroflyCode": "f15e",
     "name": "F-15E",
     "nameFull": "McDonnell Douglas F-15E Strike Eagle",
     "icaoCode": "F15",
@@ -523,10 +524,10 @@
     "approachAirspeedKts": 174,
     "cruiseAltitudeFt": 40000,
     "cruiseSpeedKts": 1458,
-    "maximumRangeNm": 687,
-    "aeroflyCode": "f15e"
+    "maximumRangeNm": 687
   },
   {
+    "aeroflyCode": "f18",
     "name": "F/A-18C",
     "nameFull": "McDonnell Douglas F/A-18C Hornet",
     "icaoCode": "F18H",
@@ -546,10 +547,10 @@
     "approachAirspeedKts": 144,
     "cruiseAltitudeFt": 40000,
     "cruiseSpeedKts": 1034,
-    "maximumRangeNm": 1089,
-    "aeroflyCode": "f18"
+    "maximumRangeNm": 1089
   },
   {
+    "aeroflyCode": "f4u",
     "name": "Corsair",
     "nameFull": "Vought F4U Corsair",
     "icaoCode": "CORS",
@@ -568,10 +569,10 @@
     "approachAirspeedKts": 105,
     "cruiseAltitudeFt": 20000,
     "cruiseSpeedKts": 389,
-    "maximumRangeNm": 930,
-    "aeroflyCode": "f4u"
+    "maximumRangeNm": 930
   },
   {
+    "aeroflyCode": "ju52",
     "name": "Ju 52",
     "nameFull": "Junkers Ju 52/3m",
     "icaoCode": "JU52",
@@ -579,10 +580,10 @@
     "approachAirspeedKts": 82,
     "cruiseAltitudeFt": 19685,
     "cruiseSpeedKts": 136,
-    "maximumRangeNm": 648,
-    "aeroflyCode": "ju52"
+    "maximumRangeNm": 648
   },
   {
+    "aeroflyCode": "jungmeister",
     "name": "Jungmeister",
     "nameFull": "Bücker Bü-133 Jungmeister",
     "icaoCode": "BU33",
@@ -590,10 +591,10 @@
     "approachAirspeedKts": 55,
     "cruiseAltitudeFt": 13123,
     "cruiseSpeedKts": 119,
-    "maximumRangeNm": 270,
-    "aeroflyCode": "jungmeister"
+    "maximumRangeNm": 270
   },
   {
+    "aeroflyCode": "lj45",
     "name": "Learjet 45",
     "nameFull": "Bombardier Learjet 45",
     "icaoCode": "LJ45",
@@ -610,10 +611,10 @@
     "approachAirspeedKts": 131,
     "cruiseAltitudeFt": 41000,
     "cruiseSpeedKts": 486,
-    "maximumRangeNm": 1937,
-    "aeroflyCode": "lj45"
+    "maximumRangeNm": 1937
   },
   {
+    "aeroflyCode": "mb339",
     "name": "MB-339",
     "nameFull": "Aermacchi MB-339",
     "icaoCode": "M339",
@@ -621,10 +622,10 @@
     "approachAirspeedKts": 120,
     "cruiseAltitudeFt": 25000,
     "cruiseSpeedKts": 486,
-    "maximumRangeNm": 1188,
-    "aeroflyCode": "mb339"
+    "maximumRangeNm": 1188
   },
   {
+    "aeroflyCode": "me262",
     "name": "Me 262",
     "nameFull": "Messerschmitt Me 262 A-1",
     "icaoCode": "ME62",
@@ -632,10 +633,10 @@
     "approachAirspeedKts": 119,
     "cruiseAltitudeFt": 19685,
     "cruiseSpeedKts": 432,
-    "maximumRangeNm": 57,
-    "aeroflyCode": "me262"
+    "maximumRangeNm": 57
   },
   {
+    "aeroflyCode": "p38",
     "name": "P-38",
     "nameFull": "Lockheed P-38 Lightning",
     "icaoCode": "P38",
@@ -643,10 +644,10 @@
     "approachAirspeedKts": 109,
     "cruiseAltitudeFt": 20000,
     "cruiseSpeedKts": 315,
-    "maximumRangeNm": 1031,
-    "aeroflyCode": "p38"
+    "maximumRangeNm": 1031
   },
   {
+    "aeroflyCode": "pitts",
     "name": "Pitts",
     "nameFull": "Pitts S-2B",
     "icaoCode": "PTS2",
@@ -654,10 +655,10 @@
     "approachAirspeedKts": 90,
     "cruiseAltitudeFt": 9843,
     "cruiseSpeedKts": 132,
-    "maximumRangeNm": 216,
-    "aeroflyCode": "pitts"
+    "maximumRangeNm": 216
   },
   {
+    "aeroflyCode": "q400",
     "name": "Q400",
     "nameFull": "Bombardier Dash-8 Q400",
     "icaoCode": "DH8D",
@@ -675,10 +676,10 @@
     "approachAirspeedKts": 143,
     "cruiseAltitudeFt": 24000,
     "cruiseSpeedKts": 286,
-    "maximumRangeNm": 1530,
-    "aeroflyCode": "q400"
+    "maximumRangeNm": 1530
   },
   {
+    "aeroflyCode": "r22",
     "name": "R22",
     "nameFull": "Robinson R22 Beta II",
     "icaoCode": "R22",
@@ -686,10 +687,10 @@
     "approachAirspeedKts": 60,
     "cruiseAltitudeFt": 6562,
     "cruiseSpeedKts": 105,
-    "maximumRangeNm": 209,
-    "aeroflyCode": "r22"
+    "maximumRangeNm": 209
   },
   {
+    "aeroflyCode": "swift",
     "name": "Swift",
     "nameFull": "Marganski Swift S1",
     "icaoCode": "",
@@ -697,10 +698,10 @@
     "approachAirspeedKts": 63,
     "cruiseAltitudeFt": 6562,
     "cruiseSpeedKts": 65,
-    "maximumRangeNm": 0,
-    "aeroflyCode": "swift"
+    "maximumRangeNm": 0
   },
   {
+    "aeroflyCode": "uh60",
     "name": "UH-60M",
     "nameFull": "Sikorsky UH-60M Black Hawk",
     "icaoCode": "H60",
@@ -708,7 +709,6 @@
     "approachAirspeedKts": 70,
     "cruiseAltitudeFt": 9843,
     "cruiseSpeedKts": 160,
-    "maximumRangeNm": 252,
-    "aeroflyCode": "uh60"
+    "maximumRangeNm": 252
   }
 ]
