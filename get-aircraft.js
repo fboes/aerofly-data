@@ -90,14 +90,16 @@ process.stdout.write(`HTML <select> options written to \x1b[92m${selectFilePath}
 const selectOptgroupFilePath = path.join(outputDirectory, "aircraft-select-optgroup.html");
 let selectOptgroupContent = getSelectOptgroupOptions(sortedAircraft);
 await fs.promises.writeFile(selectOptgroupFilePath, selectOptgroupContent, "utf-8");
-process.stdout.write(`HTML <select> with <optgroup> options written to \x1b[92m${selectOptgroupFilePath}\x1b[0m\n`);
+process.stdout.write(
+  `HTML aircraft <select> with category <optgroup> options written to \x1b[92m${selectOptgroupFilePath}\x1b[0m\n`,
+);
 
 // Write HTML <select> with <optgroup> to aircraft-select-optgroup.html
 const selectOptgroupLiveryFilePath = path.join(outputDirectory, "aircraft-livery-select-optgroup.html");
 let selectOptgroupLiveryContent = getSelectLiveryOptgroupOptions(sortedAircraft);
 await fs.promises.writeFile(selectOptgroupLiveryFilePath, selectOptgroupLiveryContent, "utf-8");
 process.stdout.write(
-  `HTML <select> with livery <optgroup> options written to \x1b[92m${selectOptgroupLiveryFilePath}\x1b[0m\n`,
+  `HTML livery <select> with aircraft <optgroup> options written to \x1b[92m${selectOptgroupLiveryFilePath}\x1b[0m\n`,
 );
 
 process.stdout.write(`\nAll aircraft files written to \x1b[92m${path.resolve(outputDirectory)}\x1b[0m\n`);

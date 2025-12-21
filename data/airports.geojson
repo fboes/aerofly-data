@@ -38262,8 +38262,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.719400405884,
-          -17.956499099731,
+          19.7194,
+          -17.956499,
           1105.5096
         ]
       },
@@ -38325,8 +38325,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.732500076294,
-          -19.26189994812,
+          17.732509,
+          -19.262079,
           1326.7944
         ]
       },
@@ -38367,8 +38367,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.080400466918945,
-          -22.612199783325195,
+          17.079002,
+          -22.60492,
           1699.26
         ]
       },
@@ -67118,7 +67118,7 @@
       "properties": {
         "title": "KLAL",
         "type": "small_airport",
-        "description": "Lakeland Linder International Airport",
+        "description": "Lakeland Linder International/Regional Airport",
         "elevation": 142,
         "municipality": "Lakeland",
         "fileSize": 1024,
@@ -97322,7 +97322,7 @@
         "type": "medium_airport",
         "description": "Valbrembo Airfield",
         "elevation": 745,
-        "municipality": "Carvico (BG)",
+        "municipality": "Valbrembo (BG)",
         "fileSize": 1120,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -97566,8 +97566,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.723322,
-          44.913102,
+          9.722318,
+          44.91442,
           138.9888
         ]
       },
@@ -97630,8 +97630,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.297923,
-          40.35974,
+          18.297958,
+          40.358928,
           17.9832
         ]
       },
@@ -97673,8 +97673,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.3264,
-          46.460201,
+          11.326125,
+          46.459245,
           240.4872
         ]
       },

@@ -295,7 +295,6 @@ export const getSelectOptgroupOptions = (sortedAircraft) => {
 <select id="aircraft-select-optgroup">
 ${html}\
 </select>
-<!-- Found ${sortedAircraft.length} aircraft in total -->
 `;
 };
 
@@ -321,6 +320,5 @@ export const getSelectLiveryOptgroupOptions = (sortedAircraft) => {
 <select id="aircraft-livery-select-optgroup">
 ${html}\
 </select>
-<!-- Found ${sortedAircraft.reduce((sum, aircraft) => sum + aircraft.liveries.length, 0)} liveries in total -->
 `;
 };
