@@ -309,7 +309,7 @@ export const getSelectLiveryOptgroupOptions = (sortedAircraft) => {
     if (aircraft.liveries.length === 0) {
       continue;
     }
-    html += `  <optgroup label="${aircraft.nameFull}">` + "\n";
+    html += `  <optgroup label="${aircraft.nameFull}" data-value="${aircraft.aeroflyCode}">` + "\n";
     for (const livery of aircraft.liveries) {
       html += `    <option value="${aircraft.aeroflyCode}|${livery.aeroflyCode}">${livery.name}</option>` + "\n";
     }

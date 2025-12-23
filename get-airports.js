@@ -42,11 +42,6 @@ let airportsRecordsProcessed = 0;
 const icaoCodes = [];
 
 for (const airportsRecord of airportsRecords) {
-  // 'id',             'ident',
-  // 'type',           'name',
-  // 'latitude_deg',   'longitude_deg',
-  // 'elevation_ft',   'continent',
-
   // 3685,"KMIA","large_airport","Miami International Airport",25.79319953918457,-80.29060363769531,8,"NA","US","US-FL","Miami","yes","KMIA","MIA","MIA","http://www.miami-airport.com/","https://en.wikipedia.org/wiki/
   // 19927,"KGBN","small_airport","Gila Bend Air Force Auxiliary Airport",32.887501,-112.720001,883,"NA","US","US-AZ","Gila Bend","no",,,"KGXF","GXF",,"https://en.wikipedia.org/wiki/Gila_Bend_Air_Force_Auxiliary_Field",
 
@@ -54,8 +49,6 @@ for (const airportsRecord of airportsRecords) {
   const icaoCode = airportsRecord[12];
   const searchWords = getAirportSearchWords(ident, icaoCode, airportsRecord);
 
-  // EL = Europe
-  // K = US
   if (icaoFilter && !ident.match(icaoFilter) && !icaoCode.match(icaoFilter)) {
     continue;
   }
@@ -76,15 +69,15 @@ for (const airportsRecord of airportsRecords) {
     return [undefined, undefined];
   };
 
-  const [length, code] = getAeroflyAirport(searchWords);
+  const [length, aeroflyCode] = getAeroflyAirport(searchWords);
 
-  if (length !== undefined && code !== undefined) {
-    const bestCode = icaoCode || code || ident;
+  if (length !== undefined && aeroflyCode !== undefined) {
+    const bestCode = icaoCode || aeroflyCode || ident;
     // Add the ICAO code to the list
     icaoCodes.push(bestCode);
 
     // Remove airport from list of Aerofly FS4 Airports
-    aeroflyAirports.delete(code);
+    aeroflyAirports.delete(aeroflyCode);
 
     const isMilitary =
       airportsRecord[3].match(/\b(base|rnas|raf|naval|air\s?force|coast\s?guard|army|afs|mod|cgas)\b/i) !== null;
@@ -97,6 +90,7 @@ for (const airportsRecord of airportsRecords) {
       new GeoJSON.Point(Number(airportsRecord[5]), Number(airportsRecord[4]), Number(airportsRecord[6]) * 0.3048),
       {
         title: bestCode,
+        aeroflyCode,
         type: geoJsonType(type, isMilitary, length),
         description: airportsRecord[3],
         elevation: Number(airportsRecord[6]),
