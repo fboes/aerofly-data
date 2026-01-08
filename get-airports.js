@@ -79,6 +79,12 @@ for (const airportsRecord of airportsRecords) {
     // Remove airport from list of Aerofly FS4 Airports
     aeroflyAirports.delete(aeroflyCode);
 
+    if (aeroflyCode !== bestCode) {
+      process.stdout
+        .write(`  > Mismatching codes for airport: Using \x1b[93m${bestCode}\x1b[0m, was \x1b[93m${aeroflyCode}\x1b[0m from Aerofly FS4 data
+`);
+    }
+
     const isMilitary =
       airportsRecord[3].match(/\b(base|rnas|raf|naval|air\s?force|coast\s?guard|army|afs|mod|cgas)\b/i) !== null;
     let type = airportsRecord[2];
@@ -90,7 +96,6 @@ for (const airportsRecord of airportsRecords) {
       new GeoJSON.Point(Number(airportsRecord[5]), Number(airportsRecord[4]), Number(airportsRecord[6]) * 0.3048),
       {
         title: bestCode,
-        aeroflyCode,
         type: geoJsonType(type, isMilitary, length),
         description: airportsRecord[3],
         elevation: Number(airportsRecord[6]),

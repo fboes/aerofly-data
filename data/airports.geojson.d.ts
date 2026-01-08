@@ -7,7 +7,6 @@ export interface AeroflyGeoJSONFeature {
   };
   properties: {
     title: string;
-    aeroflyCode: string;
     type: string;
     description: string;
     elevation: number;
