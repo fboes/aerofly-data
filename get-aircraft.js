@@ -55,8 +55,8 @@ const summaryContent =
   `\
 # Aerofly FS Aircraft Summary
 
-| Aircraft Name                        | ICAO Code | Aerofly FS Code | Approach Speed (kts) | Cruise Altitude (ft) | Cruise Speed (kts) | Maximum Range (nm) |
-| ------------------------------------ | --------- | --------------- | -------------------: | -------------------: | -----------------: | -----------------: |
+| Aircraft Name                        | ICAO Code | Aerofly FS Code | Approach Speed (kts) | Cruise Altitude (ft) | Cruise Speed (kts) | Maximum Range (nm) | Liveries |
+| ------------------------------------ | --------- | --------------- | -------------------: | -------------------: | -----------------: | -----------------: | --------: |
 ` +
   sortedAircraft
     .map((aircraft) => {
@@ -70,6 +70,7 @@ const summaryContent =
           numberFormat(aircraft.cruiseAltitudeFt),
           numberFormat(aircraft.cruiseSpeedKts),
           numberFormat(aircraft.maximumRangeNm),
+          numberFormat(aircraft.liveries.length),
         ].join(" | ") +
         " |"
       );

@@ -10,18 +10,21 @@ It also contains [airport and navigation aid icons](./icons/) suitable for maps.
 
 The `data` directory contains the following files:
 
-| File                                                                                  | Description                                                                             |
-| ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| [`aircraft-liveries.json`](./data/aircraft-liveries.json)                             | JSON file containing detailed information about all aircraft, including liveries.       |
-| [`aircraft-select-optgroup.html`](./data/aircraft-select-optgroup.html)               | HTML snippet file containing all aircraft, grouped by category                          |
-| [`aircraft-livery-select-optgroup.html`](./data/aircraft-livery-select-optgroup.html) | HTML snippet file containing all liveries, grouped by aircraft                          |
-| [`aircraft-select.html`](./data/aircraft-select.html)                                 | HTML snippet file containing all aircraft                                               |
-| [`aircraft.json`](./data/aircraft.json)                                               | JSON file containing abbreviated information about all aircraft (without liveries).     |
-| [`aircraft.md`](./data/aircraft.md)                                                   | Markdown file containing abbreviated information about all aircraft (without liveries). |
-| [`airport-list.json`](./data/airport-list.json)                                       | JSON file containing an array of all ICAO codes.                                        |
-| [`airports-custom.md`](./data/airports-custom.md)                                     | Markdown file containing all airports supplied by community                             |
-| [`airports-unmatched.md`](./data/airports-unmatched.md)                               | Markdown file containing all airports not contained in `aiports.geojson`                |
-| [`airports.geojson`](./data/airports.geojson)                                         | GeoJSON file containing the location of all airports in Aerofly FS 4.                   |
+| File                                                                                  | Description                                                                                      |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| [`aircraft-liveries.json`](./data/aircraft-liveries.json)                             | JSON file containing detailed information about all aircraft, including liveries.                |
+| [`aircraft-select-optgroup.html`](./data/aircraft-select-optgroup.html)               | HTML snippet file containing all aircraft, grouped by category                                   |
+| [`aircraft-livery-select-optgroup.html`](./data/aircraft-livery-select-optgroup.html) | HTML snippet file containing all liveries, grouped by aircraft                                   |
+| [`aircraft-select.html`](./data/aircraft-select.html)                                 | HTML snippet file containing all aircraft                                                        |
+| [`aircraft.json`](./data/aircraft.json)                                               | JSON file containing abbreviated information about all aircraft (without liveries).              |
+| [`aircraft.md`](./data/aircraft.md)                                                   | Markdown file containing abbreviated information about all aircraft (without liveries).          |
+| [`airport-coordinates.json`](./data/airport-coordinates.json)                         | JSON file containing an array of all airports with ICAO code, name as well as WGS84 coordinates. |
+| [`airport-list.json`](./data/airport-list.json)                                       | JSON file containing an array of all ICAO codes.                                                 |
+| [`airports-custom.md`](./data/airports-custom.md)                                     | Markdown file containing all airports supplied by community                                      |
+| [`airports-unmatched.md`](./data/airports-unmatched.md)                               | Markdown file containing all airports not contained in `aiports.geojson`                         |
+| [`airports.geojson`](./data/airports.geojson)                                         | GeoJSON file containing the location of all airports in Aerofly FS 4.                            |
+
+Also be aware that these files can be called as a very simple REST API using static hosting at https://fboes.github.io/aerofly-data/.
 
 ## Building
 
