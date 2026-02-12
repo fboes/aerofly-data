@@ -27,7 +27,10 @@
         <div class="inputbox">
           <input type="text" id="icaoInput" list="icaoInputList" placeholder="ICAO code" pattern="A-Za-z0-9" autocapitalize="characters" autofocus="autofocus" />
           <datalist id="icaoInputList"> </datalist>
+        </div>
+        <div>
           <span id="status" title="Enter an ICAO code to check if the airport is present in Aerofly FS 4" role="status">❓</span>
+          <output id="airport-info" role="region" aria-live="polite"></output>
         </div>
       </div>
       <button id="info-button" aria-label="Show info dialog" popovertarget="info-dialog">?</button>

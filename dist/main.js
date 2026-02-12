@@ -22,8 +22,9 @@ const inputField = document.getElementById("icaoInput");
 const statusField = document.getElementById("status");
 const datalist = document.getElementById("icaoInputList");
 const statusAirportCount = document.getElementById("data-status");
+const airportInfo = document.getElementById("airport-info");
 
-if (!inputField || !(inputField instanceof HTMLInputElement) || !statusField || !datalist || !statusAirportCount) {
+if (!inputField || !(inputField instanceof HTMLInputElement) || !statusField || !datalist || !statusAirportCount || !airportInfo) {
   throw new Error("Missing required HTML elements");
 }
 
@@ -117,6 +118,9 @@ const onInput = () => {
   if (filtered.length === 1 && inputValue.length >= 4) {
     statusField.textContent = "✅"; // Green checkmark
     statusField.title = "Airport is present in Aerofly FS 4";
+    airportInfo.innerHTML = `<a href="https://skyvector.com/airport/${filtered[0][0]}" target="secondary" rel="noopener noreferrer" title="Open on Skyvector">${filtered[0][0]}</a>\
+     - <a href="https://www.google.com/maps/place/${filtered[0][2]},${filtered[0][3]}" target="secondary" rel="noopener noreferrer" title="Open on Google Maps">${filtered[0][1]}</a>`; // Display airport info
+    airportInfo.style.display = "inline-block"; // Ensure airport info is visible
     map.flyTo({
       center: [filtered[0][3], filtered[0][2]], // Longitude, Latitude
       zoom: 10,
@@ -124,9 +128,13 @@ const onInput = () => {
   } else if (inputValue.trim() === "") {
     statusField.textContent = "❓"; // Question mark for empty input
     statusField.title = "Enter an ICAO code to check if the airport is present in Aerofly FS 4";
+    airportInfo.textContent = ""; // Clear airport info when input is empty
+    airportInfo.style.display = "none"; // Hide airport info when input is empty
   } else {
     statusField.textContent = "🚫"; // Red forbidden sign
     statusField.title = "Airport is NOT present in Aerofly FS 4";
+    airportInfo.textContent = ""; // Clear airport info when no match
+    airportInfo.style.display = "none"; // Hide airport info when no match
   }
   statusField.setAttribute("aria-label", statusField.title);
 };

@@ -76,7 +76,11 @@ const summaryContent =
       );
     })
     .join("\n") +
-  "\n";
+  `\
+
+- Total Aircraft: **${numberFormat(sortedAircraft.length)}**
+- Total Liveries: **${numberFormat(sortedAircraft.reduce((sum, aircraft) => sum + aircraft.liveries.length, 0))}**
+`;
 
 await fs.promises.writeFile(summaryFilePath, summaryContent, "utf-8");
 process.stdout.write(`Summary written to \x1b[92m${summaryFilePath}\x1b[0m\n`);
