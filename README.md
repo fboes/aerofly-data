@@ -30,14 +30,19 @@ Also be aware that these files can be called as a very simple REST API using sta
 
 To generate a new list of all airports available in Aerofly FS 4:
 
-1. Install this project  
-   `npm install`
-2. Download a list of all airports from https://ourairports.com/data/ to `tmp/airports.csv`.  
-   `npm run fetch-csv`
-3. Generate airport output files via:  
-   `node ./get-airports.js 'C:\SteamLibrary\steamapps\common\Aerofly FS 4 Flight Simulator\scenery\airports_db'`
-4. Generate aircraft output files via:  
-   `node ./get-aircraft.js 'C:\SteamLibrary\steamapps\common\Aerofly FS 4 Flight Simulator\aircraft'`
+```bash
+# 1. Install this project
+npm install
+
+# 2. Download a list of all airports from https://ourairports.com/data/ to tmp/airports.csv.
+npm run fetch-csv
+
+# 3. Generate airport output files via:
+node ./get-airports.js 'C:\SteamLibrary\steamapps\common\Aerofly FS 4 Flight Simulator\scenery\airports_db'
+
+# 4. Generate aircraft output files via:
+node ./get-aircraft.js 'C:\SteamLibrary\steamapps\common\Aerofly FS 4 Flight Simulator\aircraft'
+```
 
 ## Status
 
