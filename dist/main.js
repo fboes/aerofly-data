@@ -24,7 +24,14 @@ const datalist = document.getElementById("icaoInputList");
 const statusAirportCount = document.getElementById("data-status");
 const airportInfo = document.getElementById("airport-info");
 
-if (!inputField || !(inputField instanceof HTMLInputElement) || !statusField || !datalist || !statusAirportCount || !airportInfo) {
+if (
+  !inputField ||
+  !(inputField instanceof HTMLInputElement) ||
+  !statusField ||
+  !datalist ||
+  !statusAirportCount ||
+  !airportInfo
+) {
   throw new Error("Missing required HTML elements");
 }
 

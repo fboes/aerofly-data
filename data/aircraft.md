@@ -45,3 +45,6 @@
 | Sikorsky UH-60M Black Hawk           | `H60`     | `uh60`          |                   70 |                9,843 |                160 |                252 |       10 |
 | Sopwith F.1 Camel                    | `CAML`    | `camel`         |                   45 |                9,843 |                100 |                124 |        1 |
 | Vought F4U Corsair                   | `CORS`    | `f4u`           |                  105 |               20,000 |                389 |                930 |        3 |
+
+- Total Aircraft: **43**
+- Total Liveries: **617**
