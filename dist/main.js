@@ -45,7 +45,7 @@ window.addEventListener("DOMContentLoaded", () => {
 const map = new mapboxgl.Map({
   container: "map",
   style: "mapbox://styles/fboes/cls6d447f00xy01qsds04606f",
-  accessToken: "pk.eyJ1IjoiZmJvZXMiLCJhIjoiY2xjZWsyZmo2MDh3cjNybWljM2cxNDA4cSJ9.jsRuxcBPqXXsDjDOnUAZFw",
+  accessToken: "pk.eyJ1IjoiZmJvZXMiLCJhIjoiY2xjZWsyZmo2MDh3cjNybWljM2cxNDA4cSJ9.jsRuxcBPqXXsDjDOnUAZFw", // Public token with limited permissions
   projection: "globe",
   zoom: 2,
   center: [15, 30],
