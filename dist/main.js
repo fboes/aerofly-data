@@ -78,7 +78,6 @@ map.addControl(
 map.on("style.load", () => {
   map.setFog({}); // Set the default atmosphere style
 
-  // Currently broken with the custom map style
   map.addSource("mapbox-dem", {
     type: "raster-dem",
     url: "mapbox://mapbox.mapbox-terrain-dem-v1",
@@ -102,9 +101,7 @@ const onInput = () => {
   if (inputValue.length >= 2) {
     // Filter airportList for codes starting with inputValue
     filtered = airportList.filter((entry) => entry[0].startsWith(inputValue) || entry[4]?.startsWith(inputValue));
-    // Clear existing options
     datalist.innerHTML = "";
-    // Add filtered options
     filtered.forEach((entry) => {
       const option = document.createElement("option");
       option.value = entry[0]; // ICAO code
@@ -123,25 +120,25 @@ const onInput = () => {
   }
 
   if (filtered.length === 1 && inputValue.length >= 4) {
-    statusField.textContent = "✅"; // Green checkmark
+    statusField.textContent = "✅";
     statusField.title = "Airport is present in Aerofly FS 4";
     airportInfo.innerHTML = `<a href="https://skyvector.com/airport/${filtered[0][0]}" target="secondary" rel="noopener noreferrer" title="Open on Skyvector">${filtered[0][0]}</a>\
-     - <a href="https://www.google.com/maps/place/${filtered[0][2]},${filtered[0][3]}" target="secondary" rel="noopener noreferrer" title="Open on Google Maps">${filtered[0][1]}</a>`; // Display airport info
-    airportInfo.style.display = "inline-block"; // Ensure airport info is visible
+     - <a href="https://www.google.com/maps/place/${filtered[0][2]},${filtered[0][3]}" target="secondary" rel="noopener noreferrer" title="Open on Google Maps">${filtered[0][1]}</a>`;
+    airportInfo.style.display = "inline-block";
     map.flyTo({
-      center: [filtered[0][3], filtered[0][2]], // Longitude, Latitude
+      center: [filtered[0][3], filtered[0][2]],
       zoom: 10,
     });
   } else if (inputValue.trim() === "") {
-    statusField.textContent = "❓"; // Question mark for empty input
+    statusField.textContent = "❓";
     statusField.title = "Enter an ICAO code to check if the airport is present in Aerofly FS 4";
-    airportInfo.textContent = ""; // Clear airport info when input is empty
-    airportInfo.style.display = "none"; // Hide airport info when input is empty
+    airportInfo.textContent = "";
+    airportInfo.style.display = "none";
   } else {
-    statusField.textContent = "🚫"; // Red forbidden sign
+    statusField.textContent = "🚫";
     statusField.title = "Airport is NOT present in Aerofly FS 4";
-    airportInfo.textContent = ""; // Clear airport info when no match
-    airportInfo.style.display = "none"; // Hide airport info when no match
+    airportInfo.textContent = "";
+    airportInfo.style.display = "none";
   }
   statusField.setAttribute("aria-label", statusField.title);
 };
@@ -157,7 +154,7 @@ fetch("../data/airport-coordinates.json")
       airportList = data.map((entry) => [...entry, entry[1].toUpperCase()]);
 
       statusAirportCount.textContent = `Loaded ${airportList.length} airports`;
-      onInput(); // Initial call to set status based on empty input
+      onInput();
     },
   )
   .catch((error) => {
