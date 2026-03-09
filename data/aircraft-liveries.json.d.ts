@@ -5,7 +5,7 @@ export type AeroflyAircraftLivery = {
   requirements: string[];
 };
 
-declare const AeroflyAircraftLiveries: Array<{
+export type AeroflyAircraft = {
   name: string;
   nameFull: string;
   icaoCode: string;
@@ -14,7 +14,11 @@ declare const AeroflyAircraftLiveries: Array<{
   cruiseAltitudeFt: number;
   cruiseSpeedKts: number;
   maximumRangeNm: number;
+  maximumFuelMassKg: number;
+  maximumPayloadKg: number;
   aeroflyCode: string;
   liveries: AeroflyAircraftLivery[];
-}>;
+};
+
+declare const AeroflyAircraftLiveries: Array<AeroflyAircraft>;
 export default AeroflyAircraftLiveries;

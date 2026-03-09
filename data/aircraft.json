@@ -19,7 +19,9 @@
     "approachAirspeedKts": 141,
     "cruiseAltitudeFt": 32000,
     "cruiseSpeedKts": 453,
-    "maximumRangeNm": 3050
+    "maximumRangeNm": 3050,
+    "maximumFuelMassKg": 19367,
+    "maximumPayloadKg": 17700
   },
   {
     "aeroflyCode": "a320",
@@ -41,7 +43,9 @@
     "approachAirspeedKts": 141,
     "cruiseAltitudeFt": 32000,
     "cruiseSpeedKts": 453,
-    "maximumRangeNm": 2900
+    "maximumRangeNm": 2900,
+    "maximumFuelMassKg": 19367,
+    "maximumPayloadKg": 20325
   },
   {
     "aeroflyCode": "a320_neo",
@@ -63,7 +67,9 @@
     "approachAirspeedKts": 136,
     "cruiseAltitudeFt": 32000,
     "cruiseSpeedKts": 453,
-    "maximumRangeNm": 3400
+    "maximumRangeNm": 3400,
+    "maximumFuelMassKg": 19050.9,
+    "maximumPayloadKg": 21000
   },
   {
     "aeroflyCode": "a321",
@@ -85,7 +91,9 @@
     "approachAirspeedKts": 147,
     "cruiseAltitudeFt": 32000,
     "cruiseSpeedKts": 453,
-    "maximumRangeNm": 2600
+    "maximumRangeNm": 2600,
+    "maximumFuelMassKg": 18960,
+    "maximumPayloadKg": 25300
   },
   {
     "aeroflyCode": "a350_1000",
@@ -108,7 +116,9 @@
     "approachAirspeedKts": 152,
     "cruiseAltitudeFt": 37000,
     "cruiseSpeedKts": 488,
-    "maximumRangeNm": 8909
+    "maximumRangeNm": 8909,
+    "maximumFuelMassKg": 124651,
+    "maximumPayloadKg": 68000
   },
   {
     "aeroflyCode": "a380",
@@ -130,7 +140,9 @@
     "approachAirspeedKts": 141,
     "cruiseAltitudeFt": 36000,
     "cruiseSpeedKts": 517,
-    "maximumRangeNm": 8800
+    "maximumRangeNm": 8800,
+    "maximumFuelMassKg": 254000,
+    "maximumPayloadKg": 92000
   },
   {
     "aeroflyCode": "antares",
@@ -153,7 +165,9 @@
     "approachAirspeedKts": 65,
     "cruiseAltitudeFt": 8202,
     "cruiseSpeedKts": 81,
-    "maximumRangeNm": 205
+    "maximumRangeNm": 205,
+    "maximumFuelMassKg": 126,
+    "maximumPayloadKg": 125
   },
   {
     "aeroflyCode": "asg29",
@@ -164,7 +178,9 @@
     "approachAirspeedKts": 54,
     "cruiseAltitudeFt": 8202,
     "cruiseSpeedKts": 76,
-    "maximumRangeNm": 0
+    "maximumRangeNm": 0,
+    "maximumFuelMassKg": 175,
+    "maximumPayloadKg": 125
   },
   {
     "aeroflyCode": "ask21",
@@ -175,7 +191,9 @@
     "approachAirspeedKts": 57,
     "cruiseAltitudeFt": 4921,
     "cruiseSpeedKts": 59,
-    "maximumRangeNm": 0
+    "maximumRangeNm": 0,
+    "maximumFuelMassKg": 0,
+    "maximumPayloadKg": 240
   },
   {
     "aeroflyCode": "b58",
@@ -186,7 +204,9 @@
     "approachAirspeedKts": 100,
     "cruiseAltitudeFt": 11000,
     "cruiseSpeedKts": 202,
-    "maximumRangeNm": 1480
+    "maximumRangeNm": 1480,
+    "maximumFuelMassKg": 520.87,
+    "maximumPayloadKg": 707
   },
   {
     "aeroflyCode": "b737",
@@ -207,7 +227,9 @@
     "approachAirspeedKts": 139,
     "cruiseAltitudeFt": 34000,
     "cruiseSpeedKts": 490,
-    "maximumRangeNm": 2800
+    "maximumRangeNm": 2800,
+    "maximumFuelMassKg": 16141,
+    "maximumPayloadKg": 9153
   },
   {
     "aeroflyCode": "b737_800",
@@ -228,7 +250,9 @@
     "approachAirspeedKts": 147,
     "cruiseAltitudeFt": 37000,
     "cruiseSpeedKts": 453,
-    "maximumRangeNm": 3000
+    "maximumRangeNm": 3000,
+    "maximumFuelMassKg": 20894,
+    "maximumPayloadKg": 19622
   },
   {
     "aeroflyCode": "b737_900",
@@ -249,7 +273,9 @@
     "approachAirspeedKts": 152,
     "cruiseAltitudeFt": 37000,
     "cruiseSpeedKts": 453,
-    "maximumRangeNm": 2600
+    "maximumRangeNm": 2600,
+    "maximumFuelMassKg": 23817,
+    "maximumPayloadKg": 23044
   },
   {
     "aeroflyCode": "b737_max9",
@@ -270,7 +296,9 @@
     "approachAirspeedKts": 154,
     "cruiseAltitudeFt": 37000,
     "cruiseSpeedKts": 453,
-    "maximumRangeNm": 3548
+    "maximumRangeNm": 3548,
+    "maximumFuelMassKg": 20730,
+    "maximumPayloadKg": 22000
   },
   {
     "aeroflyCode": "b747",
@@ -293,7 +321,9 @@
     "approachAirspeedKts": 150,
     "cruiseAltitudeFt": 34000,
     "cruiseSpeedKts": 492,
-    "maximumRangeNm": 7127
+    "maximumRangeNm": 7127,
+    "maximumFuelMassKg": 173425,
+    "maximumPayloadKg": 63234
   },
   {
     "aeroflyCode": "b777f",
@@ -315,7 +345,9 @@
     "approachAirspeedKts": 153,
     "cruiseAltitudeFt": 41000,
     "cruiseSpeedKts": 482,
-    "maximumRangeNm": 8100
+    "maximumRangeNm": 8100,
+    "maximumFuelMassKg": 145538,
+    "maximumPayloadKg": 103736
   },
   {
     "aeroflyCode": "b777_300er",
@@ -337,7 +369,9 @@
     "approachAirspeedKts": 150,
     "cruiseAltitudeFt": 41000,
     "cruiseSpeedKts": 482,
-    "maximumRangeNm": 7800
+    "maximumRangeNm": 7800,
+    "maximumFuelMassKg": 145538,
+    "maximumPayloadKg": 68903
   },
   {
     "aeroflyCode": "b787",
@@ -359,7 +393,9 @@
     "approachAirspeedKts": 159,
     "cruiseAltitudeFt": 40000,
     "cruiseSpeedKts": 482,
-    "maximumRangeNm": 8100
+    "maximumRangeNm": 8100,
+    "maximumFuelMassKg": 101085,
+    "maximumPayloadKg": 57277
   },
   {
     "aeroflyCode": "b787_9",
@@ -381,7 +417,9 @@
     "approachAirspeedKts": 155,
     "cruiseAltitudeFt": 40000,
     "cruiseSpeedKts": 482,
-    "maximumRangeNm": 6425
+    "maximumRangeNm": 6425,
+    "maximumFuelMassKg": 101085,
+    "maximumPayloadKg": 52586
   },
   {
     "aeroflyCode": "bf109e",
@@ -392,7 +430,9 @@
     "approachAirspeedKts": 94,
     "cruiseAltitudeFt": 13123,
     "cruiseSpeedKts": 309,
-    "maximumRangeNm": 432
+    "maximumRangeNm": 432,
+    "maximumFuelMassKg": 0,
+    "maximumPayloadKg": 0
   },
   {
     "aeroflyCode": "c172",
@@ -403,7 +443,9 @@
     "approachAirspeedKts": 62,
     "cruiseAltitudeFt": 8000,
     "cruiseSpeedKts": 130,
-    "maximumRangeNm": 696
+    "maximumRangeNm": 696,
+    "maximumFuelMassKg": 153.5,
+    "maximumPayloadKg": 398
   },
   {
     "aeroflyCode": "c90gtx",
@@ -414,7 +456,9 @@
     "approachAirspeedKts": 106,
     "cruiseAltitudeFt": 18000,
     "cruiseSpeedKts": 272,
-    "maximumRangeNm": 1192
+    "maximumRangeNm": 1192,
+    "maximumFuelMassKg": 1162.9,
+    "maximumPayloadKg": 1099
   },
   {
     "aeroflyCode": "camel",
@@ -425,7 +469,9 @@
     "approachAirspeedKts": 45,
     "cruiseAltitudeFt": 9843,
     "cruiseSpeedKts": 100,
-    "maximumRangeNm": 124
+    "maximumRangeNm": 124,
+    "maximumFuelMassKg": 0,
+    "maximumPayloadKg": 0
   },
   {
     "aeroflyCode": "concorde",
@@ -447,7 +493,9 @@
     "approachAirspeedKts": 182,
     "cruiseAltitudeFt": 55000,
     "cruiseSpeedKts": 1177,
-    "maximumRangeNm": 3553
+    "maximumRangeNm": 3553,
+    "maximumFuelMassKg": 95680,
+    "maximumPayloadKg": 13380
   },
   {
     "aeroflyCode": "crj900",
@@ -469,7 +517,9 @@
     "approachAirspeedKts": 138,
     "cruiseAltitudeFt": 38000,
     "cruiseSpeedKts": 470,
-    "maximumRangeNm": 1980
+    "maximumRangeNm": 1980,
+    "maximumFuelMassKg": 8888,
+    "maximumPayloadKg": 10247
   },
   {
     "aeroflyCode": "dr1",
@@ -480,7 +530,9 @@
     "approachAirspeedKts": 49,
     "cruiseAltitudeFt": 9843,
     "cruiseSpeedKts": 100,
-    "maximumRangeNm": 162
+    "maximumRangeNm": 162,
+    "maximumFuelMassKg": 0,
+    "maximumPayloadKg": 0
   },
   {
     "aeroflyCode": "dr400",
@@ -491,7 +543,9 @@
     "approachAirspeedKts": 62,
     "cruiseAltitudeFt": 5991,
     "cruiseSpeedKts": 167,
-    "maximumRangeNm": 586
+    "maximumRangeNm": 586,
+    "maximumFuelMassKg": 133,
+    "maximumPayloadKg": 0
   },
   {
     "aeroflyCode": "ec135",
@@ -502,7 +556,9 @@
     "approachAirspeedKts": 60,
     "cruiseAltitudeFt": 9000,
     "cruiseSpeedKts": 135,
-    "maximumRangeNm": 305
+    "maximumRangeNm": 305,
+    "maximumFuelMassKg": 568,
+    "maximumPayloadKg": 1258.4
   },
   {
     "aeroflyCode": "extra330",
@@ -513,7 +569,9 @@
     "approachAirspeedKts": 90,
     "cruiseAltitudeFt": 9843,
     "cruiseSpeedKts": 220,
-    "maximumRangeNm": 459
+    "maximumRangeNm": 459,
+    "maximumFuelMassKg": 0,
+    "maximumPayloadKg": 0
   },
   {
     "aeroflyCode": "f15e",
@@ -524,7 +582,9 @@
     "approachAirspeedKts": 174,
     "cruiseAltitudeFt": 40000,
     "cruiseSpeedKts": 1458,
-    "maximumRangeNm": 687
+    "maximumRangeNm": 687,
+    "maximumFuelMassKg": 6123.5,
+    "maximumPayloadKg": 0
   },
   {
     "aeroflyCode": "f18",
@@ -547,7 +607,9 @@
     "approachAirspeedKts": 144,
     "cruiseAltitudeFt": 40000,
     "cruiseSpeedKts": 1034,
-    "maximumRangeNm": 1089
+    "maximumRangeNm": 1089,
+    "maximumFuelMassKg": 4903.3,
+    "maximumPayloadKg": 0
   },
   {
     "aeroflyCode": "f4u",
@@ -569,7 +631,9 @@
     "approachAirspeedKts": 105,
     "cruiseAltitudeFt": 20000,
     "cruiseSpeedKts": 389,
-    "maximumRangeNm": 930
+    "maximumRangeNm": 930,
+    "maximumFuelMassKg": 0,
+    "maximumPayloadKg": 0
   },
   {
     "aeroflyCode": "ju52",
@@ -580,7 +644,9 @@
     "approachAirspeedKts": 82,
     "cruiseAltitudeFt": 19685,
     "cruiseSpeedKts": 136,
-    "maximumRangeNm": 648
+    "maximumRangeNm": 648,
+    "maximumFuelMassKg": 1920,
+    "maximumPayloadKg": 3825
   },
   {
     "aeroflyCode": "jungmeister",
@@ -591,7 +657,9 @@
     "approachAirspeedKts": 55,
     "cruiseAltitudeFt": 13123,
     "cruiseSpeedKts": 119,
-    "maximumRangeNm": 270
+    "maximumRangeNm": 270,
+    "maximumFuelMassKg": 0,
+    "maximumPayloadKg": 0
   },
   {
     "aeroflyCode": "lj45",
@@ -611,7 +679,9 @@
     "approachAirspeedKts": 131,
     "cruiseAltitudeFt": 41000,
     "cruiseSpeedKts": 486,
-    "maximumRangeNm": 1937
+    "maximumRangeNm": 1937,
+    "maximumFuelMassKg": 2748,
+    "maximumPayloadKg": 908
   },
   {
     "aeroflyCode": "mb339",
@@ -622,7 +692,9 @@
     "approachAirspeedKts": 120,
     "cruiseAltitudeFt": 25000,
     "cruiseSpeedKts": 486,
-    "maximumRangeNm": 1188
+    "maximumRangeNm": 1188,
+    "maximumFuelMassKg": 0,
+    "maximumPayloadKg": 0
   },
   {
     "aeroflyCode": "me262",
@@ -633,7 +705,9 @@
     "approachAirspeedKts": 119,
     "cruiseAltitudeFt": 19685,
     "cruiseSpeedKts": 432,
-    "maximumRangeNm": 57
+    "maximumRangeNm": 57,
+    "maximumFuelMassKg": 0,
+    "maximumPayloadKg": 0
   },
   {
     "aeroflyCode": "p38",
@@ -644,7 +718,9 @@
     "approachAirspeedKts": 109,
     "cruiseAltitudeFt": 20000,
     "cruiseSpeedKts": 315,
-    "maximumRangeNm": 1031
+    "maximumRangeNm": 1031,
+    "maximumFuelMassKg": 0,
+    "maximumPayloadKg": 0
   },
   {
     "aeroflyCode": "pitts",
@@ -655,7 +731,9 @@
     "approachAirspeedKts": 90,
     "cruiseAltitudeFt": 9843,
     "cruiseSpeedKts": 132,
-    "maximumRangeNm": 216
+    "maximumRangeNm": 216,
+    "maximumFuelMassKg": 0,
+    "maximumPayloadKg": 0
   },
   {
     "aeroflyCode": "q400",
@@ -676,7 +754,9 @@
     "approachAirspeedKts": 143,
     "cruiseAltitudeFt": 24000,
     "cruiseSpeedKts": 286,
-    "maximumRangeNm": 1530
+    "maximumRangeNm": 1530,
+    "maximumFuelMassKg": 5318,
+    "maximumPayloadKg": 8489
   },
   {
     "aeroflyCode": "r22",
@@ -687,7 +767,9 @@
     "approachAirspeedKts": 60,
     "cruiseAltitudeFt": 6562,
     "cruiseSpeedKts": 105,
-    "maximumRangeNm": 209
+    "maximumRangeNm": 209,
+    "maximumFuelMassKg": 84.3,
+    "maximumPayloadKg": 171.08
   },
   {
     "aeroflyCode": "swift",
@@ -698,7 +780,9 @@
     "approachAirspeedKts": 63,
     "cruiseAltitudeFt": 6562,
     "cruiseSpeedKts": 65,
-    "maximumRangeNm": 0
+    "maximumRangeNm": 0,
+    "maximumFuelMassKg": 0,
+    "maximumPayloadKg": 130
   },
   {
     "aeroflyCode": "uh60",
@@ -709,6 +793,8 @@
     "approachAirspeedKts": 70,
     "cruiseAltitudeFt": 9843,
     "cruiseSpeedKts": 160,
-    "maximumRangeNm": 252
+    "maximumRangeNm": 252,
+    "maximumFuelMassKg": 2222,
+    "maximumPayloadKg": 3800
   }
 ]
