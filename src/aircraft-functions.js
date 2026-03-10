@@ -26,6 +26,7 @@ import * as path from "path";
  *     aeroflyCode: string,
  *     name: string,
  *     requirements: string[],
+ *     icaoCode?: string,
  *   }[],
  * }}
  */
@@ -70,11 +71,26 @@ export const getAeroflyAircraft = (directory) => {
         .map((dirent) => {
           const tmdFileContent = fs.readFileSync(path.join(dirent.parentPath, dirent.name, "option.tmc"), "utf8");
 
-          return {
+          /**
+           * @type {{
+           *   aeroflyCode: string,
+           *   name: string,
+           *   requirements: string[],
+           *   icaoCode?: string,
+           * }}
+           */
+          const livery = {
             aeroflyCode: dirent.name,
             name: parseTmdLine(tmdFileContent, "Description"),
             requirements: parseRequirements(tmdFileContent),
           };
+
+          const liveryIcaoCode = getLiveryIcaoCode(livery.name);
+          if (liveryIcaoCode !== "") {
+            livery.icaoCode = "";
+          }
+
+          return livery;
         }),
     ];
 
@@ -84,6 +100,14 @@ export const getAeroflyAircraft = (directory) => {
       liveries,
     };
   });
+};
+
+/**
+ * @param {string} airlineName
+ * @returns {string} icaoCode of airline
+ */
+const getLiveryIcaoCode = (airlineName) => {
+  return "";
 };
 
 /**

@@ -26,6 +26,13 @@ The `data` directory contains the following files:
 
 Also be aware that these files can be called as a very simple REST API using static hosting at https://fboes.github.io/aerofly-data/.
 
+Also the JSON files can be loaded in Node.js / TypeScript:
+
+```typescript
+import AeroflyAircraftLiveries from "@fboes/aerofly-data/data/aircraft-liveries.json" with { type: "json" };
+import type { AeroflyAircraft, AeroflyAircraftLivery } from "@fboes/aerofly-data/data/aircraft-liveries.json";
+```
+
 ## Building
 
 To generate a new list of all airports available in Aerofly FS 4:

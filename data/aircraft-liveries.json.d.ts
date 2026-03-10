@@ -3,6 +3,7 @@ export type AeroflyAircraftLivery = {
   aeroflyCode: string;
   name: string;
   requirements: string[];
+  icaoCode?: string;
 };
 
 export type AeroflyAircraft = {

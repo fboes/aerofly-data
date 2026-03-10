@@ -13,6 +13,28 @@
   "type": "module",
   "author": "Frank Boës <info@3960.org> (https://3960.org/)",
   "license": "MIT",
+  "exports": {
+    "./data/aircraft-liveries.json": {
+      "default": "./data/aircraft-liveries.json",
+      "types": "./data/aircraft-liveries.json.d.ts"
+    },
+    "./data/aircraft.json": {
+      "default": "./data/aircraft.json",
+      "types": "./data/aircraft.json.d.ts"
+    },
+    "./data/airport-coordinates.json": {
+      "default": "./data/airport-coordinates.json",
+      "types": "./data/airport-coordinates.json.d.ts"
+    },
+    "./data/airport-list.json": {
+      "default": "./data/airport-list.json",
+      "types": "./data/airport-list.json.d.ts"
+    },
+    "./data/airports.json": {
+      "default": "./data/airports.json",
+      "types": "./data/airports.json.d.ts"
+    }
+  },
   "dependencies": {
     "@fboes/geojson": "^1.0.0",
     "csv-parse": "^5.5.3"
