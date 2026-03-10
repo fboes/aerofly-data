@@ -135,7 +135,7 @@ process.stdout.write(`GeoJSON data written to \x1b[92m${outputFilePath}\x1b[0m\n
 
 // Write the ICAO codes to airport-list.json
 const icaoListFilePath = path.join(outputDirectory, "airport-list.json");
-fs.writeFileSync(icaoListFilePath, JSON.stringify(icaoCodes.sort(), null, 2), "utf-8");
+fs.writeFileSync(icaoListFilePath, JSON.stringify(icaoCodes.sort(), null, 2) + "\n", "utf-8");
 process.stdout.write(`ICAO code list written to \x1b[92m${icaoListFilePath}\x1b[0m\n`);
 
 // Write the ICAO codes with aiport names and geocoordinates to airport-coordinates.json
@@ -148,7 +148,7 @@ const icaoCoordinates = aeroflyGeoJson.features.map((feature) => {
   ];
 });
 const icaoCoordinatesFilePath = path.join(outputDirectory, "airport-coordinates.json");
-fs.writeFileSync(icaoCoordinatesFilePath, JSON.stringify(icaoCoordinates, null, 2), "utf-8");
+fs.writeFileSync(icaoCoordinatesFilePath, JSON.stringify(icaoCoordinates, null, 2) + "\n", "utf-8");
 process.stdout.write(`ICAO coordinates list written to \x1b[92m${icaoCoordinatesFilePath}\x1b[0m\n`);
 
 // Write the missing codes to airports-unmatched.md

@@ -58,7 +58,7 @@ export const getAeroflyAircraft = (directory) => {
     const liveries = [
       {
         aeroflyCode: "default",
-        name: parseTmdLine(tmdOptionFileContent, "Description"),
+        name: parseTmdLine(tmdOptionFileContent, "Description").trim(),
         requirements: parseRequirements(tmdOptionFileContent),
       },
       ...fs
@@ -81,13 +81,13 @@ export const getAeroflyAircraft = (directory) => {
            */
           const livery = {
             aeroflyCode: dirent.name,
-            name: parseTmdLine(tmdFileContent, "Description"),
+            name: parseTmdLine(tmdFileContent, "Description").trim(),
             requirements: parseRequirements(tmdFileContent),
           };
 
           const liveryIcaoCode = getLiveryIcaoCode(livery.name);
           if (liveryIcaoCode !== "") {
-            livery.icaoCode = "";
+            livery.icaoCode = liveryIcaoCode;
           }
 
           return livery;
@@ -103,11 +103,92 @@ export const getAeroflyAircraft = (directory) => {
 };
 
 /**
+ * Convert airline name to airline ICA code
  * @param {string} airlineName
  * @returns {string} icaoCode of airline
  */
 const getLiveryIcaoCode = (airlineName) => {
-  return "";
+  const name = airlineName.toLowerCase();
+  switch (name) {
+    case "american airlines":
+    case "american":
+      return "AAL";
+    case "all nippon airways":
+      return "ANA";
+    case "american airlines":
+      return "AAL";
+    case "lufthansa":
+      return "DLH";
+    case "united airlines":
+    case "united":
+      return "UAL";
+    case "delta air lines":
+    case "delta":
+      return "DAL";
+    case "air france":
+      return "AFR";
+    case "british airways":
+      return "BAW";
+    case "china southern airlines":
+      return "CSN";
+    case "turkish airlines":
+      return "THY";
+    case "air canada":
+      return "ACA";
+    case "etihad airways":
+    case "ethiad":
+      return "ETD";
+    case "latam airlines":
+    case "latam":
+      return "LAN";
+    case "tam airlines":
+    case "tam":
+      return "TAM";
+    case "jetblue airways":
+    case "jetblue":
+      return "JBU";
+    case "azul brazilian airlines":
+      return "AZU";
+    case "china eastern airlines":
+      return "CES";
+    case "ethiopian airlines":
+      return "ETH";
+    case "klm royal dutch airlines":
+    case "klm":
+      return "KLM";
+    case "korean air":
+    case "korean air lines":
+      return "KAL";
+    case "qatar airways":
+      return "QTR";
+    case "swiss international air lines":
+    case "swiss":
+      return "SWR";
+    case "hawaiian airlines":
+      return "HVN";
+    case "eurowings":
+      return "EWG";
+    case "easyjet":
+      return "EZY";
+    case "iberia":
+      return "IBE";
+    case "sas":
+      return "SAS";
+    case "aeroflot":
+      return "AFL";
+    case "air china":
+      return "CCA";
+    case "alitalia":
+      return "AZA";
+    case "brussels airlines":
+      return "BEL";
+    case "cathay pacific":
+      return "CPA";
+    case "china southern":
+      return "CSN";
+    default:
+      return "";
+  }
 };
 
 /**

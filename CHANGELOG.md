@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.5.1] - 2026-03-10
 
+- Added ICAO code to liveries which belong to known airlines
 - Improved `NodeNext` compatibility of JSON exports
 
 ## [1.5.0] - 2026-03-09
