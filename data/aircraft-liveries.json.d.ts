@@ -15,8 +15,10 @@ export type AeroflyAircraft = {
   cruiseAltitudeFt: number;
   cruiseSpeedKts: number;
   maximumRangeNm: number;
-  maximumFuelMassKg: number;
-  maximumPayloadKg: number;
+  maximumFuelMassKg?: number;
+  maximumPayloadKg?: number;
+  maximumTakeoffMassKg?: number;
+  operatingEmptyMassKg?: number;
   aeroflyCode: string;
   liveries: AeroflyAircraftLivery[];
 };

@@ -14,8 +14,10 @@ import * as path from "path";
  *   cruiseAltitudeFt: number,
  *   cruiseSpeedKts: number,
  *   maximumRangeNm: number,
- *   maximumFuelMassKg: number,
- *   maximumPayloadKg: number,
+ *   maximumFuelMassKg?: number,
+ *   maximumPayloadKg?: number,
+ *   maximumTakeoffMassKg?: number,
+ *   operatingEmptyMassKg?: number,
  * }}
  */
 /**
@@ -233,8 +235,10 @@ export const parseAircraft = (tmdFileContent) => {
       .trim()
       .split(" ")
       .map((v) => convertSpeed(v)),*/
-    maximumFuelMassKg: Number(parseTmdLine(tmdFileContent, "MaximumFuelMass")),
-    maximumPayloadKg: Number(parseTmdLine(tmdFileContent, "MaximumPayload")),
+    maximumFuelMassKg: Number(parseTmdLine(tmdFileContent, "MaximumFuelMass")) || undefined,
+    maximumPayloadKg: Number(parseTmdLine(tmdFileContent, "MaximumPayload")) || undefined,
+    maximumTakeoffMassKg: Number(parseTmdLine(tmdFileContent, "MaximumTakeoffMass")) || undefined,
+    operatingEmptyMassKg: Number(parseTmdLine(tmdFileContent, "OperatingEmptyMass")) || undefined,
   };
 };
 
