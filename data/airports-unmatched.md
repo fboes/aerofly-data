@@ -88,7 +88,6 @@ The following Aerofly FS4 Airports were not matched to any known airport. You ma
 1. `KMFH`
 1. `LSEA`
 1. `LSEG`
-1. `LSHA`
 1. `LSHB`
 1. `LSHD`
 1. `LSHE`
@@ -147,13 +146,11 @@ The following Aerofly FS4 Airports were not matched to any known airport. You ma
 1. `LSYJ`
 1. `LSYN`
 1. `LSYP`
-1. `LSYQ`
 1. `LSYT`
 1. `LSYU`
 1. `LSYV`
 1. `LSYW`
 1. `LSYY`
-1. `LSYZ`
 1. `LZZZ`
 1. `NERS`
 1. `NPMNTV`

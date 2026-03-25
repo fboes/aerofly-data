@@ -3346,8 +3346,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          155.728139,
-          -6.305417,
+          155.728249,
+          -6.305727,
           6.096
         ]
       },
@@ -5673,6 +5673,48 @@
         "fileSize": 0,
         "marker-symbol": "heliport",
         "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.234131,
+          46.123348,
+          2160.1176
+        ]
+      },
+      "properties": {
+        "title": "LSYQ",
+        "type": "private_airfield",
+        "description": "Croix de Coeur Altiport",
+        "elevation": 7087,
+        "municipality": "Riddes",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.23288,
+          46.320653,
+          0
+        ]
+      },
+      "properties": {
+        "title": "LSYZ",
+        "type": "private_airfield",
+        "description": "Altiport du Glacier de Tsanfleuron",
+        "elevation": 0,
+        "municipality": "Savièse",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -16577,8 +16619,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.343611,
-          53.972221,
+          13.343377,
+          53.972761,
           32.004000000000005
         ]
       },
@@ -16619,8 +16661,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.668611,
-          53.832779,
+          13.668607,
+          53.832801,
           4.8768
         ]
       },
@@ -16661,8 +16703,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.0875,
-          52.481667,
+          14.090738,
+          52.482791,
           67.9704
         ]
       },
@@ -19370,8 +19412,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.737545,
-          51.60725,
+          13.737702,
+          51.60743,
           117.04320000000001
         ]
       },
@@ -19391,8 +19433,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.22046,
-          53.917028,
+          13.22026,
+          53.917731,
           7.9248
         ]
       },
@@ -19476,8 +19518,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.111389,
-          52.687222,
+          10.11278,
+          52.688163,
           63.0936
         ]
       },
@@ -42729,8 +42771,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.609881,
-          22.374402,
+          31.611734,
+          22.375924,
           187.1472
         ]
       },
@@ -42742,7 +42784,7 @@
         "municipality": "Abu Simbel",
         "fileSize": 936,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -45756,8 +45798,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.810997009,
-          48.0537986755,
+          -122.810997,
+          48.053799,
           32.9184
         ]
       },
@@ -90444,7 +90486,7 @@
         "municipality": "Mahón (Maó)",
         "fileSize": 1192,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -93940,7 +93982,7 @@
         "municipality": "Montpellier/Méditerranée",
         "fileSize": 1280,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -94856,8 +94898,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.37944,
-          48.72333,
+          2.358963,
+          48.729499,
           88.69680000000001
         ]
       },
@@ -99422,21 +99464,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.98795,
-          44.088001,
+          9.987877,
+          44.087375,
           13.716000000000001
         ]
       },
       "properties": {
         "title": "LIQW",
-        "type": "medium_airbase",
-        "description": "Sarzana-Luni Air Base",
+        "type": "medium_airport",
+        "description": "Sarzana-Luni Bartolomeo Arrigoni Airport",
         "elevation": 45,
         "municipality": "Sarzana (SP)",
         "fileSize": 1184,
         "marker-symbol": "airport",
-        "marker-color": "#555555",
-        "isMilitary": true
+        "marker-color": "#555555"
       }
     },
     {
@@ -102937,16 +102978,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.753366470336914,
-          46.029319763183594,
-          0
+          7.753366,
+          46.02932,
+          1615.44
         ]
       },
       "properties": {
         "title": "LSEZ",
         "type": "private_airfield",
         "description": "Zermatt  Heliport",
-        "elevation": 0,
+        "elevation": 5300,
         "municipality": "Zermatt",
         "fileSize": 0,
         "marker-symbol": "heliport",
@@ -103029,7 +103070,7 @@
       "properties": {
         "title": "LSGG",
         "type": "large_airport",
-        "description": "Geneva Cointrin International Airport",
+        "description": "Geneva International Airport",
         "elevation": 1411,
         "municipality": "Geneva",
         "fileSize": 2664,
@@ -103063,15 +103104,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.61667,
-          46.5453,
+          6.616629,
+          46.54509,
           622.0968
         ]
       },
       "properties": {
         "title": "LSGL",
         "type": "medium_airport",
-        "description": "Lausanne-Blécherette Airfield",
+        "description": "Lausanne la Blécherette Airport",
         "elevation": 2041,
         "municipality": "Lausanne",
         "fileSize": 1200,
@@ -103190,8 +103231,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.61333,
-          46.761902,
+          6.613178,
+          46.761871,
           433.12080000000003
         ]
       },
@@ -103204,6 +103245,27 @@
         "fileSize": 0,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.27132,
+          46.42948,
+          1096.9752
+        ]
+      },
+      "properties": {
+        "title": "LSHA",
+        "type": "private_airfield",
+        "description": "Gstaad-Inn Grund Heliport",
+        "elevation": 3599,
+        "municipality": "",
+        "fileSize": 0,
+        "marker-symbol": "heliport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -104330,8 +104392,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.09083,
-          47.183601,
+          7.09085,
+          47.183374,
           684.8856000000001
         ]
       },
@@ -104372,8 +104434,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.87861,
-          46.160801,
+          8.878908,
+          46.162535,
           198.12
         ]
       },
@@ -104456,8 +104518,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.29,
-          47.089199,
+          7.289055,
+          47.088242,
           437.99760000000003
         ]
       },
@@ -104477,8 +104539,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.028648,
-          47.392677,
+          7.028956,
+          47.392408,
           568.7568
         ]
       },
@@ -105006,8 +105068,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.365299224853516,
-          39.451499938964844,
+          31.365299,
+          39.4515,
           970.788
         ]
       },
@@ -105536,8 +105598,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.128111,
-          39.113079,
+          30.130405,
+          39.111107,
           1014.0696
         ]
       },
@@ -105977,8 +106039,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.282223,
-          36.362778,
+          36.285589,
+          36.36079,
           81.9912
         ]
       },
@@ -106103,8 +106165,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.300598,
-          36.299217,
+          32.297017,
+          36.298832,
           28.041600000000003
         ]
       },
@@ -108068,12 +108130,12 @@
       "properties": {
         "title": "MMCC",
         "type": "small_airport",
-        "description": "Ciudad Acuña New International Airport",
+        "description": "Ciudad Acuña International Airport",
         "elevation": 1410,
         "municipality": "Ciudad Acuña",
         "fileSize": 952,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -115129,8 +115191,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.587101,
-          27.319099,
+          49.586749,
+          27.318733,
           21.031200000000002
         ]
       },
@@ -115139,7 +115201,7 @@
         "type": "closed",
         "description": "Abu Ali Airport",
         "elevation": 69,
-        "municipality": "Al Jubail",
+        "municipality": "Jubail",
         "fileSize": 920,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -116108,7 +116170,7 @@
         "type": "small_airport",
         "description": "Aghajari Airport",
         "elevation": 88,
-        "municipality": "Aghajari",
+        "municipality": "Omidiyeh",
         "fileSize": 944,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -116623,8 +116685,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          48.552502,
-          34.869202,
+          48.56069,
+          34.866416,
           1754.124
         ]
       },
@@ -116715,13 +116777,14 @@
       },
       "properties": {
         "title": "OIIC",
-        "type": "small_airport",
-        "description": "Kushke Nosrat Airport",
+        "type": "small_airbase",
+        "description": "Manzariyeh Air Base",
         "elevation": 3008,
         "municipality": "Qāshqābolāq",
         "fileSize": 992,
         "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-color": "#777777",
+        "isMilitary": true
       }
     },
     {
@@ -117844,8 +117907,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.511215,
-          29.344632,
+          47.520118,
+          29.346905,
           143.8656
         ]
       },
@@ -122857,12 +122920,12 @@
       "properties": {
         "title": "OPJI",
         "type": "small_airport",
-        "description": "Jiwani Airport (INACTIVE}",
+        "description": "Jiwani Airport",
         "elevation": 186,
         "municipality": "Jiwani",
         "fileSize": 928,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -123725,12 +123788,12 @@
       "properties": {
         "title": "RJAH",
         "type": "small_airport",
-        "description": "Ibaraki International Airport",
+        "description": "Ibaraki Airport",
         "elevation": 105,
         "municipality": "Omitama",
         "fileSize": 992,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -124109,8 +124172,8 @@
         "elevation": 340,
         "municipality": "Amakusa",
         "fileSize": 928,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -125481,7 +125544,7 @@
       "properties": {
         "title": "RJTU",
         "type": "medium_airport",
-        "description": "Utsunomiya Airport",
+        "description": "Utsunomiya Air Field",
         "elevation": 334,
         "municipality": "Utsunomiya",
         "fileSize": 1184,
@@ -134557,7 +134620,7 @@
       "properties": {
         "title": "SCQT",
         "type": "closed",
-        "description": "LasTacas Airport",
+        "description": "Las Tacas Airport",
         "elevation": 140,
         "municipality": "Quebrada Las Tacas",
         "fileSize": 920,
@@ -151335,7 +151398,7 @@
         "municipality": "Pskov",
         "fileSize": 928,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -151448,8 +151511,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.598216,
-          54.889882,
+          20.598559,
+          54.89161,
           12.8016
         ]
       },
@@ -153058,7 +153121,7 @@
         "municipality": "Turkmenbaşy",
         "fileSize": 1056,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -153129,20 +153192,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          69.80500030517578,
-          37.98809814453125,
+          69.805,
+          37.988098,
           698.9064000000001
         ]
       },
       "properties": {
         "title": "UTDK",
         "type": "small_airport",
-        "description": "Kulob Airport",
+        "description": "Kulob International Airport",
         "elevation": 2293,
-        "municipality": "Kulyab",
+        "municipality": "Kulob",
         "fileSize": 928,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -153171,20 +153234,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          68.86470031738281,
-          37.86640167236328,
+          68.864475,
+          37.866315,
           448.97040000000004
         ]
       },
       "properties": {
         "title": "UTDT",
         "type": "small_airport",
-        "description": "Qurghonteppa International Airport",
+        "description": "Bokhtar International Airport",
         "elevation": 1473,
-        "municipality": "Kurgan-Tyube",
+        "municipality": "Bokhtar",
         "fileSize": 944,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -153241,7 +153304,7 @@
         ]
       },
       "properties": {
-        "title": "UTSN",
+        "title": "UZSN",
         "type": "small_airport",
         "description": "Sugraly Airport",
         "elevation": 1396,
@@ -153298,8 +153361,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.176399,
-          53.214199,
+          34.175965,
+          53.214403,
           202.0824
         ]
       },
@@ -153446,8 +153509,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.507222,
-          55.511667,
+          37.50719,
+          55.511369,
           173.12640000000002
         ]
       },
@@ -155158,9 +155221,9 @@
       "properties": {
         "title": "VEDX",
         "type": "small_airbase",
-        "description": "Kalaikunda Air Force Station",
+        "description": "Kharagpur Airport / Kalaikunda Air Force Station",
         "elevation": 200,
-        "municipality": "",
+        "municipality": "Doarkhol",
         "fileSize": 936,
         "marker-symbol": "airfield",
         "marker-color": "#777777",
@@ -161505,7 +161568,7 @@
         "type": "small_airport",
         "description": "Jalaluddin Airport",
         "elevation": 105,
-        "municipality": "Gorontalo-Celebes Island",
+        "municipality": "Gorontalo",
         "fileSize": 936,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -176130,8 +176193,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.811722,
-          40.164041,
+          94.812827,
+          40.161953,
           0
         ]
       },
