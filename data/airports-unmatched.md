@@ -158,15 +158,13 @@ The following Aerofly FS4 Airports were not matched to any known airport. You ma
 1. `NERS`
 1. `NPMNTV`
 1. `PCHP`
+1. `PKEK`
 1. `PRDV`
 1. `SBKB`
 1. `SBRJH0`
 1. `SWIQ`
-1. `UCFP`
 1. `UFTA`
 1. `USWHTH`
-1. `UTFA`
-1. `UTFF`
 1. `VNS10`
 1. `VNS8`
 1. `ZBTS`
