@@ -40,6 +40,7 @@ let airportsRecordsProcessed = 0;
 
 // Collect all ICAO codes
 const icaoCodes = [];
+const icaoCoordinatesObject = [];
 
 for (const airportsRecord of airportsRecords) {
   // 3685,"KMIA","large_airport","Miami International Airport",25.79319953918457,-80.29060363769531,8,"NA","US","US-FL","Miami","yes","KMIA","MIA","MIA","http://www.miami-airport.com/","https://en.wikipedia.org/wiki/
@@ -73,8 +74,6 @@ for (const airportsRecord of airportsRecords) {
 
   if (length !== undefined && aeroflyCode !== undefined) {
     const bestCode = icaoCode || aeroflyCode || ident;
-    // Add the ICAO code to the list
-    icaoCodes.push(bestCode);
 
     // Remove airport from list of Aerofly FS4 Airports
     aeroflyAirports.delete(aeroflyCode);
@@ -90,6 +89,17 @@ for (const airportsRecord of airportsRecords) {
     let type = airportsRecord[2];
     if (isMilitary) {
       type = type.replace(/port/, "base");
+    }
+
+    // Filter community airports and add regular airports to secondary lists
+    if (length > 0) {
+      icaoCodes.push(bestCode);
+      icaoCoordinatesObject.push({
+        code: bestCode,
+        name: airportsRecord[3],
+        lat: airportsRecord[4],
+        lon: airportsRecord[5],
+      });
     }
 
     const feature = new GeoJSON.Feature(
@@ -138,18 +148,18 @@ const icaoListFilePath = path.join(outputDirectory, "airport-list.json");
 fs.writeFileSync(icaoListFilePath, JSON.stringify(icaoCodes.sort(), null, 2) + "\n", "utf-8");
 process.stdout.write(`ICAO code list written to \x1b[92m${icaoListFilePath}\x1b[0m\n`);
 
-// Write the ICAO codes with aiport names and geocoordinates to airport-coordinates.json
-const icaoCoordinates = aeroflyGeoJson.features.map((feature) => {
-  return [
-    feature.properties.title,
-    feature.properties.description,
-    feature.geometry.coordinates[1],
-    feature.geometry.coordinates[0],
-  ];
+// Write the ICAO codes with airport names and geocoordinates to airport-coordinates.json
+const icaoCoordinates = icaoCoordinatesObject.map((feature) => {
+  return [feature.code, feature.name, feature.lat, feature.lon];
 });
 const icaoCoordinatesFilePath = path.join(outputDirectory, "airport-coordinates.json");
 fs.writeFileSync(icaoCoordinatesFilePath, JSON.stringify(icaoCoordinates, null, 2) + "\n", "utf-8");
 process.stdout.write(`ICAO coordinates list written to \x1b[92m${icaoCoordinatesFilePath}\x1b[0m\n`);
+
+// Write the ICAO codes with airport names and geocoordinates to airport-coordinates-object.json
+const icaoCoordinatesObjectFilePath = path.join(outputDirectory, "airport-coordinates-object.json");
+fs.writeFileSync(icaoCoordinatesObjectFilePath, JSON.stringify(icaoCoordinatesObject, null, 2) + "\n", "utf-8");
+process.stdout.write(`ICAO coordinates objrct list written to \x1b[92m${icaoCoordinatesObjectFilePath}\x1b[0m\n`);
 
 // Write the missing codes to airports-unmatched.md
 const unmatchedFilePath = path.join(outputDirectory, "airports-unmatched.md");

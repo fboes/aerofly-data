@@ -26,6 +26,10 @@
       "default": "./data/airport-coordinates.json",
       "types": "./data/airport-coordinates.json.d.ts"
     },
+    "./data/airport-coordinates-object.json": {
+      "default": "./data/airport-coordinates-object.json",
+      "types": "./data/airport-coordinates-object.json.d.ts"
+    },
     "./data/airport-list.json": {
       "default": "./data/airport-list.json",
       "types": "./data/airport-list.json.d.ts"
