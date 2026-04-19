@@ -4332,6 +4332,12 @@
     "lon": "9.378889"
   },
   {
+    "code": "EDXH",
+    "name": "Helgoland-Düne Airport",
+    "lat": "54.18528",
+    "lon": "7.915833"
+  },
+  {
     "code": "EDXJ",
     "name": "Husum-Schwesing Airport",
     "lat": "54.5099983215",
@@ -7556,8 +7562,8 @@
   {
     "code": "FAKU",
     "name": "Johan Pienaar Airport",
-    "lat": "-27.45669937133789",
-    "lon": "23.411399841308594"
+    "lat": "-27.456596",
+    "lon": "23.411946"
   },
   {
     "code": "FAKZ",
@@ -8821,9 +8827,9 @@
   },
   {
     "code": "FVKK",
-    "name": "Kwekwe Airport",
-    "lat": "-18.9333",
-    "lon": "29.8428"
+    "name": "Kwekwe Aerodrome",
+    "lat": "-18.932806",
+    "lon": "29.841432"
   },
   {
     "code": "FVMT",
@@ -8984,8 +8990,8 @@
   {
     "code": "FYOG",
     "name": "Oranjemund Airport",
-    "lat": "-28.5847",
-    "lon": "16.446699"
+    "lat": "-28.585318",
+    "lon": "16.44638"
   },
   {
     "code": "FYOS",
@@ -9882,6 +9888,12 @@
     "lon": "-12.482228"
   },
   {
+    "code": "LGTL",
+    "name": "(*)Kasteli Hellenic Air Force Base",
+    "lat": "35.191341",
+    "lon": "25.326588"
+  },
+  {
     "code": "MGMM",
     "name": "Melchor de Mencos Airport",
     "lat": "17.068609",
@@ -10177,7 +10189,7 @@
   },
   {
     "code": "HEDK",
-    "name": "Ad Dakhla Airport",
+    "name": "Dakhla Oasis Airport",
     "lat": "25.41116",
     "lon": "29.003273"
   },
@@ -10334,8 +10346,8 @@
   {
     "code": "HKAM",
     "name": "Amboseli Airport",
-    "lat": "-2.645050048828125",
-    "lon": "37.25310134887695"
+    "lat": "-2.644786",
+    "lon": "37.252922"
   },
   {
     "code": "HKEL",
@@ -10358,8 +10370,8 @@
   {
     "code": "HKKG",
     "name": "Kakamega Airport",
-    "lat": "0.271342009306",
-    "lon": "34.7873001099"
+    "lat": "0.271353",
+    "lon": "34.78812"
   },
   {
     "code": "HKKI",
@@ -10417,21 +10429,21 @@
   },
   {
     "code": "HKNL",
-    "name": "Nanyuki Airport",
-    "lat": "-0.062399",
-    "lon": "37.041008"
+    "name": "Nanyuki Civil Airport",
+    "lat": "-0.062352",
+    "lon": "37.041296"
   },
   {
     "code": "HKNV",
     "name": "Naivasha Airport",
-    "lat": "-0.787953",
-    "lon": "36.433494"
+    "lat": "-0.788035",
+    "lon": "36.43329"
   },
   {
     "code": "HKNW",
     "name": "Nairobi Wilson Airport",
-    "lat": "-1.321720004081726",
-    "lon": "36.81480026245117"
+    "lat": "-1.32172",
+    "lon": "36.8148"
   },
   {
     "code": "HKRE",
@@ -10598,8 +10610,8 @@
   {
     "code": "HRYG",
     "name": "Gisenyi Airport",
-    "lat": "-1.6771999597549438",
-    "lon": "29.258899688720703"
+    "lat": "-1.6772",
+    "lon": "29.2589"
   },
   {
     "code": "HRYI",
@@ -10736,8 +10748,8 @@
   {
     "code": "HTDO",
     "name": "Dodoma Airport",
-    "lat": "-6.17044",
-    "lon": "35.752602"
+    "lat": "-6.170559",
+    "lon": "35.756036"
   },
   {
     "code": "HTGW",
@@ -12553,7 +12565,7 @@
   },
   {
     "code": "KBUR",
-    "name": "Hollywood Burbank Airport",
+    "name": "Hollywood Burbank/Bob Hope Airport",
     "lat": "34.202834",
     "lon": "-118.35805"
   },
@@ -24600,12 +24612,6 @@
     "lon": "23.565001"
   },
   {
-    "code": "LGTL",
-    "name": "Kasteli International Airport(Under Construction)",
-    "lat": "35.172803",
-    "lon": "25.313068"
-  },
-  {
     "code": "LGTP",
     "name": "Tripolis Air Base",
     "lat": "37.530602",
@@ -27601,7 +27607,7 @@
   },
   {
     "code": "MMIO",
-    "name": "Plan De Guadalupe International Airport",
+    "name": "Plan de Guadalupe International Airport",
     "lat": "25.53786",
     "lon": "-100.928346"
   },
@@ -29473,7 +29479,7 @@
   },
   {
     "code": "OEHL",
-    "name": "Ha'il Airport",
+    "name": "Hail International Airport",
     "lat": "27.437901",
     "lon": "41.686298"
   },
@@ -29533,9 +29539,9 @@
   },
   {
     "code": "OEPA",
-    "name": "Al Qaisumah/Hafr Al Batin Airport",
-    "lat": "28.335199",
-    "lon": "46.125099"
+    "name": "Qaisumah–Hafar Al-Batin International Airport",
+    "lat": "28.335726",
+    "lon": "46.127108"
   },
   {
     "code": "OEPI",
@@ -29960,8 +29966,8 @@
   {
     "code": "OIMJ",
     "name": "Shahrud International Airport",
-    "lat": "36.425301",
-    "lon": "55.104198"
+    "lat": "36.424889",
+    "lon": "55.104289"
   },
   {
     "code": "OIMM",
@@ -32600,8 +32606,8 @@
   {
     "code": "RPMB",
     "name": "Rajah Buayan Air Base",
-    "lat": "6.10644",
-    "lon": "125.235001"
+    "lat": "6.105476",
+    "lon": "125.234882"
   },
   {
     "code": "RPMC",
@@ -32654,8 +32660,8 @@
   {
     "code": "RPML",
     "name": "Lumbia Airfield",
-    "lat": "8.41562",
-    "lon": "124.611"
+    "lat": "8.415154",
+    "lon": "124.611171"
   },
   {
     "code": "RPMN",
@@ -33421,7 +33427,7 @@
   },
   {
     "code": "SAWE",
-    "name": "Hermes Quijada International Airport",
+    "name": "Gobernador Ramón Trejo Noel International Airport",
     "lat": "-53.7777",
     "lon": "-67.7494"
   },
@@ -38690,8 +38696,8 @@
   {
     "code": "TTPP",
     "name": "Piarco International Airport",
-    "lat": "10.597811",
-    "lon": "-61.337463"
+    "lat": "10.59535",
+    "lon": "-61.337568"
   },
   {
     "code": "TUPJ",
@@ -38822,8 +38828,8 @@
   {
     "code": "UAIT",
     "name": "Hazrat Sultan International Airport",
-    "lat": "43.311742",
-    "lon": "68.550185"
+    "lat": "43.311087",
+    "lon": "68.550352"
   },
   {
     "code": "UAKD",
@@ -39830,8 +39836,8 @@
   {
     "code": "UZSN",
     "name": "Sugraly Airport",
-    "lat": "41.613899",
-    "lon": "64.2332"
+    "lat": "41.613795",
+    "lon": "64.232963"
   },
   {
     "code": "UTSR",
@@ -40904,8 +40910,8 @@
   {
     "code": "VNBW",
     "name": "Gautam Buddha International Airport",
-    "lat": "27.504591",
-    "lon": "83.414618"
+    "lat": "27.504636",
+    "lon": "83.410381"
   },
   {
     "code": "VNCG",
@@ -40945,7 +40951,7 @@
   },
   {
     "code": "VNLK",
-    "name": "Lukla Airport",
+    "name": "Tenzing-Hillary Airport",
     "lat": "27.686768",
     "lon": "86.729479"
   },
@@ -42068,8 +42074,8 @@
   {
     "code": "WAHP",
     "name": "Jenderal Besar Soedirman Airport",
-    "lat": "-7.461342",
-    "lon": "109.414612"
+    "lat": "-7.461239",
+    "lon": "109.414124"
   },
   {
     "code": "WAHU",
@@ -42217,7 +42223,7 @@
   },
   {
     "code": "WAHQ",
-    "name": "Adisumarmo Airport",
+    "name": "Adisoemarmo International Airport",
     "lat": "-7.516044",
     "lon": "110.757492"
   },
@@ -42494,8 +42500,8 @@
   {
     "code": "WIHH",
     "name": "Halim Perdanakusuma International Airport",
-    "lat": "-6.267221",
-    "lon": "106.891733"
+    "lat": "-6.266989",
+    "lon": "106.890318"
   },
   {
     "code": "WIHP",
@@ -42518,8 +42524,8 @@
   {
     "code": "WIMB",
     "name": "Binaka Airport",
-    "lat": "1.16628",
-    "lon": "97.704327"
+    "lat": "1.166275",
+    "lon": "97.705196"
   },
   {
     "code": "WIME",
@@ -42698,8 +42704,8 @@
   {
     "code": "WMKL",
     "name": "Langkawi International Airport",
-    "lat": "6.329730033874512",
-    "lon": "99.72869873046875"
+    "lat": "6.32973",
+    "lon": "99.728699"
   },
   {
     "code": "WMKM",
@@ -46945,7 +46951,7 @@
   },
   {
     "code": "ZWYN",
-    "name": "Yining Airport",
+    "name": "Ili Yining International Airport",
     "lat": "43.955799",
     "lon": "81.330299"
   },

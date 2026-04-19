@@ -1103,6 +1103,72 @@
     ]
   },
   {
+    "aeroflyCode": "a321_xlr",
+    "name": "A321XLR",
+    "nameFull": "Airbus A321XLR",
+    "icaoCode": "A21N",
+    "tags": [
+      "airplane",
+      "airliner",
+      "jet",
+      "flaps",
+      "retractable_gear",
+      "thrust_reverse",
+      "autopilot",
+      "autothrottle",
+      "winglets",
+      "pushback"
+    ],
+    "approachAirspeedKts": 148,
+    "cruiseAltitudeFt": 32000,
+    "cruiseSpeedKts": 453,
+    "maximumRangeNm": 3186,
+    "maximumFuelMassKg": 28645,
+    "maximumPayloadKg": 25500,
+    "maximumTakeoffMassKg": 101000,
+    "operatingEmptyMassKg": 50100,
+    "liveries": [
+      {
+        "aeroflyCode": "default",
+        "name": "Wizz",
+        "requirements": ["engine_pw"]
+      },
+      {
+        "aeroflyCode": "aer_lingus",
+        "name": "Aer Lingus",
+        "requirements": ["engine_cfm", "option_satcom"]
+      },
+      {
+        "aeroflyCode": "air_canada",
+        "name": "Air Canada",
+        "requirements": ["engine_pw", "option_satcom"],
+        "icaoCode": "ACA"
+      },
+      {
+        "aeroflyCode": "american",
+        "name": "American Airlines",
+        "requirements": ["engine_cfm", "option_satcom"],
+        "icaoCode": "AAL"
+      },
+      {
+        "aeroflyCode": "iberia",
+        "name": "Iberia",
+        "requirements": ["engine_cfm", "option_satcom"],
+        "icaoCode": "IBE"
+      },
+      {
+        "aeroflyCode": "qanot_sharq",
+        "name": "Qanot Sharq",
+        "requirements": ["engine_cfm", "option_satcom"]
+      },
+      {
+        "aeroflyCode": "qantas",
+        "name": "Qantas",
+        "requirements": ["engine_pw", "option_satcom"]
+      }
+    ]
+  },
+  {
     "aeroflyCode": "a350_1000",
     "name": "A350-1000",
     "nameFull": "Airbus A350-1000",
@@ -1172,6 +1238,11 @@
         "requirements": []
       },
       {
+        "aeroflyCode": "philippine",
+        "name": "Philippine Airlines",
+        "requirements": []
+      },
+      {
         "aeroflyCode": "qatar",
         "name": "Qatar",
         "requirements": []
@@ -1179,6 +1250,11 @@
       {
         "aeroflyCode": "qatar_oneworld",
         "name": "Qatar oneworld",
+        "requirements": []
+      },
+      {
+        "aeroflyCode": "starlux",
+        "name": "Starlux",
         "requirements": []
       },
       {

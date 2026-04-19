@@ -104,6 +104,32 @@
     "operatingEmptyMassKg": 48500
   },
   {
+    "aeroflyCode": "a321_xlr",
+    "name": "A321XLR",
+    "nameFull": "Airbus A321XLR",
+    "icaoCode": "A21N",
+    "tags": [
+      "airplane",
+      "airliner",
+      "jet",
+      "flaps",
+      "retractable_gear",
+      "thrust_reverse",
+      "autopilot",
+      "autothrottle",
+      "winglets",
+      "pushback"
+    ],
+    "approachAirspeedKts": 148,
+    "cruiseAltitudeFt": 32000,
+    "cruiseSpeedKts": 453,
+    "maximumRangeNm": 3186,
+    "maximumFuelMassKg": 28645,
+    "maximumPayloadKg": 25500,
+    "maximumTakeoffMassKg": 101000,
+    "operatingEmptyMassKg": 50100
+  },
+  {
     "aeroflyCode": "a350_1000",
     "name": "A350-1000",
     "nameFull": "Airbus A350-1000",

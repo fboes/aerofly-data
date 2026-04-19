@@ -4011,7 +4011,7 @@
         "municipality": "Kangerlussuaq",
         "fileSize": 952,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -4032,7 +4032,7 @@
         "municipality": "Pituffik",
         "fileSize": 928,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba",
+        "marker-color": "#555555",
         "isMilitary": true
       }
     },
@@ -6088,7 +6088,7 @@
       "properties": {
         "title": "ZUDR",
         "type": "private_airfield",
-        "description": "Rikaze Dingri Airport",
+        "description": "Shigatse Tingri Airport",
         "elevation": 14108,
         "municipality": "Xigazê (Dingri)",
         "fileSize": 0,
@@ -20365,11 +20365,11 @@
       },
       "properties": {
         "title": "EDXH",
-        "type": "private_airfield",
+        "type": "medium_airport",
         "description": "Helgoland-Düne Airport",
         "elevation": 8,
         "municipality": "Helgoland",
-        "fileSize": 0,
+        "fileSize": 1192,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -31477,7 +31477,7 @@
         "municipality": "Östersund",
         "fileSize": 1176,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -33595,8 +33595,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.411399841308594,
-          -27.45669937133789,
+          23.411946,
+          -27.456596,
           1335.6336000000001
         ]
       },
@@ -35481,7 +35481,7 @@
         "municipality": "Manzini",
         "fileSize": 960,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -38032,15 +38032,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.8428,
-          -18.9333,
+          29.841432,
+          -18.932806,
           1219.2
         ]
       },
       "properties": {
         "title": "FVKK",
         "type": "closed",
-        "description": "Kwekwe Airport",
+        "description": "Kwekwe Aerodrome",
         "elevation": 4000,
         "municipality": "Kwekwe",
         "fileSize": 920,
@@ -38600,8 +38600,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.446699,
-          -28.5847,
+          16.44638,
+          -28.585318,
           4.2672
         ]
       },
@@ -41181,11 +41181,11 @@
       },
       "properties": {
         "title": "GMMN",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Mohammed V International Airport",
         "elevation": 656,
         "municipality": "Casablanca",
-        "fileSize": 992,
+        "fileSize": 1408,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -41691,7 +41691,7 @@
         "municipality": "Atar",
         "fileSize": 936,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -41753,8 +41753,30 @@
         "elevation": 1119,
         "municipality": "Zouérate",
         "fileSize": 1000,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.326588,
+          35.191341,
+          359.66400000000004
+        ]
+      },
+      "properties": {
+        "title": "LGTL",
+        "type": "small_airbase",
+        "description": "(*)Kasteli Hellenic Air Force Base",
+        "elevation": 1180,
+        "municipality": "Kasteli",
+        "fileSize": 968,
+        "marker-symbol": "airport",
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -42826,7 +42848,7 @@
         "municipality": "New Cairo",
         "fileSize": 1024,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -42842,7 +42864,7 @@
       "properties": {
         "title": "HEDK",
         "type": "small_airport",
-        "description": "Ad Dakhla Airport",
+        "description": "Dakhla Oasis Airport",
         "elevation": 551,
         "municipality": "Dakhla Oases",
         "fileSize": 936,
@@ -43122,7 +43144,7 @@
         "municipality": "Saint Catherine",
         "fileSize": 936,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -43248,7 +43270,7 @@
         "municipality": "Taba",
         "fileSize": 928,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -43290,7 +43312,7 @@
         "municipality": "Asmara",
         "fileSize": 1016,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -43382,8 +43404,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.25310134887695,
-          -2.645050048828125,
+          37.252922,
+          -2.644786,
           1144.5240000000001
         ]
       },
@@ -43392,7 +43414,7 @@
         "type": "closed",
         "description": "Amboseli Airport",
         "elevation": 3755,
-        "municipality": "Amboseli National Park",
+        "municipality": "Ol Tukai",
         "fileSize": 912,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -43466,8 +43488,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.7873001099,
-          0.271342009306,
+          34.78812,
+          0.271353,
           1530.096
         ]
       },
@@ -43665,7 +43687,7 @@
         "type": "closed",
         "description": "Moyale Airport",
         "elevation": 2790,
-        "municipality": "Moyale (Lower)",
+        "municipality": "Moyale",
         "fileSize": 904,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -43676,17 +43698,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.041008,
-          -0.062399,
+          37.041296,
+          -0.062352,
           1905
         ]
       },
       "properties": {
         "title": "HKNL",
         "type": "closed",
-        "description": "Nanyuki Airport",
+        "description": "Nanyuki Civil Airport",
         "elevation": 6250,
-        "municipality": "Nanyuki",
+        "municipality": "Gathiuru",
         "fileSize": 904,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -43697,8 +43719,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.433494,
-          -0.787953,
+          36.43329,
+          -0.788035,
           1944.624
         ]
       },
@@ -43709,8 +43731,8 @@
         "elevation": 6380,
         "municipality": "Naivasha",
         "fileSize": 912,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -43718,8 +43740,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.81480026245117,
-          -1.321720004081726,
+          36.8148,
+          -1.32172,
           1687.3728
         ]
       },
@@ -44307,8 +44329,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.258899688720703,
-          -1.6771999597549438,
+          29.2589,
+          -1.6772,
           1548.9936
         ]
       },
@@ -44790,8 +44812,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.752602,
-          -6.17044,
+          35.756036,
+          -6.170559,
           1119.5304
         ]
       },
@@ -52809,11 +52831,11 @@
       },
       "properties": {
         "title": "KBUR",
-        "type": "medium_airport",
-        "description": "Hollywood Burbank Airport",
+        "type": "large_airport",
+        "description": "Hollywood Burbank/Bob Hope Airport",
         "elevation": 778,
         "municipality": "Burbank",
-        "fileSize": 1152,
+        "fileSize": 1416,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -75752,11 +75774,11 @@
       },
       "properties": {
         "title": "KONT",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Ontario International Airport",
         "elevation": 944,
         "municipality": "Ontario",
-        "fileSize": 1168,
+        "fileSize": 1416,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -82882,7 +82904,7 @@
         "description": "Norman Y. Mineta San Jose International Airport",
         "elevation": 62,
         "municipality": "San Jose",
-        "fileSize": 1280,
+        "fileSize": 1400,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -83305,7 +83327,7 @@
         "description": "John Wayne Orange County International Airport",
         "elevation": 56,
         "municipality": "Santa Ana",
-        "fileSize": 1248,
+        "fileSize": 1360,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -84168,7 +84190,7 @@
         "description": "Travis Air Force Base",
         "elevation": 62,
         "municipality": "Fairfield",
-        "fileSize": 1312,
+        "fileSize": 1328,
         "marker-symbol": "airport",
         "marker-color": "#555555",
         "isMilitary": true
@@ -84496,8 +84518,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.55999755859,
-          48.299499511719,
+          -116.559998,
+          48.2995,
           649.5288
         ]
       },
@@ -87936,7 +87958,7 @@
         "municipality": "Van Nuys",
         "fileSize": 1240,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -96984,27 +97006,6 @@
         "marker-symbol": "airport",
         "marker-color": "#555555",
         "isMilitary": true
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.313068,
-          35.172803,
-          359.66400000000004
-        ]
-      },
-      "properties": {
-        "title": "LGTL",
-        "type": "small_airport",
-        "description": "Kasteli International Airport(Under Construction)",
-        "elevation": 1180,
-        "municipality": "Crete Island",
-        "fileSize": 968,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
       }
     },
     {
@@ -108677,7 +108678,7 @@
       "properties": {
         "title": "MMIO",
         "type": "small_airport",
-        "description": "Plan De Guadalupe International Airport",
+        "description": "Plan de Guadalupe International Airport",
         "elevation": 4778,
         "municipality": "Saltillo",
         "fileSize": 1016,
@@ -115074,8 +115075,8 @@
         "elevation": 1572,
         "municipality": "Zaranj",
         "fileSize": 936,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -115267,7 +115268,7 @@
         "municipality": "Al-Ula",
         "fileSize": 952,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -115452,12 +115453,12 @@
       "properties": {
         "title": "OEHL",
         "type": "small_airport",
-        "description": "Ha'il Airport",
+        "description": "Hail International Airport",
         "elevation": 3331,
-        "municipality": "Ha'il",
+        "municipality": "Hail",
         "fileSize": 960,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -115655,20 +115656,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          46.125099,
-          28.335199,
+          46.127108,
+          28.335726,
           357.83520000000004
         ]
       },
       "properties": {
         "title": "OEPA",
         "type": "small_airport",
-        "description": "Al Qaisumah/Hafr Al Batin Airport",
+        "description": "Qaisumah–Hafar Al-Batin International Airport",
         "elevation": 1174,
         "municipality": "Qaisumah",
         "fileSize": 936,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -117150,8 +117151,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          55.104198,
-          36.425301,
+          55.104289,
+          36.424889,
           1284.732
         ]
       },
@@ -117625,7 +117626,7 @@
         "municipality": "Tabriz",
         "fileSize": 1016,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -122397,7 +122398,7 @@
         "municipality": "I Fadang, Saipan",
         "fileSize": 1008,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -126684,8 +126685,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.235001,
-          6.10644,
+          125.234882,
+          6.105476,
           8.5344
         ]
       },
@@ -126874,8 +126875,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          124.611,
-          8.41562,
+          124.611171,
+          8.415154,
           183.1848
         ]
       },
@@ -129975,7 +129976,7 @@
       "properties": {
         "title": "SAWE",
         "type": "small_airport",
-        "description": "Hermes Quijada International Airport",
+        "description": "Gobernador Ramón Trejo Noel International Airport",
         "elevation": 65,
         "municipality": "Rio Grande",
         "fileSize": 952,
@@ -148419,8 +148420,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -61.337463,
-          10.597811,
+          -61.337568,
+          10.59535,
           17.6784
         ]
       },
@@ -149344,8 +149345,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          68.550185,
-          43.311742,
+          68.550352,
+          43.311087,
           289.8648
         ]
       },
@@ -151265,11 +151266,11 @@
       },
       "properties": {
         "title": "UKOO",
-        "type": "medium_airport",
+        "type": "large_airport",
         "description": "Odesa International Airport",
         "elevation": 172,
         "municipality": "Odesa",
-        "fileSize": 1184,
+        "fileSize": 1224,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -153121,7 +153122,7 @@
         "municipality": "Turkmenbaşy",
         "fileSize": 1056,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -153142,7 +153143,7 @@
         "municipality": "Mary",
         "fileSize": 992,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -153298,8 +153299,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          64.2332,
-          41.613899,
+          64.232963,
+          41.613795,
           425.5008
         ]
       },
@@ -157094,8 +157095,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          83.414618,
-          27.504591,
+          83.410381,
+          27.504636,
           109.11840000000001
         ]
       },
@@ -157270,12 +157271,12 @@
       "properties": {
         "title": "VNLK",
         "type": "large_airport",
-        "description": "Lukla Airport",
+        "description": "Tenzing-Hillary Airport",
         "elevation": 9380,
         "municipality": "Lukla",
         "fileSize": 1240,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -161403,7 +161404,7 @@
         "municipality": "Yogyakarta",
         "fileSize": 944,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -161432,8 +161433,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          109.414612,
-          -7.461342,
+          109.414124,
+          -7.461239,
           68.58
         ]
       },
@@ -161950,7 +161951,7 @@
         "municipality": "Yogyakarta",
         "fileSize": 1184,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -161966,12 +161967,12 @@
       "properties": {
         "title": "WAHQ",
         "type": "small_airport",
-        "description": "Adisumarmo Airport",
+        "description": "Adisoemarmo International Airport",
         "elevation": 421,
         "municipality": "Surakarta",
         "fileSize": 960,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -162924,8 +162925,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.891733,
-          -6.267221,
+          106.890318,
+          -6.266989,
           25.6032
         ]
       },
@@ -163009,8 +163010,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          97.704327,
-          1.16628,
+          97.705196,
+          1.166275,
           6.096
         ]
       },
@@ -163641,8 +163642,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.72869873046875,
-          6.329730033874512,
+          99.728699,
+          6.32973,
           8.8392
         ]
       },
@@ -163654,7 +163655,7 @@
         "municipality": "Langkawi",
         "fileSize": 968,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -172465,7 +172466,7 @@
         "municipality": "Flying Fish Cove",
         "fileSize": 936,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -176331,8 +176332,8 @@
         "elevation": 4740,
         "municipality": "Jinchang",
         "fileSize": 944,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -178701,12 +178702,12 @@
       "properties": {
         "title": "ZWYN",
         "type": "small_airport",
-        "description": "Yining Airport",
+        "description": "Ili Yining International Airport",
         "elevation": 0,
         "municipality": "Ili (Yining / Ghulja)",
         "fileSize": 928,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
