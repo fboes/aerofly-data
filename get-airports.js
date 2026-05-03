@@ -190,6 +190,7 @@ if (aeroflyAirports.size > 0) {
     ).toFixed(1)}%\x1b[0m
 Missing matches for Aerofly FS4 Airport codes:
 \x1b[90m> ${[...aeroflyAirports]
+      .sort()
       .map((a) => {
         return a[0];
       })
