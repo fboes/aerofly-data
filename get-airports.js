@@ -97,8 +97,8 @@ for (const airportsRecord of airportsRecords) {
       icaoCoordinatesObject.push({
         code: bestCode,
         name: airportsRecord[3],
-        lat: airportsRecord[4],
-        lon: airportsRecord[5],
+        lat: Number(airportsRecord[4]),
+        lon: Number(airportsRecord[5]),
       });
     }
 
@@ -159,7 +159,7 @@ process.stdout.write(`ICAO coordinates list written to \x1b[92m${icaoCoordinates
 // Write the ICAO codes with airport names and geocoordinates to airport-coordinates-object.json
 const icaoCoordinatesObjectFilePath = path.join(outputDirectory, "airport-coordinates-object.json");
 fs.writeFileSync(icaoCoordinatesObjectFilePath, JSON.stringify(icaoCoordinatesObject, null, 2) + "\n", "utf-8");
-process.stdout.write(`ICAO coordinates objrct list written to \x1b[92m${icaoCoordinatesObjectFilePath}\x1b[0m\n`);
+process.stdout.write(`ICAO coordinates object list written to \x1b[92m${icaoCoordinatesObjectFilePath}\x1b[0m\n`);
 
 // Write the missing codes to airports-unmatched.md
 const unmatchedFilePath = path.join(outputDirectory, "airports-unmatched.md");

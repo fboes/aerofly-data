@@ -3914,19 +3914,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -45.425999,
-          61.1605,
+          -45.42469,
+          61.15958,
           34.1376
         ]
       },
       "properties": {
         "title": "BGBW",
-        "type": "medium_airport",
+        "type": "heliport",
         "description": "Narsarsuaq Airport",
         "elevation": 112,
         "municipality": "Narsarsuaq",
         "fileSize": 1176,
-        "marker-symbol": "airport",
+        "marker-symbol": "heliport",
         "marker-color": "#555555"
       }
     },
@@ -9818,8 +9818,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -102.46199798583984,
-          51.26470184326172,
+          -102.461998,
+          51.264702,
           498.348
         ]
       },
@@ -13067,8 +13067,8 @@
         "elevation": 1303,
         "municipality": "Bordj Badji Mokhtar",
         "fileSize": 952,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -13342,6 +13342,28 @@
         "fileSize": 928,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.890018,
+          54.175106,
+          2.1336
+        ]
+      },
+      "properties": {
+        "title": "ETMNHL",
+        "type": "small_airbase",
+        "description": "Helgoland Navy Helicopter Base",
+        "elevation": 7,
+        "municipality": "Heligoland",
+        "fileSize": 928,
+        "marker-symbol": "heliport",
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -13723,6 +13745,69 @@
         "municipality": "Pellworm",
         "fileSize": 0,
         "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.740036,
+          54.451897,
+          0
+        ]
+      },
+      "properties": {
+        "title": "EDYH",
+        "type": "heliport",
+        "description": "Helwind A",
+        "elevation": 0,
+        "municipality": "",
+        "fileSize": 864,
+        "marker-symbol": "heliport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.700052,
+          54.399167,
+          0
+        ]
+      },
+      "properties": {
+        "title": "EDYM",
+        "type": "heliport",
+        "description": "Meerwind S O",
+        "elevation": 0,
+        "municipality": "",
+        "fileSize": 880,
+        "marker-symbol": "heliport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.735453,
+          54.519813,
+          0
+        ]
+      },
+      "properties": {
+        "title": "EDYA",
+        "type": "heliport",
+        "description": "Amrumbank West",
+        "elevation": 0,
+        "municipality": "",
+        "fileSize": 872,
+        "marker-symbol": "heliport",
         "marker-color": "#555555"
       }
     },
@@ -19677,8 +19762,8 @@
         "elevation": 328,
         "municipality": "Salzgitter",
         "fileSize": 0,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -21769,14 +21854,14 @@
         "coordinates": [
           -2.47416,
           52.0019,
-          76.2
+          45.72
         ]
       },
       "properties": {
         "title": "EG34",
         "type": "medium_airport",
         "description": "Ledbury Airfield",
-        "elevation": 250,
+        "elevation": 150,
         "municipality": "Dymock, Gloucestershire",
         "fileSize": 1184,
         "marker-symbol": "airfield",
@@ -24746,13 +24831,13 @@
       },
       "properties": {
         "title": "EGSD",
-        "type": "large_airport",
-        "description": "Great Yarmouth - North Denes Airport",
+        "type": "heliport",
+        "description": "Great Yarmouth - North Denes Heliport",
         "elevation": 6,
         "municipality": "Great Yarmouth, Norfolk",
         "fileSize": 1248,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "heliport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -32902,8 +32987,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.061899,
-          54.649399,
+          24.058748,
+          54.652212,
           60.96
         ]
       },
@@ -39884,14 +39969,14 @@
         "coordinates": [
           -1.18721,
           53.947146,
-          19.812
+          15.8496
         ]
       },
       "properties": {
         "title": "EGYJ",
         "type": "medium_airport",
         "description": "Rufforth West Airfield",
-        "elevation": 65,
+        "elevation": 52,
         "municipality": "York, North Yorkshire",
         "fileSize": 1136,
         "marker-symbol": "airfield",
@@ -41061,7 +41146,7 @@
         "municipality": "Smara",
         "fileSize": 936,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -51899,8 +51984,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.349602,
-          36.745098,
+          -97.349619,
+          36.745212,
           313.944
         ]
       },
@@ -90419,12 +90504,12 @@
       "properties": {
         "title": "LELN",
         "type": "large_airport",
-        "description": "León Int'l Airport",
+        "description": "León Airport",
         "elevation": 3006,
-        "municipality": "La Virgen Del Camino",
+        "municipality": "La Virgen del Camino",
         "fileSize": 1256,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -99212,8 +99297,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.4722,
-          45.827499,
+          13.466672,
+          45.827862,
           11.8872
         ]
       },
@@ -99254,8 +99339,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.087107,
-          45.684358,
+          12.086594,
+          45.684382,
           41.757600000000004
         ]
       },
@@ -99297,8 +99382,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.3881,
-          45.428299,
+          12.388733,
+          45.428779,
           4.572
         ]
       },
@@ -99433,7 +99518,7 @@
         "type": "medium_airport",
         "description": "Rieti Airfield",
         "elevation": 1278,
-        "municipality": "Rieti",
+        "municipality": "Rieti (RI)",
         "fileSize": 1192,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -99444,8 +99529,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.255,
-          43.256302,
+          11.255084,
+          43.254942,
           193.2432
         ]
       },
@@ -99515,9 +99600,9 @@
       "properties": {
         "title": "LIRE",
         "type": "small_airbase",
-        "description": "Pratica Di Mare Air Base",
+        "description": "Pratica di Mare Air Base",
         "elevation": 41,
-        "municipality": "Pomezia",
+        "municipality": "Pomezia (RM)",
         "fileSize": 960,
         "marker-symbol": "airport",
         "marker-color": "#555555",
@@ -99560,7 +99645,7 @@
         "type": "medium_airbase",
         "description": "Guidonia Air Base",
         "elevation": 289,
-        "municipality": "Guidonia",
+        "municipality": "Guidonia (RM)",
         "fileSize": 1184,
         "marker-symbol": "airport",
         "marker-color": "#555555",
@@ -99786,8 +99871,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.0642,
-          42.430199,
+          12.061362,
+          42.435297,
           302.3616
         ]
       },
@@ -112013,8 +112098,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -161.001999,
-          -10.3767,
+          -160.999424,
+          -10.38091,
           3.3528000000000002
         ]
       },
@@ -119773,15 +119858,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          45.316738128699996,
-          35.5617485046,
+          45.315137,
+          35.560487,
           760.1712
         ]
       },
       "properties": {
-        "title": "ORSU",
+        "title": "ORSJ",
         "type": "small_airport",
-        "description": "Sulaymaniyah International Airport",
+        "description": "Jalal Talabani International Airport",
         "elevation": 2494,
         "municipality": "Sulaymaniyah",
         "fileSize": 960,
@@ -120365,8 +120450,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -145.722000122,
-          63.9944992065,
+          -145.722,
+          63.994499,
           393.4968
         ]
       },
@@ -122449,20 +122534,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.618974,
-          15.000453,
+          145.619355,
+          14.999207,
           82.6008
         ]
       },
       "properties": {
         "title": "PGWT",
         "type": "small_airport",
-        "description": "Tinian International Airport",
+        "description": "Francisco Manglona Borja / Tinian International Airport",
         "elevation": 271,
         "municipality": "Tinian Island",
         "fileSize": 944,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -123292,8 +123377,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.461998,
-          22.6724,
+          120.461712,
+          22.672579,
           23.7744
         ]
       },
@@ -123335,8 +123420,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.10199737548828,
-          22.7549991607666,
+          121.101794,
+          22.754856,
           43.586400000000005
         ]
       },
@@ -123483,8 +123568,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.002998,
-          26.224199,
+          120.002679,
+          26.22414,
           12.4968
         ]
       },
@@ -133689,8 +133774,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.7791976929,
-          -27.2611999512,
+          -70.779198,
+          -27.2612,
           204.216
         ]
       },
@@ -146005,16 +146090,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.202904,
-          7.80132,
-          1010.1072
+          -72.202778,
+          7.801389,
+          1009.8024
         ]
       },
       "properties": {
         "title": "SVPM",
         "type": "small_airport",
         "description": "Paramillo Airport",
-        "elevation": 3314,
+        "elevation": 3313,
         "municipality": "San Cristóbal",
         "fileSize": 928,
         "marker-symbol": "airport",
@@ -151301,8 +151386,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          45.7229995728,
-          64.8960037231,
+          45.723,
+          64.896004,
           67.056
         ]
       },
@@ -153595,8 +153680,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.231711,
-          51.813683,
+          39.230948,
+          51.814324,
           156.6672
         ]
       },
@@ -153608,7 +153693,7 @@
         "municipality": "Voronezh",
         "fileSize": 1008,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -153763,8 +153848,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          48.2267,
-          54.268299,
+          48.225569,
+          54.27016,
           136.8552
         ]
       },
@@ -153776,7 +153861,7 @@
         "municipality": "Ulyanovsk",
         "fileSize": 944,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -153847,8 +153932,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          45.02109909057617,
-          53.110599517822266,
+          45.021099,
+          53.1106,
           187.1472
         ]
       },
@@ -161672,7 +161757,7 @@
       "properties": {
         "title": "WAOH",
         "type": "small_airport",
-        "description": "Mekar Putih Airport",
+        "description": "Kota Baru Airport",
         "elevation": 197,
         "municipality": "Mekar Putih, Kotabaru",
         "fileSize": 936,
@@ -171223,7 +171308,7 @@
         "type": "closed",
         "description": "Ngukurr Airport",
         "elevation": 45,
-        "municipality": "",
+        "municipality": "Roper River",
         "fileSize": 920,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -176488,8 +176573,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          108.751999,
-          34.447102,
+          108.762385,
+          34.442207,
           479.1456
         ]
       },
@@ -176498,7 +176583,7 @@
         "type": "small_airport",
         "description": "Xi'an Xianyang International Airport",
         "elevation": 1572,
-        "municipality": "Xianyang (Weicheng)",
+        "municipality": "Xi'an",
         "fileSize": 1032,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
@@ -177813,14 +177898,14 @@
         "coordinates": [
           122.362307,
           29.933874,
-          0.9144000000000001
+          1.8288000000000002
         ]
       },
       "properties": {
         "title": "ZSZS",
         "type": "small_airport",
         "description": "Zhoushan Putuoshan International Airport",
-        "elevation": 3,
+        "elevation": 6,
         "municipality": "Zhoushan",
         "fileSize": 960,
         "marker-symbol": "airport",

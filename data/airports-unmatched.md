@@ -71,12 +71,8 @@ The following Aerofly FS4 Airports were not matched to any known airport. You ma
 1. `EGSTHV`
 1. `EGSTRT`
 1. `EM08`
-1. `EM15`
 1. `EM16`
-1. `EM17`
-1. `EM18`
 1. `ETML`
-1. `ETMNHL`
 1. `FRHBRP`
 1. `FRRVNS`
 1. `FRSYNL`
