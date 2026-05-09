@@ -5745,14 +5745,14 @@
         "coordinates": [
           7.87908,
           46.676601,
-          0
+          576.9864
         ]
       },
       "properties": {
         "title": "LSMI",
         "type": "private_airfield",
         "description": "Interlaken Air Base",
-        "elevation": 0,
+        "elevation": 1893,
         "municipality": "Interlaken",
         "fileSize": 0,
         "marker-symbol": "airport",
@@ -12725,11 +12725,11 @@
       },
       "properties": {
         "title": "DABC",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Mohamed Boudiaf International Airport",
         "elevation": 2265,
         "municipality": "Constantine",
-        "fileSize": 984,
+        "fileSize": 1240,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -13761,9 +13761,9 @@
       "properties": {
         "title": "EDYH",
         "type": "heliport",
-        "description": "Helwind A",
+        "description": "Helwin A",
         "elevation": 0,
-        "municipality": "",
+        "municipality": "North Sea",
         "fileSize": 864,
         "marker-symbol": "heliport",
         "marker-color": "#555555"
@@ -13784,7 +13784,7 @@
         "type": "heliport",
         "description": "Meerwind S O",
         "elevation": 0,
-        "municipality": "",
+        "municipality": "North Sea",
         "fileSize": 880,
         "marker-symbol": "heliport",
         "marker-color": "#555555"
@@ -13805,7 +13805,7 @@
         "type": "heliport",
         "description": "Amrumbank West",
         "elevation": 0,
-        "municipality": "",
+        "municipality": "North Sea",
         "fileSize": 872,
         "marker-symbol": "heliport",
         "marker-color": "#555555"
@@ -17775,8 +17775,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.835556030273438,
-          53.5352783203125,
+          9.835556,
+          53.535278,
           7.010400000000001
         ]
       },
@@ -33288,11 +33288,11 @@
       },
       "properties": {
         "title": "FACT",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Cape Town International Airport",
         "elevation": 151,
         "municipality": "Cape Town",
-        "fileSize": 992,
+        "fileSize": 1360,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -36592,12 +36592,12 @@
       "properties": {
         "title": "FMNN",
         "type": "closed",
-        "description": "Nosy Be-Fascene International Airport",
+        "description": "Nosy Be International Airport",
         "elevation": 36,
         "municipality": "Nosy Be",
         "fileSize": 912,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -36794,6 +36794,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          13.499078,
+          -9.050734,
+          167.64000000000001
+        ]
+      },
+      "properties": {
+        "title": "FNBJ",
+        "type": "large_airport",
+        "description": "Dr. Antonio Agostinho Neto International Airport",
+        "elevation": 550,
+        "municipality": "Luanda (Ícolo e Bengo)",
+        "fileSize": 1456,
+        "marker-symbol": "airport",
+        "marker-color": "#5e6eba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.188145,
           -5.59839,
           20.1168
@@ -36801,11 +36822,11 @@
       },
       "properties": {
         "title": "FNCA",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Cabinda Airport",
         "elevation": 66,
         "municipality": "Cabinda",
-        "fileSize": 936,
+        "fileSize": 1152,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -36822,11 +36843,11 @@
       },
       "properties": {
         "title": "FNCT",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Catumbela Airport",
         "elevation": 23,
         "municipality": "Catumbela",
-        "fileSize": 952,
+        "fileSize": 1248,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -37137,11 +37158,11 @@
       },
       "properties": {
         "title": "FNUB",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Lubango Mukanka International Airport",
         "elevation": 5778,
         "municipality": "Lubango",
-        "fileSize": 952,
+        "fileSize": 1224,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -40597,7 +40618,7 @@
         "type": "small_airport",
         "description": "Banjul International Airport",
         "elevation": 95,
-        "municipality": "Yundum",
+        "municipality": "Banjul (Yundum)",
         "fileSize": 952,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
@@ -42317,11 +42338,11 @@
       },
       "properties": {
         "title": "HABD",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Bahir Dar Airport",
         "elevation": 5978,
         "municipality": "Bahir Dar",
-        "fileSize": 928,
+        "fileSize": 1136,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -42359,11 +42380,11 @@
       },
       "properties": {
         "title": "HADR",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Aba Tenna Dejazmach Yilma International Airport",
         "elevation": 3827,
         "municipality": "Dire Dawa",
-        "fileSize": 928,
+        "fileSize": 1144,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -68049,7 +68070,7 @@
         "description": "Harry Reid International Airport",
         "elevation": 2181,
         "municipality": "Las Vegas",
-        "fileSize": 2064,
+        "fileSize": 2040,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -68091,7 +68112,7 @@
         "description": "Los Angeles International Airport",
         "elevation": 125,
         "municipality": "Los Angeles",
-        "fileSize": 1456,
+        "fileSize": 1480,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -72071,8 +72092,8 @@
         "elevation": 7135,
         "municipality": "Mammoth Lakes",
         "fileSize": 1168,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -77376,7 +77397,7 @@
         "description": "Phoenix Sky Harbor International Airport",
         "elevation": 1135,
         "municipality": "Phoenix",
-        "fileSize": 1264,
+        "fileSize": 1272,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -82611,7 +82632,7 @@
         "description": "San Francisco International Airport",
         "elevation": 13,
         "municipality": "San Francisco",
-        "fileSize": 1584,
+        "fileSize": 1752,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -90117,15 +90138,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.948889,
-          38.271111,
+          -2.952914,
+          38.271949,
           542.544
         ]
       },
       "properties": {
         "title": "LEBE",
         "type": "small_airport",
-        "description": "Beas De Segura Airfield",
+        "description": "Beas de Segura Airfield",
         "elevation": 1780,
         "municipality": "Jaén",
         "fileSize": 960,
@@ -171907,8 +171928,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.58099365234375,
-          -18.755300521850586,
+          146.580994,
+          -18.755301,
           8.5344
         ]
       },

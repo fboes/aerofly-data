@@ -2983,7 +2983,7 @@
   },
   {
     "code": "EDYH",
-    "name": "Helwind A",
+    "name": "Helwin A",
     "lat": 54.451897,
     "lon": 7.740036
   },
@@ -3878,8 +3878,8 @@
   {
     "code": "EDHI",
     "name": "Hamburg-Finkenwerder Airport",
-    "lat": 53.5352783203125,
-    "lon": 9.835556030273438
+    "lat": 53.535278,
+    "lon": 9.835556
   },
   {
     "code": "EDHK",
@@ -8413,7 +8413,7 @@
   },
   {
     "code": "FMNN",
-    "name": "Nosy Be-Fascene International Airport",
+    "name": "Nosy Be International Airport",
     "lat": -13.3121,
     "lon": 48.3148
   },
@@ -8470,6 +8470,12 @@
     "name": "Benguela Airport",
     "lat": -12.609,
     "lon": 13.4037
+  },
+  {
+    "code": "FNBJ",
+    "name": "Dr. Antonio Agostinho Neto International Airport",
+    "lat": -9.050734,
+    "lon": 13.499078
   },
   {
     "code": "FNCA",
@@ -22675,9 +22681,9 @@
   },
   {
     "code": "LEBE",
-    "name": "Beas De Segura Airfield",
-    "lat": 38.271111,
-    "lon": -2.948889
+    "name": "Beas de Segura Airfield",
+    "lat": 38.271949,
+    "lon": -2.952914
   },
   {
     "code": "LEBG",
@@ -45044,8 +45050,8 @@
   {
     "code": "YPAM",
     "name": "Palm Island Airport",
-    "lat": -18.755300521850586,
-    "lon": 146.58099365234375
+    "lat": -18.755301,
+    "lon": 146.580994
   },
   {
     "code": "YPAY",
