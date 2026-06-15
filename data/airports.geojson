@@ -2997,7 +2997,7 @@
       "properties": {
         "title": "LOIU",
         "type": "private_airfield",
-        "description": "Innsbruck University Hospital Heliport",
+        "description": "Innsbruck University Hospital Helistop",
         "elevation": 2057,
         "municipality": "Innsbruck",
         "fileSize": 0,
@@ -3703,8 +3703,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.636111111,
-          -9.59305555556,
+          148.639305,
+          -9.594471,
           131.064
         ]
       },
@@ -14257,20 +14257,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.167553,
-          56.192954,
-          0
+          10.076621,
+          56.178925,
+          67.056
         ]
       },
       "properties": {
         "title": "EKAS",
         "type": "private_airfield",
-        "description": "Aarhus University Hospital Helipad",
-        "elevation": 0,
-        "municipality": "Åarhus",
+        "description": "True Gliderfield",
+        "elevation": 220,
+        "municipality": "Tilst",
         "fileSize": 0,
-        "marker-symbol": "heliport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -15342,7 +15342,7 @@
         "municipality": "Sfax",
         "fileSize": 928,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -15584,8 +15584,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.8310000896453857,
-          50.575801849365234,
+          3.831,
+          50.575802,
           59.1312
         ]
       },
@@ -15679,7 +15679,7 @@
       "properties": {
         "title": "EBKT",
         "type": "medium_airport",
-        "description": "Flanders International Airport Kortrijk-Wevelgem",
+        "description": "Kortrijk-Wevelgem International Airport",
         "elevation": 55,
         "municipality": "Wevelgem",
         "fileSize": 1080,
@@ -24889,14 +24889,14 @@
         "coordinates": [
           1.28278,
           52.6758,
-          35.6616
+          35.9664
         ]
       },
       "properties": {
         "title": "EGSH",
         "type": "large_airport",
         "description": "Norwich Airport",
-        "elevation": 117,
+        "elevation": 118,
         "municipality": "Norwich, Norfolk",
         "fileSize": 1240,
         "marker-symbol": "airport",
@@ -31980,7 +31980,7 @@
         "type": "small_airport",
         "description": "Kalixfors Airfield",
         "elevation": 1549,
-        "municipality": "",
+        "municipality": "Kiruna",
         "fileSize": 1048,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -32403,8 +32403,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.53611111111,
-          49.4030555556,
+          7.536111,
+          49.403056,
           358.44480000000004
         ]
       },
@@ -34921,8 +34921,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.7287998199,
-          -26.9824008942,
+          24.7288,
+          -26.982401,
           1194.816
         ]
       },
@@ -34931,7 +34931,7 @@
         "type": "closed",
         "description": "Vryburg Airport",
         "elevation": 3920,
-        "municipality": "Vyrburg",
+        "municipality": "Vryburg",
         "fileSize": 912,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -35727,7 +35727,7 @@
         ]
       },
       "properties": {
-        "title": "FGAB",
+        "title": "FGAN",
         "type": "small_airport",
         "description": "Annobón Airport",
         "elevation": 82,
@@ -35776,7 +35776,7 @@
         "municipality": "Mengomeyén",
         "fileSize": 944,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -37458,7 +37458,7 @@
         "municipality": "Franceville",
         "fileSize": 952,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -40545,8 +40545,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.053202,
-          60.121725,
+          -2.053439,
+          60.121916,
           45.72
         ]
       },
@@ -43076,9 +43076,9 @@
       "properties": {
         "title": "HEIS",
         "type": "small_airbase",
-        "description": "Ismailia Air Base",
+        "description": "Al Ismailiyya Air Base",
         "elevation": 43,
-        "municipality": "Ismailia",
+        "municipality": "Al Ismailiyya",
         "fileSize": 936,
         "marker-symbol": "airport",
         "marker-color": "#555555",
@@ -43266,7 +43266,7 @@
       "properties": {
         "title": "HESG",
         "type": "small_airport",
-        "description": "Sohag International Airport",
+        "description": "Suhaj International Airport",
         "elevation": 322,
         "municipality": "Suhaj",
         "fileSize": 944,
@@ -44840,7 +44840,7 @@
         ]
       },
       "properties": {
-        "title": "HJWW",
+        "title": "HSWW",
         "type": "closed",
         "description": "Wau Airport",
         "elevation": 1529,
@@ -45766,7 +45766,7 @@
       "properties": {
         "title": "KJRB",
         "type": "heliport",
-        "description": "Downtown Manhattan Heliport",
+        "description": "Downtown Skyport Heliport",
         "elevation": 7,
         "municipality": "New York",
         "fileSize": 984,
@@ -51624,8 +51624,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.259002,
-          46.347599,
+          -104.258126,
+          46.34661,
           906.7800000000001
         ]
       },
@@ -66462,8 +66462,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -103.200996399,
-          31.779600143399996,
+          -103.200996,
+          31.7796,
           860.1456000000001
         ]
       },
@@ -79172,6 +79172,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          126.921995,
+          37.525845,
+          0
+        ]
+      },
+      "properties": {
+        "title": "RKSS",
+        "type": "large_airport",
+        "description": "(Duplicate)Yeouido Airport",
+        "elevation": 0,
+        "municipality": "",
+        "fileSize": 1416,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -118.656491,
           48.71819,
           768.7056
@@ -86516,8 +86537,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.68399810791016,
-          43.945701599121094,
+          -111.68335,
+          43.950519,
           1513.6368
         ]
       },
@@ -86663,15 +86684,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.929526,
-          43.642039,
+          -111.929193,
+          43.642638,
           1476.756
         ]
       },
       "properties": {
         "title": "KU56",
         "type": "private_airfield",
-        "description": "Rigby Jefferson County Airport",
+        "description": "Rigby Airport",
         "elevation": 4845,
         "municipality": "Rigby",
         "fileSize": 0,
@@ -126049,27 +126070,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.791,
-          37.5583,
-          17.9832
-        ]
-      },
-      "properties": {
-        "title": "RKSS",
-        "type": "large_airport",
-        "description": "Gimpo International Airport",
-        "elevation": 59,
-        "municipality": "Seoul",
-        "fileSize": 1416,
-        "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           127.007004,
           37.239399,
           26.822400000000002
@@ -127246,7 +127246,7 @@
         "municipality": "Panglao",
         "fileSize": 1160,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -146720,16 +146720,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -52.270557,
-          -13.574444,
-          400.5072
+          -52.268296,
+          -13.576545,
+          398.0688
         ]
       },
       "properties": {
         "title": "SWEK",
         "type": "small_airport",
         "description": "Canarana Airport",
-        "elevation": 1314,
+        "elevation": 1306,
         "municipality": "Canarana",
         "fileSize": 928,
         "marker-symbol": "airfield",
@@ -147497,8 +147497,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -52.252498626708984,
-          -16.6825008392334,
+          -52.252763,
+          -16.682457,
           630.936
         ]
       },
@@ -151120,7 +151120,7 @@
       "properties": {
         "title": "UKKK",
         "type": "large_airport",
-        "description": "Ihor Sikorsky Kyiv International Airport (Zhuliany)",
+        "description": "Igor Sikorsky Kyiv International Airport (Zhuliany)",
         "elevation": 587,
         "municipality": "Kyiv",
         "fileSize": 1248,
@@ -153368,7 +153368,7 @@
         ]
       },
       "properties": {
-        "title": "UTNM",
+        "title": "UZNM",
         "type": "small_airport",
         "description": "Muynak Airport",
         "elevation": 177,
@@ -153389,7 +153389,7 @@
         ]
       },
       "properties": {
-        "title": "UTSL",
+        "title": "UZSL",
         "type": "small_airbase",
         "description": "Karshi-Khanabad Air Base",
         "elevation": 1365,
@@ -153426,13 +153426,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          67.94519805908203,
-          38.41059875488281,
+          67.94502,
+          38.408006,
           594.0552
         ]
       },
       "properties": {
-        "title": "UTSR",
+        "title": "UZSR",
         "type": "small_airport",
         "description": "Sariasiya Airport",
         "elevation": 1949,
@@ -153447,13 +153447,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          63.44929885864258,
-          42.083099365234375,
+          63.449299,
+          42.083099,
           126.7968
         ]
       },
       "properties": {
-        "title": "UTSU",
+        "title": "UZSU",
         "type": "closed",
         "description": "Uchkuduk Airport",
         "elevation": 416,
@@ -156078,8 +156078,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.866903,
-          24.963071,
+          91.864749,
+          24.963993,
           15.24
         ]
       },

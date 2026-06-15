@@ -308,8 +308,8 @@
   {
     "code": "AYSF",
     "name": "Safia Airport",
-    "lat": -9.59305555556,
-    "lon": 148.636111111
+    "lat": -9.594471,
+    "lon": 148.639305
   },
   {
     "code": "AYTA",
@@ -3446,8 +3446,8 @@
   {
     "code": "EBCV",
     "name": "Chièvres Air Base",
-    "lat": 50.575801849365234,
-    "lon": 3.8310000896453857
+    "lat": 50.575802,
+    "lon": 3.831
   },
   {
     "code": "EBFN",
@@ -3469,7 +3469,7 @@
   },
   {
     "code": "EBKT",
-    "name": "Flanders International Airport Kortrijk-Wevelgem",
+    "name": "Kortrijk-Wevelgem International Airport",
     "lat": 50.818878,
     "lon": 3.209551
   },
@@ -7940,8 +7940,8 @@
   {
     "code": "FAVB",
     "name": "Vryburg Airport",
-    "lat": -26.9824008942,
-    "lon": 24.7287998199
+    "lat": -26.982401,
+    "lon": 24.7288
   },
   {
     "code": "FAVM",
@@ -8166,7 +8166,7 @@
     "lon": 23.260000228881836
   },
   {
-    "code": "FGAB",
+    "code": "FGAN",
     "name": "Annobón Airport",
     "lat": -1.408615,
     "lon": 5.624163
@@ -9542,8 +9542,8 @@
   {
     "code": "EG42",
     "name": "Foula Airfield",
-    "lat": 60.121725,
-    "lon": -2.053202
+    "lat": 60.121916,
+    "lon": -2.053439
   },
   {
     "code": "EG78",
@@ -10249,7 +10249,7 @@
   },
   {
     "code": "HEIS",
-    "name": "Ismailia Air Base",
+    "name": "Al Ismailiyya Air Base",
     "lat": 30.597951,
     "lon": 32.235689
   },
@@ -10303,7 +10303,7 @@
   },
   {
     "code": "HESG",
-    "name": "Sohag International Airport",
+    "name": "Suhaj International Airport",
     "lat": 26.342515,
     "lon": 31.743017
   },
@@ -10752,7 +10752,7 @@
     "lon": 31.521578
   },
   {
-    "code": "HJWW",
+    "code": "HSWW",
     "name": "Wau Airport",
     "lat": 7.72583,
     "lon": 27.975
@@ -10993,7 +10993,7 @@
   },
   {
     "code": "KJRB",
-    "name": "Downtown Manhattan Heliport",
+    "name": "Downtown Skyport Heliport",
     "lat": 40.700711,
     "lon": -74.008573
   },
@@ -12230,8 +12230,8 @@
   {
     "code": "KBHK",
     "name": "Baker Municipal Airport",
-    "lat": 46.347599,
-    "lon": -104.259002
+    "lat": 46.34661,
+    "lon": -104.258126
   },
   {
     "code": "KBHM",
@@ -16418,8 +16418,8 @@
   {
     "code": "KINK",
     "name": "Winkler County Airport",
-    "lat": 31.779600143399996,
-    "lon": -103.200996399
+    "lat": 31.7796,
+    "lon": -103.200996
   },
   {
     "code": "KINL",
@@ -19942,6 +19942,12 @@
     "name": "Presque Isle County Airport",
     "lat": 45.407101,
     "lon": -83.812897
+  },
+  {
+    "code": "RKSS",
+    "name": "(Duplicate)Yeouido Airport",
+    "lat": 37.525845,
+    "lon": 126.921995
   },
   {
     "code": "KRAC",
@@ -32424,12 +32430,6 @@
     "lon": 127.029448
   },
   {
-    "code": "RKSS",
-    "name": "Gimpo International Airport",
-    "lat": 37.5583,
-    "lon": 126.791
-  },
-  {
     "code": "RKSW",
     "name": "Suwon Airport",
     "lat": 37.239399,
@@ -38210,8 +38210,8 @@
   {
     "code": "SWEK",
     "name": "Canarana Airport",
-    "lat": -13.574444,
-    "lon": -52.270557
+    "lat": -13.576545,
+    "lon": -52.268296
   },
   {
     "code": "SWFR",
@@ -38432,8 +38432,8 @@
   {
     "code": "SWQL",
     "name": "Fazenda Três Companheiros Airport",
-    "lat": -16.6825008392334,
-    "lon": -52.252498626708984
+    "lat": -16.682457,
+    "lon": -52.252763
   },
   {
     "code": "SWRG",
@@ -39331,7 +39331,7 @@
   },
   {
     "code": "UKKK",
-    "name": "Ihor Sikorsky Kyiv International Airport (Zhuliany)",
+    "name": "Igor Sikorsky Kyiv International Airport (Zhuliany)",
     "lat": 50.40194,
     "lon": 30.45194
   },
@@ -39852,13 +39852,13 @@
     "lon": 68.864475
   },
   {
-    "code": "UTNM",
+    "code": "UZNM",
     "name": "Muynak Airport",
     "lat": 43.753636,
     "lon": 59.029884
   },
   {
-    "code": "UTSL",
+    "code": "UZSL",
     "name": "Karshi-Khanabad Air Base",
     "lat": 38.833599,
     "lon": 65.921501
@@ -39870,16 +39870,16 @@
     "lon": 64.232963
   },
   {
-    "code": "UTSR",
+    "code": "UZSR",
     "name": "Sariasiya Airport",
-    "lat": 38.41059875488281,
-    "lon": 67.94519805908203
+    "lat": 38.408006,
+    "lon": 67.94502
   },
   {
-    "code": "UTSU",
+    "code": "UZSU",
     "name": "Uchkuduk Airport",
-    "lat": 42.083099365234375,
-    "lon": 63.44929885864258
+    "lat": 42.083099,
+    "lon": 63.449299
   },
   {
     "code": "UUBP",
@@ -40628,8 +40628,8 @@
   {
     "code": "VGSY",
     "name": "Osmany International Airport",
-    "lat": 24.963071,
-    "lon": 91.866903
+    "lat": 24.963993,
+    "lon": 91.864749
   },
   {
     "code": "VGTJ",
