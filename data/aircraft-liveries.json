@@ -24,6 +24,7 @@
     "maximumPayloadKg": 17700,
     "maximumTakeoffMassKg": 75500,
     "operatingEmptyMassKg": 40800,
+    "maximumPersonsOnBoard": 150,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -284,6 +285,7 @@
     "maximumPayloadKg": 20325,
     "maximumTakeoffMassKg": 77000,
     "operatingEmptyMassKg": 42175,
+    "maximumPersonsOnBoard": 186,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -504,6 +506,7 @@
     "maximumPayloadKg": 21000,
     "maximumTakeoffMassKg": 79000,
     "operatingEmptyMassKg": 44300,
+    "maximumPersonsOnBoard": 201,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -830,6 +833,7 @@
     "maximumPayloadKg": 25300,
     "maximumTakeoffMassKg": 93500,
     "operatingEmptyMassKg": 48500,
+    "maximumPersonsOnBoard": 227,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -1127,6 +1131,7 @@
     "maximumPayloadKg": 25500,
     "maximumTakeoffMassKg": 101000,
     "operatingEmptyMassKg": 50100,
+    "maximumPersonsOnBoard": 251,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -1194,6 +1199,7 @@
     "maximumPayloadKg": 68000,
     "maximumTakeoffMassKg": 322000,
     "operatingEmptyMassKg": 155000,
+    "maximumPersonsOnBoard": 380,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -1289,6 +1295,7 @@
     "maximumPayloadKg": 92000,
     "maximumTakeoffMassKg": 575000,
     "operatingEmptyMassKg": 277000,
+    "maximumPersonsOnBoard": 630,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -1413,6 +1420,7 @@
     "maximumPayloadKg": 125,
     "maximumTakeoffMassKg": 710,
     "operatingEmptyMassKg": 490,
+    "maximumPersonsOnBoard": 1,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -1440,6 +1448,7 @@
     "maximumPayloadKg": 125,
     "maximumTakeoffMassKg": 600,
     "operatingEmptyMassKg": 280,
+    "maximumPersonsOnBoard": 1,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -1466,6 +1475,7 @@
     "maximumPayloadKg": 240,
     "maximumTakeoffMassKg": 600,
     "operatingEmptyMassKg": 360,
+    "maximumPersonsOnBoard": 2,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -1493,6 +1503,7 @@
     "maximumPayloadKg": 707,
     "maximumTakeoffMassKg": 2449.39,
     "operatingEmptyMassKg": 1789,
+    "maximumPersonsOnBoard": 6,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -1530,6 +1541,7 @@
     "maximumPayloadKg": 9153,
     "maximumTakeoffMassKg": 60555,
     "operatingEmptyMassKg": 37340,
+    "maximumPersonsOnBoard": 127,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -1648,6 +1660,7 @@
     "maximumPayloadKg": 19622,
     "maximumTakeoffMassKg": 79016,
     "operatingEmptyMassKg": 43110,
+    "maximumPersonsOnBoard": 190,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -2027,6 +2040,7 @@
     "maximumPayloadKg": 23044,
     "maximumTakeoffMassKg": 85139,
     "operatingEmptyMassKg": 47050,
+    "maximumPersonsOnBoard": 210,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -2118,6 +2132,7 @@
     "maximumPayloadKg": 22000,
     "maximumTakeoffMassKg": 88314,
     "operatingEmptyMassKg": 48987,
+    "maximumPersonsOnBoard": 227,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -2204,6 +2219,7 @@
     "maximumPayloadKg": 63234,
     "maximumTakeoffMassKg": 396894,
     "operatingEmptyMassKg": 182840,
+    "maximumPersonsOnBoard": 676,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -2311,6 +2327,7 @@
     "maximumPayloadKg": 103736,
     "maximumTakeoffMassKg": 347815,
     "operatingEmptyMassKg": 144379,
+    "maximumPersonsOnBoard": 6,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -2464,6 +2481,7 @@
     "maximumPayloadKg": 68903,
     "maximumTakeoffMassKg": 351535,
     "operatingEmptyMassKg": 168780,
+    "maximumPersonsOnBoard": 391,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -2750,6 +2768,7 @@
     "maximumPayloadKg": 57277,
     "maximumTakeoffMassKg": 254011,
     "operatingEmptyMassKg": 135500,
+    "maximumPersonsOnBoard": 340,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -2847,6 +2866,7 @@
     "maximumPayloadKg": 52586,
     "maximumTakeoffMassKg": 254692,
     "operatingEmptyMassKg": 128850,
+    "maximumPersonsOnBoard": 300,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -3078,6 +3098,7 @@
     "cruiseSpeedKts": 309,
     "maximumRangeNm": 432,
     "maximumTakeoffMassKg": 2515,
+    "maximumPersonsOnBoard": 1,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -3100,6 +3121,7 @@
     "maximumPayloadKg": 398,
     "maximumTakeoffMassKg": 1157,
     "operatingEmptyMassKg": 762,
+    "maximumPersonsOnBoard": 4,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -3142,6 +3164,7 @@
     "maximumPayloadKg": 1099,
     "maximumTakeoffMassKg": 4581,
     "operatingEmptyMassKg": 3140,
+    "maximumPersonsOnBoard": 6,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -3171,6 +3194,7 @@
     "cruiseSpeedKts": 100,
     "maximumRangeNm": 124,
     "maximumTakeoffMassKg": 659,
+    "maximumPersonsOnBoard": 1,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -3204,6 +3228,7 @@
     "maximumPayloadKg": 13380,
     "maximumTakeoffMassKg": 185070,
     "operatingEmptyMassKg": 78700,
+    "maximumPersonsOnBoard": 129,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -3252,6 +3277,7 @@
     "maximumPayloadKg": 10247,
     "maximumTakeoffMassKg": 38329,
     "operatingEmptyMassKg": 21845,
+    "maximumPersonsOnBoard": 94,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -3320,6 +3346,7 @@
     "cruiseSpeedKts": 100,
     "maximumRangeNm": 162,
     "maximumTakeoffMassKg": 559,
+    "maximumPersonsOnBoard": 1,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -3351,6 +3378,7 @@
     "maximumFuelMassKg": 133,
     "maximumTakeoffMassKg": 1000,
     "operatingEmptyMassKg": 600,
+    "maximumPersonsOnBoard": 4,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -3373,6 +3401,7 @@
     "maximumPayloadKg": 1258.4,
     "maximumTakeoffMassKg": 2835,
     "operatingEmptyMassKg": 1380,
+    "maximumPersonsOnBoard": 7,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -3417,6 +3446,7 @@
     "cruiseSpeedKts": 220,
     "maximumRangeNm": 459,
     "maximumTakeoffMassKg": 950,
+    "maximumPersonsOnBoard": 2,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -3443,6 +3473,7 @@
     "maximumFuelMassKg": 6123.5,
     "maximumTakeoffMassKg": 36741,
     "operatingEmptyMassKg": 14379,
+    "maximumPersonsOnBoard": 2,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -3486,6 +3517,7 @@
     "maximumFuelMassKg": 4903.3,
     "maximumTakeoffMassKg": 23541.4,
     "operatingEmptyMassKg": 11566.6,
+    "maximumPersonsOnBoard": 1,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -3576,6 +3608,7 @@
     "cruiseSpeedKts": 389,
     "maximumRangeNm": 930,
     "maximumTakeoffMassKg": 6654,
+    "maximumPersonsOnBoard": 1,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -3608,6 +3641,7 @@
     "maximumPayloadKg": 3825,
     "maximumTakeoffMassKg": 10500,
     "operatingEmptyMassKg": 6845,
+    "maximumPersonsOnBoard": 20,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -3632,6 +3666,7 @@
     "cruiseSpeedKts": 119,
     "maximumRangeNm": 270,
     "maximumTakeoffMassKg": 585,
+    "maximumPersonsOnBoard": 1,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -3678,6 +3713,7 @@
     "maximumPayloadKg": 908,
     "maximumTakeoffMassKg": 9752,
     "operatingEmptyMassKg": 6350,
+    "maximumPersonsOnBoard": 12,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -3712,6 +3748,7 @@
     "cruiseSpeedKts": 486,
     "maximumRangeNm": 1188,
     "maximumTakeoffMassKg": 5897,
+    "maximumPersonsOnBoard": 2,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -3751,6 +3788,7 @@
     "cruiseSpeedKts": 432,
     "maximumRangeNm": 57,
     "maximumTakeoffMassKg": 6400,
+    "maximumPersonsOnBoard": 1,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -3780,6 +3818,7 @@
     "cruiseSpeedKts": 315,
     "maximumRangeNm": 1031,
     "maximumTakeoffMassKg": 9798,
+    "maximumPersonsOnBoard": 1,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -3809,6 +3848,7 @@
     "cruiseSpeedKts": 132,
     "maximumRangeNm": 216,
     "maximumTakeoffMassKg": 776,
+    "maximumPersonsOnBoard": 2,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -3861,6 +3901,7 @@
     "maximumPayloadKg": 8489,
     "maximumTakeoffMassKg": 29574,
     "operatingEmptyMassKg": 17819,
+    "maximumPersonsOnBoard": 88,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -4074,6 +4115,7 @@
     "maximumPayloadKg": 171.08,
     "maximumTakeoffMassKg": 621.42,
     "operatingEmptyMassKg": 399.16,
+    "maximumPersonsOnBoard": 2,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -4135,6 +4177,7 @@
     "maximumPayloadKg": 130,
     "maximumTakeoffMassKg": 410,
     "operatingEmptyMassKg": 280,
+    "maximumPersonsOnBoard": 1,
     "liveries": [
       {
         "aeroflyCode": "default",
@@ -4162,6 +4205,7 @@
     "maximumPayloadKg": 3800,
     "maximumTakeoffMassKg": 9980,
     "operatingEmptyMassKg": 5675,
+    "maximumPersonsOnBoard": 16,
     "liveries": [
       {
         "aeroflyCode": "default",

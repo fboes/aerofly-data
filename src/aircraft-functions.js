@@ -18,6 +18,7 @@ import * as path from "path";
  *   maximumPayloadKg?: number,
  *   maximumTakeoffMassKg?: number,
  *   operatingEmptyMassKg?: number,
+ *   maximumPersonsOnBoard?: number,
  * }}
  */
 /**
@@ -239,6 +240,7 @@ export const parseAircraft = (tmdFileContent) => {
     maximumPayloadKg: Number(parseTmdLine(tmdFileContent, "MaximumPayload")) || undefined,
     maximumTakeoffMassKg: Number(parseTmdLine(tmdFileContent, "MaximumTakeoffMass")) || undefined,
     operatingEmptyMassKg: Number(parseTmdLine(tmdFileContent, "OperatingEmptyMass")) || undefined,
+    maximumPersonsOnBoard: Number(parseTmdLine(tmdFileContent, "MaximumPersonsOnBoard")) || undefined,
   };
 };
 
