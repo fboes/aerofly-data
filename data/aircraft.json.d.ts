@@ -12,6 +12,7 @@ declare const AeroflyAircraft: Array<{
   maximumPayloadKg?: number;
   maximumTakeoffMassKg?: number;
   operatingEmptyMassKg?: number;
+  maximumPersonsOnBoard?: number;
   aeroflyCode: string;
 }>;
 export default AeroflyAircraft;

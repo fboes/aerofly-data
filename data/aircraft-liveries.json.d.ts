@@ -19,6 +19,7 @@ export type AeroflyAircraft = {
   maximumPayloadKg?: number;
   maximumTakeoffMassKg?: number;
   operatingEmptyMassKg?: number;
+  maximumPersonsOnBoard?: number;
   aeroflyCode: string;
   liveries: AeroflyAircraftLivery[];
 };
