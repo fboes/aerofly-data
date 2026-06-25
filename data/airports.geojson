@@ -1949,7 +1949,7 @@
         "description": "Bank of America Data Center Heliport",
         "elevation": 440,
         "municipality": "Los Angeles",
-        "fileSize": 1072,
+        "fileSize": 1080,
         "marker-symbol": "heliport",
         "marker-color": "#555555"
       }
@@ -12704,11 +12704,11 @@
       },
       "properties": {
         "title": "DABB",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Annaba Rabah Bitat Airport",
         "elevation": 16,
         "municipality": "Annaba",
-        "fileSize": 984,
+        "fileSize": 1240,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -12936,11 +12936,11 @@
       },
       "properties": {
         "title": "DAOO",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Oran Es-Sénia (Ahmed Ben Bella) International Airport",
         "elevation": 295,
         "municipality": "Es-Sénia",
-        "fileSize": 1000,
+        "fileSize": 1248,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -13844,11 +13844,11 @@
       },
       "properties": {
         "title": "DFFD",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Ouagadougou Thomas Sankara International Airport",
         "elevation": 1037,
         "municipality": "Ouagadougou",
-        "fileSize": 960,
+        "fileSize": 1192,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -13970,11 +13970,11 @@
       },
       "properties": {
         "title": "DGSI",
-        "type": "closed",
+        "type": "medium_airport",
         "description": "Prempeh I International Airport",
         "elevation": 942,
         "municipality": "Kumasi",
-        "fileSize": 912,
+        "fileSize": 1144,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -14033,11 +14033,11 @@
       },
       "properties": {
         "title": "DIAP",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Félix-Houphouët-Boigny International Airport",
         "elevation": 21,
         "municipality": "Abidjan",
-        "fileSize": 952,
+        "fileSize": 1224,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -14376,6 +14376,27 @@
         "fileSize": 0,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.382579,
+          55.7176,
+          32.004000000000005
+        ]
+      },
+      "properties": {
+        "title": "EKSL",
+        "type": "private_airfield",
+        "description": "Skovlunde Flyveplads",
+        "elevation": 105,
+        "municipality": "",
+        "fileSize": 0,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -14831,11 +14852,11 @@
       },
       "properties": {
         "title": "DNMM",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Murtala Muhammed International Airport",
         "elevation": 135,
         "municipality": "Lagos",
-        "fileSize": 1000,
+        "fileSize": 1352,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -15167,11 +15188,11 @@
       },
       "properties": {
         "title": "DTNH",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Enfidha - Hammamet International Airport",
         "elevation": 21,
         "municipality": "Enfidha",
-        "fileSize": 936,
+        "fileSize": 1224,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -15188,11 +15209,11 @@
       },
       "properties": {
         "title": "DTTA",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Tunis Carthage International Airport",
         "elevation": 22,
         "municipality": "Tunis",
-        "fileSize": 1008,
+        "fileSize": 1304,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -27898,27 +27919,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.643544,
-          55.452619,
-          35.052
-        ]
-      },
-      "properties": {
-        "title": "EKSL",
-        "type": "private_airfield",
-        "description": "Slaglille Airfield",
-        "elevation": 115,
-        "municipality": "Fjenneslev",
-        "fileSize": 0,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           10.2294,
           57.503502,
           28.041600000000003
@@ -35224,11 +35224,11 @@
       },
       "properties": {
         "title": "FBMN",
-        "type": "closed",
+        "type": "medium_airport",
         "description": "Maun International Airport",
         "elevation": 3093,
         "municipality": "Maun",
-        "fileSize": 920,
+        "fileSize": 1168,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -35266,11 +35266,11 @@
       },
       "properties": {
         "title": "FBSK",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Sir Seretse Khama International Airport",
         "elevation": 3299,
         "municipality": "Gaborone",
-        "fileSize": 928,
+        "fileSize": 1200,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -35581,11 +35581,11 @@
       },
       "properties": {
         "title": "FDSK",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "King Mswati III International Airport",
         "elevation": 1092,
         "municipality": "Mpaka",
-        "fileSize": 952,
+        "fileSize": 1168,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -35940,11 +35940,11 @@
       },
       "properties": {
         "title": "FKKD",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Douala International Airport",
         "elevation": 33,
         "municipality": "Douala",
-        "fileSize": 944,
+        "fileSize": 1112,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -36087,11 +36087,11 @@
       },
       "properties": {
         "title": "FKYS",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Yaoundé Nsimalen International Airport",
         "elevation": 2278,
         "municipality": "Yaoundé",
-        "fileSize": 944,
+        "fileSize": 1200,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -36339,11 +36339,11 @@
       },
       "properties": {
         "title": "FMCH",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Prince Said Ibrahim International Airport",
         "elevation": 93,
         "municipality": "Moroni",
-        "fileSize": 952,
+        "fileSize": 1176,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -36591,11 +36591,11 @@
       },
       "properties": {
         "title": "FMNN",
-        "type": "closed",
+        "type": "medium_airport",
         "description": "Nosy Be International Airport",
         "elevation": 36,
         "municipality": "Nosy Be",
-        "fileSize": 912,
+        "fileSize": 1128,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -37431,11 +37431,11 @@
       },
       "properties": {
         "title": "FOOL",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Libreville Leon M'ba International Airport",
         "elevation": 39,
         "municipality": "Libreville",
-        "fileSize": 960,
+        "fileSize": 1216,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -38334,11 +38334,11 @@
       },
       "properties": {
         "title": "FWKI",
-        "type": "closed",
+        "type": "medium_airport",
         "description": "Kamuzu International Airport",
         "elevation": 4035,
         "municipality": "Lumbadzi",
-        "fileSize": 920,
+        "fileSize": 1176,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -39322,11 +39322,11 @@
       },
       "properties": {
         "title": "FZQA",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Lubumbashi International Airport",
         "elevation": 4295,
         "municipality": "Lubumbashi",
-        "fileSize": 944,
+        "fileSize": 1192,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -39449,11 +39449,11 @@
       },
       "properties": {
         "title": "FZWA",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Mbuji Mayi Airport",
         "elevation": 2221,
         "municipality": "Mbuji Mayi",
-        "fileSize": 936,
+        "fileSize": 1160,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -39491,11 +39491,11 @@
       },
       "properties": {
         "title": "GABS",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Modibo Keita International Airport",
         "elevation": 1247,
         "municipality": "Bamako",
-        "fileSize": 952,
+        "fileSize": 1232,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -39512,11 +39512,11 @@
       },
       "properties": {
         "title": "GAGO",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Gao International Airport",
         "elevation": 870,
         "municipality": "Gao",
-        "fileSize": 992,
+        "fileSize": 1224,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -39617,11 +39617,11 @@
       },
       "properties": {
         "title": "GATB",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Tombouktou Airport",
         "elevation": 863,
         "municipality": "Timbuktu",
-        "fileSize": 1016,
+        "fileSize": 1136,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -40503,8 +40503,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.962299,
-          54.163753,
+          -2.96133,
+          54.164266,
           6.096
         ]
       },
@@ -40615,11 +40615,11 @@
       },
       "properties": {
         "title": "GBYD",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Banjul International Airport",
         "elevation": 95,
         "municipality": "Banjul (Yundum)",
-        "fileSize": 952,
+        "fileSize": 1200,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -40888,11 +40888,11 @@
       },
       "properties": {
         "title": "GGOV",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Osvaldo Vieira International Airport",
         "elevation": 129,
         "municipality": "Bissau",
-        "fileSize": 952,
+        "fileSize": 1144,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -41350,11 +41350,11 @@
       },
       "properties": {
         "title": "GMMX",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Marrakesh Menara Airport",
         "elevation": 1545,
         "municipality": "Marrakesh",
-        "fileSize": 936,
+        "fileSize": 1264,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -41455,11 +41455,11 @@
       },
       "properties": {
         "title": "GOBD",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Blaise Diagne International Airport",
         "elevation": 290,
         "municipality": "Dakar",
-        "fileSize": 960,
+        "fileSize": 1312,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -41939,11 +41939,11 @@
       },
       "properties": {
         "title": "GUCY",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Ahmed Sékou Touré International Airport",
         "elevation": 72,
         "municipality": "Conakry",
-        "fileSize": 944,
+        "fileSize": 1144,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -42779,11 +42779,11 @@
       },
       "properties": {
         "title": "HDAM",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Djibouti-Ambouli Airport",
         "elevation": 49,
         "municipality": "Djibouti City",
-        "fileSize": 952,
+        "fileSize": 1104,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -42927,11 +42927,11 @@
       },
       "properties": {
         "title": "HECA",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Cairo International Airport",
         "elevation": 322,
         "municipality": "Cairo",
-        "fileSize": 1040,
+        "fileSize": 1496,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -42990,11 +42990,11 @@
       },
       "properties": {
         "title": "HEGN",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Hurghada International Airport",
         "elevation": 32,
         "municipality": "Hurghada",
-        "fileSize": 1024,
+        "fileSize": 1296,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -43286,11 +43286,11 @@
       },
       "properties": {
         "title": "HESH",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Sharm El Sheikh International Airport",
         "elevation": 191,
         "municipality": "Sharm El Sheikh",
-        "fileSize": 992,
+        "fileSize": 1320,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -43412,11 +43412,11 @@
       },
       "properties": {
         "title": "HHAS",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Asmara International Airport",
         "elevation": 7661,
         "municipality": "Asmara",
-        "fileSize": 1016,
+        "fileSize": 1160,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -43622,11 +43622,11 @@
       },
       "properties": {
         "title": "HKKI",
-        "type": "small_airport",
+        "type": "medium_airport",
         "description": "Kisumu International Airport",
         "elevation": 3734,
         "municipality": "Kisumu",
-        "fileSize": 936,
+        "fileSize": 1176,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -63956,15 +63956,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.515404,
-          38.721401,
+          -77.515422,
+          38.723021,
           58.52160000000001
         ]
       },
       "properties": {
         "title": "KHEF",
         "type": "large_airport",
-        "description": "Manassas Regional Airport/Harry P. Davis Field",
+        "description": "Washington Manassas Harry P. Davis Field",
         "elevation": 192,
         "municipality": "Manassas",
         "fileSize": 1304,
@@ -68669,8 +68669,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -114.3970032,
-          32.86000061,
+          -114.39615,
+          32.860794,
           131.9784
         ]
       },
@@ -75040,7 +75040,7 @@
       "properties": {
         "title": "KOAK",
         "type": "large_airport",
-        "description": "San Francisco Bay Oakland International Airport",
+        "description": "Oakland San Francisco Bay Airport",
         "elevation": 9,
         "municipality": "Oakland",
         "fileSize": 1480,
@@ -82957,8 +82957,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.8256,
-          32.446602,
+          -93.826741,
+          32.444747,
           78.6384
         ]
       },
@@ -101783,7 +101783,7 @@
         "description": "Innsbruck Airport",
         "elevation": 1907,
         "municipality": "Innsbruck",
-        "fileSize": 1552,
+        "fileSize": 1560,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -140543,16 +140543,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -50.95130157470703,
-          -19.662599563598633,
-          419.1
+          -50.950213,
+          -19.66263,
+          430.07280000000003
         ]
       },
       "properties": {
         "title": "SNEW",
         "type": "closed",
         "description": "Fazenda Congonhas Airport",
-        "elevation": 1375,
+        "elevation": 1411,
         "municipality": "Carneirinho",
         "fileSize": 920,
         "marker-symbol": "airfield",

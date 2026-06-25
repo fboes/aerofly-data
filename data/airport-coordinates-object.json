@@ -9530,8 +9530,8 @@
   {
     "code": "EG15",
     "name": "Cark airfield",
-    "lat": 54.163753,
-    "lon": -2.962299
+    "lat": 54.164266,
+    "lon": -2.96133
   },
   {
     "code": "EG35",
@@ -15709,9 +15709,9 @@
   },
   {
     "code": "KHEF",
-    "name": "Manassas Regional Airport/Harry P. Davis Field",
-    "lat": 38.721401,
-    "lon": -77.515404
+    "name": "Washington Manassas Harry P. Davis Field",
+    "lat": 38.723021,
+    "lon": -77.515422
   },
   {
     "code": "KHEG",
@@ -17048,8 +17048,8 @@
   {
     "code": "KLGF",
     "name": "Laguna Army Airfield",
-    "lat": 32.86000061,
-    "lon": -114.3970032
+    "lat": 32.860794,
+    "lon": -114.39615
   },
   {
     "code": "KLGU",
@@ -18787,7 +18787,7 @@
   },
   {
     "code": "KOAK",
-    "name": "San Francisco Bay Oakland International Airport",
+    "name": "Oakland San Francisco Bay Airport",
     "lat": 37.720085,
     "lon": -122.221184
   },
@@ -20816,8 +20816,8 @@
   {
     "code": "KSHV",
     "name": "Shreveport Regional Airport",
-    "lat": 32.446602,
-    "lon": -93.8256
+    "lat": 32.444747,
+    "lon": -93.826741
   },
   {
     "code": "KSIK",
@@ -36446,8 +36446,8 @@
   {
     "code": "SNEW",
     "name": "Fazenda Congonhas Airport",
-    "lat": -19.662599563598633,
-    "lon": -50.95130157470703
+    "lat": -19.66263,
+    "lon": -50.950213
   },
   {
     "code": "SNFE",
