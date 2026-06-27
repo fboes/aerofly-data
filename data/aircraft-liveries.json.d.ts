@@ -15,6 +15,9 @@ export type AeroflyAircraft = {
   cruiseAltitudeFt: number;
   cruiseSpeedKts: number;
   maximumRangeNm: number;
+  maximumLoadRangeNm: number;
+  maximumFuelRangeNm: number;
+  maximumFerryRangeNm: number;
   maximumFuelMassKg?: number;
   maximumPayloadKg?: number;
   maximumTakeoffMassKg?: number;

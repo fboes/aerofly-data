@@ -14,6 +14,9 @@ import * as path from "path";
  *   cruiseAltitudeFt: number,
  *   cruiseSpeedKts: number,
  *   maximumRangeNm: number,
+ *   maximumLoadRangeNm: number,
+ *   maximumFuelRangeNm: number,
+ *   maximumFerryRangeNm: number,
  *   maximumFuelMassKg?: number,
  *   maximumPayloadKg?: number,
  *   maximumTakeoffMassKg?: number,
@@ -224,6 +227,9 @@ export const parseAircraft = (tmdFileContent) => {
     ),
     MaximumSpeed: convertSpeed(parseTmdLine(tmdFileContent, "MaximumSpeed")),*/
     maximumRangeNm: convertDistance(parseTmdLine(tmdFileContent, "MaximumRange")),
+    maximumLoadRangeNm: convertDistance(parseTmdLine(tmdFileContent, "MaximumLoadRange")),
+    maximumFuelRangeNm: convertDistance(parseTmdLine(tmdFileContent, "MaximumFuelRange")),
+    maximumFerryRangeNm: convertDistance(parseTmdLine(tmdFileContent, "MaximumFerryRange")),
     /*FlapAirspeedRange: parseTmdLine(tmdFileContent, "FlapAirspeedRange")
       .trim()
       .split(" ")
@@ -293,7 +299,7 @@ export const convertAltitude = (altitude) => {
 /**
  *
  * @param {string} range in m
- * @returns {number} in kts
+ * @returns {number} in NM
  */
 export const convertDistance = (range) => {
   return Math.round(Number(range) / 1852);
@@ -436,4 +442,12 @@ export const getSelectLiveryOptgroupOptions = (sortedAircraft) => {
 ${html}\
 </select>
 `;
+};
+
+/**
+ * @param {AeroflyAircraft[]} sortedAircraft
+ * @returns {string[]}
+ */
+export const getTags = (sortedAircraft) => {
+  return [...new Set(sortedAircraft.flatMap((aircraft) => aircraft.tags))].sort();
 };
