@@ -1,7 +1,7 @@
 // @ts-check
 
 /**
- * @global Loaded from Mapbox GL JS script in index.html
+ * @global
  * @type {any} mapboxgl
  */
 var mapboxgl;

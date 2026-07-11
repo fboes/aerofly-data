@@ -40,10 +40,9 @@ export const geoJsonType = (type, isMilitary, length) => {
 /**
  *
  * @param {string} directory
- * @param {RegExp?} icaoFilter
  * @returns {Map<string,number>}
  */
-export const getAeroflyAirports = (directory, icaoFilter) => {
+export const getAeroflyAirports = (directory) => {
   const aeroflyAirports = new Map();
   let maxLength = 0;
   let minLength = 10000;
@@ -55,12 +54,10 @@ export const getAeroflyAirports = (directory, icaoFilter) => {
 
   for (const file of files) {
     const icaoCode = file.replace(/\.wad$/, "").toUpperCase();
-    if (!icaoFilter || icaoCode.match(icaoFilter)) {
-      const stats = fs.statSync(path.join(directory, file));
-      maxLength = Math.max(maxLength, stats.size);
-      minLength = Math.min(minLength, stats.size);
-      aeroflyAirports.set(icaoCode, stats.size);
-    }
+    const stats = fs.statSync(path.join(directory, file));
+    maxLength = Math.max(maxLength, stats.size);
+    minLength = Math.min(minLength, stats.size);
+    aeroflyAirports.set(icaoCode, stats.size);
   }
 
   return aeroflyAirports;

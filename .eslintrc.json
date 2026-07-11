@@ -12,14 +12,5 @@
     "jsdoc/require-param-description": 0,
     "jsdoc/require-returns-description": 0
   },
-  "plugins": ["jsdoc"],
-  "ovverrides": [
-    {
-      "files": ["dist/*.js"],
-      "env": {
-        "browser": true,
-        "node": false
-      }
-    }
-  ]
+  "plugins": ["jsdoc"]
 }

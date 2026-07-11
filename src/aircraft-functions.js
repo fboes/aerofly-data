@@ -121,8 +121,6 @@ const getLiveryIcaoCode = (airlineName) => {
       return "AAL";
     case "all nippon airways":
       return "ANA";
-    case "american airlines":
-      return "AAL";
     case "lufthansa":
       return "DLH";
     case "united airlines":
