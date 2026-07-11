@@ -3830,8 +3830,8 @@
   {
     "code": "EDFR",
     "name": "Rothenburg ob der Tauber Airfield",
-    "lat": 49.388332,
-    "lon": 10.218056
+    "lat": 49.388941,
+    "lon": 10.218564
   },
   {
     "code": "EDFW",
@@ -10960,6 +10960,12 @@
     "name": "Old Nabire Airport",
     "lat": -3.368586,
     "lon": 135.496702
+  },
+  {
+    "code": "WIDO",
+    "name": "(Duplicate)Ranai Airport",
+    "lat": 3.908714,
+    "lon": 108.387897
   },
   {
     "code": "EIIB",
@@ -19302,8 +19308,8 @@
     "lon": -90.402496
   },
   {
-    "code": "KPBI",
-    "name": "Palm Beach International Airport",
+    "code": "KDJT",
+    "name": "President Donald J. Trump International Airport",
     "lat": 26.683201,
     "lon": -80.095596
   },
@@ -33446,8 +33452,8 @@
   {
     "code": "SAWC",
     "name": "El Calafate - Commander Armando Tola International Airport",
-    "lat": -50.281997,
-    "lon": -72.053949
+    "lat": -50.280267,
+    "lon": -72.053401
   },
   {
     "code": "SAWD",
@@ -36434,8 +36440,8 @@
   {
     "code": "SNED",
     "name": "Sócrates Rezende Airport",
-    "lat": -15.666999816895,
-    "lon": -38.954700469971
+    "lat": -15.667,
+    "lon": -38.9547
   },
   {
     "code": "SNEU",
@@ -39662,8 +39668,8 @@
   {
     "code": "URWI",
     "name": "Elista Airport",
-    "lat": 46.3739013671875,
-    "lon": 44.33089828491211
+    "lat": 46.373901,
+    "lon": 44.330898
   },
   {
     "code": "URWW",
@@ -42592,12 +42598,6 @@
     "name": "Rahadi Osman Airport",
     "lat": -1.817165,
     "lon": 109.963469
-  },
-  {
-    "code": "WIDO",
-    "name": "Ranai Airport",
-    "lat": 3.90871,
-    "lon": 108.388
   },
   {
     "code": "WIOO",

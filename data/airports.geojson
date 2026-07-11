@@ -13415,14 +13415,14 @@
         "coordinates": [
           9.1638,
           52.8119,
-          16.764
+          16.154400000000003
         ]
       },
       "properties": {
         "title": "EDHY",
         "type": "private_airfield",
         "description": "Hoya Airfield",
-        "elevation": 55,
+        "elevation": 53,
         "municipality": "Hoya",
         "fileSize": 0,
         "marker-symbol": "airfield",
@@ -13436,14 +13436,14 @@
         "coordinates": [
           8.5388,
           53.5383,
-          1.2192
+          3.048
         ]
       },
       "properties": {
         "title": "EDWT",
         "type": "private_airfield",
         "description": "Blexen Airfield",
-        "elevation": 4,
+        "elevation": 10,
         "municipality": "Blexen",
         "fileSize": 0,
         "marker-symbol": "airfield",
@@ -13457,14 +13457,14 @@
         "coordinates": [
           10.1815,
           52.3238,
-          71.628
+          74.9808
         ]
       },
       "properties": {
         "title": "EDVP",
         "type": "private_airfield",
         "description": "Peine-Glindbruchkippe Airfield",
-        "elevation": 235,
+        "elevation": 246,
         "municipality": "Peine",
         "fileSize": 0,
         "marker-symbol": "airfield",
@@ -13499,14 +13499,14 @@
         "coordinates": [
           8.778033,
           48.485439,
-          498.9576
+          499.872
         ]
       },
       "properties": {
         "title": "EDTE",
         "type": "large_airport",
         "description": "Eutingen Airfield",
-        "elevation": 1637,
+        "elevation": 1640,
         "municipality": "Eutingen im Gäu",
         "fileSize": 1344,
         "marker-symbol": "airfield",
@@ -17565,8 +17565,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.218056,
-          49.388332,
+          10.218564,
+          49.388941,
           398.9832
         ]
       },
@@ -19530,8 +19530,8 @@
         "elevation": 384,
         "municipality": "Lichterfeld-Schacksdorf",
         "fileSize": 968,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -20115,7 +20115,7 @@
       "properties": {
         "title": "EDWN",
         "type": "private_airfield",
-        "description": "Flugplatz Nordhorn-Lingen",
+        "description": "Nordhorn-Lingen Airfield",
         "elevation": 89,
         "municipality": "Klausheide",
         "fileSize": 0,
@@ -21402,7 +21402,7 @@
         "municipality": "Mariehamn",
         "fileSize": 1184,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -45569,6 +45569,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          108.387897,
+          3.908714,
+          0
+        ]
+      },
+      "properties": {
+        "title": "WIDO",
+        "type": "small_airport",
+        "description": "(Duplicate)Ranai Airport",
+        "elevation": 0,
+        "municipality": "Ranai-Natuna Besar Island",
+        "fileSize": 928,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -114.808824,
           44.808437,
           1280.16
@@ -46178,8 +46199,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.499000549,
-          43.848201751699996,
+          -112.501359,
+          43.851014,
           1459.0776
         ]
       },
@@ -76888,9 +76909,9 @@
         ]
       },
       "properties": {
-        "title": "KPBI",
+        "title": "KDJT",
         "type": "large_airport",
-        "description": "Palm Beach International Airport",
+        "description": "President Donald J. Trump International Airport",
         "elevation": 19,
         "municipality": "West Palm Beach",
         "fileSize": 1368,
@@ -130032,8 +130053,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.053949,
-          -50.281997,
+          -72.053401,
+          -50.280267,
           203.9112
         ]
       },
@@ -130045,7 +130066,7 @@
         "municipality": "El Calafate",
         "fileSize": 952,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -140501,16 +140522,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.954700469971,
-          -15.666999816895,
-          5.7912
+          -38.9547,
+          -15.667,
+          6.096
         ]
       },
       "properties": {
         "title": "SNED",
         "type": "small_airport",
         "description": "Sócrates Rezende Airport",
-        "elevation": 19,
+        "elevation": 20,
         "municipality": "Canavieiras",
         "fileSize": 936,
         "marker-symbol": "airfield",
@@ -152270,8 +152291,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.33089828491211,
-          46.3739013671875,
+          44.330898,
+          46.373901,
           152.7048
         ]
       },
@@ -154954,7 +154975,7 @@
         "municipality": "Mattala",
         "fileSize": 960,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -163255,27 +163276,6 @@
         "elevation": 46,
         "municipality": "Ketapang",
         "fileSize": 944,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          108.388,
-          3.90871,
-          2.1336
-        ]
-      },
-      "properties": {
-        "title": "WIDO",
-        "type": "small_airport",
-        "description": "Ranai Airport",
-        "elevation": 7,
-        "municipality": "Ranai-Natuna Besar Island",
-        "fileSize": 928,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
