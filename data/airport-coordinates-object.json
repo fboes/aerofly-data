@@ -22484,8 +22484,8 @@
   {
     "code": "LERO",
     "name": "Rozas Airfield",
-    "lat": 43.116901,
-    "lon": -7.47028
+    "lat": 43.11598,
+    "lon": -7.463635
   },
   {
     "code": "LERS",
@@ -26929,9 +26929,9 @@
   },
   {
     "code": "MGMM",
-    "name": "Melchor de Mencos Airport",
-    "lat": 17.068609,
-    "lon": -89.152222
+    "name": "Mundo Maya International Airport",
+    "lat": 16.913707,
+    "lon": -89.866143
   },
   {
     "code": "MGPB",
@@ -34502,8 +34502,8 @@
   {
     "code": "SCVL",
     "name": "Las Marías Airport",
-    "lat": -39.7969017029,
-    "lon": -73.24169921880001
+    "lat": -39.796902,
+    "lon": -73.241699
   },
   {
     "code": "SCVM",
@@ -34854,6 +34854,12 @@
     "lon": -78.5746
   },
   {
+    "code": "SECA",
+    "name": "Ciudad de Catamayo Airport",
+    "lat": -3.995606,
+    "lon": -79.371902
+  },
+  {
     "code": "SECO",
     "name": "Francisco De Orellana Airport",
     "lat": -0.462886,
@@ -34984,12 +34990,6 @@
     "name": "Los Perales Airport",
     "lat": -0.608111,
     "lon": -80.402702
-  },
-  {
-    "code": "SETM",
-    "name": "Ciudad de Catamayo Airport",
-    "lat": -3.995606,
-    "lon": -79.371902
   },
   {
     "code": "SETN",
@@ -37129,9 +37129,9 @@
   },
   {
     "code": "SSIM",
-    "name": "Boqueirão Alegre Airport",
-    "lat": -30.254004,
-    "lon": -55.846174
+    "name": "Forquilhinha - Criciúma  Airport",
+    "lat": -28.725743,
+    "lon": -49.424475
   },
   {
     "code": "SSJA",
@@ -42403,9 +42403,9 @@
   },
   {
     "code": "WIDO",
-    "name": "(Duplicate)Ranai Airport",
-    "lat": 3.908714,
-    "lon": 108.387897
+    "name": "Ranai Airport",
+    "lat": 3.90871,
+    "lon": 108.388
   },
   {
     "code": "WIDS",

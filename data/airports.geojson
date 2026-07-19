@@ -4648,6 +4648,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -82.674222,
+          41.778033,
+          174.34560000000002
+        ]
+      },
+      "properties": {
+        "title": "CYPT",
+        "type": "small_airport",
+        "description": "Pelee Island Airport",
+        "elevation": 572,
+        "municipality": "Pelee Island",
+        "fileSize": 976,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -124.5,
           49.83420181274414,
           129.54000000000002
@@ -5481,6 +5502,27 @@
         "fileSize": 936,
         "marker-symbol": "airport",
         "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.668938,
+          59.57833,
+          715.6704000000001
+        ]
+      },
+      "properties": {
+        "title": "CYSQ",
+        "type": "closed",
+        "description": "Atlin Airport",
+        "elevation": 2348,
+        "municipality": "Atlin",
+        "fileSize": 920,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -6907,6 +6949,27 @@
         "elevation": 180,
         "municipality": "Sept-Îles",
         "fileSize": 1304,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.133907,
+          55.297786,
+          690.0672000000001
+        ]
+      },
+      "properties": {
+        "title": "CYZY",
+        "type": "small_airport",
+        "description": "Mackenzie Airport",
+        "elevation": 2264,
+        "municipality": "Mackenzie",
+        "fileSize": 928,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -17978,6 +18041,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.604706,
+          55.733919,
+          0.6096
+        ]
+      },
+      "properties": {
+        "title": "EKHK",
+        "type": "private_airfield",
+        "description": "Holbæk (Ny Hagested) Airfield",
+        "elevation": 2,
+        "municipality": "Gislinge",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.910833,
+          55.496667,
+          42.976800000000004
+        ]
+      },
+      "properties": {
+        "title": "EKHL",
+        "type": "private_airfield",
+        "description": "Holsted Helipad",
+        "elevation": 141,
+        "municipality": "Holsted",
+        "fileSize": 0,
+        "marker-symbol": "heliport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.446358,
+          55.908195,
+          88.39200000000001
+        ]
+      },
+      "properties": {
+        "title": "EKHM",
+        "type": "closed",
+        "description": "Hammer Glider Field",
+        "elevation": 290,
+        "municipality": "Tørring",
+        "fileSize": 912,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.104311,
           56.297139,
           51.816
@@ -28170,6 +28296,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -5.798896,
+          11.598382,
+          396.5448
+        ]
+      },
+      "properties": {
+        "title": "GASO",
+        "type": "small_airport",
+        "description": "Sikasso (Dignangan) Airport",
+        "elevation": 1301,
+        "municipality": "Sikasso",
+        "fileSize": 936,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.00758,
           16.730499,
           263.0424
@@ -32688,27 +32835,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          108.387897,
-          3.908714,
-          0
-        ]
-      },
-      "properties": {
-        "title": "WIDO",
-        "type": "small_airport",
-        "description": "(Duplicate)Ranai Airport",
-        "elevation": 0,
-        "municipality": "Ranai-Natuna Besar Island",
-        "fileSize": 928,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           117.6856,
           30.7403,
           18.288
@@ -32744,6 +32870,27 @@
         "fileSize": 944,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.858799,
+          35.947161,
+          670.8648000000001
+        ]
+      },
+      "properties": {
+        "title": "KBVU",
+        "type": "large_airport",
+        "description": "Boulder City Municipal Airport",
+        "elevation": 2201,
+        "municipality": "Boulder City",
+        "fileSize": 1208,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -34532,6 +34679,27 @@
         "fileSize": 928,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.158442,
+          48.161448,
+          43.281600000000005
+        ]
+      },
+      "properties": {
+        "title": "KAWO",
+        "type": "medium_airport",
+        "description": "Arlington Municipal Airport",
+        "elevation": 142,
+        "municipality": "Arlington",
+        "fileSize": 1176,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -38705,6 +38873,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.274803,
+          45.304798,
+          203.9112
+        ]
+      },
+      "properties": {
+        "title": "KCVX",
+        "type": "small_airport",
+        "description": "Charlevoix Municipal Airport",
+        "elevation": 669,
+        "municipality": "Charlevoix",
+        "fileSize": 936,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -89.670238,
           44.777448,
           389.2296
@@ -40067,6 +40256,27 @@
         "fileSize": 944,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.566909,
+          30.398049,
+          188.976
+        ]
+      },
+      "properties": {
+        "title": "KEDC",
+        "type": "small_airport",
+        "description": "Austin Executive Airport",
+        "elevation": 620,
+        "municipality": "Pflugerville",
+        "fileSize": 968,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -42372,6 +42582,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          72.047096,
+          40.271702,
+          892.4544000000001
+        ]
+      },
+      "properties": {
+        "title": "UAFS",
+        "type": "closed",
+        "description": "Kyzyl-Kiya Airport",
+        "elevation": 2928,
+        "municipality": "Kyzyl-Kiya",
+        "fileSize": 920,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.9572,
           38.923173,
           1432.5600000000002
@@ -43648,6 +43879,27 @@
         "fileSize": 1168,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.413206,
+          41.617087,
+          180.13680000000002
+        ]
+      },
+      "properties": {
+        "title": "KGYY",
+        "type": "large_airport",
+        "description": "Gary/Chicago International Airport",
+        "elevation": 591,
+        "municipality": "Gary",
+        "fileSize": 1296,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -52874,6 +53126,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -82.868328,
+          41.515647,
+          179.83200000000002
+        ]
+      },
+      "properties": {
+        "title": "KPCW",
+        "type": "small_airport",
+        "description": "Erie-Ottawa International Airport",
+        "elevation": 590,
+        "municipality": "Port Clinton",
+        "fileSize": 1016,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -91.12370300293,
           43.019298553467,
           201.4728
@@ -56820,6 +57093,27 @@
         "fileSize": 1016,
         "marker-symbol": "airport",
         "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.566597,
+          45.692299,
+          203.9112
+        ]
+      },
+      "properties": {
+        "title": "KSJX",
+        "type": "small_airport",
+        "description": "Beaver Island Airport",
+        "elevation": 669,
+        "municipality": "Beaver Island",
+        "fileSize": 1048,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -61971,6 +62265,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -7.463635,
+          43.11598,
+          440.13120000000004
+        ]
+      },
+      "properties": {
+        "title": "LERO",
+        "type": "small_airport",
+        "description": "Rozas Airfield",
+        "elevation": 1444,
+        "municipality": "Lugo",
+        "fileSize": 928,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.168354,
           41.147509,
           71.0184
@@ -62197,6 +62512,27 @@
         "fileSize": 1192,
         "marker-symbol": "airport",
         "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.08778,
+          43.552502,
+          24.384
+        ]
+      },
+      "properties": {
+        "title": "LEVF",
+        "type": "small_airport",
+        "description": "Villaframil Airfield",
+        "elevation": 80,
+        "municipality": "Ribadeo, Lugo",
+        "fileSize": 944,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -75311,6 +75647,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -89.866143,
+          16.913707,
+          130.1496
+        ]
+      },
+      "properties": {
+        "title": "MGMM",
+        "type": "small_airport",
+        "description": "Mundo Maya International Airport",
+        "elevation": 427,
+        "municipality": "San Benito",
+        "fileSize": 952,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -86.852997,
           15.7425,
           11.8872
@@ -77645,6 +78002,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.599602,
+          8.91479,
+          15.8496
+        ]
+      },
+      "properties": {
+        "title": "MPPA",
+        "type": "small_airport",
+        "description": "Panamá Pacífico International Airport",
+        "elevation": 52,
+        "municipality": "Panamá City",
+        "fileSize": 936,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.555603,
           8.97334,
           9.4488
@@ -77659,6 +78037,27 @@
         "fileSize": 984,
         "marker-symbol": "airport",
         "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.043347,
+          7.534801,
+          45.110400000000006
+        ]
+      },
+      "properties": {
+        "title": "MPPD",
+        "type": "small_airport",
+        "description": "Capt. J. Montenegro Airport",
+        "elevation": 148,
+        "municipality": "Pedasí",
+        "fileSize": 936,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -84695,6 +85094,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          57.634167,
+          19.501944,
+          110.94720000000001
+        ]
+      },
+      "properties": {
+        "title": "OODQ",
+        "type": "small_airport",
+        "description": "Duqm International Airport",
+        "elevation": 364,
+        "municipality": "Duqm",
+        "fileSize": 928,
+        "marker-symbol": "airport",
+        "marker-color": "#5e6eba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           54.649237,
           24.440966,
           26.822400000000002
@@ -88194,6 +88614,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -164.722481,
+          62.682653,
+          3.048
+        ]
+      },
+      "properties": {
+        "title": "PAUK",
+        "type": "closed",
+        "description": "Alakanuk Airport",
+        "elevation": 10,
+        "municipality": "Alakanuk",
+        "fileSize": 920,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -160.798996,
           63.888401,
           8.2296
@@ -88208,6 +88649,27 @@
         "fileSize": 992,
         "marker-symbol": "airport",
         "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -165.604332,
+          54.14459,
+          40.5384
+        ]
+      },
+      "properties": {
+        "title": "PAUT",
+        "type": "small_airport",
+        "description": "Akutan Airport",
+        "elevation": 133,
+        "municipality": "Akutan",
+        "fileSize": 928,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -94697,6 +95159,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -72.053401,
+          -50.280267,
+          203.9112
+        ]
+      },
+      "properties": {
+        "title": "SAWC",
+        "type": "small_airport",
+        "description": "El Calafate - Commander Armando Tola International Airport",
+        "elevation": 669,
+        "municipality": "El Calafate",
+        "fileSize": 952,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -65.9041,
           -47.7353,
           81.6864
@@ -95810,6 +96293,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -49.424475,
+          -28.725743,
+          28.041600000000003
+        ]
+      },
+      "properties": {
+        "title": "SSIM",
+        "type": "small_airport",
+        "description": "Forquilhinha - Criciúma  Airport",
+        "elevation": 92,
+        "municipality": "Criciúma",
+        "fileSize": 944,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -48.606324,
           -17.725096,
           703.1736000000001
@@ -96475,6 +96979,27 @@
         "fileSize": 928,
         "marker-symbol": "airport",
         "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.846675,
+          -10.870743,
+          182.2704
+        ]
+      },
+      "properties": {
+        "title": "SBJI",
+        "type": "small_airport",
+        "description": "Ji-Paraná Airport",
+        "elevation": 598,
+        "municipality": "Ji-Paraná",
+        "fileSize": 928,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -97156,6 +97681,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -52.694463,
+          -26.217184,
+          822.0456
+        ]
+      },
+      "properties": {
+        "title": "SBPO",
+        "type": "small_airport",
+        "description": "Juvenal Loureiro Cardoso Airport",
+        "elevation": 2697,
+        "municipality": "Pato Branco",
+        "fileSize": 936,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -55.702599,
           -22.549601,
           657.1488
@@ -97324,6 +97870,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -35.36661,
+          -5.769822,
+          83.2104
+        ]
+      },
+      "properties": {
+        "title": "SBSG",
+        "type": "small_airport",
+        "description": "Rio Grande do Norte/São Gonçalo do Amarante–Governador Aluízio Alves International Airport",
+        "elevation": 273,
+        "municipality": "Natal",
+        "fileSize": 944,
+        "marker-symbol": "airport",
+        "marker-color": "#5e6eba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -55.586109,
           -11.885001,
           373.9896
@@ -97422,6 +97989,27 @@
         "fileSize": 1176,
         "marker-symbol": "airport",
         "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.672341,
+          -12.479177,
+          385.8768
+        ]
+      },
+      "properties": {
+        "title": "SBSO",
+        "type": "small_airport",
+        "description": "Adolino Bedin Regional Airport",
+        "elevation": 1266,
+        "municipality": "Sorriso",
+        "fileSize": 952,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -98795,6 +99383,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.241699,
+          -39.796902,
+          3.9624
+        ]
+      },
+      "properties": {
+        "title": "SCVL",
+        "type": "small_airport",
+        "description": "Las Marías Airport",
+        "elevation": 13,
+        "municipality": "Valdivia",
+        "fileSize": 944,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.4786,
           -32.9496,
           140.5128
@@ -99164,6 +99773,27 @@
         "elevation": 1234,
         "municipality": "Ahuano",
         "fileSize": 936,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.615799,
+          -0.906833,
+          2805.684
+        ]
+      },
+      "properties": {
+        "title": "SELT",
+        "type": "large_airport",
+        "description": "Cotopaxi International Airport",
+        "elevation": 9205,
+        "municipality": "Latacunga",
+        "fileSize": 1240,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -99626,6 +100256,27 @@
         "elevation": 3292,
         "municipality": "Franca",
         "fileSize": 944,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.940804,
+          -13.906082,
+          7.010400000000001
+        ]
+      },
+      "properties": {
+        "title": "SIRI",
+        "type": "closed",
+        "description": "Barra Grande Airport",
+        "elevation": 23,
+        "municipality": "Maraú",
+        "fileSize": 920,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -101359,6 +102010,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -65.380955,
+          -10.88856,
+          138.9888
+        ]
+      },
+      "properties": {
+        "title": "SLGM",
+        "type": "medium_airport",
+        "description": "Guayaramerín Airport",
+        "elevation": 456,
+        "municipality": "Guayaramerín",
+        "fileSize": 1152,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -65.145568,
           -16.976834,
           266.7
@@ -101981,6 +102653,27 @@
         "elevation": 2608,
         "municipality": "Divinópolis",
         "fileSize": 936,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.316474,
+          -3.019798,
+          135.0264
+        ]
+      },
+      "properties": {
+        "title": "SNEB",
+        "type": "closed",
+        "description": "Nagib Demachki Airport",
+        "elevation": 443,
+        "municipality": "Paragominas",
+        "fileSize": 920,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -102674,6 +103367,27 @@
         "elevation": 2904,
         "municipality": "Pouso Alegre",
         "fileSize": 944,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.883099,
+          -17.242599,
+          719.0232000000001
+        ]
+      },
+      "properties": {
+        "title": "SNZR",
+        "type": "small_airport",
+        "description": "Pedro Rabelo de Souza Airport",
+        "elevation": 2359,
+        "municipality": "Paracatu",
+        "fileSize": 928,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -105405,6 +106119,27 @@
         "elevation": 112,
         "municipality": "Barcelos",
         "fileSize": 928,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.3848,
+          -15.1934,
+          265.176
+        ]
+      },
+      "properties": {
+        "title": "SWBG",
+        "type": "closed",
+        "description": "André Antônio Maggi Airport",
+        "elevation": 870,
+        "municipality": "Pontes e Lacerda",
+        "fileSize": 920,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -110203,6 +110938,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          68.347997,
+          58.059712,
+          50.9016
+        ]
+      },
+      "properties": {
+        "title": "USTJ",
+        "type": "small_airport",
+        "description": "Tobolsk Remezov Airport",
+        "elevation": 167,
+        "municipality": "Tobolsk",
+        "fileSize": 936,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           65.327696,
           57.178984,
           115.21440000000001
@@ -111330,6 +112086,27 @@
         "elevation": 96,
         "municipality": "Kandla",
         "fileSize": 928,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.918602,
+          24.8172,
+          221.89440000000002
+        ]
+      },
+      "properties": {
+        "title": "VEKO",
+        "type": "small_airport",
+        "description": "Khajuraho Airport",
+        "elevation": 728,
+        "municipality": "Khajuraho",
+        "fileSize": 936,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -114814,6 +115591,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          73.468404,
+          5.817407,
+          1.8288000000000002
+        ]
+      },
+      "properties": {
+        "title": "VRDA",
+        "type": "closed",
+        "description": "Maafaru International Airport",
+        "elevation": 6,
+        "municipality": "Noonu Atoll",
+        "fileSize": 920,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           73.1302,
           5.1561,
           1.8288000000000002
@@ -117063,6 +117861,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          136.887388,
+          -4.52978,
+          31.3944
+        ]
+      },
+      "properties": {
+        "title": "WAYY",
+        "type": "small_airport",
+        "description": "Mozes Kilangin Airport",
+        "elevation": 103,
+        "municipality": "Timika",
+        "fileSize": 944,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           118.685002,
           -8.537184,
           0.9144000000000001
@@ -118988,6 +119807,27 @@
         "elevation": 46,
         "municipality": "Ketapang",
         "fileSize": 944,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.388,
+          3.90871,
+          2.1336
+        ]
+      },
+      "properties": {
+        "title": "WIDO",
+        "type": "small_airport",
+        "description": "Ranai Airport",
+        "elevation": 7,
+        "municipality": "Ranai-Natuna Besar Island",
+        "fileSize": 928,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -135097,27 +135937,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -55.846174,
-          -30.254004,
-          223.11360000000002
-        ]
-      },
-      "properties": {
-        "title": "SSIM",
-        "type": "small_airport",
-        "description": "Boqueirão Alegre Airport",
-        "elevation": 732,
-        "municipality": "Quaraí",
-        "fileSize": 944,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           30.2967,
           54.439999,
           188.976
@@ -135876,27 +136695,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.674222,
-          41.778033,
-          174.34560000000002
-        ]
-      },
-      "properties": {
-        "title": "CYPT",
-        "type": "small_airport",
-        "description": "Pelee Island Airport",
-        "elevation": 572,
-        "municipality": "Pelee Island",
-        "fileSize": 976,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -71.05256,
           48.520963,
           165.5064
@@ -135960,27 +136758,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -133.668938,
-          59.57833,
-          715.6704000000001
-        ]
-      },
-      "properties": {
-        "title": "CYSQ",
-        "type": "closed",
-        "description": "Atlin Airport",
-        "elevation": 2348,
-        "municipality": "Atlin",
-        "fileSize": 920,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -62.621102,
           45.611904,
           97.2312
@@ -136016,27 +136793,6 @@
         "fileSize": 928,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.133907,
-          55.297786,
-          690.0672000000001
-        ]
-      },
-      "properties": {
-        "title": "CYZY",
-        "type": "small_airport",
-        "description": "Mackenzie Airport",
-        "elevation": 2264,
-        "municipality": "Mackenzie",
-        "fileSize": 928,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
       }
     },
     {
@@ -140456,69 +141212,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.604706,
-          55.733919,
-          0.6096
-        ]
-      },
-      "properties": {
-        "title": "EKHK",
-        "type": "private_airfield",
-        "description": "Holbæk (Ny Hagested) Airfield",
-        "elevation": 2,
-        "municipality": "Gislinge",
-        "fileSize": 0,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.910833,
-          55.496667,
-          0
-        ]
-      },
-      "properties": {
-        "title": "EKHL",
-        "type": "private_airfield",
-        "description": "Holsted Helipad",
-        "elevation": 0,
-        "municipality": "Holsted",
-        "fileSize": 0,
-        "marker-symbol": "heliport",
-        "marker-color": "#555555"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.446358,
-          55.908195,
-          88.39200000000001
-        ]
-      },
-      "properties": {
-        "title": "EKHM",
-        "type": "closed",
-        "description": "Hammer Glider Field",
-        "elevation": 290,
-        "municipality": "Tørring",
-        "fileSize": 912,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           8.444061,
           56.396868,
           14.9352
@@ -142441,27 +143134,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.798896,
-          11.598382,
-          396.5448
-        ]
-      },
-      "properties": {
-        "title": "GASO",
-        "type": "small_airport",
-        "description": "Sikasso (Dignangan) Airport",
-        "elevation": 1301,
-        "municipality": "Sikasso",
-        "fileSize": 936,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.45831,
           54.686798,
           114.90960000000001
@@ -143389,27 +144061,6 @@
         "fileSize": 960,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.152222,
-          17.068609,
-          1423.4160000000002
-        ]
-      },
-      "properties": {
-        "title": "MGMM",
-        "type": "small_airport",
-        "description": "Melchor de Mencos Airport",
-        "elevation": 4670,
-        "municipality": "Melchor de Mencos",
-        "fileSize": 952,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
       }
     },
     {
@@ -145415,27 +146066,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -114.858799,
-          35.947161,
-          670.8648000000001
-        ]
-      },
-      "properties": {
-        "title": "KBVU",
-        "type": "large_airport",
-        "description": "Boulder City Municipal Airport",
-        "elevation": 2201,
-        "municipality": "Boulder City",
-        "fileSize": 1208,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -123.02899932861328,
           43.799800872802734,
           195.3768
@@ -147013,27 +147643,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.158442,
-          48.161448,
-          43.281600000000005
-        ]
-      },
-      "properties": {
-        "title": "KAWO",
-        "type": "medium_airport",
-        "description": "Arlington Municipal Airport",
-        "elevation": 142,
-        "municipality": "Arlington",
-        "fileSize": 1176,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -95.476898,
           29.5061,
           20.7264
@@ -148233,27 +148842,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.274803,
-          45.304798,
-          203.9112
-        ]
-      },
-      "properties": {
-        "title": "KCVX",
-        "type": "small_airport",
-        "description": "Charlevoix Municipal Airport",
-        "elevation": 669,
-        "municipality": "Charlevoix",
-        "fileSize": 936,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -81.869598,
           32.195099,
           34.1376
@@ -149129,27 +149717,6 @@
         "fileSize": 952,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.566909,
-          30.398049,
-          188.976
-        ]
-      },
-      "properties": {
-        "title": "KEDC",
-        "type": "small_airport",
-        "description": "Austin Executive Airport",
-        "elevation": 620,
-        "municipality": "Pflugerville",
-        "fileSize": 968,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
       }
     },
     {
@@ -150250,27 +150817,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          72.047096,
-          40.271702,
-          892.4544000000001
-        ]
-      },
-      "properties": {
-        "title": "UAFS",
-        "type": "closed",
-        "description": "Kyzyl-Kiya Airport",
-        "elevation": 2928,
-        "municipality": "Kyzyl-Kiya",
-        "fileSize": 920,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -97.37090301513672,
           48.404701232910156,
           251.1552
@@ -150875,27 +151421,6 @@
         "fileSize": 920,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.413206,
-          41.617087,
-          180.13680000000002
-        ]
-      },
-      "properties": {
-        "title": "KGYY",
-        "type": "large_airport",
-        "description": "Gary/Chicago International Airport",
-        "elevation": 591,
-        "municipality": "Gary",
-        "fileSize": 1296,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
       }
     },
     {
@@ -155051,27 +155576,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.868328,
-          41.515647,
-          179.83200000000002
-        ]
-      },
-      "properties": {
-        "title": "KPCW",
-        "type": "small_airport",
-        "description": "Erie-Ottawa International Airport",
-        "elevation": 590,
-        "municipality": "Port Clinton",
-        "fileSize": 1016,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -89.019798,
           44.333302,
           256.03200000000004
@@ -157206,27 +157710,6 @@
         "elevation": 1419,
         "municipality": "Sheldon",
         "fileSize": 928,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.566597,
-          45.692299,
-          203.9112
-        ]
-      },
-      "properties": {
-        "title": "KSJX",
-        "type": "small_airport",
-        "description": "Beaver Island Airport",
-        "elevation": 669,
-        "municipality": "Beaver Island",
-        "fileSize": 1048,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -159812,48 +160295,6 @@
         "elevation": 3097,
         "municipality": "Robledillo De Mohernando",
         "fileSize": 976,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.47028,
-          43.116901,
-          440.13120000000004
-        ]
-      },
-      "properties": {
-        "title": "LERO",
-        "type": "small_airport",
-        "description": "Rozas Airfield",
-        "elevation": 1444,
-        "municipality": "Lugo",
-        "fileSize": 928,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.08778,
-          43.552502,
-          24.384
-        ]
-      },
-      "properties": {
-        "title": "LEVF",
-        "type": "small_airport",
-        "description": "Villaframil Airfield",
-        "elevation": 80,
-        "municipality": "Lugo",
-        "fileSize": 944,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -163562,48 +164003,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.599602,
-          8.91479,
-          15.8496
-        ]
-      },
-      "properties": {
-        "title": "MPPA",
-        "type": "small_airport",
-        "description": "Panamá Pacífico International Airport",
-        "elevation": 52,
-        "municipality": "Panamá City",
-        "fileSize": 936,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.043347,
-          7.534801,
-          45.110400000000006
-        ]
-      },
-      "properties": {
-        "title": "MPPD",
-        "type": "small_airport",
-        "description": "Capt. J. Montenegro Airport",
-        "elevation": 148,
-        "municipality": "Pedasí",
-        "fileSize": 936,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -85.852898,
           10.3557,
           10.0584
@@ -164408,27 +164807,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          57.634167,
-          19.501944,
-          110.94720000000001
-        ]
-      },
-      "properties": {
-        "title": "OODQ",
-        "type": "small_airport",
-        "description": "Duqm International Airport",
-        "elevation": 364,
-        "municipality": "Duqm",
-        "fileSize": 928,
-        "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           57.3083,
           19.4749,
           170.68800000000002
@@ -164806,48 +165184,6 @@
         "elevation": 18,
         "municipality": "Nuiqsut",
         "fileSize": 920,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -164.722481,
-          62.682653,
-          3.048
-        ]
-      },
-      "properties": {
-        "title": "PAUK",
-        "type": "closed",
-        "description": "Alakanuk Airport",
-        "elevation": 10,
-        "municipality": "Alakanuk",
-        "fileSize": 920,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -165.604332,
-          54.14459,
-          40.5384
-        ]
-      },
-      "properties": {
-        "title": "PAUT",
-        "type": "small_airport",
-        "description": "Akutan Airport",
-        "elevation": 133,
-        "municipality": "Akutan",
-        "fileSize": 928,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -166378,27 +166714,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.053401,
-          -50.280267,
-          203.9112
-        ]
-      },
-      "properties": {
-        "title": "SAWC",
-        "type": "small_airport",
-        "description": "El Calafate - Commander Armando Tola International Airport",
-        "elevation": 669,
-        "municipality": "El Calafate",
-        "fileSize": 952,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -59.880299,
           -36.836899,
           145.6944
@@ -166715,27 +167030,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -61.846675,
-          -10.870743,
-          182.2704
-        ]
-      },
-      "properties": {
-        "title": "SBJI",
-        "type": "small_airport",
-        "description": "Ji-Paraná Airport",
-        "elevation": 598,
-        "municipality": "Ji-Paraná",
-        "fileSize": 928,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -49.729954,
           -21.663491,
           480.06
@@ -166792,69 +167086,6 @@
         "fileSize": 1168,
         "marker-symbol": "airport",
         "marker-color": "#555555"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.694463,
-          -26.217184,
-          822.0456
-        ]
-      },
-      "properties": {
-        "title": "SBPO",
-        "type": "small_airport",
-        "description": "Juvenal Loureiro Cardoso Airport",
-        "elevation": 2697,
-        "municipality": "Pato Branco",
-        "fileSize": 936,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.36661,
-          -5.769822,
-          83.2104
-        ]
-      },
-      "properties": {
-        "title": "SBSG",
-        "type": "small_airport",
-        "description": "Rio Grande do Norte/São Gonçalo do Amarante–Governador Aluízio Alves International Airport",
-        "elevation": 273,
-        "municipality": "Natal",
-        "fileSize": 944,
-        "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -55.672341,
-          -12.479177,
-          385.8768
-        ]
-      },
-      "properties": {
-        "title": "SBSO",
-        "type": "small_airport",
-        "description": "Adolino Bedin Regional Airport",
-        "elevation": 1266,
-        "municipality": "Sorriso",
-        "fileSize": 952,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
       }
     },
     {
@@ -167378,27 +167609,6 @@
         "elevation": 2139,
         "municipality": "Santiago",
         "fileSize": 952,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.24169921880001,
-          -39.7969017029,
-          3.9624
-        ]
-      },
-      "properties": {
-        "title": "SCVL",
-        "type": "small_airport",
-        "description": "Las Marías Airport",
-        "elevation": 13,
-        "municipality": "Valdivia",
-        "fileSize": 944,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -168332,27 +168542,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.615799,
-          -0.906833,
-          2805.684
-        ]
-      },
-      "properties": {
-        "title": "SELT",
-        "type": "large_airport",
-        "description": "Cotopaxi International Airport",
-        "elevation": 9205,
-        "municipality": "Latacunga",
-        "fileSize": 1240,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -76.9757,
           -2.06701,
           292.608
@@ -168422,7 +168611,7 @@
         ]
       },
       "properties": {
-        "title": "SETM",
+        "title": "SECA",
         "type": "medium_airport",
         "description": "Ciudad de Catamayo Airport",
         "elevation": 4056,
@@ -168679,27 +168868,6 @@
         "description": "Morro do Chapéu II Airport",
         "elevation": 989,
         "municipality": "Chapada Dos Guimarães",
-        "fileSize": 920,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.940804,
-          -13.906082,
-          7.010400000000001
-        ]
-      },
-      "properties": {
-        "title": "SIRI",
-        "type": "closed",
-        "description": "Barra Grande Airport",
-        "elevation": 23,
-        "municipality": "Maraú",
         "fileSize": 920,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -169323,27 +169491,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.380955,
-          -10.88856,
-          138.9888
-        ]
-      },
-      "properties": {
-        "title": "SLGM",
-        "type": "medium_airport",
-        "description": "Guayaramerín Airport",
-        "elevation": 456,
-        "municipality": "Guayaramerín",
-        "fileSize": 1152,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -61.0452,
           -16.401239,
           450.18960000000004
@@ -169608,27 +169755,6 @@
         "elevation": 1682,
         "municipality": "Barreiras",
         "fileSize": 928,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.316474,
-          -3.019798,
-          135.0264
-        ]
-      },
-      "properties": {
-        "title": "SNEB",
-        "type": "closed",
-        "description": "Nagib Demachki Airport",
-        "elevation": 443,
-        "municipality": "Paragominas",
-        "fileSize": 920,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -170763,27 +170889,6 @@
         "elevation": 1558,
         "municipality": "Iturama",
         "fileSize": 920,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.883099,
-          -17.242599,
-          719.0232000000001
-        ]
-      },
-      "properties": {
-        "title": "SNZR",
-        "type": "small_airport",
-        "description": "Pedro Rabelo de Souza Airport",
-        "elevation": 2359,
-        "municipality": "Paracatu",
-        "fileSize": 928,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -172319,27 +172424,6 @@
         "elevation": 968,
         "municipality": "Ribeirão Cascalheira",
         "fileSize": 912,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -59.3848,
-          -15.1934,
-          265.176
-        ]
-      },
-      "properties": {
-        "title": "SWBG",
-        "type": "closed",
-        "description": "André Antônio Maggi Airport",
-        "elevation": 870,
-        "municipality": "Pontes e Lacerda",
-        "fileSize": 920,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -174076,27 +174160,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          68.347997,
-          58.059712,
-          50.9016
-        ]
-      },
-      "properties": {
-        "title": "USTJ",
-        "type": "small_airport",
-        "description": "Tobolsk Remezov Airport",
-        "elevation": 167,
-        "municipality": "Tobolsk",
-        "fileSize": 936,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           71.513333,
           37.502222,
           2042.16
@@ -174301,27 +174364,6 @@
         "fileSize": 1008,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.918602,
-          24.8172,
-          221.89440000000002
-        ]
-      },
-      "properties": {
-        "title": "VEKO",
-        "type": "small_airport",
-        "description": "Khajuraho Airport",
-        "elevation": 728,
-        "municipality": "Khajuraho",
-        "fileSize": 936,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
       }
     },
     {
@@ -174928,27 +174970,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.468404,
-          5.817407,
-          1.8288000000000002
-        ]
-      },
-      "properties": {
-        "title": "VRDA",
-        "type": "closed",
-        "description": "Maafaru International Airport",
-        "elevation": 6,
-        "municipality": "Noonu Atoll",
-        "fileSize": 920,
-        "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           73.435,
           -0.309722,
           5.1816
@@ -175344,27 +175365,6 @@
         "fileSize": 0,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.887388,
-          -4.52978,
-          31.3944
-        ]
-      },
-      "properties": {
-        "title": "WAYY",
-        "type": "small_airport",
-        "description": "Mozes Kilangin Airport",
-        "elevation": 103,
-        "municipality": "Timika",
-        "fileSize": 944,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
       }
     },
     {

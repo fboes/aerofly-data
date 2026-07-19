@@ -91,14 +91,16 @@ export const getAeroflyAircraft = (directory) => {
             requirements: parseRequirements(tmdFileContent),
           };
 
-          const liveryIcaoCode = getLiveryIcaoCode(livery.name);
-          if (liveryIcaoCode !== "") {
-            livery.icaoCode = liveryIcaoCode;
-          }
-
           return livery;
         }),
-    ];
+    ].map((livery) => {
+      const liveryIcaoCode = getLiveryIcaoCode(livery.name);
+      if (liveryIcaoCode !== "") {
+        livery.icaoCode = liveryIcaoCode;
+      }
+
+      return livery;
+    });
 
     return {
       aeroflyCode: dirent.name,
@@ -116,11 +118,15 @@ export const getAeroflyAircraft = (directory) => {
 const getLiveryIcaoCode = (airlineName) => {
   const name = airlineName.toLowerCase();
   switch (name) {
+    case "all nippon airlines":
+      return "ANA";
     case "american airlines":
     case "american":
       return "AAL";
     case "all nippon airways":
       return "ANA";
+    case "china eastern":
+      return "CES";
     case "lufthansa":
       return "DLH";
     case "united airlines":
@@ -129,6 +135,12 @@ const getLiveryIcaoCode = (airlineName) => {
     case "delta air lines":
     case "delta":
       return "DAL";
+    case "emirates":
+      return "UAE";
+    case "singapore airlines":
+      return "SIA";
+    case "ethiopian":
+      return "ETH";
     case "air france":
       return "AFR";
     case "british airways":

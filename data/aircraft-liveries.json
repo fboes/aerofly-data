@@ -32,7 +32,8 @@
       {
         "aeroflyCode": "default",
         "name": "Eurowings",
-        "requirements": ["wingtips", "engine_iae"]
+        "requirements": ["wingtips", "engine_iae"],
+        "icaoCode": "EWG"
       },
       {
         "aeroflyCode": "aer_lingus",
@@ -115,7 +116,8 @@
       {
         "aeroflyCode": "china_eastern",
         "name": "China Eastern",
-        "requirements": ["sharklets", "engine_cfm"]
+        "requirements": ["sharklets", "engine_cfm"],
+        "icaoCode": "CES"
       },
       {
         "aeroflyCode": "cyprus",
@@ -296,7 +298,8 @@
       {
         "aeroflyCode": "default",
         "name": "Lufthansa",
-        "requirements": ["sharklets"]
+        "requirements": ["sharklets"],
+        "icaoCode": "DLH"
       },
       {
         "aeroflyCode": "aeroflot",
@@ -361,7 +364,8 @@
       {
         "aeroflyCode": "ana",
         "name": "All Nippon Airlines",
-        "requirements": ["sharklets"]
+        "requirements": ["sharklets"],
+        "icaoCode": "ANA"
       },
       {
         "aeroflyCode": "avianca",
@@ -383,7 +387,8 @@
       {
         "aeroflyCode": "china_eastern",
         "name": "China Eastern",
-        "requirements": ["sharklets"]
+        "requirements": ["sharklets"],
+        "icaoCode": "CES"
       },
       {
         "aeroflyCode": "china_southern",
@@ -1244,7 +1249,8 @@
       {
         "aeroflyCode": "ethiopian",
         "name": "Ethiopian",
-        "requirements": []
+        "requirements": [],
+        "icaoCode": "ETH"
       },
       {
         "aeroflyCode": "etihad",
@@ -1321,7 +1327,8 @@
       {
         "aeroflyCode": "default",
         "name": "British Airways",
-        "requirements": ["engine_rr", "british_airways"]
+        "requirements": ["engine_rr", "british_airways"],
+        "icaoCode": "BAW"
       },
       {
         "aeroflyCode": "air_france",
@@ -1358,7 +1365,8 @@
       {
         "aeroflyCode": "emirates",
         "name": "Emirates",
-        "requirements": ["engine_ea"]
+        "requirements": ["engine_ea"],
+        "icaoCode": "UAE"
       },
       {
         "aeroflyCode": "emirates_expo",
@@ -1406,7 +1414,8 @@
       {
         "aeroflyCode": "singapore",
         "name": "Singapore Airlines",
-        "requirements": ["engine_rr"]
+        "requirements": ["engine_rr"],
+        "icaoCode": "SIA"
       },
       {
         "aeroflyCode": "thai_airways",
@@ -1781,7 +1790,8 @@
       {
         "aeroflyCode": "china_eastern",
         "name": "China Eastern",
-        "requirements": ["winglets_blended"]
+        "requirements": ["winglets_blended"],
+        "icaoCode": "CES"
       },
       {
         "aeroflyCode": "china_southern",
@@ -1969,7 +1979,8 @@
       {
         "aeroflyCode": "singapore",
         "name": "Singapore Airlines",
-        "requirements": ["winglets_blended"]
+        "requirements": ["winglets_blended"],
+        "icaoCode": "SIA"
       },
       {
         "aeroflyCode": "smartwings",
@@ -2272,7 +2283,8 @@
       {
         "aeroflyCode": "default",
         "name": "KLM",
-        "requirements": []
+        "requirements": [],
+        "icaoCode": "KLM"
       },
       {
         "aeroflyCode": "air_canada",
@@ -2540,7 +2552,8 @@
       {
         "aeroflyCode": "default",
         "name": "British Airways",
-        "requirements": []
+        "requirements": [],
+        "icaoCode": "BAW"
       },
       {
         "aeroflyCode": "aeroflot",
@@ -2623,7 +2636,8 @@
       {
         "aeroflyCode": "china_eastern",
         "name": "China Eastern",
-        "requirements": []
+        "requirements": [],
+        "icaoCode": "CES"
       },
       {
         "aeroflyCode": "china_southern",
@@ -2639,12 +2653,14 @@
       {
         "aeroflyCode": "emirates",
         "name": "Emirates",
-        "requirements": []
+        "requirements": [],
+        "icaoCode": "UAE"
       },
       {
         "aeroflyCode": "ethiopian",
         "name": "Ethiopian",
-        "requirements": []
+        "requirements": [],
+        "icaoCode": "ETH"
       },
       {
         "aeroflyCode": "etihad",
@@ -2759,7 +2775,8 @@
       {
         "aeroflyCode": "singapore",
         "name": "Singapore Airlines",
-        "requirements": []
+        "requirements": [],
+        "icaoCode": "SIA"
       },
       {
         "aeroflyCode": "swiss",
@@ -2830,7 +2847,8 @@
       {
         "aeroflyCode": "default",
         "name": "KLM",
-        "requirements": ["engine_ge", "engine_ge_decals"]
+        "requirements": ["engine_ge", "engine_ge_decals"],
+        "icaoCode": "KLM"
       },
       {
         "aeroflyCode": "ana",
@@ -2883,7 +2901,8 @@
       {
         "aeroflyCode": "singapore",
         "name": "Singapore Airlines",
-        "requirements": ["engine_rr", "engine_rr_decals"]
+        "requirements": ["engine_rr", "engine_rr_decals"],
+        "icaoCode": "SIA"
       },
       {
         "aeroflyCode": "united",
@@ -3002,7 +3021,8 @@
       {
         "aeroflyCode": "ethiopian",
         "name": "Ethiopian",
-        "requirements": ["engine_rr", "engine_rr_decals"]
+        "requirements": ["engine_rr", "engine_rr_decals"],
+        "icaoCode": "ETH"
       },
       {
         "aeroflyCode": "etihad",
@@ -3308,7 +3328,8 @@
       {
         "aeroflyCode": "default",
         "name": "Air France",
-        "requirements": []
+        "requirements": [],
+        "icaoCode": "AFR"
       },
       {
         "aeroflyCode": "british_airways_1976",
@@ -3360,7 +3381,8 @@
       {
         "aeroflyCode": "default",
         "name": "Eurowings",
-        "requirements": []
+        "requirements": [],
+        "icaoCode": "EWG"
       },
       {
         "aeroflyCode": "adria",
@@ -4095,7 +4117,8 @@
       {
         "aeroflyCode": "ethiopian",
         "name": "Ethiopian",
-        "requirements": []
+        "requirements": [],
+        "icaoCode": "ETH"
       },
       {
         "aeroflyCode": "flybe",
