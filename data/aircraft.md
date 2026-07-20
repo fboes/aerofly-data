@@ -5,7 +5,7 @@
 | Aermacchi MB-339                     | `M339`    | `mb339`         |                  120 |               25,000 |                486 |              1,188 |        5 |
 | Aérospatiale/BAC Concorde            | `CONC`    | `concorde`      |                  182 |               55,000 |              1,177 |              3,553 |        4 |
 | Airbus A319-115                      | `A319`    | `a319`          |                  141 |               32,000 |                453 |              3,050 |       44 |
-| Airbus A320                          | `A320`    | `a320`          |                  141 |               32,000 |                453 |              2,900 |       36 |
+| Airbus A320                          | `A320`    | `a320`          |                  141 |               32,000 |                453 |              2,900 |       75 |
 | Airbus A320neo                       | `A20N`    | `a320_neo`      |                  136 |               32,000 |                453 |              3,400 |       58 |
 | Airbus A321-211                      | `A321`    | `a321`          |                  147 |               32,000 |                453 |              2,600 |       51 |
 | Airbus A321XLR                       | `A21N`    | `a321_xlr`      |                  148 |               32,000 |                453 |              3,186 |        7 |
@@ -22,7 +22,7 @@
 | Boeing 777-300ER                     | `B77W`    | `b777_300er`    |                  150 |               41,000 |                482 |              7,800 |       48 |
 | Boeing 777F                          | `B77F`    | `b777f`         |                  153 |               41,000 |                482 |              8,100 |       25 |
 | Boeing 787-10 Dreamliner             | `B78X`    | `b787`          |                  159 |               40,000 |                482 |              8,100 |       13 |
-| Boeing 787-9 Dreamliner              | `B789`    | `b787_9`        |                  155 |               40,000 |                482 |              6,425 |       41 |
+| Boeing 787-9 Dreamliner              | `B789`    | `b787_9`        |                  155 |               40,000 |                482 |              6,425 |       55 |
 | Bombardier CRJ-900LR                 | `CRJ9`    | `crj900`        |                  138 |               38,000 |                470 |              1,980 |       10 |
 | Bombardier Dash-8 Q400               | `DH8D`    | `q400`          |                  143 |               24,000 |                286 |              1,530 |       39 |
 | Bombardier Learjet 45                | `LJ45`    | `lj45`          |                  131 |               41,000 |                486 |              1,937 |        4 |
@@ -34,7 +34,7 @@
 | Junkers Ju 52/3m                     | `JU52`    | `ju52`          |                   82 |               19,685 |                136 |                648 |        2 |
 | Lockheed P-38 Lightning              | `P38`     | `p38`           |                  109 |               20,000 |                315 |              1,031 |        3 |
 | Marganski Swift S1                   |           | `swift`         |                   63 |                6,562 |                 65 |                  0 |        2 |
-| McDonnell Douglas F-15E Strike Eagle | `F15`     | `f15e`          |                  174 |               40,000 |              1,458 |                687 |        3 |
+| McDonnell Douglas F-15E Strike Eagle | `F15`     | `f15e`          |                  164 |               40,000 |              1,458 |                687 |        3 |
 | McDonnell Douglas F/A-18C Hornet     | `F18H`    | `f18`           |                  144 |               40,000 |              1,034 |              1,089 |       13 |
 | Messerschmitt Bf 109E                | `ME09`    | `bf109e`        |                   94 |               13,123 |                309 |                432 |        1 |
 | Messerschmitt Me 262 A-1             | `ME62`    | `me262`         |                  119 |               19,685 |                432 |                 57 |        3 |
@@ -48,4 +48,4 @@
 | Vought F4U Corsair                   | `CORS`    | `f4u`           |                  105 |               20,000 |                389 |                930 |        3 |
 
 - Total Aircraft: **44**
-- Total Liveries: **626**
+- Total Liveries: **679**

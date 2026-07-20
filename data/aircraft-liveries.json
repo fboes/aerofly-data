@@ -297,198 +297,396 @@
     "liveries": [
       {
         "aeroflyCode": "default",
-        "name": "Lufthansa",
-        "requirements": ["sharklets"],
-        "icaoCode": "DLH"
+        "name": "Vueling",
+        "requirements": ["engine_iae", "sharklets"]
+      },
+      {
+        "aeroflyCode": "aegean",
+        "name": "Aegean",
+        "requirements": ["sharklets", "engine_iae"]
       },
       {
         "aeroflyCode": "aeroflot",
         "name": "Aeroflot",
-        "requirements": ["wingtips"],
+        "requirements": ["engine_cfm", "wingtips"],
         "icaoCode": "AFL"
       },
       {
         "aeroflyCode": "aer_lingus",
         "name": "Aer Lingus",
-        "requirements": ["wingtips"]
+        "requirements": ["wingtips", "engine_cfm"]
+      },
+      {
+        "aeroflyCode": "aircalin",
+        "name": "Aircalin",
+        "requirements": ["wingtips", "engine_iae"]
       },
       {
         "aeroflyCode": "air_asia",
         "name": "Air Asia",
-        "requirements": ["sharklets"]
+        "requirements": ["engine_cfm", "sharklets"]
+      },
+      {
+        "aeroflyCode": "air_asia_100th",
+        "name": "Air Asia 100th",
+        "requirements": ["engine_cfm", "wingtips"]
       },
       {
         "aeroflyCode": "air_berlin",
-        "name": "airberlin",
-        "requirements": ["sharklets"]
+        "name": "Air Berlin",
+        "requirements": ["engine_cfm", "wingtips"]
+      },
+      {
+        "aeroflyCode": "air_cairo",
+        "name": "Air Cairo",
+        "requirements": ["wingtips", "engine_cfm"]
       },
       {
         "aeroflyCode": "air_china",
         "name": "Air China",
-        "requirements": ["wingtips"],
+        "requirements": ["engine_cfm", "wingtips"],
         "icaoCode": "CCA"
+      },
+      {
+        "aeroflyCode": "air_corsica",
+        "name": "Air Corsica",
+        "requirements": ["wingtips", "engine_cfm"]
       },
       {
         "aeroflyCode": "air_france",
         "name": "Air France",
-        "requirements": ["sharklets"],
+        "requirements": ["engine_cfm", "sharklets"],
         "icaoCode": "AFR"
       },
       {
         "aeroflyCode": "air_jamaica",
         "name": "Air Jamaica",
-        "requirements": ["wingtips"]
+        "requirements": ["engine_cfm", "wingtips"]
+      },
+      {
+        "aeroflyCode": "air_macau",
+        "name": "Air Macau",
+        "requirements": ["sharklets", "engine_iae"]
       },
       {
         "aeroflyCode": "air_new_zealand",
         "name": "Air New Zealand",
-        "requirements": ["sharklets"]
+        "requirements": ["wingtips", "engine_iae"]
       },
       {
         "aeroflyCode": "air_seychelles",
         "name": "Air Seychelles",
-        "requirements": ["wingtips"]
-      },
-      {
-        "aeroflyCode": "alitalia",
-        "name": "Alitalia",
-        "requirements": ["wingtips"],
-        "icaoCode": "AZA"
+        "requirements": ["wingtips", "engine_iae"]
       },
       {
         "aeroflyCode": "american",
-        "name": "American Airlines",
-        "requirements": ["sharklets"],
+        "name": "American",
+        "requirements": ["engine_cfm", "wingtips"],
         "icaoCode": "AAL"
       },
       {
         "aeroflyCode": "ana",
-        "name": "All Nippon Airlines",
-        "requirements": ["sharklets"],
-        "icaoCode": "ANA"
+        "name": "ANA",
+        "requirements": ["wingtips", "engine_cfm"]
+      },
+      {
+        "aeroflyCode": "austrian",
+        "name": "Austrian",
+        "requirements": ["wingtips", "engine_cfm"]
       },
       {
         "aeroflyCode": "avianca",
         "name": "Avianca",
-        "requirements": ["sharklets"]
+        "requirements": ["sharklets", "engine_cfm"]
+      },
+      {
+        "aeroflyCode": "azores",
+        "name": "Azores",
+        "requirements": ["wingtips", "engine_cfm"]
+      },
+      {
+        "aeroflyCode": "azul",
+        "name": "Azul",
+        "requirements": ["sharklets", "engine_cfm"]
+      },
+      {
+        "aeroflyCode": "bamboo",
+        "name": "Bamboo",
+        "requirements": ["wingtips", "engine_iae"]
+      },
+      {
+        "aeroflyCode": "batik",
+        "name": "Batik",
+        "requirements": ["wingtips", "engine_iae"]
       },
       {
         "aeroflyCode": "british_airways",
         "name": "British Airways",
-        "requirements": ["sharklets"],
+        "requirements": ["sharklets", "engine_iae"],
         "icaoCode": "BAW"
       },
       {
-        "aeroflyCode": "cathay_pacific",
-        "name": "Cathay Pacific",
-        "requirements": ["wingtips"],
-        "icaoCode": "CPA"
+        "aeroflyCode": "cebu_pacific",
+        "name": "Cebu Pacific",
+        "requirements": ["wingtips", "engine_cfm"]
       },
       {
         "aeroflyCode": "china_eastern",
         "name": "China Eastern",
-        "requirements": ["sharklets"],
+        "requirements": ["engine_cfm", "wingtips"],
         "icaoCode": "CES"
       },
       {
         "aeroflyCode": "china_southern",
         "name": "China Southern",
-        "requirements": ["wingtips"],
+        "requirements": ["engine_iae", "wingtips"],
         "icaoCode": "CSN"
       },
       {
         "aeroflyCode": "citilink",
         "name": "Citilink",
-        "requirements": ["sharklets"]
+        "requirements": ["sharklets", "engine_cfm"]
+      },
+      {
+        "aeroflyCode": "condor",
+        "name": "Condor",
+        "requirements": ["wingtips", "engine_cfm"]
       },
       {
         "aeroflyCode": "delta",
         "name": "Delta",
-        "requirements": ["wingtips"],
+        "requirements": ["engine_cfm", "wingtips"],
         "icaoCode": "DAL"
       },
       {
+        "aeroflyCode": "discover",
+        "name": "Discover",
+        "requirements": ["engine_cfm", "sharklets"]
+      },
+      {
         "aeroflyCode": "easyjet",
-        "name": "easyJet",
-        "requirements": ["sharklets"],
+        "name": "EasyJet",
+        "requirements": ["sharklets", "engine_cfm"],
         "icaoCode": "EZY"
       },
       {
         "aeroflyCode": "edelweiss",
         "name": "Edelweiss",
-        "requirements": ["wingtips"]
+        "requirements": ["engine_cfm", "wingtips"]
+      },
+      {
+        "aeroflyCode": "eurowings",
+        "name": "Eurowings",
+        "requirements": ["sharklets", "engine_cfm"],
+        "icaoCode": "EWG"
+      },
+      {
+        "aeroflyCode": "flynas",
+        "name": "Flynas",
+        "requirements": ["wingtips", "engine_cfm"]
+      },
+      {
+        "aeroflyCode": "flyone",
+        "name": "Flyone",
+        "requirements": ["engine_cfm", "sharklets"]
+      },
+      {
+        "aeroflyCode": "freebird",
+        "name": "Freebird",
+        "requirements": ["engine_iae", "wingtips"]
       },
       {
         "aeroflyCode": "germanwings",
-        "name": "germanwings",
-        "requirements": ["sharklets"]
+        "name": "Germanwings",
+        "requirements": ["engine_cfm", "wingtips"]
       },
       {
         "aeroflyCode": "gulf_air",
         "name": "Gulf Air",
-        "requirements": ["wingtips"]
+        "requirements": ["engine_cfm", "wingtips"]
+      },
+      {
+        "aeroflyCode": "hkexpress",
+        "name": "Hong Kong express",
+        "requirements": ["sharklets", "engine_iae"]
+      },
+      {
+        "aeroflyCode": "iberia",
+        "name": "Iberia",
+        "requirements": ["wingtips", "engine_cfm"],
+        "icaoCode": "IBE"
       },
       {
         "aeroflyCode": "indigo",
         "name": "Indigo",
-        "requirements": ["wingtips"]
+        "requirements": ["sharklets", "engine_iae"]
+      },
+      {
+        "aeroflyCode": "israir",
+        "name": "Israir",
+        "requirements": ["engine_iae", "wingtips"]
+      },
+      {
+        "aeroflyCode": "ita",
+        "name": "ITA Airways",
+        "requirements": ["wingtips", "engine_cfm"]
+      },
+      {
+        "aeroflyCode": "jetblue",
+        "name": "jetBlue",
+        "requirements": ["engine_iae", "wingtips"],
+        "icaoCode": "JBU"
       },
       {
         "aeroflyCode": "lan",
         "name": "LAN",
-        "requirements": ["wingtips"]
+        "requirements": ["engine_cfm", "wingtips"]
       },
       {
-        "aeroflyCode": "lufthansa_classic",
-        "name": "Lufthansa classic",
-        "requirements": ["wingtips"]
+        "aeroflyCode": "latam",
+        "name": "LATAM",
+        "requirements": ["sharklets", "engine_cfm"],
+        "icaoCode": "LAN"
+      },
+      {
+        "aeroflyCode": "lufthansa",
+        "name": "Lufthansa",
+        "requirements": ["wingtips", "engine_cfm"],
+        "icaoCode": "DLH"
       },
       {
         "aeroflyCode": "malta",
         "name": "Malta",
-        "requirements": ["sharklets"]
+        "requirements": ["wingtips", "engine_cfm"]
       },
       {
         "aeroflyCode": "northwest",
         "name": "Northwest",
-        "requirements": ["wingtips"]
+        "requirements": ["engine_cfm", "wingtips"]
+      },
+      {
+        "aeroflyCode": "peach",
+        "name": "Peach",
+        "requirements": ["wingtips", "engine_cfm"]
+      },
+      {
+        "aeroflyCode": "pegasus",
+        "name": "Pegasus",
+        "requirements": ["sharklets", "engine_cfm"]
+      },
+      {
+        "aeroflyCode": "pelita_air",
+        "name": "Pelita Air",
+        "requirements": ["engine_cfm", "sharklets"]
+      },
+      {
+        "aeroflyCode": "qantas",
+        "name": "Qantas",
+        "requirements": ["engine_iae", "wingtips"]
       },
       {
         "aeroflyCode": "s7",
         "name": "S7",
-        "requirements": ["sharklets"]
+        "requirements": ["engine_cfm", "wingtips"]
+      },
+      {
+        "aeroflyCode": "sas",
+        "name": "SAS",
+        "requirements": ["wingtips", "engine_iae"],
+        "icaoCode": "SAS"
+      },
+      {
+        "aeroflyCode": "sata",
+        "name": "Sata",
+        "requirements": ["engine_cfm", "wingtips"]
+      },
+      {
+        "aeroflyCode": "scoot",
+        "name": "Scoot",
+        "requirements": ["wingtips", "engine_iae"]
       },
       {
         "aeroflyCode": "shenzhen",
         "name": "Shenzhen Airlines",
-        "requirements": ["sharklets"]
+        "requirements": ["engine_iae", "wingtips"]
       },
       {
         "aeroflyCode": "sichuan",
         "name": "Sichuan Airlines",
-        "requirements": ["sharklets"]
+        "requirements": ["engine_cfm", "sharklets"]
+      },
+      {
+        "aeroflyCode": "sky",
+        "name": "Sky",
+        "requirements": ["wingtips", "engine_iae"]
+      },
+      {
+        "aeroflyCode": "spirit",
+        "name": "Spirit",
+        "requirements": ["wingtips", "engine_iae"]
+      },
+      {
+        "aeroflyCode": "starflyer",
+        "name": "Starflyer",
+        "requirements": ["sharklets", "engine_cfm"]
+      },
+      {
+        "aeroflyCode": "super_air_jet",
+        "name": "Super Air Jet",
+        "requirements": ["engine_iae", "wingtips"]
       },
       {
         "aeroflyCode": "swiss",
         "name": "Swiss",
-        "requirements": ["sharklets"],
+        "requirements": ["wingtips", "engine_cfm"],
         "icaoCode": "SWR"
       },
       {
         "aeroflyCode": "tam",
         "name": "TAM",
-        "requirements": ["wingtips"],
+        "requirements": ["engine_cfm", "wingtips"],
         "icaoCode": "TAM"
       },
       {
         "aeroflyCode": "tap",
         "name": "TAP",
-        "requirements": ["sharklets"]
+        "requirements": ["wingtips", "engine_cfm"]
+      },
+      {
+        "aeroflyCode": "transnusa",
+        "name": "TransNusa",
+        "requirements": ["engine_cfm", "wingtips"]
+      },
+      {
+        "aeroflyCode": "united",
+        "name": "United",
+        "requirements": ["engine_iae", "wingtips"],
+        "icaoCode": "UAL"
       },
       {
         "aeroflyCode": "vietnam",
         "name": "Vietnam Airlines",
-        "requirements": ["wingtips"]
+        "requirements": ["sharklets", "engine_cfm"]
+      },
+      {
+        "aeroflyCode": "vistara",
+        "name": "Vistara",
+        "requirements": ["sharklets", "engine_iae"]
+      },
+      {
+        "aeroflyCode": "viva",
+        "name": "Viva",
+        "requirements": ["sharklets", "engine_iae"]
+      },
+      {
+        "aeroflyCode": "volaris",
+        "name": "Volaris",
+        "requirements": ["sharklets", "engine_iae"]
+      },
+      {
+        "aeroflyCode": "wizzair",
+        "name": "Wizz Air",
+        "requirements": ["wingtips", "engine_iae"]
       }
     ]
   },
@@ -1046,7 +1244,7 @@
       {
         "aeroflyCode": "philippine",
         "name": "Philippines",
-        "requirements": ["sharklets", "engine_cfm"]
+        "requirements": ["sharklets", "engine_iae"]
       },
       {
         "aeroflyCode": "royal_jordanian",
@@ -2964,6 +3162,12 @@
         "icaoCode": "ACA"
       },
       {
+        "aeroflyCode": "air_canada_blue",
+        "name": "Air Canada",
+        "requirements": ["engine_ge"],
+        "icaoCode": "ACA"
+      },
+      {
         "aeroflyCode": "air_europa",
         "name": "Air Europa",
         "requirements": ["engine_rr", "engine_rr_decals"]
@@ -2975,13 +3179,28 @@
         "icaoCode": "AFR"
       },
       {
+        "aeroflyCode": "air_india",
+        "name": "Air India",
+        "requirements": ["engine_ge"]
+      },
+      {
         "aeroflyCode": "air_new_zealand",
         "name": "Air New Zealand",
         "requirements": ["engine_rr"]
       },
       {
+        "aeroflyCode": "air_premia",
+        "name": "Air Premia",
+        "requirements": ["engine_rr", "engine_rr_decals"]
+      },
+      {
         "aeroflyCode": "air_tahiti_nui",
         "name": "Air Tahiti Nui",
+        "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "alaska",
+        "name": "Alaska Airlines",
         "requirements": ["engine_ge"]
       },
       {
@@ -2995,6 +3214,11 @@
         "name": "All Nippon Airways",
         "requirements": ["engine_ge", "engine_ge_decals"],
         "icaoCode": "ANA"
+      },
+      {
+        "aeroflyCode": "austrian",
+        "name": "Austrian",
+        "requirements": ["engine_ge"]
       },
       {
         "aeroflyCode": "bamboo",
@@ -3014,6 +3238,11 @@
         "icaoCode": "CSN"
       },
       {
+        "aeroflyCode": "egypt_air",
+        "name": "Egypt Air",
+        "requirements": ["engine_rr"]
+      },
+      {
         "aeroflyCode": "elal",
         "name": "El Al",
         "requirements": ["engine_rr", "engine_rr_decals"]
@@ -3031,6 +3260,11 @@
         "icaoCode": "ETD"
       },
       {
+        "aeroflyCode": "eva_air",
+        "name": "Eva Air",
+        "requirements": ["engine_ge", "engine_ge_decals"]
+      },
+      {
         "aeroflyCode": "hainan",
         "name": "Hainan",
         "requirements": ["engine_ge", "engine_ge_decals"]
@@ -3041,7 +3275,17 @@
         "requirements": ["engine_ge"]
       },
       {
-        "aeroflyCode": "juneyao_air",
+        "aeroflyCode": "japan_oneworld",
+        "name": "Japan Oneworld",
+        "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "juneyao",
+        "name": "Juneyao Air",
+        "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "juneyao_red",
         "name": "Juneyao Air",
         "requirements": ["engine_ge"]
       },
@@ -3055,6 +3299,11 @@
         "aeroflyCode": "korean_new",
         "name": "Korean Airlines",
         "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "lan",
+        "name": "LAN",
+        "requirements": ["engine_rr"]
       },
       {
         "aeroflyCode": "latam",
@@ -3089,14 +3338,29 @@
         "requirements": ["engine_rr", "engine_rr_decals"]
       },
       {
+        "aeroflyCode": "oman_air",
+        "name": "Oman Air",
+        "requirements": ["engine_ge"]
+      },
+      {
         "aeroflyCode": "qantas",
         "name": "Qantas",
+        "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "qantas_100",
+        "name": "Qantas 100",
         "requirements": ["engine_ge"]
       },
       {
         "aeroflyCode": "qatar",
         "name": "Qatar",
         "requirements": ["engine_rr"]
+      },
+      {
+        "aeroflyCode": "riyadh",
+        "name": "Riyadh Air",
+        "requirements": ["engine_ge"]
       },
       {
         "aeroflyCode": "royal_air_maroc",
@@ -3163,6 +3427,11 @@
       {
         "aeroflyCode": "westjet",
         "name": "WestJet",
+        "requirements": ["engine_ge"]
+      },
+      {
+        "aeroflyCode": "xiamen",
+        "name": "Xiamen Air",
         "requirements": ["engine_ge"]
       }
     ]
@@ -3577,8 +3846,18 @@
     "name": "F-15E",
     "nameFull": "McDonnell Douglas F-15E Strike Eagle",
     "icaoCode": "F15",
-    "tags": ["airplane", "military", "fighter", "jet", "flaps", "retractable_gear", "autopilot", "autothrottle"],
-    "approachAirspeedKts": 174,
+    "tags": [
+      "airplane",
+      "military",
+      "fighter",
+      "jet",
+      "flaps",
+      "retractable_gear",
+      "catch_hook",
+      "autopilot",
+      "autothrottle"
+    ],
+    "approachAirspeedKts": 164,
     "cruiseAltitudeFt": 40000,
     "cruiseSpeedKts": 1458,
     "maximumRangeNm": 687,
@@ -3587,7 +3866,7 @@
     "maximumFerryRangeNm": 702,
     "maximumFuelMassKg": 6123.5,
     "maximumTakeoffMassKg": 36741,
-    "operatingEmptyMassKg": 14379,
+    "operatingEmptyMassKg": 17010,
     "maximumPersonsOnBoard": 2,
     "liveries": [
       {

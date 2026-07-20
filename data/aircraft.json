@@ -768,8 +768,18 @@
     "name": "F-15E",
     "nameFull": "McDonnell Douglas F-15E Strike Eagle",
     "icaoCode": "F15",
-    "tags": ["airplane", "military", "fighter", "jet", "flaps", "retractable_gear", "autopilot", "autothrottle"],
-    "approachAirspeedKts": 174,
+    "tags": [
+      "airplane",
+      "military",
+      "fighter",
+      "jet",
+      "flaps",
+      "retractable_gear",
+      "catch_hook",
+      "autopilot",
+      "autothrottle"
+    ],
+    "approachAirspeedKts": 164,
     "cruiseAltitudeFt": 40000,
     "cruiseSpeedKts": 1458,
     "maximumRangeNm": 687,
@@ -778,7 +788,7 @@
     "maximumFerryRangeNm": 702,
     "maximumFuelMassKg": 6123.5,
     "maximumTakeoffMassKg": 36741,
-    "operatingEmptyMassKg": 14379,
+    "operatingEmptyMassKg": 17010,
     "maximumPersonsOnBoard": 2
   },
   {
