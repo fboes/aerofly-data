@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Adding changes from current Aerofly FS Beta
+
 ## [1.8.0]
 
 - Preferring ICAO codes
