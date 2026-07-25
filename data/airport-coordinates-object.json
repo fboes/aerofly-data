@@ -1860,12 +1860,6 @@
     "lon": -75.644001
   },
   {
-    "code": "CYRP",
-    "name": "Ottawa / Carp Airport",
-    "lat": 45.3191986084,
-    "lon": -76.0222015381
-  },
-  {
     "code": "CYRQ",
     "name": "Trois-Rivières Airport",
     "lat": 46.35279846191406,
@@ -5388,6 +5382,12 @@
     "lon": 0.939074
   },
   {
+    "code": "EGMH",
+    "name": "Manston Airport",
+    "lat": 51.342201,
+    "lon": 1.34611
+  },
+  {
     "code": "EGMT",
     "name": "Thurrock Airfield",
     "lat": 51.537505,
@@ -7830,12 +7830,6 @@
     "lon": 26.302401
   },
   {
-    "code": "FABM",
-    "name": "Bethlehem Airport",
-    "lat": -28.2484,
-    "lon": 28.3361
-  },
-  {
     "code": "FABO",
     "name": "Hendrik Potgieter Airport",
     "lat": -27.36680030822754,
@@ -8782,6 +8776,12 @@
     "name": "Mongu Airport",
     "lat": -15.2545,
     "lon": 23.1623
+  },
+  {
+    "code": "FLSK",
+    "name": "Simon Mwansa Kapwepwe International Airport",
+    "lat": -12.96513,
+    "lon": 28.515624
   },
   {
     "code": "FLSO",
@@ -11808,12 +11808,6 @@
     "lon": -110.942001343
   },
   {
-    "code": "KAFP",
-    "name": "Anson County Airport - Jeff Cloud Field",
-    "lat": 35.020599,
-    "lon": -80.077103
-  },
-  {
     "code": "KAFW",
     "name": "Perot Field/Fort Worth Alliance Airport",
     "lat": 32.99044,
@@ -12436,12 +12430,6 @@
     "name": "West Memphis Municipal Airport",
     "lat": 35.1351013184,
     "lon": -90.2343978882
-  },
-  {
-    "code": "KAWO",
-    "name": "Arlington Municipal Airport",
-    "lat": 48.161448,
-    "lon": -122.158442
   },
   {
     "code": "KAXA",
@@ -13728,12 +13716,6 @@
     "lon": -84.462082
   },
   {
-    "code": "KCJR",
-    "name": "Culpeper Regional Airport",
-    "lat": 38.526699,
-    "lon": -77.858902
-  },
-  {
     "code": "KCKA",
     "name": "Kegelman AF Aux Field",
     "lat": 36.734348,
@@ -14296,12 +14278,6 @@
     "name": "Clinton Municipal Airport",
     "lat": 41.8311004639,
     "lon": -90.3291015625
-  },
-  {
-    "code": "KCWV",
-    "name": "Claxton Evans County Airport",
-    "lat": 32.195099,
-    "lon": -81.869598
   },
   {
     "code": "KCXE",
@@ -15054,12 +15030,6 @@
     "lon": -104.314156
   },
   {
-    "code": "KECU",
-    "name": "Edwards County Airport",
-    "lat": 29.9468994140625,
-    "lon": -100.17400360107422
-  },
-  {
     "code": "KEDC",
     "name": "Austin Executive Airport",
     "lat": 30.398049,
@@ -15480,22 +15450,10 @@
     "lon": -116.636002
   },
   {
-    "code": "KEVB",
-    "name": "New Smyrna Beach Municipal Airport",
-    "lat": 29.0557,
-    "lon": -80.948898
-  },
-  {
     "code": "KEVM",
     "name": "Eveleth–Virginia Municipal Airport",
     "lat": 47.42458,
     "lon": -92.499204
-  },
-  {
-    "code": "KEVU",
-    "name": "Northwest Missouri Regional Airport",
-    "lat": 40.352501,
-    "lon": -94.915001
   },
   {
     "code": "KEVV",
@@ -16296,12 +16254,6 @@
     "lon": -95.556
   },
   {
-    "code": "KGDJ",
-    "name": "Granbury Regional Airport",
-    "lat": 32.442222,
-    "lon": -97.824444
-  },
-  {
     "code": "KGDV",
     "name": "Dawson Community Airport",
     "lat": 47.137658,
@@ -16396,12 +16348,6 @@
     "name": "Grinnell Regional Airport",
     "lat": 41.70991,
     "lon": -92.736052
-  },
-  {
-    "code": "KGGP",
-    "name": "Logansport Cass County Airport",
-    "lat": 40.711201,
-    "lon": -86.374901
   },
   {
     "code": "KGGW",
@@ -17166,12 +17112,6 @@
     "lon": -106.107002
   },
   {
-    "code": "KHMP",
-    "name": "Atlanta Speedway Airport",
-    "lat": 33.389876,
-    "lon": -84.331011
-  },
-  {
     "code": "KHMT",
     "name": "Hemet Ryan Airport",
     "lat": 33.7340011597,
@@ -17194,12 +17134,6 @@
     "name": "Henderson Executive Airport",
     "lat": 35.9728012085,
     "lon": -115.134002686
-  },
-  {
-    "code": "KHNR",
-    "name": "Harlan Municipal Airport",
-    "lat": 41.58440017700195,
-    "lon": -95.339599609375
   },
   {
     "code": "KHOB",
@@ -18222,12 +18156,6 @@
     "lon": -84.463019
   },
   {
-    "code": "KJYG",
-    "name": "St James Municipal Airport",
-    "lat": 43.986301,
-    "lon": -94.557899
-  },
-  {
     "code": "KJYL",
     "name": "Plantation Airpark",
     "lat": 32.645302,
@@ -18790,12 +18718,6 @@
     "name": "Pickens County Airport",
     "lat": 34.8100013733,
     "lon": -82.70290374759999
-  },
-  {
-    "code": "KLQR",
-    "name": "Larned Pawnee County Airport",
-    "lat": 38.20859909,
-    "lon": -99.08599854
   },
   {
     "code": "KLRD",
@@ -20340,12 +20262,6 @@
     "lon": -97.8097000122
   },
   {
-    "code": "KNRA",
-    "name": "Coupeville Nolf Airport",
-    "lat": 48.18830108642578,
-    "lon": -122.63200378417969
-  },
-  {
     "code": "KNRB",
     "name": "Naval Station Mayport / Admiral David L McDonald Field",
     "lat": 30.3911,
@@ -21184,12 +21100,6 @@
     "name": "Erie-Ottawa International Airport",
     "lat": 41.515647,
     "lon": -82.868328
-  },
-  {
-    "code": "KPCZ",
-    "name": "Waupaca Municipal Airport",
-    "lat": 44.333302,
-    "lon": -89.019798
   },
   {
     "code": "KPDC",
@@ -23886,12 +23796,6 @@
     "lon": -93.590599
   },
   {
-    "code": "KTSO",
-    "name": "Carroll County-Tolson Airport",
-    "lat": 40.561901,
-    "lon": -81.077499
-  },
-  {
     "code": "KTSP",
     "name": "Tehachapi Municipal Airport",
     "lat": 35.134998321533,
@@ -24174,12 +24078,6 @@
     "lon": -123.200996
   },
   {
-    "code": "KUKL",
-    "name": "Coffey County Airport",
-    "lat": 38.302502,
-    "lon": -95.724998
-  },
-  {
     "code": "KULM",
     "name": "New Ulm Municipal Airport",
     "lat": 44.319599151611,
@@ -24318,12 +24216,6 @@
     "lon": -94.219299
   },
   {
-    "code": "KVCB",
-    "name": "Nut Tree Airport",
-    "lat": 38.376801,
-    "lon": -121.961998
-  },
-  {
     "code": "KVCT",
     "name": "Victoria Regional Airport",
     "lat": 28.85260009765625,
@@ -24364,12 +24256,6 @@
     "name": "Darke County Airport",
     "lat": 40.204399,
     "lon": -84.531898
-  },
-  {
-    "code": "KVGC",
-    "name": "Hamilton Municipal Airport",
-    "lat": 42.8438,
-    "lon": -75.561401
   },
   {
     "code": "KVGT",
@@ -24790,12 +24676,6 @@
     "name": "Tirana International Airport Mother Teresa",
     "lat": 41.4147,
     "lon": 19.7206
-  },
-  {
-    "code": "LB27",
-    "name": "Podem Airstrip",
-    "lat": 43.547478,
-    "lon": 24.592363
   },
   {
     "code": "LBBG",
@@ -30774,12 +30654,6 @@
     "lon": -72.292596
   },
   {
-    "code": "MU12",
-    "name": "Childress Airstrip",
-    "lat": 37.138957,
-    "lon": -93.217543
-  },
-  {
     "code": "MUBA",
     "name": "Gustavo Rizo Airport",
     "lat": 20.365299224853516,
@@ -32448,12 +32322,6 @@
     "lon": 38.0634
   },
   {
-    "code": "OI07",
-    "name": "Varns Farms Airport",
-    "lat": 40.827999,
-    "lon": -81.979698
-  },
-  {
     "code": "OIAA",
     "name": "Abadan Ayatollah Jami International Airport",
     "lat": 30.367887,
@@ -33708,18 +33576,6 @@
     "lon": 44.790263
   },
   {
-    "code": "PA76",
-    "name": "Rosenzweig Airport",
-    "lat": 41.136585,
-    "lon": -75.860789
-  },
-  {
-    "code": "PA90",
-    "name": "Flat Rock Seaplane Base",
-    "lat": 40.056198,
-    "lon": -75.266602
-  },
-  {
     "code": "PAAK",
     "name": "Atka Airport",
     "lat": 52.220299,
@@ -33808,6 +33664,12 @@
     "name": "Clear Airport",
     "lat": 64.299738,
     "lon": -149.117432
+  },
+  {
+    "code": "PACS",
+    "name": "Cape Sarichef Airport",
+    "lat": 54.583934,
+    "lon": -164.905727
   },
   {
     "code": "PACV",
@@ -36252,12 +36114,6 @@
     "lon": -64.208329
   },
   {
-    "code": "SADF",
-    "name": "San Fernando Airport",
-    "lat": -34.4532,
-    "lon": -58.5896
-  },
-  {
     "code": "SADL",
     "name": "La Plata Airport",
     "lat": -34.9722,
@@ -36898,12 +36754,6 @@
     "name": "Aviador C. Campos Airport",
     "lat": -40.075401,
     "lon": -71.137299
-  },
-  {
-    "code": "SB03",
-    "name": "Fazenda Sao Sebastiao Airport",
-    "lat": -12.736300468445,
-    "lon": -61.110198974609
   },
   {
     "code": "SB26",
@@ -40176,6 +40026,12 @@
     "lon": -48.415833
   },
   {
+    "code": "SK52",
+    "name": "Santiago I Airport",
+    "lat": 4.73214,
+    "lon": -72.323196
+  },
+  {
     "code": "SKAP",
     "name": "Gomez Nino Apiay Air Base",
     "lat": 4.07607,
@@ -40836,6 +40692,12 @@
     "lon": -66.737503
   },
   {
+    "code": "SLSM",
+    "name": "San Ignacio de Moxos Airport",
+    "lat": -14.9658,
+    "lon": -65.6338
+  },
+  {
     "code": "SLSR",
     "name": "Santa Rosa de Yacuma Airport",
     "lat": -14.073072,
@@ -41128,12 +40990,6 @@
     "name": "Fazenda Cedro Airport",
     "lat": -22.84986,
     "lon": -55.410152
-  },
-  {
-    "code": "SNFE",
-    "name": "Comandante Paschoal Patrocínio Filho Airport",
-    "lat": -21.4314,
-    "lon": -45.932098
   },
   {
     "code": "SNFI",
@@ -45756,12 +45612,6 @@
     "lon": 37.44960021972656
   },
   {
-    "code": "UKCS",
-    "name": "Sievierodonetsk Airport",
-    "lat": 48.900926,
-    "lon": 38.54279
-  },
-  {
     "code": "UKCW",
     "name": "Luhansk International Airport",
     "lat": 48.41903,
@@ -48438,12 +48288,6 @@
     "lon": 105.67099762
   },
   {
-    "code": "VY02",
-    "name": "New Magway Airport",
-    "lat": 20.153600692749023,
-    "lon": 94.96869659423828
-  },
-  {
     "code": "VYAN",
     "name": "Ann Airport",
     "lat": 19.769199,
@@ -49338,12 +49182,6 @@
     "lon": 103.932999
   },
   {
-    "code": "WIPO",
-    "name": "Gatot Subrato Airport",
-    "lat": -4.39177,
-    "lon": 104.401001
-  },
-  {
     "code": "WIPP",
     "name": "Sultan Mahmud Badaruddin II Airport",
     "lat": -2.897653,
@@ -49486,6 +49324,12 @@
     "name": "Sultan Abdul Aziz Shah International Airport",
     "lat": 3.13058,
     "lon": 101.549004
+  },
+  {
+    "code": "WN40",
+    "name": "Coupeville Airpark",
+    "lat": 48.190399169921875,
+    "lon": -122.64299774169922
   },
   {
     "code": "WPDB",
@@ -52218,12 +52062,6 @@
     "lon": 147.513022
   },
   {
-    "code": "YMHL",
-    "name": "Mount Holland Airport",
-    "lat": -32.112824,
-    "lon": 119.765739
-  },
-  {
     "code": "YMHO",
     "name": "Mount House Airport",
     "lat": -17.051917,
@@ -54286,6 +54124,12 @@
     "name": "Zanthus Airport",
     "lat": -31.036351,
     "lon": 123.567889
+  },
+  {
+    "code": "ZB08",
+    "name": "Zherdevka Air Base",
+    "lat": 51.833302,
+    "lon": 41.549999
   },
   {
     "code": "ZBAA",
