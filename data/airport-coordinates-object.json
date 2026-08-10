@@ -2762,8 +2762,8 @@
   {
     "code": "DAAY",
     "name": "Mecheria Airport",
-    "lat": 33.535900116,
-    "lon": -0.242353007197
+    "lat": 33.5359,
+    "lon": -0.242353
   },
   {
     "code": "DAAZ",
@@ -3338,8 +3338,8 @@
   {
     "code": "DTTF",
     "name": "Gafsa Ksar International Airport",
-    "lat": 34.422000885009766,
-    "lon": 8.822500228881836
+    "lat": 34.422001,
+    "lon": 8.8225
   },
   {
     "code": "DTTG",
@@ -11000,8 +11000,8 @@
   {
     "code": "HLGT",
     "name": "Ghat Airport",
-    "lat": 25.1455993652,
-    "lon": 10.142600059500001
+    "lat": 25.145599,
+    "lon": 10.1426
   },
   {
     "code": "HLKF",
@@ -25417,9 +25417,9 @@
   },
   {
     "code": "LFBS",
-    "name": "Biscarrosse Parentis airfield",
-    "lat": 44.3694,
-    "lon": -1.13056
+    "name": "Biscarrosse Parentis Airfield",
+    "lat": 44.36756,
+    "lon": -1.133903
   },
   {
     "code": "LFBT",
@@ -31664,8 +31664,8 @@
   {
     "code": "NZNS",
     "name": "Nelson Airport",
-    "lat": -41.298302,
-    "lon": 173.220993
+    "lat": -41.296709,
+    "lon": 173.224323
   },
   {
     "code": "NZNV",
@@ -45386,8 +45386,8 @@
   {
     "code": "UEEA",
     "name": "Aldan Airport",
-    "lat": 58.60279846191406,
-    "lon": 125.40899658203125
+    "lat": 58.602798,
+    "lon": 125.408997
   },
   {
     "code": "UEEE",
@@ -45482,8 +45482,8 @@
   {
     "code": "UHBB",
     "name": "Ignatyevo Airport",
-    "lat": 50.42539978027344,
-    "lon": 127.41200256347656
+    "lat": 50.426723,
+    "lon": 127.415502
   },
   {
     "code": "UHHH",
@@ -45494,8 +45494,8 @@
   {
     "code": "UHKK",
     "name": "Komsomolsk-on-Amur Airport",
-    "lat": 50.409000396728516,
-    "lon": 136.9340057373047
+    "lat": 50.409,
+    "lon": 136.934006
   },
   {
     "code": "UHMA",
@@ -45506,8 +45506,8 @@
   {
     "code": "UHMD",
     "name": "Provideniya Bay Airport",
-    "lat": 64.37809753417969,
-    "lon": -173.2429962158203
+    "lat": 64.378098,
+    "lon": -173.242996
   },
   {
     "code": "UHMM",
@@ -46412,8 +46412,8 @@
   {
     "code": "UWUU",
     "name": "Ufa International Airport",
-    "lat": 54.557498931885,
-    "lon": 55.874401092529
+    "lat": 54.557499,
+    "lon": 55.874401
   },
   {
     "code": "UWWW",
@@ -49039,9 +49039,9 @@
   },
   {
     "code": "WICM",
-    "name": "Cibeureum Airport",
-    "lat": -7.3466,
-    "lon": 108.246002
+    "name": "Wiriadinata Airport",
+    "lat": -7.347967,
+    "lon": 108.246998
   },
   {
     "code": "WICN",
@@ -49706,8 +49706,8 @@
   {
     "code": "YBEV",
     "name": "Beverley Airport",
-    "lat": -32.13330078125,
-    "lon": 116.94999694824219
+    "lat": -32.125341,
+    "lon": 116.949625
   },
   {
     "code": "YBGO",
@@ -51782,8 +51782,8 @@
   {
     "code": "YLRE",
     "name": "Longreach Airport",
-    "lat": -23.4342,
-    "lon": 144.279999
+    "lat": -23.43202,
+    "lon": 144.277492
   },
   {
     "code": "YLRG",
@@ -53906,14 +53906,14 @@
   {
     "code": "YWLU",
     "name": "Wiluna Airport",
-    "lat": -26.629199981689453,
-    "lon": 120.22100067138672
+    "lat": -26.632691,
+    "lon": 120.221906
   },
   {
     "code": "YWMC",
     "name": "William Creek Aerodrome",
-    "lat": -28.905854,
-    "lon": 136.3406
+    "lat": -28.909989,
+    "lon": 136.340266
   },
   {
     "code": "YWND",
