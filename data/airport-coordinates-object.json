@@ -10836,6 +10836,12 @@
     "lon": 42.645
   },
   {
+    "code": "HJJJ",
+    "name": "Juba International Airport",
+    "lat": 4.87201,
+    "lon": 31.601101
+  },
+  {
     "code": "HKAM",
     "name": "Amboseli Airport",
     "lat": -2.644786,
@@ -16453,7 +16459,7 @@
   },
   {
     "code": "KGMJ",
-    "name": "Grove Municipal Airport",
+    "name": "Grove Regional Airport",
     "lat": 36.6068,
     "lon": -94.738602
   },
@@ -19219,7 +19225,7 @@
   },
   {
     "code": "KMEM",
-    "name": "Memphis International Airport",
+    "name": "Frederick W. Smith International Airport",
     "lat": 35.043845,
     "lon": -89.97634
   },
@@ -23678,8 +23684,8 @@
   {
     "code": "KTNX",
     "name": "Tonopah Test Range Airport",
-    "lat": 37.7988014221,
-    "lon": -116.78099823
+    "lat": 37.798801,
+    "lon": -116.780998
   },
   {
     "code": "KTOA",
@@ -24769,7 +24775,7 @@
   },
   {
     "code": "LCGK",
-    "name": "Lefkoniko Airport / Geçitkale Air Base",
+    "name": "Geçitkale Airbase",
     "lat": 35.23591,
     "lon": 33.720088
   },
@@ -48566,8 +48572,8 @@
   {
     "code": "WAFB",
     "name": "Toraja Airport",
-    "lat": -3.185833,
-    "lon": 119.91775
+    "lat": -3.184359,
+    "lon": 119.919104
   },
   {
     "code": "WAFF",

@@ -11189,11 +11189,11 @@
       },
       "properties": {
         "title": "DTMB",
-        "type": "closed",
+        "type": "medium_airport",
         "description": "Monastir Habib Bourguiba International Airport",
         "elevation": 9,
         "municipality": "Monastir",
-        "fileSize": 872,
+        "fileSize": 1112,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -14829,11 +14829,11 @@
       },
       "properties": {
         "title": "EDXB",
-        "type": "closed",
+        "type": "medium_airport",
         "description": "Heide-Büsum Airport",
         "elevation": 7,
         "municipality": "Oesterdeichstrich",
-        "fileSize": 744,
+        "fileSize": 1080,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -25234,11 +25234,11 @@
       },
       "properties": {
         "title": "FAPE",
-        "type": "small_airport",
+        "type": "large_airport",
         "description": "Chief Dawid Stuurman International Airport",
         "elevation": 226,
         "municipality": "Gqeberha (Port Elizabeth)",
-        "fileSize": 952,
+        "fileSize": 1320,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -26228,7 +26228,7 @@
         "description": "Maya-Maya International Airport",
         "elevation": 1048,
         "municipality": "Brazzaville",
-        "fileSize": 1176,
+        "fileSize": 1192,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -26434,11 +26434,11 @@
       },
       "properties": {
         "title": "FEFF",
-        "type": "closed",
+        "type": "medium_airport",
         "description": "Bangui M'Poko International Airport",
         "elevation": 1208,
         "municipality": "Bangui",
-        "fileSize": 872,
+        "fileSize": 1160,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -29123,11 +29123,11 @@
       },
       "properties": {
         "title": "FSIA",
-        "type": "closed",
+        "type": "medium_airport",
         "description": "Seychelles International Airport",
         "elevation": 10,
         "municipality": "Victoria",
-        "fileSize": 880,
+        "fileSize": 1176,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -29144,11 +29144,11 @@
       },
       "properties": {
         "title": "FSPP",
-        "type": "closed",
+        "type": "medium_airport",
         "description": "Praslin Island Airport",
         "elevation": 10,
         "municipality": "Praslin Island",
-        "fileSize": 856,
+        "fileSize": 1088,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -29249,11 +29249,11 @@
       },
       "properties": {
         "title": "FTTJ",
-        "type": "closed",
+        "type": "medium_airport",
         "description": "N'Djamena International Airport",
         "elevation": 968,
         "municipality": "N'Djamena",
-        "fileSize": 864,
+        "fileSize": 1104,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -31562,11 +31562,11 @@
       },
       "properties": {
         "title": "GLRB",
-        "type": "closed",
+        "type": "medium_airport",
         "description": "Roberts International Airport",
         "elevation": 31,
         "municipality": "Monrovia",
-        "fileSize": 888,
+        "fileSize": 1136,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -32150,11 +32150,11 @@
       },
       "properties": {
         "title": "GOGS",
-        "type": "closed",
+        "type": "medium_airport",
         "description": "Cap Skirring Airport",
         "elevation": 52,
         "municipality": "Cap Skirring",
-        "fileSize": 880,
+        "fileSize": 1136,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -33326,11 +33326,11 @@
       },
       "properties": {
         "title": "HBBA",
-        "type": "closed",
+        "type": "medium_airport",
         "description": "Bujumbura Melchior Ndadaye International Airport",
         "elevation": 2582,
         "municipality": "Bujumbura",
-        "fileSize": 872,
+        "fileSize": 1112,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -33410,11 +33410,11 @@
       },
       "properties": {
         "title": "HCMH",
-        "type": "closed",
+        "type": "medium_airport",
         "description": "Egal International Airport",
         "elevation": 4471,
         "municipality": "Hargeisa",
-        "fileSize": 872,
+        "fileSize": 1112,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -33473,11 +33473,11 @@
       },
       "properties": {
         "title": "HCMM",
-        "type": "closed",
+        "type": "medium_airport",
         "description": "Aden Adde International Airport",
         "elevation": 29,
         "municipality": "Mogadishu",
-        "fileSize": 864,
+        "fileSize": 1104,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -34132,6 +34132,27 @@
         "fileSize": 856,
         "marker-symbol": "airport",
         "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.601101,
+          4.87201,
+          461.16240000000005
+        ]
+      },
+      "properties": {
+        "title": "HJJJ",
+        "type": "medium_airport",
+        "description": "Juba International Airport",
+        "elevation": 1513,
+        "municipality": "Juba",
+        "fileSize": 1144,
+        "marker-symbol": "airport",
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -35491,11 +35512,11 @@
       },
       "properties": {
         "title": "HTKJ",
-        "type": "closed",
+        "type": "medium_airport",
         "description": "Kilimanjaro International Airport",
         "elevation": 2932,
         "municipality": "Arusha",
-        "fileSize": 872,
+        "fileSize": 1104,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -53877,7 +53898,7 @@
       "properties": {
         "title": "KMEM",
         "type": "medium_airport",
-        "description": "Memphis International Airport",
+        "description": "Frederick W. Smith International Airport",
         "elevation": 341,
         "municipality": "Memphis",
         "fileSize": 1064,
@@ -58696,7 +58717,7 @@
         "description": "Portland International Airport",
         "elevation": 31,
         "municipality": "Portland",
-        "fileSize": 1448,
+        "fileSize": 1456,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -64917,8 +64938,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.78099823,
-          37.7988014221,
+          -116.780998,
+          37.798801,
           1691.3352
         ]
       },
@@ -67494,13 +67515,12 @@
       "properties": {
         "title": "LCGK",
         "type": "closed",
-        "description": "Lefkoniko Airport / Geçitkale Air Base",
+        "description": "Geçitkale Airbase",
         "elevation": 146,
         "municipality": "Lefkoniko (Geçitkale)",
         "fileSize": 872,
         "marker-symbol": "airport",
-        "marker-color": "#555555",
-        "isMilitary": true
+        "marker-color": "#555555"
       }
     },
     {
@@ -71693,7 +71713,7 @@
         "municipality": "Nantes",
         "fileSize": 1144,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -79872,8 +79892,8 @@
         "elevation": 5239,
         "municipality": "Sivas",
         "fileSize": 864,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -83598,7 +83618,7 @@
         "description": "Mexico City Benito Juárez International Airport",
         "elevation": 7316,
         "municipality": "Mexico City",
-        "fileSize": 1584,
+        "fileSize": 1592,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -92731,7 +92751,7 @@
         "description": "Dubai International Airport",
         "elevation": 62,
         "municipality": "Dubai",
-        "fileSize": 1328,
+        "fileSize": 1336,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -112972,7 +112992,7 @@
         "description": "Cadete FAP Guillermo Del Castillo Paredes Airport",
         "elevation": 869,
         "municipality": "Tarapoto",
-        "fileSize": 1152,
+        "fileSize": 1144,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -123253,7 +123273,7 @@
         "description": "Indira Gandhi International Airport",
         "elevation": 777,
         "municipality": "New Delhi",
-        "fileSize": 1856,
+        "fileSize": 1864,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -127553,8 +127573,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.91775,
-          -3.185833,
+          119.919104,
+          -3.184359,
           879.0432000000001
         ]
       },
@@ -164526,7 +164546,7 @@
       "properties": {
         "title": "KGMJ",
         "type": "closed",
-        "description": "Grove Municipal Airport",
+        "description": "Grove Regional Airport",
         "elevation": 831,
         "municipality": "Grove",
         "fileSize": 864,

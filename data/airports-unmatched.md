@@ -177,6 +177,7 @@ The following Aerofly FS4 Airports were not matched to any known airport. You ma
 1. `EH54`
 1. `EI76`
 1. `EK96`
+1. `EM08`
 1. `EM16`
 1. `ES72`
 1. `ETML`
