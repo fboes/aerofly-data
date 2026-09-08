@@ -334,7 +334,6 @@ The following Aerofly FS4 Airports were not matched to any known airport. You ma
 1. `NZ24`
 1. `OI30`
 1. `OM57`
-1. `PA96`
 1. `PAAV`
 1. `PCHP`
 1. `PFLT`

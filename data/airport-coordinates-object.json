@@ -1136,8 +1136,8 @@
   {
     "code": "CYHM",
     "name": "John C. Munro Hamilton International Airport",
-    "lat": 43.17348,
-    "lon": -79.931185
+    "lat": 43.171308,
+    "lon": -79.929416
   },
   {
     "code": "CYHN",
@@ -8312,8 +8312,8 @@
   {
     "code": "FATA",
     "name": "Tedderfield Air Park",
-    "lat": -26.352037738499998,
-    "lon": 27.9681630135
+    "lat": -26.352038,
+    "lon": 27.968163
   },
   {
     "code": "FATF",
@@ -13213,7 +13213,7 @@
   },
   {
     "code": "KBVN",
-    "name": "Albion Municipal Airport",
+    "name": "Albion Municipal Airport/Ron Levander Field",
     "lat": 41.7286,
     "lon": -98.055801
   },
@@ -16207,9 +16207,9 @@
   },
   {
     "code": "KGBG",
-    "name": "Galesburg Municipal Airport",
-    "lat": 40.937999725299996,
-    "lon": -90.431098938
+    "name": "Galesburg Regional HW Timmons  Airport",
+    "lat": 40.938,
+    "lon": -90.431099
   },
   {
     "code": "KGCC",
@@ -16598,8 +16598,8 @@
   {
     "code": "KGRF",
     "name": "Gray Army Air Field",
-    "lat": 47.07920074,
-    "lon": -122.5810013
+    "lat": 47.079201,
+    "lon": -122.581001
   },
   {
     "code": "KGRI",
@@ -16741,9 +16741,9 @@
   },
   {
     "code": "KGWS",
-    "name": "Glenwood Springs Municipal Airport",
-    "lat": 39.5083007812,
-    "lon": -107.310997009
+    "name": "Sumers Airpark",
+    "lat": 39.506083,
+    "lon": -107.309232
   },
   {
     "code": "KGWW",
@@ -16879,7 +16879,7 @@
   },
   {
     "code": "KHBZ",
-    "name": "Heber Springs Municipal Airport",
+    "name": "Heber Springs Municipal Airport/Charlie Evans Field",
     "lat": 35.5117,
     "lon": -92.013
   },
@@ -22531,7 +22531,7 @@
   },
   {
     "code": "KSAW",
-    "name": "Marquette/Sawyer International Airport",
+    "name": "Marquette Sawyer Regional Airport",
     "lat": 46.351498,
     "lon": -87.395884
   },
@@ -22867,7 +22867,7 @@
   },
   {
     "code": "KSJC",
-    "name": "Norman Y. Mineta San Jose International Airport",
+    "name": "Mineta San Jose International Airport",
     "lat": 37.362452,
     "lon": -121.929188
   },
@@ -23923,7 +23923,7 @@
   },
   {
     "code": "KTXW",
-    "name": "Mid Valley Airport",
+    "name": "Mid Valley International Airport",
     "lat": 26.177601,
     "lon": -97.973098
   },
@@ -25700,8 +25700,8 @@
   {
     "code": "LFGF",
     "name": "Beaune-Challanges Airfield",
-    "lat": 47.005901,
-    "lon": 4.89342
+    "lat": 47.006643,
+    "lon": 4.894132
   },
   {
     "code": "LFGJ",
@@ -33062,8 +33062,8 @@
   {
     "code": "OPBN",
     "name": "Bannu Airport",
-    "lat": 32.9729,
-    "lon": 70.527901
+    "lat": 32.972001,
+    "lon": 70.524779
   },
   {
     "code": "OPBW",
@@ -33580,6 +33580,12 @@
     "name": "Al-Hazm Airport",
     "lat": 16.207117,
     "lon": 44.790263
+  },
+  {
+    "code": "PA96",
+    "name": "Monroeville Volunteer Fire Co 4 Heliport",
+    "lat": 40.433103,
+    "lon": -79.746119
   },
   {
     "code": "PAAK",
@@ -37069,7 +37075,7 @@
   },
   {
     "code": "SBGL",
-    "name": "Rio Galeão – Tom Jobim International Airport",
+    "name": "Rio de Janeiro Galeão – Tom Jobim International Airport",
     "lat": -22.809999,
     "lon": -43.250557
   },
@@ -41257,9 +41263,9 @@
   },
   {
     "code": "SNKK",
-    "name": "Caicó Airport",
-    "lat": -6.43917,
-    "lon": -37.0783
+    "name": "Rui Mariz Airport",
+    "lat": -6.439164,
+    "lon": -37.078078
   },
   {
     "code": "SNKN",
@@ -44990,8 +44996,8 @@
   {
     "code": "TJMZ",
     "name": "Eugenio Maria De Hostos Airport",
-    "lat": 18.255699157714844,
-    "lon": -67.14849853515625
+    "lat": 18.255699,
+    "lon": -67.148499
   },
   {
     "code": "TJPS",
@@ -45614,8 +45620,8 @@
   {
     "code": "UKCM",
     "name": "Mariupol International Airport",
-    "lat": 47.07609939575195,
-    "lon": 37.44960021972656
+    "lat": 47.076099,
+    "lon": 37.4496
   },
   {
     "code": "UKCW",
@@ -45638,8 +45644,8 @@
   {
     "code": "UKDR",
     "name": "Kryvyi Rih International Airport",
-    "lat": 48.04330062866211,
-    "lon": 33.209999084472656
+    "lat": 48.043301,
+    "lon": 33.209999
   },
   {
     "code": "UKFF",
@@ -45716,8 +45722,8 @@
   {
     "code": "UKLI",
     "name": "Ivano-Frankivsk International Airport",
-    "lat": 48.88420104980469,
-    "lon": 24.686100006103516
+    "lat": 48.884201,
+    "lon": 24.6861
   },
   {
     "code": "UKLL",
@@ -45728,14 +45734,14 @@
   {
     "code": "UKLN",
     "name": "Chernivtsi International Airport",
-    "lat": 48.259300231933594,
-    "lon": 25.98080062866211
+    "lat": 48.2593,
+    "lon": 25.980801
   },
   {
     "code": "UKLR",
     "name": "Rivne International Airport",
-    "lat": 50.60710144042969,
-    "lon": 26.141599655151367
+    "lat": 50.607101,
+    "lon": 26.1416
   },
   {
     "code": "UKLT",
@@ -45763,7 +45769,7 @@
   },
   {
     "code": "UKON",
-    "name": "Mykolaiv International Airport",
+    "name": "Mykolaiv International Airport [CLOSED]",
     "lat": 47.057899,
     "lon": 31.9198
   },
@@ -46040,8 +46046,8 @@
   {
     "code": "URRT",
     "name": "Taganrog Yuzhny Airport",
-    "lat": 47.1983333,
-    "lon": 38.8491667
+    "lat": 47.198333,
+    "lon": 38.849167
   },
   {
     "code": "URSS",
@@ -46310,14 +46316,14 @@
   {
     "code": "UUOB",
     "name": "Belgorod International Airport",
-    "lat": 50.643798828125,
-    "lon": 36.5900993347168
+    "lat": 50.643799,
+    "lon": 36.590099
   },
   {
     "code": "UUOK",
     "name": "Kursk East Airport",
-    "lat": 51.7505989074707,
-    "lon": 36.29560089111328
+    "lat": 51.750599,
+    "lon": 36.295601
   },
   {
     "code": "UUOO",
@@ -47287,7 +47293,7 @@
   },
   {
     "code": "VISR",
-    "name": "Sheikh ul Alam International Airport",
+    "name": "Srinagar International Airport",
     "lat": 33.987099,
     "lon": 74.7742
   },
@@ -47731,7 +47737,7 @@
   },
   {
     "code": "VOVZ",
-    "name": "Visakhapatnam International Airport",
+    "name": "INS Dega Airport (visakhapatnam international airport)",
     "lat": 17.723506,
     "lon": 83.227729
   },

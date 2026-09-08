@@ -2056,8 +2056,8 @@
         "elevation": 850,
         "municipality": "Lac du Bonnet",
         "fileSize": 872,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -3682,8 +3682,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.931185,
-          43.17348,
+          -79.929416,
+          43.171308,
           237.744
         ]
       },
@@ -3695,7 +3695,7 @@
         "municipality": "Hamilton",
         "fileSize": 984,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -5585,7 +5585,7 @@
         "municipality": "Windsor",
         "fileSize": 976,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -10412,11 +10412,11 @@
       },
       "properties": {
         "title": "DNAA",
-        "type": "closed",
+        "type": "medium_airport",
         "description": "Nnamdi Azikiwe International Airport",
         "elevation": 1123,
         "municipality": "Abuja",
-        "fileSize": 872,
+        "fileSize": 1176,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -14759,6 +14759,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.282778,
+          52.965279,
+          43.891200000000005
+        ]
+      },
+      "properties": {
+        "title": "EDWV",
+        "type": "private_airfield",
+        "description": "Verden-Scharnhorst Airfield",
+        "elevation": 144,
+        "municipality": "Verden (Aller)",
+        "fileSize": 0,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.23,
           53.706944,
           2.1336
@@ -14998,7 +15019,7 @@
       "properties": {
         "title": "EDXP",
         "type": "private_airfield",
-        "description": "Harlesiel Airfield",
+        "description": "Harle Airfield",
         "elevation": 7,
         "municipality": "Harlesiel",
         "fileSize": 0,
@@ -18420,6 +18441,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.233929,
+          50.860956,
+          255.7272
+        ]
+      },
+      "properties": {
+        "title": "EGTU",
+        "type": "large_airport",
+        "description": "Dunkeswell Airfield",
+        "elevation": 839,
+        "municipality": "Honiton, Devon",
+        "fileSize": 1264,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.095991,
           51.614366,
           68.8848
@@ -18806,7 +18848,7 @@
         "municipality": "Mount Pleasant",
         "fileSize": 944,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba",
+        "marker-color": "#555555",
         "isMilitary": true
       }
     },
@@ -25690,6 +25732,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          27.968163,
+          -26.352038,
+          1584.3504
+        ]
+      },
+      "properties": {
+        "title": "FATA",
+        "type": "small_airport",
+        "description": "Tedderfield Air Park",
+        "elevation": 5198,
+        "municipality": "Tedderfield",
+        "fileSize": 952,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           22.9932,
           -28.26,
           1328.928
@@ -25997,6 +26060,27 @@
         "elevation": 4421,
         "municipality": "Welkom",
         "fileSize": 928,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.180422,
+          -24.660091,
+          914.4000000000001
+        ]
+      },
+      "properties": {
+        "title": "FAWT",
+        "type": "closed",
+        "description": "Winterveldt Mine Airport",
+        "elevation": 3000,
+        "municipality": "Doornbosch",
+        "fileSize": 872,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -31856,11 +31940,11 @@
       },
       "properties": {
         "title": "GMME",
-        "type": "closed",
+        "type": "large_airport",
         "description": "Rabat-Salé Airport",
         "elevation": 276,
         "municipality": "Rabat",
-        "fileSize": 880,
+        "fileSize": 1320,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -33831,11 +33915,11 @@
       },
       "properties": {
         "title": "HEMA",
-        "type": "closed",
+        "type": "medium_airport",
         "description": "Marsa Alam International Airport",
         "elevation": 213,
         "municipality": "Marsa Alam",
-        "fileSize": 880,
+        "fileSize": 1072,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -35806,11 +35890,11 @@
       },
       "properties": {
         "title": "HTZA",
-        "type": "closed",
+        "type": "medium_airport",
         "description": "Abeid Amani Karume International Airport",
         "elevation": 54,
         "municipality": "Zanzibar",
-        "fileSize": 864,
+        "fileSize": 1152,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
       }
@@ -44280,6 +44364,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -106.834,
+          34.645198,
+          1583.1312
+        ]
+      },
+      "properties": {
+        "title": "KBRG",
+        "type": "small_airport",
+        "description": "Belen Regional Airport",
+        "elevation": 5194,
+        "municipality": "Belen",
+        "fileSize": 944,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -104.929001,
           42.0555,
           1455.7248000000002
@@ -47148,15 +47253,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.431098938,
-          40.937999725299996,
+          -90.431099,
+          40.938,
           232.86720000000003
         ]
       },
       "properties": {
         "title": "KGBG",
         "type": "small_airport",
-        "description": "Galesburg Municipal Airport",
+        "description": "Galesburg Regional HW Timmons  Airport",
         "elevation": 764,
         "municipality": "Galesburg",
         "fileSize": 1016,
@@ -47456,6 +47561,27 @@
         "fileSize": 928,
         "marker-symbol": "airport",
         "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.736052,
+          41.70991,
+          307.2384
+        ]
+      },
+      "properties": {
+        "title": "KGGI",
+        "type": "closed",
+        "description": "Grinnell Regional Airport",
+        "elevation": 1008,
+        "municipality": "Grinnell",
+        "fileSize": 880,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -47883,6 +48009,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -97.046898,
+          32.698799,
+          179.22240000000002
+        ]
+      },
+      "properties": {
+        "title": "KGPM",
+        "type": "closed",
+        "description": "Grand Prairie Municipal Airport",
+        "elevation": 588,
+        "municipality": "Grand Prairie",
+        "fileSize": 872,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -89.069836,
           30.405582,
           8.5344
@@ -48009,8 +48156,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.5810013,
-          47.07920074,
+          -122.581001,
+          47.079201,
           91.44
         ]
       },
@@ -48019,7 +48166,7 @@
         "type": "medium_airbase",
         "description": "Gray Army Air Field",
         "elevation": 300,
-        "municipality": "Fort Lewis/Tacoma",
+        "municipality": "Joint Base Lewis McChord",
         "fileSize": 1136,
         "marker-symbol": "airport",
         "marker-color": "#555555",
@@ -48413,16 +48560,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -107.310997009,
-          39.5083007812,
-          1803.1968000000002
+          -107.309232,
+          39.506083,
+          1804.7208
         ]
       },
       "properties": {
         "title": "KGWS",
         "type": "small_airport",
-        "description": "Glenwood Springs Municipal Airport",
-        "elevation": 5916,
+        "description": "Sumers Airpark",
+        "elevation": 5921,
         "municipality": "Glenwood Springs",
         "fileSize": 1024,
         "marker-symbol": "airfield",
@@ -62017,7 +62164,7 @@
       "properties": {
         "title": "KSAW",
         "type": "closed",
-        "description": "Marquette/Sawyer International Airport",
+        "description": "Marquette Sawyer Regional Airport",
         "elevation": 1221,
         "municipality": "Gwinn",
         "fileSize": 880,
@@ -62899,7 +63046,7 @@
       "properties": {
         "title": "KSJC",
         "type": "large_airport",
-        "description": "Norman Y. Mineta San Jose International Airport",
+        "description": "Mineta San Jose International Airport",
         "elevation": 62,
         "municipality": "San Jose",
         "fileSize": 1328,
@@ -68392,6 +68539,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.322235,
+          42.460953,
+          353.87280000000004
+        ]
+      },
+      "properties": {
+        "title": "LERJ",
+        "type": "large_airport",
+        "description": "Logroño-Agoncillo Airport",
+        "elevation": 1161,
+        "municipality": "Logroño",
+        "fileSize": 1504,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.572249,
           40.493407,
           608.9904
@@ -69847,6 +70015,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.894132,
+          47.006643,
+          199.9488
+        ]
+      },
+      "properties": {
+        "title": "LFGF",
+        "type": "small_airport",
+        "description": "Beaune-Challanges Airfield",
+        "elevation": 656,
+        "municipality": "Beaune/Challanges",
+        "fileSize": 952,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.427589,
           47.038955,
           196.596
@@ -69859,6 +70048,48 @@
         "elevation": 645,
         "municipality": "Dole",
         "fileSize": 1072,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.46911,
+          46.675046,
+          231.95280000000002
+        ]
+      },
+      "properties": {
+        "title": "LFGL",
+        "type": "closed",
+        "description": "Lons-le-Saunier Courlaoux Airfield",
+        "elevation": 761,
+        "municipality": "Courlaoux",
+        "fileSize": 864,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.46905,
+          49.122398,
+          374.904
+        ]
+      },
+      "properties": {
+        "title": "LFGW",
+        "type": "small_airport",
+        "description": "Verdun-Le Rozelier Airfield",
+        "elevation": 1230,
+        "municipality": "Sommedieue, Meuse",
+        "fileSize": 960,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -70006,6 +70237,48 @@
         "elevation": 915,
         "municipality": "Toulon-sur-Allier",
         "fileSize": 1016,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.047703,
+          48.080719,
+          305.1048
+        ]
+      },
+      "properties": {
+        "title": "LFJA",
+        "type": "closed",
+        "description": "Chaumont-Semoutiers Airfield",
+        "elevation": 1001,
+        "municipality": "Villiers-le-Sec, Haute-Marne",
+        "fileSize": 864,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.697778,
+          46.902802,
+          175.56480000000002
+        ]
+      },
+      "properties": {
+        "title": "LFJB",
+        "type": "closed",
+        "description": "Mauléon Airfield",
+        "elevation": 576,
+        "municipality": "Mauléon",
+        "fileSize": 864,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -70731,6 +71004,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.86672,
+          44.140499,
+          60.0456
+        ]
+      },
+      "properties": {
+        "title": "LFMO",
+        "type": "closed",
+        "description": "Orange-Caritat (BA 115) Air Base",
+        "elevation": 197,
+        "municipality": "Orange, Vaucluse",
+        "fileSize": 880,
+        "marker-symbol": "airport",
+        "marker-color": "#555555",
+        "isMilitary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.87067,
           42.740398,
           43.891200000000005
@@ -70787,6 +71082,27 @@
         "fileSize": 1096,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.14212,
+          44.069698,
+          203.6064
+        ]
+      },
+      "properties": {
+        "title": "LFMS",
+        "type": "closed",
+        "description": "Aérodrome d'Alès Cévennes",
+        "elevation": 668,
+        "municipality": "Alès/Deaux",
+        "fileSize": 896,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -70941,6 +71257,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.115142,
+          47.256802,
+          81.9912
+        ]
+      },
+      "properties": {
+        "title": "LFOD",
+        "type": "closed",
+        "description": "Aérodrome de Saumur - Saint-Florent",
+        "elevation": 269,
+        "municipality": "Saumur/Saint-Florent",
+        "fileSize": 880,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.21986,
           49.028702,
           141.4272
@@ -71059,6 +71396,27 @@
         "elevation": 398,
         "municipality": "Blois",
         "fileSize": 1216,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.519843,
+          48.457502,
+          155.1432
+        ]
+      },
+      "properties": {
+        "title": "LFOR",
+        "type": "private_airfield",
+        "description": "Chartres-Métropole Airfield",
+        "elevation": 509,
+        "municipality": "Chartres, Eure-et-Loir",
+        "fileSize": 0,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -71188,6 +71546,27 @@
         "marker-symbol": "airport",
         "marker-color": "#555555",
         "isMilitary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.565882,
+          49.102351,
+          168.85920000000002
+        ]
+      },
+      "properties": {
+        "title": "LFPD",
+        "type": "closed",
+        "description": "Bernay-Saint-Martin Airfield",
+        "elevation": 554,
+        "municipality": "Bernay, Eure",
+        "fileSize": 864,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -80463,8 +80842,8 @@
         "elevation": 3327,
         "municipality": "Altıntaş",
         "fileSize": 864,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -93099,27 +93478,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          70.527901,
-          32.9729,
-          403.86
-        ]
-      },
-      "properties": {
-        "title": "OPBN",
-        "type": "closed",
-        "description": "Bannu Airport",
-        "elevation": 1325,
-        "municipality": "Bannu",
-        "fileSize": 864,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           71.71800231933594,
           29.348100662231445,
           119.4816
@@ -105232,7 +105590,7 @@
       "properties": {
         "title": "SBGL",
         "type": "large_airport",
-        "description": "Rio Galeão – Tom Jobim International Airport",
+        "description": "Rio de Janeiro Galeão – Tom Jobim International Airport",
         "elevation": 28,
         "municipality": "Rio De Janeiro",
         "fileSize": 1384,
@@ -116446,8 +116804,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -67.14849853515625,
-          18.255699157714844,
+          -67.148499,
+          18.255699,
           8.5344
         ]
       },
@@ -118476,7 +118834,7 @@
         "municipality": "Boryspil",
         "fileSize": 1320,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -118484,8 +118842,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.44960021972656,
-          47.07609939575195,
+          37.4496,
+          47.076099,
           76.5048
         ]
       },
@@ -118539,7 +118897,7 @@
         "municipality": "Zaporizhia",
         "fileSize": 1088,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -118547,8 +118905,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.209999084472656,
-          48.04330062866211,
+          33.209999,
+          48.043301,
           124.3584
         ]
       },
@@ -118622,8 +118980,8 @@
         "elevation": 505,
         "municipality": "Poltava",
         "fileSize": 864,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -118694,6 +119052,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          30.45194,
+          50.40194,
+          178.91760000000002
+        ]
+      },
+      "properties": {
+        "title": "UKKK",
+        "type": "large_airport",
+        "description": "Igor Sikorsky Kyiv International Airport (Zhuliany)",
+        "elevation": 587,
+        "municipality": "Kyiv",
+        "fileSize": 1224,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           26.933399,
           49.359699,
           350.52000000000004
@@ -118715,8 +119094,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.686100006103516,
-          48.88420104980469,
+          24.6861,
+          48.884201,
           280.1112
         ]
       },
@@ -118757,8 +119136,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.98080062866211,
-          48.259300231933594,
+          25.980801,
+          48.2593,
           251.7648
         ]
       },
@@ -118778,8 +119157,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.141599655151367,
-          50.60710144042969,
+          26.1416,
+          50.607101,
           230.12400000000002
         ]
       },
@@ -118833,7 +119212,7 @@
         "municipality": "Uzhhorod",
         "fileSize": 880,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -118853,6 +119232,27 @@
         "elevation": 148,
         "municipality": "Kherson",
         "fileSize": 984,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9198,
+          47.057899,
+          56.083200000000005
+        ]
+      },
+      "properties": {
+        "title": "UKON",
+        "type": "closed",
+        "description": "Mykolaiv International Airport [CLOSED]",
+        "elevation": 184,
+        "municipality": "Mykolaiv",
+        "fileSize": 872,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -119717,27 +120117,6 @@
         "fileSize": 864,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.8491667,
-          47.1983333,
-          35.6616
-        ]
-      },
-      "properties": {
-        "title": "URRT",
-        "type": "closed",
-        "description": "Taganrog Yuzhny Airport",
-        "elevation": 117,
-        "municipality": "Taganrog",
-        "fileSize": 872,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
       }
     },
     {
@@ -120672,8 +121051,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.5900993347168,
-          50.643798828125,
+          36.590099,
+          50.643799,
           224.02800000000002
         ]
       },
@@ -120693,8 +121072,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.29560089111328,
-          51.7505989074707,
+          36.295601,
+          51.750599,
           209.0928
         ]
       },
@@ -122741,12 +123120,12 @@
       "properties": {
         "title": "VOVZ",
         "type": "closed",
-        "description": "Visakhapatnam International Airport",
+        "description": "INS Dega Airport (visakhapatnam international airport)",
         "elevation": 15,
         "municipality": "Visakhapatnam",
         "fileSize": 920,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -123649,7 +124028,7 @@
       "properties": {
         "title": "VISR",
         "type": "closed",
-        "description": "Sheikh ul Alam International Airport",
+        "description": "Srinagar International Airport",
         "elevation": 5429,
         "municipality": "Srinagar",
         "fileSize": 880,
@@ -124261,6 +124640,27 @@
         "description": "Agatti Airport",
         "elevation": 14,
         "municipality": "Agatti",
+        "fileSize": 880,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.668198,
+          12.95,
+          887.5776000000001
+        ]
+      },
+      "properties": {
+        "title": "VOBG",
+        "type": "closed",
+        "description": "HAL Airport",
+        "elevation": 2912,
+        "municipality": "Bangalore",
         "fileSize": 880,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -141427,14 +141827,14 @@
         "coordinates": [
           115.736748,
           35.212972,
-          0
+          46.0248
         ]
       },
       "properties": {
         "title": "ZSHZ",
         "type": "private_airfield",
         "description": "Heze Mudan Airport",
-        "elevation": 0,
+        "elevation": 151,
         "municipality": "Heze (Dingtao)",
         "fileSize": 0,
         "marker-symbol": "airport",
@@ -142498,14 +142898,14 @@
         "coordinates": [
           89.299157,
           29.350876,
-          1152.7536
+          3781.9584
         ]
       },
       "properties": {
         "title": "ZURK",
         "type": "closed",
         "description": "Xigaze Peace Airport / Shigatse Air Base",
-        "elevation": 3782,
+        "elevation": 12408,
         "municipality": "Xigazê (Samzhubzê)",
         "fileSize": 912,
         "marker-symbol": "airport",
@@ -151563,27 +151963,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.282778,
-          52.965279,
-          43.891200000000005
-        ]
-      },
-      "properties": {
-        "title": "EDWV",
-        "type": "private_airfield",
-        "description": "Verden-Scharnhorst Airfield",
-        "elevation": 144,
-        "municipality": "Verden (Aller)",
-        "fileSize": 0,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.930556,
           53.288612,
           9.144
@@ -153051,27 +153430,6 @@
         "elevation": 150,
         "municipality": "Peterhead",
         "fileSize": 0,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.233929,
-          50.860956,
-          255.7272
-        ]
-      },
-      "properties": {
-        "title": "EGTU",
-        "type": "large_airport",
-        "description": "Dunkeswell Airfield",
-        "elevation": 839,
-        "municipality": "Honiton, Devon",
-        "fileSize": 1264,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -155892,27 +156250,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.9681630135,
-          -26.352037738499998,
-          1584.3504
-        ]
-      },
-      "properties": {
-        "title": "FATA",
-        "type": "small_airport",
-        "description": "Tedderfield Air Park",
-        "elevation": 5198,
-        "municipality": "Tedderfield",
-        "fileSize": 952,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           26.16268,
           -29.035109,
           1385.9256
@@ -155946,27 +156283,6 @@
         "elevation": 3655,
         "municipality": "Warmbaths",
         "fileSize": 856,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.180422,
-          -24.660091,
-          914.4000000000001
-        ]
-      },
-      "properties": {
-        "title": "FAWT",
-        "type": "closed",
-        "description": "Winterveldt Mine Airport",
-        "elevation": 3000,
-        "municipality": "Doornbosch",
-        "fileSize": 872,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -158073,7 +158389,7 @@
       "properties": {
         "title": "K46U",
         "type": "private_airfield",
-        "description": "Alpine Airport",
+        "description": "Alpine Airpark",
         "elevation": 5634,
         "municipality": "Alpine",
         "fileSize": 0,
@@ -158346,7 +158662,7 @@
       "properties": {
         "title": "K4U9",
         "type": "private_airfield",
-        "description": "Dell Flight Strip",
+        "description": "Hyak Airbase",
         "elevation": 6007,
         "municipality": "Dell",
         "fileSize": 0,
@@ -160911,7 +161227,7 @@
       "properties": {
         "title": "KBVN",
         "type": "closed",
-        "description": "Albion Municipal Airport",
+        "description": "Albion Municipal Airport/Ron Levander Field",
         "elevation": 1806,
         "municipality": "Albion",
         "fileSize": 872,
@@ -162710,27 +163026,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.834,
-          34.645198,
-          1583.1312
-        ]
-      },
-      "properties": {
-        "title": "KBRG",
-        "type": "small_airport",
-        "description": "Belen Regional Airport",
-        "elevation": 5194,
-        "municipality": "Belen",
-        "fileSize": 944,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -109.57499694824,
           36.110900878906,
           1690.7256
@@ -164433,27 +164728,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -92.736052,
-          41.70991,
-          307.2384
-        ]
-      },
-      "properties": {
-        "title": "KGGI",
-        "type": "closed",
-        "description": "Grinnell Regional Airport",
-        "elevation": 1008,
-        "municipality": "Grinnell",
-        "fileSize": 880,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -70.67283,
           42.097665,
           3.3528000000000002
@@ -164697,27 +164971,6 @@
         "description": "Midwest National Air Center Airport",
         "elevation": 777,
         "municipality": "Excelsior Springs",
-        "fileSize": 872,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.046898,
-          32.698799,
-          179.22240000000002
-        ]
-      },
-      "properties": {
-        "title": "KGPM",
-        "type": "closed",
-        "description": "Grand Prairie Municipal Airport",
-        "elevation": 588,
-        "municipality": "Grand Prairie",
         "fileSize": 872,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -165009,7 +165262,7 @@
       "properties": {
         "title": "KHBZ",
         "type": "closed",
-        "description": "Heber Springs Municipal Airport",
+        "description": "Heber Springs Municipal Airport/Charlie Evans Field",
         "elevation": 632,
         "municipality": "Heber Springs",
         "fileSize": 880,
@@ -172813,7 +173066,7 @@
       "properties": {
         "title": "KTXW",
         "type": "closed",
-        "description": "Mid Valley Airport",
+        "description": "Mid Valley International Airport",
         "elevation": 70,
         "municipality": "Weslaco",
         "fileSize": 872,
@@ -175159,27 +175412,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.322235,
-          42.460953,
-          353.87280000000004
-        ]
-      },
-      "properties": {
-        "title": "LERJ",
-        "type": "large_airport",
-        "description": "Logroño-Agoncillo Airport",
-        "elevation": 1161,
-        "municipality": "Logroño",
-        "fileSize": 1504,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -5.83056,
           43.429199,
           164.8968
@@ -175895,27 +176127,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.89342,
-          47.005901,
-          199.9488
-        ]
-      },
-      "properties": {
-        "title": "LFGF",
-        "type": "small_airport",
-        "description": "Beaune-Challanges Airfield",
-        "elevation": 656,
-        "municipality": "Beaune/Challanges",
-        "fileSize": 952,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.392715,
           47.994462,
           223.11360000000002
@@ -175928,27 +176139,6 @@
         "elevation": 732,
         "municipality": "Joigny, Yonne",
         "fileSize": 968,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.46911,
-          46.675046,
-          231.95280000000002
-        ]
-      },
-      "properties": {
-        "title": "LFGL",
-        "type": "closed",
-        "description": "Lons-le-Saunier Courlaoux Airfield",
-        "elevation": 761,
-        "municipality": "Courlaoux",
-        "fileSize": 864,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -175993,27 +176183,6 @@
         "fileSize": 872,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.46905,
-          49.122398,
-          374.904
-        ]
-      },
-      "properties": {
-        "title": "LFGW",
-        "type": "small_airport",
-        "description": "Verdun-Le Rozelier Airfield",
-        "elevation": 1230,
-        "municipality": "Sommedieue",
-        "fileSize": 960,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
       }
     },
     {
@@ -176138,48 +176307,6 @@
         "elevation": 256,
         "municipality": "",
         "fileSize": 872,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.047703,
-          48.080719,
-          305.1048
-        ]
-      },
-      "properties": {
-        "title": "LFJA",
-        "type": "closed",
-        "description": "Chaumont-Semoutiers Airfield",
-        "elevation": 1001,
-        "municipality": "Villiers-le-Sec, Haute-Marne",
-        "fileSize": 864,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.697778,
-          46.902802,
-          175.56480000000002
-        ]
-      },
-      "properties": {
-        "title": "LFJB",
-        "type": "closed",
-        "description": "Mauléon Airfield",
-        "elevation": 576,
-        "municipality": "Mauléon",
-        "fileSize": 864,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -176350,49 +176477,6 @@
         "fileSize": 1496,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.86672,
-          44.140499,
-          60.0456
-        ]
-      },
-      "properties": {
-        "title": "LFMO",
-        "type": "closed",
-        "description": "Orange-Caritat (BA 115) Air Base",
-        "elevation": 197,
-        "municipality": "Orange, Vaucluse",
-        "fileSize": 880,
-        "marker-symbol": "airport",
-        "marker-color": "#555555",
-        "isMilitary": true
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.14212,
-          44.069698,
-          203.6064
-        ]
-      },
-      "properties": {
-        "title": "LFMS",
-        "type": "closed",
-        "description": "Aérodrome d'Alès Cévennes",
-        "elevation": 668,
-        "municipality": "Alès/Deaux",
-        "fileSize": 896,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
       }
     },
     {
@@ -176675,27 +176759,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.115142,
-          47.256802,
-          81.9912
-        ]
-      },
-      "properties": {
-        "title": "LFOD",
-        "type": "closed",
-        "description": "Aérodrome de Saumur - Saint-Florent",
-        "elevation": 269,
-        "municipality": "Saumur/Saint-Florent",
-        "fileSize": 880,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.76056,
           47.987801,
           125.5776
@@ -176739,27 +176802,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.519843,
-          48.457502,
-          155.1432
-        ]
-      },
-      "properties": {
-        "title": "LFOR",
-        "type": "private_airfield",
-        "description": "Chartres-Métropole Airfield",
-        "elevation": 509,
-        "municipality": "Chartres, Eure-et-Loir",
-        "fileSize": 0,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.07528,
           48.381901,
           150.5712
@@ -176772,27 +176814,6 @@
         "elevation": 494,
         "municipality": "Guillerval, Essonne",
         "fileSize": 936,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.565882,
-          49.102351,
-          168.85920000000002
-        ]
-      },
-      "properties": {
-        "title": "LFPD",
-        "type": "closed",
-        "description": "Bernay-Saint-Martin Airfield",
-        "elevation": 554,
-        "municipality": "Bernay, Eure",
-        "fileSize": 864,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -179958,6 +179979,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          70.524779,
+          32.972001,
+          403.86
+        ]
+      },
+      "properties": {
+        "title": "OPBN",
+        "type": "closed",
+        "description": "Bannu Airport",
+        "elevation": 1325,
+        "municipality": "Bannu",
+        "fileSize": 864,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           62.498822,
           25.296733,
           18.5928
@@ -180316,6 +180358,27 @@
         "municipality": "Hodeida",
         "fileSize": 928,
         "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.746119,
+          40.433103,
+          354.48240000000004
+        ]
+      },
+      "properties": {
+        "title": "PA96",
+        "type": "heliport",
+        "description": "Monroeville Volunteer Fire Co 4 Heliport",
+        "elevation": 1163,
+        "municipality": "Monroeville",
+        "fileSize": 856,
+        "marker-symbol": "heliport",
         "marker-color": "#555555"
       }
     },
@@ -189673,15 +189736,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -37.0783,
-          -6.43917,
+          -37.078078,
+          -6.439164,
           182.88
         ]
       },
       "properties": {
         "title": "SNKK",
         "type": "closed",
-        "description": "Caicó Airport",
+        "description": "Rui Mariz Airport",
         "elevation": 600,
         "municipality": "Caicó",
         "fileSize": 864,
@@ -197974,27 +198037,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.45194,
-          50.40194,
-          178.91760000000002
-        ]
-      },
-      "properties": {
-        "title": "UKKK",
-        "type": "large_airport",
-        "description": "Igor Sikorsky Kyiv International Airport (Zhuliany)",
-        "elevation": 587,
-        "municipality": "Kyiv",
-        "fileSize": 1224,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           30.1919,
           50.6035,
           157.5816
@@ -198038,27 +198080,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.9198,
-          47.057899,
-          56.083200000000005
-        ]
-      },
-      "properties": {
-        "title": "UKON",
-        "type": "closed",
-        "description": "Mykolaiv International Airport",
-        "elevation": 184,
-        "municipality": "Mykolaiv",
-        "fileSize": 872,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           46.869998931884766,
           60.994998931884766,
           96.9264
@@ -198074,6 +198095,27 @@
         "marker-symbol": "airfield",
         "marker-color": "#777777",
         "isMilitary": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.849167,
+          47.198333,
+          35.6616
+        ]
+      },
+      "properties": {
+        "title": "URRT",
+        "type": "closed",
+        "description": "Taganrog Yuzhny Airport",
+        "elevation": 117,
+        "municipality": "Taganrog",
+        "fileSize": 872,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -199195,27 +199237,6 @@
         "marker-symbol": "airfield",
         "marker-color": "#777777",
         "isMilitary": true
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.668198,
-          12.95,
-          887.5776000000001
-        ]
-      },
-      "properties": {
-        "title": "VOBG",
-        "type": "closed",
-        "description": "HAL Airport",
-        "elevation": 2912,
-        "municipality": "Bangalore",
-        "fileSize": 880,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
       }
     },
     {
