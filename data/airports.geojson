@@ -3997,27 +3997,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.552892,
-          48.54339,
-          25.6032
-        ]
-      },
-      "properties": {
-        "title": "CYJT",
-        "type": "small_airport",
-        "description": "Stephenville Dymond International Airport",
-        "elevation": 84,
-        "municipality": "Stephenville",
-        "fileSize": 952,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -120.448641,
           50.703038,
           345.33840000000004
@@ -57896,7 +57875,7 @@
         "type": "closed",
         "description": "Ontario Municipal Airport",
         "elevation": 2193,
-        "municipality": "Oregon",
+        "municipality": "Ontario",
         "fileSize": 888,
         "marker-symbol": "airport",
         "marker-color": "#555555"
@@ -126902,8 +126881,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          107.703094,
-          16.400628,
+          107.704094,
+          16.400581,
           14.630400000000002
         ]
       },
@@ -126915,7 +126894,7 @@
         "municipality": "Huế",
         "fileSize": 872,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -149616,6 +149595,27 @@
         "fileSize": 888,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.552892,
+          48.54339,
+          25.6032
+        ]
+      },
+      "properties": {
+        "title": "CYJT",
+        "type": "small_airport",
+        "description": "Stephenville Dymond International Airport",
+        "elevation": 84,
+        "municipality": "Stephenville",
+        "fileSize": 952,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {

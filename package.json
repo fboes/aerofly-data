@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "@fboes/geojson": "^1.0.0",
-    "csv-parse": "^5.5.3"
+    "csv-parse": "^7.0.2"
   },
   "devDependencies": {
     "eslint": "^8.57.0",
