@@ -932,6 +932,11 @@
         "icaoCode": "DLH"
       },
       {
+        "aeroflyCode": "lufthansa_100",
+        "name": "Lufthansa 100",
+        "requirements": ["engine_cfm"]
+      },
+      {
         "aeroflyCode": "malta",
         "name": "Malta",
         "requirements": ["engine_cfm"]
@@ -1466,6 +1471,11 @@
         "requirements": []
       },
       {
+        "aeroflyCode": "lufthansa_100",
+        "name": "Lufthansa 100",
+        "requirements": []
+      },
+      {
         "aeroflyCode": "philippine",
         "name": "Philippine Airlines",
         "requirements": []
@@ -1572,6 +1582,12 @@
         "requirements": ["engine_ea"]
       },
       {
+        "aeroflyCode": "emirates_flag",
+        "name": "Emirates",
+        "requirements": ["engine_ea"],
+        "icaoCode": "UAE"
+      },
+      {
         "aeroflyCode": "etihad",
         "name": "Etihad",
         "requirements": ["engine_ea"]
@@ -1584,6 +1600,12 @@
       },
       {
         "aeroflyCode": "lufthansa",
+        "name": "Lufthansa",
+        "requirements": ["engine_rr"],
+        "icaoCode": "DLH"
+      },
+      {
+        "aeroflyCode": "lufthansa_100",
         "name": "Lufthansa",
         "requirements": ["engine_rr"],
         "icaoCode": "DLH"
@@ -3106,6 +3128,12 @@
         "aeroflyCode": "united",
         "name": "United Airlines",
         "requirements": ["engine_ge"],
+        "icaoCode": "UAL"
+      },
+      {
+        "aeroflyCode": "united_100",
+        "name": "United Airlines",
+        "requirements": [],
         "icaoCode": "UAL"
       },
       {

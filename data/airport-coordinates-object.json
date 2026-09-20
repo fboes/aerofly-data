@@ -4818,6 +4818,12 @@
     "lon": 24.725278
   },
   {
+    "code": "EG3G",
+    "name": "Foula Airfield",
+    "lat": 60.121916,
+    "lon": -2.053439
+  },
+  {
     "code": "EGAA",
     "name": "Belfast International Airport",
     "lat": 54.6575012207,
@@ -9150,6 +9156,12 @@
     "lon": 21.358200073200003
   },
   {
+    "code": "FO10",
+    "name": "Mandji Airport",
+    "lat": -1.701616,
+    "lon": 10.409681
+  },
+  {
     "code": "FOGK",
     "name": "Koulamoutou Mabimbi Airport",
     "lat": -1.18461,
@@ -9466,6 +9478,12 @@
     "name": "Kotwa Airport",
     "lat": -16.9848,
     "lon": 32.672699
+  },
+  {
+    "code": "FVRG",
+    "name": "Robert Gabriel Mugabe International Airport",
+    "lat": -17.931801,
+    "lon": 31.0928
   },
   {
     "code": "FVSH",
@@ -10632,6 +10650,12 @@
     "lon": 42.350556
   },
   {
+    "code": "HE24",
+    "name": "Siwa Oasis North Airport",
+    "lat": 29.346234,
+    "lon": 25.505624
+  },
+  {
     "code": "HEAL",
     "name": "El Alamein International Airport",
     "lat": 30.924324,
@@ -10792,12 +10816,6 @@
     "name": "Aswan International Airport",
     "lat": 23.961075,
     "lon": 32.820382
-  },
-  {
-    "code": "HESW",
-    "name": "Siwa Oasis North Airport",
-    "lat": 29.346234,
-    "lon": 25.505624
   },
   {
     "code": "HESX",
@@ -12438,6 +12456,12 @@
     "lon": -90.2343978882
   },
   {
+    "code": "KAWO",
+    "name": "Arlington Municipal Airport",
+    "lat": 48.161448,
+    "lon": -122.158442
+  },
+  {
     "code": "KAXA",
     "name": "Algona Municipal Airport",
     "lat": 43.078104,
@@ -13837,7 +13861,7 @@
   },
   {
     "code": "KCMA",
-    "name": "Camarillo International Airport",
+    "name": "Camarillo Airport",
     "lat": 34.213699,
     "lon": -119.094002
   },
@@ -24684,6 +24708,12 @@
     "lon": 19.7206
   },
   {
+    "code": "LAVL",
+    "name": "Vlora International Airport (Under Construction)",
+    "lat": 40.605367,
+    "lon": 19.426095
+  },
+  {
     "code": "LBBG",
     "name": "Burgas Airport",
     "lat": 42.569917,
@@ -33582,10 +33612,10 @@
     "lon": 44.790263
   },
   {
-    "code": "PA96",
-    "name": "Monroeville Volunteer Fire Co 4 Heliport",
-    "lat": 40.433103,
-    "lon": -79.746119
+    "code": "PA89",
+    "name": "Ben's Landing Ultralightport",
+    "lat": 39.959,
+    "lon": -77.049698
   },
   {
     "code": "PAAK",
@@ -38678,14 +38708,14 @@
   {
     "code": "SDUN",
     "name": "Itaperuna Airport",
-    "lat": -21.219299316399997,
-    "lon": -41.8759002686
+    "lat": -21.219299,
+    "lon": -41.8759
   },
   {
     "code": "SDUQ",
     "name": "Paraguaçu Paulista Airport",
-    "lat": -22.42690086364746,
-    "lon": -50.60689926147461
+    "lat": -22.427956,
+    "lon": -50.607913
   },
   {
     "code": "SDUU",
@@ -44510,14 +44540,14 @@
   {
     "code": "SWPP",
     "name": "Fazenda Pica-Pau Airport",
-    "lat": -14.753055572509766,
-    "lon": -50.665000915527344
+    "lat": -14.749713,
+    "lon": -50.66328
   },
   {
     "code": "SWPR",
     "name": "Pires do Rio Airport",
-    "lat": -17.319099,
-    "lon": -48.334801
+    "lat": -17.318797,
+    "lon": -48.335288
   },
   {
     "code": "SWPY",
@@ -46750,6 +46780,12 @@
     "name": "Sihanouk International Airport",
     "lat": 10.570557,
     "lon": 103.632067
+  },
+  {
+    "code": "VDTI",
+    "name": "Techo International Airport",
+    "lat": 11.359987,
+    "lon": 104.921272
   },
   {
     "code": "VEAB",
@@ -54136,12 +54172,6 @@
     "name": "Zanthus Airport",
     "lat": -31.036351,
     "lon": 123.567889
-  },
-  {
-    "code": "ZB08",
-    "name": "Zherdevka Air Base",
-    "lat": 51.833302,
-    "lon": 41.549999
   },
   {
     "code": "ZBAA",
