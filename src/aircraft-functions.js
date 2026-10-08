@@ -128,6 +128,7 @@ const getLiveryIcaoCode = (airlineName) => {
     case "china eastern":
       return "CES";
     case "lufthansa":
+    case "lufthansa 100":
       return "DLH";
     case "united airlines":
     case "united":
@@ -202,6 +203,16 @@ const getLiveryIcaoCode = (airlineName) => {
       return "CPA";
     case "china southern":
       return "CSN";
+    case "norwegian":
+      return "NAX";
+    case "aer lingus":
+      return "EIN";
+    case "avianca":
+      return "AVA";
+    case "finnair":
+      return "FIN";
+    case "tap portugal":
+      return "TAP";
     default:
       return "";
   }

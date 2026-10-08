@@ -7,7 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-- Adding changes from current Aerofly FS Beta
+## [1.9.1] - 2026-10-08
+
+- Updating aircraft from current Aerofly FS 4
+- Updating airports from current Aerofly FS 4
 
 ## [1.8.0]
 

@@ -18,12 +18,6 @@
     "lon": -153.892279
   },
   {
-    "code": "3OR1",
-    "name": "Cubehole Airport",
-    "lat": 44.364601,
-    "lon": -122.958
-  },
-  {
     "code": "62CA",
     "name": "Bank of America Data Center Heliport",
     "lat": 34.053668,
@@ -772,6 +766,12 @@
     "name": "Kugluktuk Airport",
     "lat": 67.816408,
     "lon": -115.14307
+  },
+  {
+    "code": "CYCP",
+    "name": "Blue River Airport",
+    "lat": 52.11669921875,
+    "lon": -119.28299713134766
   },
   {
     "code": "CYCQ",
@@ -1858,6 +1858,12 @@
     "name": "Ottawa / Rockcliffe Airport",
     "lat": 45.460496,
     "lon": -75.644001
+  },
+  {
+    "code": "CYRP",
+    "name": "Ottawa / Carp Airport",
+    "lat": 45.3191986084,
+    "lon": -76.0222015381
   },
   {
     "code": "CYRQ",
@@ -5028,6 +5034,12 @@
     "lon": -1.74741
   },
   {
+    "code": "EGDN",
+    "name": "Netheravon Airfield",
+    "lat": 51.2472,
+    "lon": -1.75425
+  },
+  {
     "code": "EGDO",
     "name": "Predannack Airfield",
     "lat": 50.001202,
@@ -5386,12 +5398,6 @@
     "name": "Lydd London Ashford Airport",
     "lat": 50.956246,
     "lon": 0.939074
-  },
-  {
-    "code": "EGMH",
-    "name": "Manston Airport",
-    "lat": 51.342201,
-    "lon": 1.34611
   },
   {
     "code": "EGMT",
@@ -5968,6 +5974,12 @@
     "name": "Maastricht Aachen Airport",
     "lat": 50.911087,
     "lon": 5.769401
+  },
+  {
+    "code": "EHDL",
+    "name": "Deelen Air Base",
+    "lat": 52.0606,
+    "lon": 5.87306
   },
   {
     "code": "EHDP",
@@ -7320,6 +7332,12 @@
     "lon": 20.814599990844727
   },
   {
+    "code": "ESNJ",
+    "name": "Jokkmokk Airfield",
+    "lat": 66.496201,
+    "lon": 20.1472
+  },
+  {
     "code": "ESNK",
     "name": "Kramfors-Sollefteå Höga Kusten Airport",
     "lat": 63.048599,
@@ -7468,12 +7486,6 @@
     "name": "Hultsfred Airport",
     "lat": 57.525799,
     "lon": 15.8233
-  },
-  {
-    "code": "ESSK",
-    "name": "Gävle Sandviken Airport",
-    "lat": 60.5933,
-    "lon": 16.951401
   },
   {
     "code": "ESSL",
@@ -7836,6 +7848,12 @@
     "lon": 26.302401
   },
   {
+    "code": "FABM",
+    "name": "Bethlehem Airport",
+    "lat": -28.2484,
+    "lon": 28.3361
+  },
+  {
     "code": "FABO",
     "name": "Hendrik Potgieter Airport",
     "lat": -27.36680030822754,
@@ -7846,6 +7864,12 @@
     "name": "Barberton Airport",
     "lat": -25.717147,
     "lon": 30.974974
+  },
+  {
+    "code": "FACO",
+    "name": "Alkantpan Test Range Airport",
+    "lat": -29.933201,
+    "lon": 22.265741
   },
   {
     "code": "FACT",
@@ -8526,6 +8550,12 @@
     "lon": 15.91
   },
   {
+    "code": "FCOE",
+    "name": "Ewo Airport",
+    "lat": -0.883,
+    "lon": 14.8
+  },
+  {
     "code": "FCOM",
     "name": "Makoua Airport",
     "lat": -0.020842,
@@ -8648,8 +8678,8 @@
   {
     "code": "FIMR",
     "name": "Sir Charles Gaetan Duval Airport",
-    "lat": -19.756696,
-    "lon": 63.359326
+    "lat": -19.757668,
+    "lon": 63.36103
   },
   {
     "code": "FJDG",
@@ -9154,12 +9184,6 @@
     "name": "Nzagi Airport",
     "lat": -7.716939926149999,
     "lon": 21.358200073200003
-  },
-  {
-    "code": "FO10",
-    "name": "Mandji Airport",
-    "lat": -1.701616,
-    "lon": 10.409681
   },
   {
     "code": "FOGK",
@@ -10350,6 +10374,12 @@
     "lon": -17.030199
   },
   {
+    "code": "GQPT",
+    "name": "Bir Moghrein Airport",
+    "lat": 25.183531,
+    "lon": -11.609001
+  },
+  {
     "code": "GQPZ",
     "name": "Tazadit Airport",
     "lat": 22.757345,
@@ -11010,6 +11040,12 @@
     "lon": 19.00279998779297
   },
   {
+    "code": "HLBK",
+    "name": "Kambut Airport",
+    "lat": 31.8345,
+    "lon": 24.6061
+  },
+  {
     "code": "HLFL",
     "name": "Bu Attifel Airport",
     "lat": 28.795400619506836,
@@ -11478,12 +11514,6 @@
     "lon": 33.622798919677734
   },
   {
-    "code": "IA79",
-    "name": "Palo Alto County Hospital Heliport",
-    "lat": 43.101898193359375,
-    "lon": -94.70469665527344
-  },
-  {
     "code": "IL16",
     "name": "Houseman Airport",
     "lat": 37.537841,
@@ -11830,6 +11860,12 @@
     "name": "Afton Municipal Airport",
     "lat": 42.7112007141,
     "lon": -110.942001343
+  },
+  {
+    "code": "KAFP",
+    "name": "Anson County Airport - Jeff Cloud Field",
+    "lat": 35.020599,
+    "lon": -80.077103
   },
   {
     "code": "KAFW",
@@ -13746,6 +13782,12 @@
     "lon": -84.462082
   },
   {
+    "code": "KCJR",
+    "name": "Culpeper Regional Airport",
+    "lat": 38.526699,
+    "lon": -77.858902
+  },
+  {
     "code": "KCKA",
     "name": "Kegelman AF Aux Field",
     "lat": 36.734348,
@@ -14308,6 +14350,12 @@
     "name": "Clinton Municipal Airport",
     "lat": 41.8311004639,
     "lon": -90.3291015625
+  },
+  {
+    "code": "KCWV",
+    "name": "Claxton Evans County Airport",
+    "lat": 32.195099,
+    "lon": -81.869598
   },
   {
     "code": "KCXE",
@@ -15060,6 +15108,12 @@
     "lon": -104.314156
   },
   {
+    "code": "KECU",
+    "name": "Edwards County Airport",
+    "lat": 29.9468994140625,
+    "lon": -100.17400360107422
+  },
+  {
     "code": "KEDC",
     "name": "Austin Executive Airport",
     "lat": 30.398049,
@@ -15094,6 +15148,12 @@
     "name": "University Airport",
     "lat": 38.531502,
     "lon": -121.786489
+  },
+  {
+    "code": "KEDW",
+    "name": "Edwards Air Force Base",
+    "lat": 34.910781,
+    "lon": -117.886391
   },
   {
     "code": "KEED",
@@ -15154,6 +15214,12 @@
     "name": "Duke Field",
     "lat": 30.65040016,
     "lon": -86.52290344
+  },
+  {
+    "code": "KEGQ",
+    "name": "Emmetsburg Municipal Airport",
+    "lat": 43.10200119018555,
+    "lon": -94.70469665527344
   },
   {
     "code": "KEGT",
@@ -15480,10 +15546,22 @@
     "lon": -116.636002
   },
   {
+    "code": "KEVB",
+    "name": "New Smyrna Beach Municipal Airport",
+    "lat": 29.0557,
+    "lon": -80.948898
+  },
+  {
     "code": "KEVM",
     "name": "Eveleth–Virginia Municipal Airport",
     "lat": 47.42458,
     "lon": -92.499204
+  },
+  {
+    "code": "KEVU",
+    "name": "Northwest Missouri Regional Airport",
+    "lat": 40.352501,
+    "lon": -94.915001
   },
   {
     "code": "KEVV",
@@ -16284,6 +16362,12 @@
     "lon": -95.556
   },
   {
+    "code": "KGDJ",
+    "name": "Granbury Regional Airport",
+    "lat": 32.442222,
+    "lon": -97.824444
+  },
+  {
     "code": "KGDV",
     "name": "Dawson Community Airport",
     "lat": 47.137658,
@@ -16378,6 +16462,12 @@
     "name": "Grinnell Regional Airport",
     "lat": 41.70991,
     "lon": -92.736052
+  },
+  {
+    "code": "KGGP",
+    "name": "Logansport Cass County Airport",
+    "lat": 40.711201,
+    "lon": -86.374901
   },
   {
     "code": "KGGW",
@@ -17130,6 +17220,12 @@
     "lon": -111.983002
   },
   {
+    "code": "KHLR",
+    "name": "Hood Army Air Field",
+    "lat": 31.1387,
+    "lon": -97.7145
+  },
+  {
     "code": "KHLX",
     "name": "Twin County Airport",
     "lat": 36.766102,
@@ -17140,6 +17236,12 @@
     "name": "Holloman Air Force Base",
     "lat": 32.852501,
     "lon": -106.107002
+  },
+  {
+    "code": "KHMP",
+    "name": "Atlanta Speedway Airport",
+    "lat": 33.389876,
+    "lon": -84.331011
   },
   {
     "code": "KHMT",
@@ -17164,6 +17266,12 @@
     "name": "Henderson Executive Airport",
     "lat": 35.9728012085,
     "lon": -115.134002686
+  },
+  {
+    "code": "KHNR",
+    "name": "Harlan Municipal Airport",
+    "lat": 41.58440017700195,
+    "lon": -95.339599609375
   },
   {
     "code": "KHOB",
@@ -17714,8 +17822,8 @@
   {
     "code": "KIML",
     "name": "Imperial Municipal Airport",
-    "lat": 40.50930023,
-    "lon": -101.6210022
+    "lat": 40.5093,
+    "lon": -101.621002
   },
   {
     "code": "KIMM",
@@ -17725,9 +17833,9 @@
   },
   {
     "code": "KIMS",
-    "name": "Madison Municipal Airport",
-    "lat": 38.75889969,
-    "lon": -85.46549988
+    "name": "Madison Regional Airport",
+    "lat": 38.7589,
+    "lon": -85.4655
   },
   {
     "code": "KIMT",
@@ -18184,6 +18292,12 @@
     "name": "Jackson County Airport/Reynolds Field",
     "lat": 42.260509,
     "lon": -84.463019
+  },
+  {
+    "code": "KJYG",
+    "name": "St James Municipal Airport",
+    "lat": 43.986301,
+    "lon": -94.557899
   },
   {
     "code": "KJYL",
@@ -18748,6 +18862,12 @@
     "name": "Pickens County Airport",
     "lat": 34.8100013733,
     "lon": -82.70290374759999
+  },
+  {
+    "code": "KLQR",
+    "name": "Larned Pawnee County Airport",
+    "lat": 38.20859909,
+    "lon": -99.08599854
   },
   {
     "code": "KLRD",
@@ -20292,6 +20412,18 @@
     "lon": -97.8097000122
   },
   {
+    "code": "KNQX",
+    "name": "Naval Air Station Key West/Boca Chica Field",
+    "lat": 24.57579994,
+    "lon": -81.68890381
+  },
+  {
+    "code": "KNRA",
+    "name": "Coupeville Nolf Airport",
+    "lat": 48.18830108642578,
+    "lon": -122.63200378417969
+  },
+  {
     "code": "KNRB",
     "name": "Naval Station Mayport / Admiral David L McDonald Field",
     "lat": 30.3911,
@@ -21130,6 +21262,12 @@
     "name": "Erie-Ottawa International Airport",
     "lat": 41.515647,
     "lon": -82.868328
+  },
+  {
+    "code": "KPCZ",
+    "name": "Waupaca Municipal Airport",
+    "lat": 44.333302,
+    "lon": -89.019798
   },
   {
     "code": "KPDC",
@@ -23826,6 +23964,12 @@
     "lon": -93.590599
   },
   {
+    "code": "KTSO",
+    "name": "Carroll County-Tolson Airport",
+    "lat": 40.561901,
+    "lon": -81.077499
+  },
+  {
     "code": "KTSP",
     "name": "Tehachapi Municipal Airport",
     "lat": 35.134998321533,
@@ -24108,6 +24252,12 @@
     "lon": -123.200996
   },
   {
+    "code": "KUKL",
+    "name": "Coffey County Airport",
+    "lat": 38.302502,
+    "lon": -95.724998
+  },
+  {
     "code": "KULM",
     "name": "New Ulm Municipal Airport",
     "lat": 44.319599151611,
@@ -24246,6 +24396,12 @@
     "lon": -94.219299
   },
   {
+    "code": "KVCB",
+    "name": "Nut Tree Airport",
+    "lat": 38.376801,
+    "lon": -121.961998
+  },
+  {
     "code": "KVCT",
     "name": "Victoria Regional Airport",
     "lat": 28.85260009765625,
@@ -24286,6 +24442,12 @@
     "name": "Darke County Airport",
     "lat": 40.204399,
     "lon": -84.531898
+  },
+  {
+    "code": "KVGC",
+    "name": "Hamilton Municipal Airport",
+    "lat": 42.8438,
+    "lon": -75.561401
   },
   {
     "code": "KVGT",
@@ -24628,6 +24790,12 @@
     "name": "Tappahannock-Essex County Airport",
     "lat": 37.8596,
     "lon": -76.894096
+  },
+  {
+    "code": "KXTA",
+    "name": "Homey (Area 51) Airport",
+    "lat": 37.23500061035156,
+    "lon": -115.81099700927734
   },
   {
     "code": "KXVG",
@@ -25084,12 +25252,6 @@
     "name": "La Calderera Airfield",
     "lat": 38.747898,
     "lon": -3.51456
-  },
-  {
-    "code": "LELC",
-    "name": "San Javier Airport",
-    "lat": 37.775002,
-    "lon": -0.812389
   },
   {
     "code": "LELL",
@@ -25726,6 +25888,12 @@
     "name": "Mulhouse-Habsheim Airfield",
     "lat": 47.741299,
     "lon": 7.43221
+  },
+  {
+    "code": "LFGC",
+    "name": "Strasbourg Neuhof Airfield",
+    "lat": 48.553263,
+    "lon": 7.776604
   },
   {
     "code": "LFGF",
@@ -27010,6 +27178,12 @@
     "name": "Tanagra Air Base",
     "lat": 38.339802,
     "lon": 23.565001
+  },
+  {
+    "code": "LGTL",
+    "name": "(*)Kasteli Hellenic Air Force Base",
+    "lat": 35.191341,
+    "lon": 25.326588
   },
   {
     "code": "LGTP",
@@ -28764,12 +28938,6 @@
     "lon": 21.3379
   },
   {
-    "code": "LS33",
-    "name": "Sun Drilling Products Heliport",
-    "lat": 29.8985,
-    "lon": -89.990601
-  },
-  {
     "code": "LSGB",
     "name": "Bex Airfield",
     "lat": 46.258301,
@@ -28836,6 +29004,12 @@
     "lon": 8.305184
   },
   {
+    "code": "LSML",
+    "name": "Lodrino Air Base",
+    "lat": 46.295898,
+    "lon": 8.99213
+  },
+  {
     "code": "LSMM",
     "name": "Meiringen Air Base",
     "lat": 46.742324,
@@ -28858,12 +29032,6 @@
     "name": "Ambri Airport",
     "lat": 46.512501,
     "lon": 8.68978
-  },
-  {
-    "code": "LSPR",
-    "name": "Lodrino Air Base",
-    "lat": 46.295898,
-    "lon": 8.99213
   },
   {
     "code": "LSPU",
@@ -28894,6 +29062,12 @@
     "name": "Zweisimmen Airfield",
     "lat": 46.551713,
     "lon": 7.381012
+  },
+  {
+    "code": "LSYQ",
+    "name": "Croix de Coeur Altiport",
+    "lat": 46.123348,
+    "lon": 7.234131
   },
   {
     "code": "LSZA",
@@ -29058,6 +29232,12 @@
     "lon": 38.253899
   },
   {
+    "code": "LTAP",
+    "name": "Amasya Merzifon Airport",
+    "lat": 40.829399,
+    "lon": 35.521999
+  },
+  {
     "code": "LTAR",
     "name": "Sivas Nuri Demirağ Airport",
     "lat": 39.813801,
@@ -29086,6 +29266,12 @@
     "name": "Sivrihisar Airport",
     "lat": 39.4515,
     "lon": 31.365299
+  },
+  {
+    "code": "LTAW",
+    "name": "Tokat Airport",
+    "lat": 40.32472,
+    "lon": 36.39056
   },
   {
     "code": "LTAY",
@@ -31818,6 +32004,12 @@
     "lon": 173.8699951171875
   },
   {
+    "code": "NZWD",
+    "name": "Williams Field Skiway",
+    "lat": -77.867401,
+    "lon": 167.057007
+  },
+  {
     "code": "NZWF",
     "name": "Wanaka Airport",
     "lat": -44.722091,
@@ -31852,6 +32044,12 @@
     "name": "Westport Airport",
     "lat": -41.737111,
     "lon": 171.579033
+  },
+  {
+    "code": "NZWT",
+    "name": "Whitianga Airport",
+    "lat": -36.828731,
+    "lon": 175.682802
   },
   {
     "code": "NZWU",
@@ -33132,16 +33330,16 @@
     "lon": 72.995319
   },
   {
+    "code": "OPGD",
+    "name": "Gwadar International Airport (Old)",
+    "lat": 25.23298,
+    "lon": 62.328735
+  },
+  {
     "code": "OPGT",
     "name": "Gilgit Airport",
     "lat": 35.918800354003906,
     "lon": 74.33360290527344
-  },
-  {
-    "code": "OPGW",
-    "name": "New Gwadar International Airport",
-    "lat": 25.296733,
-    "lon": 62.498822
   },
   {
     "code": "OPIS",
@@ -33612,12 +33810,6 @@
     "lon": 44.790263
   },
   {
-    "code": "PA89",
-    "name": "Ben's Landing Ultralightport",
-    "lat": 39.959,
-    "lon": -77.049698
-  },
-  {
     "code": "PAAK",
     "name": "Atka Airport",
     "lat": 52.220299,
@@ -33958,6 +34150,12 @@
     "name": "Tatitlek Airport",
     "lat": 60.871449,
     "lon": -146.690297
+  },
+  {
+    "code": "PAKL",
+    "name": "Kulik Lake Airport",
+    "lat": 58.9821014404,
+    "lon": -155.121002197
   },
   {
     "code": "PAKN",
@@ -34576,6 +34774,12 @@
     "name": "Kaneohe Bay MCAS (Marion E. Carl Field) Airport",
     "lat": 21.4505,
     "lon": -157.768005
+  },
+  {
+    "code": "PHNL",
+    "name": "Daniel K. Inouye International Airport",
+    "lat": 21.318387,
+    "lon": -157.92567
   },
   {
     "code": "PHNY",
@@ -35412,12 +35616,6 @@
     "lon": 139.348007
   },
   {
-    "code": "RK6C",
-    "name": "C 621 Heliport",
-    "lat": 36.264899,
-    "lon": 127.10216
-  },
-  {
     "code": "RKJB",
     "name": "Muan International Airport",
     "lat": 34.991406,
@@ -35572,6 +35770,12 @@
     "name": "Yecheon Airbase",
     "lat": 36.630373,
     "lon": 128.34971
+  },
+  {
+    "code": "RKUL",
+    "name": "G 536 Airport",
+    "lat": 36.267085,
+    "lon": 127.108881
   },
   {
     "code": "ROAH",
@@ -36154,6 +36358,18 @@
     "name": "Ingeniero Aeronáutico Ambrosio L.V. Taravella International Airport",
     "lat": -31.312346,
     "lon": -64.208329
+  },
+  {
+    "code": "SADF",
+    "name": "San Fernando Airport",
+    "lat": -34.4532,
+    "lon": -58.5896
+  },
+  {
+    "code": "SADJ",
+    "name": "Mariano Moreno Airport",
+    "lat": -34.5606,
+    "lon": -58.7896
   },
   {
     "code": "SADL",
@@ -36798,12 +37014,6 @@
     "lon": -71.137299
   },
   {
-    "code": "SB26",
-    "name": "Aeródromo de Campo Formoso",
-    "lat": -10.4955,
-    "lon": -40.4874
-  },
-  {
     "code": "SB48",
     "name": "Morrinhos Airport",
     "lat": -17.761758,
@@ -37174,6 +37384,12 @@
     "name": "Usiminas Airport",
     "lat": -19.470699,
     "lon": -42.487598
+  },
+  {
+    "code": "SBIT",
+    "name": "Francisco Vilela do Amaral Airport",
+    "lat": -18.4447,
+    "lon": -49.213402
   },
   {
     "code": "SBIZ",
@@ -37908,6 +38124,12 @@
     "lon": -70.4131011963
   },
   {
+    "code": "SCHC",
+    "name": "Chicureo Airport",
+    "lat": -33.267776,
+    "lon": -70.647224
+  },
+  {
     "code": "SCHR",
     "name": "Cochrane Airport",
     "lat": -47.243591,
@@ -38190,6 +38412,12 @@
     "lon": -71.4786
   },
   {
+    "code": "SCYB",
+    "name": "Trilahue Airport",
+    "lat": -37.117222,
+    "lon": -72.41111
+  },
+  {
     "code": "SD5A",
     "name": "Gilbués Airport",
     "lat": -9.830924,
@@ -38332,12 +38560,6 @@
     "name": "Geraldo Moacir Bordon State Airport",
     "lat": -21.774665,
     "lon": -52.143281
-  },
-  {
-    "code": "SDES",
-    "name": "Estância Colorado Airport",
-    "lat": -20.761969,
-    "lon": -47.862237
   },
   {
     "code": "SDFD",
@@ -38562,6 +38784,12 @@
     "lon": -49.234441
   },
   {
+    "code": "SDNM",
+    "name": "Brigadeiro Eduardo Gomes Airport",
+    "lat": -13.821021,
+    "lon": -56.038591
+  },
+  {
     "code": "SDOB",
     "name": "Fazenda São José O.B. Airport",
     "lat": -21.4252,
@@ -38590,12 +38818,6 @@
     "name": "Ourilândia do Norte Airport",
     "lat": -6.762992,
     "lon": -51.04993
-  },
-  {
-    "code": "SDP5",
-    "name": "Fazenda Panorama Airport",
-    "lat": -22.039,
-    "lon": -56.269402
   },
   {
     "code": "SDPA",
@@ -39708,6 +39930,12 @@
     "lon": -54.300302
   },
   {
+    "code": "SJMV",
+    "name": "Serra do Sol Airport",
+    "lat": 4.942500114440918,
+    "lon": -60.47529983520508
+  },
+  {
     "code": "SJNI",
     "name": "Fazenda Buriti Airport",
     "lat": -20.480036,
@@ -40068,12 +40296,6 @@
     "lon": -48.415833
   },
   {
-    "code": "SK52",
-    "name": "Santiago I Airport",
-    "lat": 4.73214,
-    "lon": -72.323196
-  },
-  {
     "code": "SKAP",
     "name": "Gomez Nino Apiay Air Base",
     "lat": 4.07607,
@@ -40282,6 +40504,12 @@
     "name": "Enrique Olaya Herrera Airport",
     "lat": 6.219686,
     "lon": -75.590597
+  },
+  {
+    "code": "SKME",
+    "name": "Lieutenant Colonel Luis F. Pinto Parra Air Base",
+    "lat": 4.21644,
+    "lon": -74.635
   },
   {
     "code": "SKMG",
@@ -41034,6 +41262,12 @@
     "lon": -55.410152
   },
   {
+    "code": "SNFE",
+    "name": "Comandante Paschoal Patrocínio Filho Airport",
+    "lat": -21.4314,
+    "lon": -45.932098
+  },
+  {
     "code": "SNFI",
     "name": "Fazenda São José do Parnaíba Airport",
     "lat": -18.387500762939453,
@@ -41044,6 +41278,12 @@
     "name": "Pousada Thaimaçu Airport",
     "lat": -9.06277847290039,
     "lon": -56.59333419799805
+  },
+  {
+    "code": "SNFK",
+    "name": "Estância Colorado Heliport",
+    "lat": -20.758691,
+    "lon": -47.86329
   },
   {
     "code": "SNFO",
@@ -41594,8 +41834,8 @@
   {
     "code": "SNQI",
     "name": "Fazenda Camagril Agropecuária Airport",
-    "lat": -14.118056297302246,
-    "lon": -57.34111022949219
+    "lat": -14.117619,
+    "lon": -57.34145
   },
   {
     "code": "SNQN",
@@ -41696,12 +41936,12 @@
   {
     "code": "SNSR",
     "name": "Fazenda Santos Reis Airport",
-    "lat": -17.54789924621582,
-    "lon": -46.97869873046875
+    "lat": -17.547899,
+    "lon": -46.978699
   },
   {
     "code": "SNSS",
-    "name": "Salinas Airport",
+    "name": "Salinas Municipal Airport",
     "lat": -16.2083,
     "lon": -42.321999
   },
@@ -41732,8 +41972,8 @@
   {
     "code": "SNTD",
     "name": "Fazenda Mamoneira Airport",
-    "lat": -16.586200714111328,
-    "lon": -46.5010986328125
+    "lat": -16.586201,
+    "lon": -46.501099
   },
   {
     "code": "SNTF",
@@ -41748,6 +41988,12 @@
     "lon": -55.514596
   },
   {
+    "code": "SNTM",
+    "name": "Turmalina Regional Airport",
+    "lat": -17.267198,
+    "lon": -42.726794
+  },
+  {
     "code": "SNTO",
     "name": "Juscelino Kubitscheck Airport",
     "lat": -17.8923,
@@ -41756,8 +42002,8 @@
   {
     "code": "SNTP",
     "name": "Agropalma Airport",
-    "lat": -2.525278091430664,
-    "lon": -48.75194549560547
+    "lat": -2.528961,
+    "lon": -48.756495
   },
   {
     "code": "SNTQ",
@@ -42516,12 +42762,6 @@
     "lon": -52.604213
   },
   {
-    "code": "SSCD",
-    "name": "Chapadão do Sul Airport",
-    "lat": -18.839125,
-    "lon": -52.488116
-  },
-  {
     "code": "SSCH",
     "name": "Fazenda Cachoeirão Airport",
     "lat": -21.598487,
@@ -42798,6 +43038,12 @@
     "lon": -53.74330139160156
   },
   {
+    "code": "SSJM",
+    "name": "Fazenda Júlio Martins Airport",
+    "lat": -18.842500686645508,
+    "lon": -52.49944305419922
+  },
+  {
     "code": "SSJQ",
     "name": "Fazenda Floresta Airport",
     "lat": -12.806725,
@@ -42904,6 +43150,12 @@
     "name": "Manoel Ribas Airport",
     "lat": -24.5296,
     "lon": -51.651714
+  },
+  {
+    "code": "SSMY",
+    "name": "São Miguel do Iguaçu Airport",
+    "lat": -25.398889,
+    "lon": -54.234722
   },
   {
     "code": "SSNB",
@@ -43368,6 +43620,12 @@
     "lon": -52.157492
   },
   {
+    "code": "SSZQ",
+    "name": "Fazenda Panorama Airport",
+    "lat": -22.039,
+    "lon": -56.269402
+  },
+  {
     "code": "SSZR",
     "name": "Luis Alberto Lehr Airport",
     "lat": -27.90658,
@@ -43492,6 +43750,12 @@
     "name": "Treinta y Tres Airport",
     "lat": -33.195714,
     "lon": -54.347246
+  },
+  {
+    "code": "SV02",
+    "name": "San Diego De Cabrutica Airport",
+    "lat": 8.404430389404297,
+    "lon": -65.0155029296875
   },
   {
     "code": "SVAC",
@@ -44274,12 +44538,6 @@
     "lon": -57.99530029296875
   },
   {
-    "code": "SWIW",
-    "name": "Brigadeiro Eduardo Gomes Airport",
-    "lat": -13.821021,
-    "lon": -56.038591
-  },
-  {
     "code": "SWIY",
     "name": "Santa Izabel do Morro Airport",
     "lat": -11.57229995727539,
@@ -44329,9 +44587,9 @@
   },
   {
     "code": "SWJY",
-    "name": "Fazenda Campo Alegre III Airport",
-    "lat": -16.844722747802734,
-    "lon": -53.73444366455078
+    "name": "Professora Francisca Cardoso Airport.",
+    "lat": -7.246443,
+    "lon": -35.173947
   },
   {
     "code": "SWKC",
@@ -44368,6 +44626,12 @@
     "name": "Catalão Airport",
     "lat": -18.216801,
     "lon": -47.8997
+  },
+  {
+    "code": "SWKX",
+    "name": "Corixá Airport",
+    "lat": -16.38360023498535,
+    "lon": -58.31719970703125
   },
   {
     "code": "SWKZ",
@@ -44446,6 +44710,12 @@
     "name": "Luís Eduardo Magalhães Airport",
     "lat": -12.06822,
     "lon": -45.71153
+  },
+  {
+    "code": "SWNC",
+    "name": "Fazenda Nictheroy Airport",
+    "lat": -10.2675,
+    "lon": -67.698
   },
   {
     "code": "SWNH",
@@ -45488,8 +45758,8 @@
   {
     "code": "UEST",
     "name": "Tiksi Airport",
-    "lat": 71.697700500488,
-    "lon": 128.90299987793
+    "lat": 71.697701,
+    "lon": 128.903
   },
   {
     "code": "UGKO",
@@ -45652,6 +45922,12 @@
     "name": "Mariupol International Airport",
     "lat": 47.076099,
     "lon": 37.4496
+  },
+  {
+    "code": "UKCS",
+    "name": "Sievierodonetsk Airport",
+    "lat": 48.900926,
+    "lon": 38.54279
   },
   {
     "code": "UKCW",
@@ -46310,8 +46586,8 @@
   {
     "code": "UUEE",
     "name": "Sheremetyevo International Airport",
-    "lat": 55.976858,
-    "lon": 37.41121
+    "lat": 55.977486,
+    "lon": 37.386677
   },
   {
     "code": "UUEI",
@@ -46492,6 +46768,12 @@
     "name": "Uchkuduk Airport",
     "lat": 42.083099,
     "lon": 63.449299
+  },
+  {
+    "code": "UZTT",
+    "name": "Tashkent International Airport",
+    "lat": 41.2579,
+    "lon": 69.281197
   },
   {
     "code": "VAAH",
@@ -48336,6 +48618,12 @@
     "lon": 105.67099762
   },
   {
+    "code": "VY02",
+    "name": "New Magway Airport",
+    "lat": 20.153600692749023,
+    "lon": 94.96869659423828
+  },
+  {
     "code": "VYAN",
     "name": "Ann Airport",
     "lat": 19.769199,
@@ -49230,6 +49518,12 @@
     "lon": 103.932999
   },
   {
+    "code": "WIPO",
+    "name": "Gatot Subrato Airport",
+    "lat": -4.39177,
+    "lon": 104.401001
+  },
+  {
     "code": "WIPP",
     "name": "Sultan Mahmud Badaruddin II Airport",
     "lat": -2.897653,
@@ -49372,12 +49666,6 @@
     "name": "Sultan Abdul Aziz Shah International Airport",
     "lat": 3.13058,
     "lon": 101.549004
-  },
-  {
-    "code": "WN40",
-    "name": "Coupeville Airpark",
-    "lat": 48.190399169921875,
-    "lon": -122.64299774169922
   },
   {
     "code": "WPDB",
@@ -49728,12 +50016,6 @@
     "lon": 144.330002
   },
   {
-    "code": "YBDS",
-    "name": "Birthday Siding Airport",
-    "lat": -30.288867,
-    "lon": 134.528275
-  },
-  {
     "code": "YBDV",
     "name": "Birdsville Airport",
     "lat": -25.897499084472656,
@@ -49792,6 +50074,12 @@
     "name": "Bedourie Airport",
     "lat": -24.3461,
     "lon": 139.460007
+  },
+  {
+    "code": "YBIL",
+    "name": "Billiluna Airport",
+    "lat": -19.566699981699998,
+    "lon": 127.666999817
   },
   {
     "code": "YBIR",
@@ -49948,6 +50236,12 @@
     "name": "Proserpine Whitsunday Coast Airport",
     "lat": -20.494416,
     "lon": 148.553583
+  },
+  {
+    "code": "YBRA",
+    "name": "Benambra Airport",
+    "lat": -36.9668665594,
+    "lon": 147.699143887
   },
   {
     "code": "YBRC",
@@ -50364,6 +50658,12 @@
     "lon": 145.106214
   },
   {
+    "code": "YCNS",
+    "name": "Coniston Airport",
+    "lat": -22.13330078125,
+    "lon": 132.5330047607422
+  },
+  {
     "code": "YCNY",
     "name": "Century Mine Airport",
     "lat": -18.759331,
@@ -50584,6 +50884,12 @@
     "name": "Doongan Airport",
     "lat": -15.386429,
     "lon": 126.302235
+  },
+  {
+    "code": "YDGT",
+    "name": "Dalgety Downs Station Airport",
+    "lat": -25.267532,
+    "lon": 116.221396
   },
   {
     "code": "YDLK",
@@ -50874,6 +51180,12 @@
     "lon": 118.36699676513672
   },
   {
+    "code": "YFRD",
+    "name": "Frome Downs Airport",
+    "lat": -31.216699600219727,
+    "lon": 139.75
+  },
+  {
     "code": "YFRG",
     "name": "Fregon Airport",
     "lat": -26.774999618530273,
@@ -51162,6 +51474,12 @@
     "lon": 130.63027954101562
   },
   {
+    "code": "YHDY",
+    "name": "Headingly Airport",
+    "lat": -21.33329963684082,
+    "lon": 138.2830047607422
+  },
+  {
     "code": "YHEG",
     "name": "Hells Gate Airport",
     "lat": -17.455555,
@@ -51414,10 +51732,22 @@
     "lon": 118.904482
   },
   {
+    "code": "YJIG",
+    "name": "Jiggalong Mission Airport",
+    "lat": -23.36669921875,
+    "lon": 120.78299713134766
+  },
+  {
     "code": "YJLC",
     "name": "Julia Creek Airport",
     "lat": -20.66830062866211,
     "lon": 141.72300720214844
+  },
+  {
+    "code": "YJNK",
+    "name": "Jinka Airport",
+    "lat": -22.950000762939453,
+    "lon": 135.73300170898438
   },
   {
     "code": "YJNY",
@@ -51846,6 +52176,12 @@
     "lon": 120.7030029296875
   },
   {
+    "code": "YLSY",
+    "name": "Mount Lindsay Airport",
+    "lat": -27.018299102783203,
+    "lon": 129.88499450683594
+  },
+  {
     "code": "YLTN",
     "name": "Laverton Airport",
     "lat": -28.614267,
@@ -52110,6 +52446,12 @@
     "lon": 147.513022
   },
   {
+    "code": "YMHL",
+    "name": "Mount Holland Airport",
+    "lat": -32.112824,
+    "lon": 119.765739
+  },
+  {
     "code": "YMHO",
     "name": "Mount House Airport",
     "lat": -17.051917,
@@ -52224,10 +52566,22 @@
     "lon": 144.837898
   },
   {
+    "code": "YMMT",
+    "name": "Mount Margaret Airport",
+    "lat": -26.933300018310547,
+    "lon": 143.31700134277344
+  },
+  {
     "code": "YMMU",
     "name": "Middlemount Airport",
     "lat": -22.801444,
     "lon": 148.706796
+  },
+  {
+    "code": "YMNB",
+    "name": "Mount Barry Airport",
+    "lat": -28.233299255371094,
+    "lon": 135
   },
   {
     "code": "YMND",
@@ -52686,6 +53040,12 @@
     "lon": 131.822998046875
   },
   {
+    "code": "YODL",
+    "name": "Ourdel Airport",
+    "lat": -25.350000381469727,
+    "lon": 142.63299560546875
+  },
+  {
     "code": "YOEN",
     "name": "Oenpelli Airport",
     "lat": -12.325,
@@ -52872,6 +53232,12 @@
     "lon": 136.817993164
   },
   {
+    "code": "YPIN",
+    "name": "Pinnacle Airport",
+    "lat": -15.66670036315918,
+    "lon": 143.5500030517578
+  },
+  {
     "code": "YPIR",
     "name": "Port Pirie Airport",
     "lat": -33.238899,
@@ -52948,6 +53314,12 @@
     "name": "Learmonth Airport",
     "lat": -22.235201,
     "lon": 114.090024
+  },
+  {
+    "code": "YPLU",
+    "name": "Plutonic Airport",
+    "lat": -25.3333,
+    "lon": 119.425003
   },
   {
     "code": "YPMB",
@@ -53104,6 +53476,12 @@
     "name": "Quorn Airport",
     "lat": -32.325029,
     "lon": 138.105542
+  },
+  {
+    "code": "YQUA",
+    "name": "Quarry2 Airport",
+    "lat": -30.29146,
+    "lon": 134.526815
   },
   {
     "code": "YRAW",
@@ -53694,6 +54072,12 @@
     "lon": 152.514008
   },
   {
+    "code": "YTRK",
+    "name": "Turee Creek Airport",
+    "lat": -23.61669921875,
+    "lon": 118.61699676513672
+  },
+  {
     "code": "YTST",
     "name": "Truscott-Mungalalu Airport",
     "lat": -14.089699745178,
@@ -53874,6 +54258,12 @@
     "lon": 139.35000610351562
   },
   {
+    "code": "YWGN",
+    "name": "Wagin Airport",
+    "lat": -33.33330154418945,
+    "lon": 117.36699676513672
+  },
+  {
     "code": "YWGT",
     "name": "Wangaratta Airport",
     "lat": -36.417914,
@@ -53970,6 +54360,12 @@
     "lon": 151.861673
   },
   {
+    "code": "YWNL",
+    "name": "Wingellina Airport",
+    "lat": -26.0667,
+    "lon": 128.949997
+  },
+  {
     "code": "YWOH",
     "name": "Wongan Hills Airport",
     "lat": -30.880036,
@@ -54016,6 +54412,12 @@
     "name": "Warroora Homestead Airport",
     "lat": -23.44609,
     "lon": 113.84853
+  },
+  {
+    "code": "YWSI",
+    "name": "Wirrida Siding Airport",
+    "lat": -29.566699981689453,
+    "lon": 134.51699829101562
   },
   {
     "code": "YWSL",
@@ -54706,6 +55108,12 @@
     "name": "Donoi Airport",
     "lat": 47.7093,
     "lon": 96.5258
+  },
+  {
+    "code": "ZMDZ",
+    "name": "Dalanzadgad Airport",
+    "lat": 43.608628,
+    "lon": 104.367734
   },
   {
     "code": "ZMGT",

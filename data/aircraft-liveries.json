@@ -38,7 +38,8 @@
       {
         "aeroflyCode": "aer_lingus",
         "name": "Aer Lingus",
-        "requirements": ["wingtips", "engine_cfm"]
+        "requirements": ["wingtips", "engine_cfm"],
+        "icaoCode": "EIN"
       },
       {
         "aeroflyCode": "air_france",
@@ -65,7 +66,8 @@
       {
         "aeroflyCode": "avianca",
         "name": "Avianca",
-        "requirements": ["wingtips", "engine_cfm"]
+        "requirements": ["wingtips", "engine_cfm"],
+        "icaoCode": "AVA"
       },
       {
         "aeroflyCode": "azerbaijan",
@@ -155,7 +157,8 @@
       {
         "aeroflyCode": "finnair",
         "name": "Finnair",
-        "requirements": ["wingtips", "engine_cfm"]
+        "requirements": ["wingtips", "engine_cfm"],
+        "icaoCode": "FIN"
       },
       {
         "aeroflyCode": "germanwings",
@@ -230,7 +233,8 @@
       {
         "aeroflyCode": "tap",
         "name": "TAP Portugal",
-        "requirements": ["wingtips", "engine_cfm"]
+        "requirements": ["wingtips", "engine_cfm"],
+        "icaoCode": "TAP"
       },
       {
         "aeroflyCode": "tibet",
@@ -314,7 +318,8 @@
       {
         "aeroflyCode": "aer_lingus",
         "name": "Aer Lingus",
-        "requirements": ["wingtips", "engine_cfm"]
+        "requirements": ["wingtips", "engine_cfm"],
+        "icaoCode": "EIN"
       },
       {
         "aeroflyCode": "aircalin",
@@ -397,7 +402,8 @@
       {
         "aeroflyCode": "avianca",
         "name": "Avianca",
-        "requirements": ["sharklets", "engine_cfm"]
+        "requirements": ["sharklets", "engine_cfm"],
+        "icaoCode": "AVA"
       },
       {
         "aeroflyCode": "azores",
@@ -733,7 +739,8 @@
       {
         "aeroflyCode": "aer_lingus",
         "name": "Aer Lingus",
-        "requirements": ["engine_cfm"]
+        "requirements": ["engine_cfm"],
+        "icaoCode": "EIN"
       },
       {
         "aeroflyCode": "aircalin",
@@ -798,7 +805,8 @@
       {
         "aeroflyCode": "avianca",
         "name": "Avianca",
-        "requirements": ["engine_cfm", "option_satcom"]
+        "requirements": ["engine_cfm", "option_satcom"],
+        "icaoCode": "AVA"
       },
       {
         "aeroflyCode": "azores",
@@ -934,7 +942,8 @@
       {
         "aeroflyCode": "lufthansa_100",
         "name": "Lufthansa 100",
-        "requirements": ["engine_cfm"]
+        "requirements": ["engine_cfm"],
+        "icaoCode": "DLH"
       },
       {
         "aeroflyCode": "malta",
@@ -1063,7 +1072,8 @@
       {
         "aeroflyCode": "aer_lingus",
         "name": "Aer Lingus",
-        "requirements": ["wingtips", "engine_cfm"]
+        "requirements": ["wingtips", "engine_cfm"],
+        "icaoCode": "EIN"
       },
       {
         "aeroflyCode": "air_busan",
@@ -1126,7 +1136,8 @@
       {
         "aeroflyCode": "avianca",
         "name": "Avianca",
-        "requirements": ["sharklets", "engine_iae"]
+        "requirements": ["sharklets", "engine_iae"],
+        "icaoCode": "AVA"
       },
       {
         "aeroflyCode": "bamboo",
@@ -1190,7 +1201,8 @@
       {
         "aeroflyCode": "finnair",
         "name": "Finnair",
-        "requirements": ["sharklets", "engine_iae"]
+        "requirements": ["sharklets", "engine_iae"],
+        "icaoCode": "FIN"
       },
       {
         "aeroflyCode": "frontier",
@@ -1364,7 +1376,8 @@
       {
         "aeroflyCode": "aer_lingus",
         "name": "Aer Lingus",
-        "requirements": ["engine_cfm", "option_satcom"]
+        "requirements": ["engine_cfm", "option_satcom"],
+        "icaoCode": "EIN"
       },
       {
         "aeroflyCode": "air_canada",
@@ -1473,7 +1486,8 @@
       {
         "aeroflyCode": "lufthansa_100",
         "name": "Lufthansa 100",
-        "requirements": []
+        "requirements": [],
+        "icaoCode": "DLH"
       },
       {
         "aeroflyCode": "philippine",
@@ -2164,7 +2178,8 @@
       {
         "aeroflyCode": "norwegian",
         "name": "Norwegian",
-        "requirements": ["winglets_blended"]
+        "requirements": ["winglets_blended"],
+        "icaoCode": "NAX"
       },
       {
         "aeroflyCode": "pegasus",
