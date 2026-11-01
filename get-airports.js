@@ -3,7 +3,7 @@
 //@ts-check
 
 import GeoJSON from "@fboes/geojson";
-import * as fs from "node:fs";
+import * as fs from "node:fs/promises";
 import * as path from "node:path";
 import { parse } from "csv-parse/sync";
 import {
@@ -17,9 +17,7 @@ const inputDirectory = process.argv[2] ?? ".";
 
 // Ensure the output directory exists
 const outputDirectory = path.join("data");
-if (!fs.existsSync(outputDirectory)) {
-  fs.mkdirSync(outputDirectory, { recursive: true });
-}
+await fs.mkdir(outputDirectory, { recursive: true });
 
 const aeroflyGeoJson = new GeoJSON.FeatureCollection();
 const aeroflyAirports = new Map([
@@ -30,7 +28,7 @@ const aeroflyAirportsLength = aeroflyAirports.size;
 process.stdout.write(`Found \x1b[92m${aeroflyAirports.size}\x1b[0m Aerofly FS Airports
 `);
 
-const airportsSource = fs.readFileSync(`tmp/airports.csv`);
+const airportsSource = await fs.readFile(`tmp/airports.csv`);
 
 /** @type {string[][]} with a single CSV line from airports.csv */
 let airportsRecords = parse(airportsSource, { bom: true });
@@ -45,10 +43,10 @@ const icaoCodes = [];
 
 /**
  * @type {{
- *  code: String,
- *  name: String,
- *  lat: Number,
- *  lon: Number
+ *  code: string,
+ *  name: string,
+ *  lat: number,
+ *  lon: number
  * }[]}
  */
 const icaoCoordinatesObject = [];
@@ -58,14 +56,14 @@ const icaoCoordinatesObject = [];
  * @param {string[]} searchWords
  * @returns {[number, string]|[undefined, undefined]} Returns the length of the airport and the code if found, otherwise undefined.
  */
-const getAeroflyAirport = (searchWords) => {
+function getAeroflyAirport(searchWords) {
   for (const word of searchWords) {
     if (aeroflyAirports.has(word)) {
       return [aeroflyAirports.get(word) || 0, word];
     }
   }
   return [undefined, undefined];
-};
+}
 
 /**
  * @param {string} aeroflyCode
@@ -73,7 +71,7 @@ const getAeroflyAirport = (searchWords) => {
  * @param {string[]} airportsRecord
  * @param {number} length
  */
-const addRecord = (aeroflyCode, bestCode, airportsRecord, length) => {
+function addRecord(aeroflyCode, bestCode, airportsRecord, length) {
   // Remove airport from list of Aerofly FS4 Airports
   aeroflyAirports.delete(aeroflyCode);
 
@@ -121,7 +119,7 @@ const addRecord = (aeroflyCode, bestCode, airportsRecord, length) => {
   }
 
   aeroflyGeoJson.addFeature(feature);
-};
+}
 
 // -----------------------------------------------------------------------------
 // PARSING
@@ -187,12 +185,12 @@ icaoCoordinatesObject.sort((a, b) => {
 
 // Write the GeoJSON data to a file
 const outputFilePath = path.join(outputDirectory, "airports.geojson");
-fs.writeFileSync(outputFilePath, JSON.stringify(aeroflyGeoJson, null, 2), "utf-8");
+await fs.writeFile(outputFilePath, JSON.stringify(aeroflyGeoJson, null, 2), "utf-8");
 process.stdout.write(`GeoJSON data written to \x1b[92m${outputFilePath}\x1b[0m\n`);
 
 // Write the ICAO codes to airport-list.json
 const icaoListFilePath = path.join(outputDirectory, "airport-list.json");
-fs.writeFileSync(icaoListFilePath, JSON.stringify(icaoCodes.sort(), null, 2) + "\n", "utf-8");
+await fs.writeFile(icaoListFilePath, JSON.stringify(icaoCodes.sort(), null, 2) + "\n", "utf-8");
 process.stdout.write(`ICAO code list written to \x1b[92m${icaoListFilePath}\x1b[0m\n`);
 
 // Write the ICAO codes with airport names and geocoordinates to airport-coordinates.json
@@ -200,12 +198,12 @@ const icaoCoordinates = icaoCoordinatesObject.map((feature) => {
   return [feature.code, feature.name, feature.lat, feature.lon];
 });
 const icaoCoordinatesFilePath = path.join(outputDirectory, "airport-coordinates.json");
-fs.writeFileSync(icaoCoordinatesFilePath, JSON.stringify(icaoCoordinates, null, 2) + "\n", "utf-8");
+await fs.writeFile(icaoCoordinatesFilePath, JSON.stringify(icaoCoordinates, null, 2) + "\n", "utf-8");
 process.stdout.write(`ICAO coordinates list written to \x1b[92m${icaoCoordinatesFilePath}\x1b[0m\n`);
 
 // Write the ICAO codes with airport names and geocoordinates to airport-coordinates-object.json
 const icaoCoordinatesObjectFilePath = path.join(outputDirectory, "airport-coordinates-object.json");
-fs.writeFileSync(icaoCoordinatesObjectFilePath, JSON.stringify(icaoCoordinatesObject, null, 2) + "\n", "utf-8");
+await fs.writeFile(icaoCoordinatesObjectFilePath, JSON.stringify(icaoCoordinatesObject, null, 2) + "\n", "utf-8");
 process.stdout.write(`ICAO coordinates object list written to \x1b[92m${icaoCoordinatesObjectFilePath}\x1b[0m\n`);
 
 // Write the missing codes to airports-unmatched.md
@@ -216,7 +214,7 @@ const unmatchedCodes = [...aeroflyAirports]
   })
   .sort()
   .join("\n");
-fs.writeFileSync(
+await fs.writeFile(
   unmatchedFilePath,
   `\
 # Aerofly FS4 Unmatched Airports

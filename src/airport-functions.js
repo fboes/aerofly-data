@@ -10,7 +10,7 @@ import * as path from "path";
  * @param {number|undefined} length in Bytes
  * @returns {string}
  */
-export const geoJsonType = (type, isMilitary, length) => {
+export function geoJsonType(type, isMilitary, length) {
   if (type === "heliport" && length !== undefined && length > 0) {
     return type;
   }
@@ -35,14 +35,14 @@ export const geoJsonType = (type, isMilitary, length) => {
   }
 
   return type;
-};
+}
 
 /**
  *
  * @param {string} directory
  * @returns {Map<string,number>}
  */
-export const getAeroflyAirports = (directory) => {
+export function getAeroflyAirports(directory) {
   const aeroflyAirports = new Map();
   let maxLength = 0;
   let minLength = 10000;
@@ -61,14 +61,14 @@ export const getAeroflyAirports = (directory) => {
   }
 
   return aeroflyAirports;
-};
+}
 
 /**
  *
  * @param {string} filename
  * @returns {Map<string,number>}
  */
-export const addCustomAeroflyAirportsToMap = (filename) => {
+export function addCustomAeroflyAirportsToMap(filename) {
   const aeroflyAirports = new Map();
   const fileContent = fs.readFileSync(filename, "utf-8");
   const lines = fileContent.split(/\r?\n/).sort();
@@ -81,7 +81,7 @@ export const addCustomAeroflyAirportsToMap = (filename) => {
   }
 
   return aeroflyAirports;
-};
+}
 
 /**
  *
@@ -90,7 +90,7 @@ export const addCustomAeroflyAirportsToMap = (filename) => {
  * @param {string[]} airportsRecord
  * @returns {string[]}
  */
-export const getAirportSearchWords = (ident, icaoCode, airportsRecord) => {
+export function getAirportSearchWords(ident, icaoCode, airportsRecord) {
   /**
    * @type {string[]}
    */
@@ -109,4 +109,4 @@ export const getAirportSearchWords = (ident, icaoCode, airportsRecord) => {
     ...airportsRecord[18].split(/,\s*/),
     ...extraWords,
   ].filter((word) => word && word.length > 0);
-};
+}

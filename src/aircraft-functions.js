@@ -38,24 +38,30 @@ import * as path from "path";
  */
 
 /**
+ * Names of liveries which do not have an ICAO code
+ * @type {Set<string>}
+ */
+export const MISSING_LIVERIES = new Set();
+
+/**
  * Get all potential aircraft directories in the given directory.
  * @param {string} directory
  * @returns {fs.Dirent<string>[]}
  */
-const getAeroflyAircraftDirectories = (directory) => {
+function getAeroflyAircraftDirectories(directory) {
   return fs
     .readdirSync(directory, { withFileTypes: true })
     .filter((dirent) => dirent.isDirectory())
     .sort()
     .filter((dirent) => fs.existsSync(path.join(dirent.parentPath, dirent.name, dirent.name + ".tmc")));
-};
+}
 
 /**
  *
  * @param {string} directory
  * @returns {AeroflyAircraft[]}
  */
-export const getAeroflyAircraft = (directory) => {
+export function getAeroflyAircraft(directory) {
   return getAeroflyAircraftDirectories(directory).map((dirent) => {
     const tmdFileContent = fs.readFileSync(path.join(dirent.parentPath, dirent.name, dirent.name + ".tmc"), "utf8");
 
@@ -97,6 +103,8 @@ export const getAeroflyAircraft = (directory) => {
       const liveryIcaoCode = getLiveryIcaoCode(livery.name);
       if (liveryIcaoCode !== "") {
         livery.icaoCode = liveryIcaoCode;
+      } else {
+        MISSING_LIVERIES.add(livery.name);
       }
 
       return livery;
@@ -108,7 +116,7 @@ export const getAeroflyAircraft = (directory) => {
       liveries,
     };
   });
-};
+}
 
 /**
  * Convert airline name to airline ICA code
@@ -118,6 +126,7 @@ export const getAeroflyAircraft = (directory) => {
 const getLiveryIcaoCode = (airlineName) => {
   const name = airlineName.toLowerCase();
   switch (name) {
+    case "ana":
     case "all nippon airlines":
       return "ANA";
     case "american airlines":
@@ -153,7 +162,7 @@ const getLiveryIcaoCode = (airlineName) => {
     case "air canada":
       return "ACA";
     case "etihad airways":
-    case "ethiad":
+    case "etihad":
       return "ETD";
     case "latam airlines":
     case "latam":
@@ -175,6 +184,7 @@ const getLiveryIcaoCode = (airlineName) => {
       return "KLM";
     case "korean air":
     case "korean air lines":
+    case "korean airlines":
       return "KAL";
     case "qatar airways":
       return "QTR";
@@ -213,6 +223,22 @@ const getLiveryIcaoCode = (airlineName) => {
       return "FIN";
     case "tap portugal":
       return "TAP";
+    case "egypt air":
+      return "MSR";
+    case "japan airlines":
+      return "JAL";
+    case "kuwait":
+      return "KAC";
+    case "saudia":
+    case "saudia arabian":
+      return "SVA";
+    case "virgin australia":
+      return "VOZ";
+    case "virgin":
+    case "virgin atlantic":
+      return "VIR";
+    case "qantas":
+      return "QFA";
     default:
       return "";
   }
@@ -222,7 +248,7 @@ const getLiveryIcaoCode = (airlineName) => {
  * @param {string} tmdFileContent
  * @returns {AeroflyAircraftParsed}
  */
-export const parseAircraft = (tmdFileContent) => {
+export function parseAircraft(tmdFileContent) {
   const tags = parseTmdLine(tmdFileContent, "Tags").trim().split(" ");
 
   // type: ;
@@ -269,14 +295,14 @@ export const parseAircraft = (tmdFileContent) => {
     operatingEmptyMassKg: Number(parseTmdLine(tmdFileContent, "OperatingEmptyMass")) || undefined,
     maximumPersonsOnBoard: Number(parseTmdLine(tmdFileContent, "MaximumPersonsOnBoard")) || undefined,
   };
-};
+}
 
 /**
  *
  * @param {string} tmdFileContent
  * @returns {string[]}
  */
-const parseRequirements = (tmdFileContent) => {
+function parseRequirements(tmdFileContent) {
   const requirements = parseTmdLine(tmdFileContent, "Requirements").trim();
   if (requirements === "") {
     return [];
@@ -285,7 +311,7 @@ const parseRequirements = (tmdFileContent) => {
     .split(" ")
     .map((req) => req.trim())
     .filter((req) => req !== "");
-};
+}
 
 /**
  *
@@ -293,45 +319,45 @@ const parseRequirements = (tmdFileContent) => {
  * @param {string} key
  * @returns {string}
  */
-export const parseTmdLine = (tmdFileContent, key) => {
+export function parseTmdLine(tmdFileContent, key) {
   const r = new RegExp("\\[" + key + "\\]\\s*\\[(.+?)\\]");
   const match = tmdFileContent.match(r);
   return match && match[1] ? match[1] : "";
-};
+}
 
 /**
  *
  * @param {string} speed in m/s
  * @returns {number} in kts
  */
-export const convertSpeed = (speed) => {
+export function convertSpeed(speed) {
   return Math.round(Number(speed) * 1.94384449);
-};
+}
 
 /**
  *
  * @param {string} altitude in m
  * @returns {number} in ft
  */
-export const convertAltitude = (altitude) => {
+export function convertAltitude(altitude) {
   return Math.round(Number(altitude) * 3.28084);
-};
+}
 
 /**
  *
  * @param {string} range in m
  * @returns {number} in NM
  */
-export const convertDistance = (range) => {
+export function convertDistance(range) {
   return Math.round(Number(range) / 1852);
-};
+}
 
 /**
  *
  * @param {AeroflyAircraft[]} sortedAircraft
  * @returns {string}
  */
-export const getSelectOptions = (sortedAircraft) => {
+export function getSelectOptions(sortedAircraft) {
   const selectContent = sortedAircraft
     .map((aircraft) => {
       return `  <option value="${aircraft.aeroflyCode}">${aircraft.nameFull}</option>`;
@@ -343,14 +369,14 @@ export const getSelectOptions = (sortedAircraft) => {
 ${selectContent}
 </select>
 `;
-};
+}
 
 /**
  *
  * @param {AeroflyAircraft[]} sortedAircraft
  * @returns {string}
  */
-export const getSelectOptgroupOptions = (sortedAircraft) => {
+export function getSelectOptgroupOptions(sortedAircraft) {
   /**
    * @type {{
    *   [key: string]: {
@@ -438,14 +464,14 @@ export const getSelectOptgroupOptions = (sortedAircraft) => {
 ${html}\
 </select>
 `;
-};
+}
 
 /**
  *
  * @param {AeroflyAircraft[]} sortedAircraft
  * @returns {string}
  */
-export const getSelectLiveryOptgroupOptions = (sortedAircraft) => {
+export function getSelectLiveryOptgroupOptions(sortedAircraft) {
   let html = "";
   for (const aircraft of sortedAircraft) {
     if (aircraft.liveries.length === 0) {
@@ -463,12 +489,12 @@ export const getSelectLiveryOptgroupOptions = (sortedAircraft) => {
 ${html}\
 </select>
 `;
-};
+}
 
 /**
  * @param {AeroflyAircraft[]} sortedAircraft
  * @returns {string[]}
  */
-export const getTags = (sortedAircraft) => {
+export function getTags(sortedAircraft) {
   return [...new Set(sortedAircraft.flatMap((aircraft) => aircraft.tags))].sort();
-};
+}

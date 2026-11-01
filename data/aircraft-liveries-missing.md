@@ -1,0 +1,347 @@
+# Aerofly FS: Liveries without ICAO code match
+
+- ADAC
+- AIRC2fly
+- AJet
+- ANA
+- ANA Cargo
+- ANA Kai
+- ANA Kala
+- ANA Lani
+- Adria
+- Aegean
+- Aero Logic
+- Aeroitalia
+- Aerolineas Argentinas
+- Aeromexico
+- Air Algerie
+- Air Asia
+- Air Asia 100th
+- Air Austral
+- Air Baltic
+- Air Berlin
+- Air Busan
+- Air Cairo
+- Air Canada Rouge
+- Air Caraibes
+- Air Corsica
+- Air Cote d'Ivoire
+- Air Europa
+- Air France Cargo
+- Air India
+- Air Jamaica
+- Air Macau
+- Air Mauritius
+- Air New Zealand
+- Air Premia
+- Air Seychelles
+- Air Tahiti Nui
+- Air Tanzania
+- Air Transat
+- AirAsia
+- Airberlin
+- Aircalin
+- Alaska
+- Alaska Airlines
+- Allegiant
+- Aluminum
+- America West
+- Angola Airlines
+- Argentina
+- Arik
+- Asiana
+- Atlantic Airways
+- Atlas
+- Aurora
+- Australia 33
+- Austrian
+- Avelo
+- Azerbaijan
+- Azores
+- Azul
+- Bamboo
+- Bangkok Air
+- Bangladesh Airlines
+- Batik
+- Beige
+- Bhutan Airlines
+- Black
+- Blue
+- Blue Angels
+- Blue Split
+- Blue Wave
+- Braathens
+- Brazilian Air Force
+- British Airways 1976
+- British Airways 1985
+- British Airways 1998
+- British Midland
+- Brussels
+- CMA CGM Cargo
+- California One
+- Californian Beauty
+- Camair-Co
+- Camo
+- Camo2
+- Canada 150
+- Caribbean Airlines
+- Cebu Pacific
+- Century of Flight
+- Chair
+- Champagne
+- China Airlines
+- China Airlines Cargo
+- China Eastern Cargo
+- China Southern Cargo
+- Citilink
+- Classic
+- Classic Red
+- Condor
+- Condor Island
+- Condor Sea
+- Condor Sunshine
+- Connect
+- Continental
+- Continental Airlines
+- Copa Airlines
+- Corendon
+- Corsair
+- Croatia
+- Cyprus
+- Czech Airlines
+- D-KDMM
+- DHL
+- DRF
+- Darwin
+- Delta Airways
+- Desert Scheme
+- Digital Camo
+- Discover
+- Druk Air
+- Drukair
+- EVA Air
+- EVA Airlines
+- Edelweiss
+- EgyptAir
+- El Al
+- Elegance
+- Emirates Cargo
+- Emirates Expo
+- Enter Air
+- Estonian Air
+- Ethiad
+- Ethiopian Cargo
+- Etihad 50
+- Etihad Cargo
+- Eva Air
+- Eva Air Cargo
+- FedEx
+- Fiji
+- Finnland
+- Firefighter
+- Firehawk
+- Fly Arystan
+- Fly Egypt
+- FlyBe
+- FlyDubai
+- FlySafair
+- Flybondi
+- Flynas
+- Flyone
+- Freebird
+- Frenchbee
+- Frontier
+- G-KJTD
+- Garuda
+- Garuda Indonesia
+- German Army
+- Germanwings
+- Gol
+- Gold
+- Golden Dragons
+- Gouverment of India
+- Greater Bay
+- Green
+- Grey
+- Gulf Air
+- Hainan
+- Hapag-Lloyd
+- Hawaiian
+- Highway Patrol
+- Hong Kong Express
+- Hong Kong express
+- Horizon Celebration
+- Horizon Green
+- Hungarian Air Force
+- Hydro Quebec
+- ITA Airways
+- Icelandair
+- IndiGo
+- Indigo
+- Israir
+- Japan
+- Japan Air Commuter
+- Japan Oneworld
+- Jazeera
+- Jeju Air
+- Jet Airways
+- Jet2
+- Jet2 holidays
+- JetSmart
+- Jetstar
+- Juneyao
+- Juneyao Air
+- KLM Orange Pride
+- Kenya Airways
+- Korean Air Cargo
+- Kulula
+- LAN
+- LATAM Green
+- LOT
+- LOT Polish Airlines
+- Latam Cargo
+- Lionair
+- Lufthansa 100 Years
+- Lufthansa Cargo
+- Lufthansa Regional
+- Luftwaffe
+- Luxair
+- MSC Cargo
+- Maersk
+- Malaysia
+- Malaysia Airlines
+- Malev
+- Malta
+- Marine One
+- Marines
+- Mavi Gok
+- Messerschmitt Stiftung
+- Mexicana
+- Mexico
+- NAS Fallon
+- NASA
+- NAVY
+- Neos
+- New Mexico One
+- New Zealand
+- Nokair Blue
+- Nokair Green
+- Nokair Orange
+- Nokair Purple
+- Norad
+- Nordica
+- Norse
+- Northwest
+- Oman Air
+- Pakistan
+- Passionair
+- Pave Hawk
+- Peach
+- Pegasus
+- Pelita Air
+- Peruvian Air Force
+- Philippine Airlines
+- Philippines
+- Play
+- Polish Air Force
+- Porter
+- Power Blue
+- Private
+- Qanot Sharq
+- Qantas 100
+- Qatar
+- Qatar Cargo
+- Qatar oneworld
+- Qazaq
+- Racing
+- Red
+- Red Devils
+- Rex
+- Riyadh Air
+- Rocket Yellow
+- Royal Air Maroc
+- Royal Jordanian
+- Royalair
+- Ryanair
+- S7
+- SAS Commuter
+- SCAT
+- Salmon People
+- Sata
+- Saudi Arabian
+- Saudi Cargo
+- Scandinavian Airlines
+- Scoot
+- Shanghai
+- Shanghai Airlines
+- Shenzhen Airlines
+- Sheriff
+- Sichuan Airlines
+- Silkway
+- Silver
+- Silver Wave
+- Sky
+- SkyUp
+- SkyWork
+- Skyalps
+- Slovakia
+- Slovenska Republika
+- Small Planet
+- Smartwings
+- South African
+- Southwest
+- Spanish Air Force
+- Spicejet
+- Spirit
+- Splinter Scheme
+- Spring Japan
+- Sriwijaya Air
+- Standard
+- StarPeru
+- Starflyer
+- Starlux
+- Stars
+- Stars and Stripes
+- Strike Eagle
+- Sun Country
+- Sun Express
+- Sunclass
+- Super Air Jet
+- Sweden
+- Swiss Air Force
+- TAP
+- TNT Cargo
+- TUI
+- Taiwan
+- Thai
+- Thai Airways
+- Thai Lion
+- ThaiCargo
+- Tibet
+- TransNusa
+- Transavia
+- Tui
+- Tunisair
+- Turkish Cargo
+- UAE Air Force
+- US Airways
+- US Army
+- VietJet Air
+- Vietnam
+- Vietnam Airlines
+- Vistara
+- Viva
+- Volaris
+- Volotea
+- Vueling
+- WestJet
+- Westjet
+- White
+- Wideroe
+- Wizz
+- Wizz Air
+- Xiamen Air
+- YIPPEE
+- Yellow
+- Yellow Black
+- sa express

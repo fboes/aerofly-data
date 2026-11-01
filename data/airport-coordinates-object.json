@@ -4568,8 +4568,8 @@
   {
     "code": "EFHN",
     "name": "Hanko Airfield",
-    "lat": 59.8489,
-    "lon": 23.083599
+    "lat": 59.848152,
+    "lon": 23.08507
   },
   {
     "code": "EFHV",
@@ -7856,8 +7856,8 @@
   {
     "code": "FABO",
     "name": "Hendrik Potgieter Airport",
-    "lat": -27.36680030822754,
-    "lon": 26.629199981689453
+    "lat": -27.3668,
+    "lon": 26.6292
   },
   {
     "code": "FABR",
@@ -7886,20 +7886,20 @@
   {
     "code": "FADA",
     "name": "De Aar Airport",
-    "lat": -30.69219970703125,
-    "lon": 24.020599365234375
+    "lat": -30.6922,
+    "lon": 24.020599
   },
   {
     "code": "FADK",
     "name": "Mubatuba Airport",
-    "lat": -28.36840057373047,
-    "lon": 32.24810028076172
+    "lat": -28.366957,
+    "lon": 32.246701
   },
   {
     "code": "FAEC",
     "name": "Estcourt Airport",
-    "lat": -29.047199249267578,
-    "lon": 29.910600662231445
+    "lat": -29.047199,
+    "lon": 29.910601
   },
   {
     "code": "FAEL",
@@ -7970,14 +7970,14 @@
   {
     "code": "FAHO",
     "name": "Heilbron Airport",
-    "lat": -27.278600692749023,
-    "lon": 27.9955997467041
+    "lat": -27.278601,
+    "lon": 27.9956
   },
   {
     "code": "FAHR",
     "name": "Harrismith Airport",
-    "lat": -28.2351,
-    "lon": 29.106199
+    "lat": -28.234936,
+    "lon": 29.106361
   },
   {
     "code": "FAHS",
@@ -8006,8 +8006,8 @@
   {
     "code": "FAKP",
     "name": "Komatipoort Airport",
-    "lat": -25.44029998779297,
-    "lon": 31.93000030517578
+    "lat": -25.4403,
+    "lon": 31.93
   },
   {
     "code": "FAKS",
@@ -8042,8 +8042,8 @@
   {
     "code": "FALE",
     "name": "King Shaka International Airport",
-    "lat": -29.6144444444,
-    "lon": 31.1197222222
+    "lat": -29.613381,
+    "lon": 31.117942
   },
   {
     "code": "FALI",
@@ -8054,8 +8054,8 @@
   {
     "code": "FALL",
     "name": "Lydenburg Airport",
-    "lat": -25.103300094604492,
-    "lon": 30.414199829101562
+    "lat": -25.1033,
+    "lon": 30.4142
   },
   {
     "code": "FALM",
@@ -8071,9 +8071,9 @@
   },
   {
     "code": "FALW",
-    "name": "Langebaanweg Airport",
-    "lat": -32.968898773199996,
-    "lon": 18.1602993011
+    "name": "Langebaanweg Air Force Base",
+    "lat": -32.968899,
+    "lon": 18.160299
   },
   {
     "code": "FALY",
@@ -8113,9 +8113,9 @@
   },
   {
     "code": "FAMM",
-    "name": "Mmabatho International Airport",
-    "lat": -25.798400878900004,
-    "lon": 25.548000335699996
+    "name": "George Dick Montshioa Airport",
+    "lat": -25.798401,
+    "lon": 25.548
   },
   {
     "code": "FAMN",
@@ -8174,8 +8174,8 @@
   {
     "code": "FAOH",
     "name": "Oudtshoorn Airport",
-    "lat": -33.6069984436,
-    "lon": 22.188999176
+    "lat": -33.606998,
+    "lon": 22.188999
   },
   {
     "code": "FAOR",
@@ -8282,8 +8282,8 @@
   {
     "code": "FARO",
     "name": "Rooiberg Airport",
-    "lat": -24.7777888889,
-    "lon": 27.7523361111
+    "lat": -24.777789,
+    "lon": 27.752336
   },
   {
     "code": "FARS",
@@ -8312,8 +8312,8 @@
   {
     "code": "FASE",
     "name": "Sabi Sabi Airport",
-    "lat": -24.947375434199998,
-    "lon": 31.4488477707
+    "lat": -24.947375,
+    "lon": 31.448848
   },
   {
     "code": "FASI",
@@ -8366,8 +8366,8 @@
   {
     "code": "FATZ",
     "name": "Tzaneen Airport",
-    "lat": -23.8244,
-    "lon": 30.3293
+    "lat": -23.822341,
+    "lon": 30.327244
   },
   {
     "code": "FAUL",
@@ -8420,8 +8420,8 @@
   {
     "code": "FAWA",
     "name": "Warmbaths Airport",
-    "lat": -24.90999984741211,
-    "lon": 28.299999237060547
+    "lat": -24.908711,
+    "lon": 28.30952
   },
   {
     "code": "FAWB",
@@ -8456,8 +8456,8 @@
   {
     "code": "FAYP",
     "name": "Ysterplaat Air Force Base",
-    "lat": -33.9002,
-    "lon": 18.498301
+    "lat": -33.90225,
+    "lon": 18.498281
   },
   {
     "code": "FAZR",
@@ -15169,9 +15169,9 @@
   },
   {
     "code": "KEEO",
-    "name": "Meeker Airport",
-    "lat": 40.04880142211914,
-    "lon": -107.88600158691406
+    "name": "Meeker Coulter Field",
+    "lat": 40.048801,
+    "lon": -107.886002
   },
   {
     "code": "KEET",
@@ -25274,8 +25274,8 @@
   {
     "code": "LEMG",
     "name": "Málaga-Costa del Sol Airport",
-    "lat": 36.6749,
-    "lon": -4.49911
+    "lat": 36.678234,
+    "lon": -4.500208
   },
   {
     "code": "LEMH",
@@ -27013,9 +27013,9 @@
   },
   {
     "code": "LGKF",
-    "name": "Kefallinia Airport",
-    "lat": 38.12009811401367,
-    "lon": 20.500499725341797
+    "name": "Kefalonia International Airport \"Anna Pollatou\"",
+    "lat": 38.120098,
+    "lon": 20.5005
   },
   {
     "code": "LGKL",
@@ -27205,7 +27205,7 @@
   },
   {
     "code": "LGZA",
-    "name": "Zakynthos International Airport Dionysios Solomos",
+    "name": "Zakynthos International Airport \"Dionysios Solomos\"",
     "lat": 37.7509,
     "lon": 20.8843
   },
@@ -31256,8 +31256,8 @@
   {
     "code": "NCAI",
     "name": "Aitutaki Airport",
-    "lat": -18.8309,
-    "lon": -159.764008
+    "lat": -18.837091,
+    "lon": -159.761008
   },
   {
     "code": "NCAT",
@@ -39217,9 +39217,9 @@
   },
   {
     "code": "SGAY",
-    "name": "Aeropuerto Nacional Juan de Ayolas",
-    "lat": -27.378379,
-    "lon": -56.856791
+    "name": "Juan de Ayolas National Airport",
+    "lat": -27.37052,
+    "lon": -56.854052
   },
   {
     "code": "SGCO",
@@ -39230,8 +39230,8 @@
   {
     "code": "SGES",
     "name": "Guaraní International Airport",
-    "lat": -25.457186,
-    "lon": -54.839544
+    "lat": -25.4555,
+    "lon": -54.843601
   },
   {
     "code": "SGIB",
@@ -39247,13 +39247,13 @@
   },
   {
     "code": "SGPI",
-    "name": "Aeródromo Don Carlos Miguel Gimenez",
-    "lat": -26.881981,
-    "lon": -58.319067
+    "name": "Don Carlos Miguel Gimenez Airport",
+    "lat": -26.882079,
+    "lon": -58.318181
   },
   {
     "code": "SGPJ",
-    "name": "Aeropuerto Nacional Dr. Augusto Roberto Fuster",
+    "name": "Dr. Augusto Roberto Fuster International Airport",
     "lat": -22.641427,
     "lon": -55.829993
   },
@@ -43268,14 +43268,14 @@
   {
     "code": "SSPL",
     "name": "Palmeira das Missões Airport",
-    "lat": -27.9018001556,
-    "lon": -53.32970047
+    "lat": -27.9018,
+    "lon": -53.3297
   },
   {
     "code": "SSPM",
     "name": "Porto Murtinho Airport",
-    "lat": -21.7096,
-    "lon": -57.880199
+    "lat": -21.711274,
+    "lon": -57.879579
   },
   {
     "code": "SSPN",
@@ -44744,8 +44744,8 @@
   {
     "code": "SWOB",
     "name": "Fonte Boa Airport",
-    "lat": -2.5326099395800004,
-    "lon": -66.0831985474
+    "lat": -2.53261,
+    "lon": -66.083199
   },
   {
     "code": "SWOT",
@@ -44792,8 +44792,8 @@
   {
     "code": "SWPK",
     "name": "Poconé Airport",
-    "lat": -16.272778,
-    "lon": -56.650833
+    "lat": -16.272116,
+    "lon": -56.650992
   },
   {
     "code": "SWPL",
@@ -47300,8 +47300,8 @@
   {
     "code": "VERB",
     "name": "Fursatganj Airport",
-    "lat": 26.248501,
-    "lon": 81.380501
+    "lat": 26.249076,
+    "lon": 81.381296
   },
   {
     "code": "VERC",

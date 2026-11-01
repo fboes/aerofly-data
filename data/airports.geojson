@@ -15411,6 +15411,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          23.08507,
+          59.848152,
+          6.096
+        ]
+      },
+      "properties": {
+        "title": "EFHN",
+        "type": "closed",
+        "description": "Hanko Airfield",
+        "elevation": 20,
+        "municipality": "Hanko",
+        "fileSize": 856,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           24.8811,
           60.6544,
           131.064
@@ -16378,6 +16399,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.337614,
+          53.101819,
+          0.3048
+        ]
+      },
+      "properties": {
+        "title": "EGCK",
+        "type": "large_airport",
+        "description": "Caernarfon Airport",
+        "elevation": 1,
+        "municipality": "Caernarfon",
+        "fileSize": 1232,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.6848,
           53.381242,
           17.6784
@@ -16390,6 +16432,27 @@
         "elevation": 58,
         "municipality": "Gainsborough, Lincolnshire",
         "fileSize": 1136,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.770312,
+          52.834809,
+          83.82000000000001
+        ]
+      },
+      "properties": {
+        "title": "EGCV",
+        "type": "private_airfield",
+        "description": "Sleap Airfield",
+        "elevation": 275,
+        "municipality": "Shrewsbury, Shropshire",
+        "fileSize": 0,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -24281,6 +24344,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          28.3361,
+          -28.2484,
+          1694.9928
+        ]
+      },
+      "properties": {
+        "title": "FABM",
+        "type": "small_airport",
+        "description": "Bethlehem Airport",
+        "elevation": 5561,
+        "municipality": "Bethlehem",
+        "fileSize": 944,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6292,
+          -27.3668,
+          1291.1328
+        ]
+      },
+      "properties": {
+        "title": "FABO",
+        "type": "closed",
+        "description": "Hendrik Potgieter Airport",
+        "elevation": 4236,
+        "municipality": "Bothaville",
+        "fileSize": 856,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.974974,
+          -25.717147,
+          685.8000000000001
+        ]
+      },
+      "properties": {
+        "title": "FABR",
+        "type": "closed",
+        "description": "Barberton Airport",
+        "elevation": 2250,
+        "municipality": "Umjindi (Barberton)",
+        "fileSize": 856,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           18.604333,
           -33.97403,
           46.0248
@@ -24302,8 +24428,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.24810028076172,
-          -28.36840057373047,
+          19.725901,
+          -31.500299,
+          990.6
+        ]
+      },
+      "properties": {
+        "title": "FACV",
+        "type": "closed",
+        "description": "Calvinia Airport",
+        "elevation": 3250,
+        "municipality": "Calvinia",
+        "fileSize": 856,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.020599,
+          -30.6922,
+          1266.1392
+        ]
+      },
+      "properties": {
+        "title": "FADA",
+        "type": "small_airport",
+        "description": "De Aar Airport",
+        "elevation": 4154,
+        "municipality": "De Aar",
+        "fileSize": 1024,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.246701,
+          -28.366957,
           64.00800000000001
         ]
       },
@@ -24314,6 +24482,27 @@
         "elevation": 210,
         "municipality": "Mubatuba",
         "fileSize": 856,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.910601,
+          -29.047199,
+          1299.0576
+        ]
+      },
+      "properties": {
+        "title": "FAEC",
+        "type": "closed",
+        "description": "Estcourt Airport",
+        "elevation": 4262,
+        "municipality": "Estcourt",
+        "fileSize": 920,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -24512,27 +24701,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.8612,
-          -28.078699,
-          1340.8152
-        ]
-      },
-      "properties": {
-        "title": "FAHA",
-        "type": "closed",
-        "description": "Harmony Airport",
-        "elevation": 4399,
-        "municipality": "Virginia",
-        "fileSize": 920,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           32.2751712799,
           -28.0166049887,
           75.8952
@@ -24554,20 +24722,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.106199,
-          -28.2351,
-          1702.308
+          27.9956,
+          -27.278601,
+          1584.96
         ]
       },
       "properties": {
-        "title": "FAHR",
+        "title": "FAHO",
         "type": "closed",
-        "description": "Harrismith Airport",
-        "elevation": 5585,
-        "municipality": "Harrismith",
-        "fileSize": 872,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "description": "Heilbron Airport",
+        "elevation": 5200,
+        "municipality": "Heilbron",
+        "fileSize": 864,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -24653,27 +24821,6 @@
         "fileSize": 904,
         "marker-symbol": "airport",
         "marker-color": "#5e6eba"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.93000030517578,
-          -25.44029998779297,
-          164.8968
-        ]
-      },
-      "properties": {
-        "title": "FAKP",
-        "type": "closed",
-        "description": "Komatipoort Airport",
-        "elevation": 541,
-        "municipality": "Komatipoort",
-        "fileSize": 856,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
       }
     },
     {
@@ -24786,8 +24933,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1197222222,
-          -29.6144444444,
+          31.117942,
+          -29.613381,
           89.91600000000001
         ]
       },
@@ -24819,6 +24966,27 @@
         "elevation": 4875,
         "municipality": "Lichtenburg",
         "fileSize": 936,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4142,
+          -25.1033,
+          1488.0336
+        ]
+      },
+      "properties": {
+        "title": "FALL",
+        "type": "small_airport",
+        "description": "Lydenburg Airport",
+        "elevation": 4882,
+        "municipality": "Lydenburg",
+        "fileSize": 992,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -24871,20 +25039,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.1602993011,
-          -32.968898773199996,
+          18.160299,
+          -32.968899,
           32.9184
         ]
       },
       "properties": {
         "title": "FALW",
-        "type": "small_airport",
-        "description": "Langebaanweg Airport",
+        "type": "small_airbase",
+        "description": "Langebaanweg Air Force Base",
         "elevation": 108,
         "municipality": "Langebaanweg",
         "fileSize": 1048,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#555555",
+        "isMilitary": true
       }
     },
     {
@@ -25018,15 +25187,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.548000335699996,
-          -25.798400878900004,
+          25.548,
+          -25.798401,
           1274.3688
         ]
       },
       "properties": {
         "title": "FAMM",
         "type": "closed",
-        "description": "Mmabatho International Airport",
+        "description": "George Dick Montshioa Airport",
         "elevation": 4181,
         "municipality": "Mafeking",
         "fileSize": 880,
@@ -25228,8 +25397,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.188999176,
-          -33.6069984436,
+          22.188999,
+          -33.606998,
           324.0024
         ]
       },
@@ -25501,6 +25670,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          24.884352,
+          -34.10133,
+          4.572
+        ]
+      },
+      "properties": {
+        "title": "FAPX",
+        "type": "closed",
+        "description": "Paradise Beach Airport",
+        "elevation": 15,
+        "municipality": "Jeffreys Bay",
+        "fileSize": 856,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           27.503401,
           -26.889299,
           1444.7520000000002
@@ -25669,6 +25859,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          31.448848,
+          -24.947375,
+          388.9248
+        ]
+      },
+      "properties": {
+        "title": "FASE",
+        "type": "closed",
+        "description": "Sabi Sabi Airport",
+        "elevation": 1276,
+        "municipality": "Belfast",
+        "fileSize": 848,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           28.398272,
           -26.2494,
           1627.632
@@ -25817,8 +26028,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.3293,
-          -23.8244,
+          30.327244,
+          -23.822341,
           583.3872
         ]
       },
@@ -26006,6 +26217,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          28.30952,
+          -24.908711,
+          1114.044
+        ]
+      },
+      "properties": {
+        "title": "FAWA",
+        "type": "closed",
+        "description": "Warmbaths Airport",
+        "elevation": 3655,
+        "municipality": "Warmbaths",
+        "fileSize": 856,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           28.224199,
           -25.6539,
           1248.1560000000002
@@ -26112,8 +26344,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.498301,
-          -33.9002,
+          18.498281,
+          -33.90225,
           15.8496
         ]
       },
@@ -27366,7 +27598,7 @@
         "municipality": "Moroni",
         "fileSize": 1136,
         "marker-symbol": "airport",
-        "marker-color": "#5e6eba"
+        "marker-color": "#555555"
       }
     },
     {
@@ -68796,8 +69028,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.49911,
-          36.6749,
+          -4.500208,
+          36.678234,
           16.154400000000003
         ]
       },
@@ -72905,20 +73137,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.500499725341797,
-          38.12009811401367,
+          20.5005,
+          38.120098,
           17.9832
         ]
       },
       "properties": {
         "title": "LGKF",
         "type": "closed",
-        "description": "Kefallinia Airport",
+        "description": "Kefalonia International Airport \"Anna Pollatou\"",
         "elevation": 59,
         "municipality": "Kefallinia Island",
         "fileSize": 872,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -73568,12 +73800,12 @@
       "properties": {
         "title": "LGZA",
         "type": "medium_airport",
-        "description": "Zakynthos International Airport Dionysios Solomos",
+        "description": "Zakynthos International Airport \"Dionysios Solomos\"",
         "elevation": 12,
         "municipality": "Zakynthos",
         "fileSize": 1184,
         "marker-symbol": "airport",
-        "marker-color": "#555555"
+        "marker-color": "#5e6eba"
       }
     },
     {
@@ -87060,8 +87292,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -159.764008,
-          -18.8309,
+          -159.761008,
+          -18.837091,
           4.2672
         ]
       },
@@ -109517,15 +109749,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -56.856791,
-          -27.378379,
+          -56.854052,
+          -27.37052,
           67.9704
         ]
       },
       "properties": {
         "title": "SGAY",
         "type": "closed",
-        "description": "Aeropuerto Nacional Juan de Ayolas",
+        "description": "Juan de Ayolas National Airport",
         "elevation": 223,
         "municipality": "Ayolas",
         "fileSize": 864,
@@ -109559,8 +109791,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -54.839544,
-          -25.457186,
+          -54.843601,
+          -25.4555,
           257.86080000000004
         ]
       },
@@ -109622,15 +109854,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.319067,
-          -26.881981,
+          -58.318181,
+          -26.882079,
           75.8952
         ]
       },
       "properties": {
         "title": "SGPI",
         "type": "closed",
-        "description": "Aeródromo Don Carlos Miguel Gimenez",
+        "description": "Don Carlos Miguel Gimenez Airport",
         "elevation": 249,
         "municipality": "Pilar",
         "fileSize": 864,
@@ -109651,10 +109883,31 @@
       "properties": {
         "title": "SGPJ",
         "type": "closed",
-        "description": "Aeropuerto Nacional Dr. Augusto Roberto Fuster",
+        "description": "Dr. Augusto Roberto Fuster International Airport",
         "elevation": 1873,
         "municipality": "Pedro Juan Caballero",
         "fileSize": 872,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.634393,
+          -22.622487,
+          177.39360000000002
+        ]
+      },
+      "properties": {
+        "title": "SGST",
+        "type": "closed",
+        "description": "Santa Teresa Airport",
+        "elevation": 582,
+        "municipality": "Santa Teresa",
+        "fileSize": 864,
         "marker-symbol": "airport",
         "marker-color": "#555555"
       }
@@ -114268,16 +114521,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -57.880199,
-          -21.7096,
-          79.248
+          -57.879579,
+          -21.711274,
+          78.0288
         ]
       },
       "properties": {
         "title": "SSPM",
         "type": "closed",
         "description": "Porto Murtinho Airport",
-        "elevation": 260,
+        "elevation": 256,
         "municipality": "Porto Murtinho",
         "fileSize": 864,
         "marker-symbol": "airfield",
@@ -116578,8 +116831,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.0831985474,
-          -2.5326099395800004,
+          -66.083199,
+          -2.53261,
           63.0936
         ]
       },
@@ -124375,6 +124628,27 @@
         "fileSize": 864,
         "marker-symbol": "airport",
         "marker-color": "#555555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.381296,
+          26.249076,
+          109.42320000000001
+        ]
+      },
+      "properties": {
+        "title": "VERB",
+        "type": "closed",
+        "description": "Fursatganj Airport",
+        "elevation": 359,
+        "municipality": "Tarauna",
+        "fileSize": 864,
+        "marker-symbol": "airfield",
+        "marker-color": "#777777"
       }
     },
     {
@@ -152703,27 +152977,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.083599,
-          59.8489,
-          6.096
-        ]
-      },
-      "properties": {
-        "title": "EFHN",
-        "type": "closed",
-        "description": "Hanko Airfield",
-        "elevation": 20,
-        "municipality": "Hanko",
-        "fileSize": 856,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           23.6525,
           60.462502,
           116.12880000000001
@@ -153282,48 +153535,6 @@
         "elevation": 11,
         "municipality": "Doncaster, South Yorkshire",
         "fileSize": 1008,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.337614,
-          53.101819,
-          0.3048
-        ]
-      },
-      "properties": {
-        "title": "EGCK",
-        "type": "large_airport",
-        "description": "Caernarfon Airport",
-        "elevation": 1,
-        "municipality": "Caernarfon",
-        "fileSize": 1232,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.770312,
-          52.834809,
-          83.82000000000001
-        ]
-      },
-      "properties": {
-        "title": "EGCV",
-        "type": "private_airfield",
-        "description": "Sleap Airfield",
-        "elevation": 275,
-        "municipality": "Shrewsbury, Shropshire",
-        "fileSize": 0,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -156612,122 +156823,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.3361,
-          -28.2484,
-          1694.9928
+          26.8612,
+          -28.078699,
+          1340.8152
         ]
       },
       "properties": {
-        "title": "FABM",
-        "type": "small_airport",
-        "description": "Bethlehem Airport",
-        "elevation": 5561,
-        "municipality": "Bethlehem",
-        "fileSize": 944,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.629199981689453,
-          -27.36680030822754,
-          1291.1328
-        ]
-      },
-      "properties": {
-        "title": "FABO",
+        "title": "FAHA",
         "type": "closed",
-        "description": "Hendrik Potgieter Airport",
-        "elevation": 4236,
-        "municipality": "Bothaville",
-        "fileSize": 856,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.974974,
-          -25.717147,
-          685.8000000000001
-        ]
-      },
-      "properties": {
-        "title": "FABR",
-        "type": "closed",
-        "description": "Barberton Airport",
-        "elevation": 2250,
-        "municipality": "Umjindi (Barberton)",
-        "fileSize": 856,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.725901,
-          -31.500299,
-          990.6
-        ]
-      },
-      "properties": {
-        "title": "FACV",
-        "type": "closed",
-        "description": "Calvinia Airport",
-        "elevation": 3250,
-        "municipality": "Calvinia",
-        "fileSize": 856,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.020599365234375,
-          -30.69219970703125,
-          1266.1392
-        ]
-      },
-      "properties": {
-        "title": "FADA",
-        "type": "small_airport",
-        "description": "De Aar Airport",
-        "elevation": 4154,
-        "municipality": "De Aar",
-        "fileSize": 1024,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.910600662231445,
-          -29.047199249267578,
-          1299.0576
-        ]
-      },
-      "properties": {
-        "title": "FAEC",
-        "type": "closed",
-        "description": "Estcourt Airport",
-        "elevation": 4262,
-        "municipality": "Estcourt",
+        "description": "Harmony Airport",
+        "elevation": 4399,
+        "municipality": "Virginia",
         "fileSize": 920,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -156738,20 +156844,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.9955997467041,
-          -27.278600692749023,
-          1584.96
+          29.106361,
+          -28.234936,
+          1702.308
         ]
       },
       "properties": {
-        "title": "FAHO",
+        "title": "FAHR",
         "type": "closed",
-        "description": "Heilbron Airport",
-        "elevation": 5200,
-        "municipality": "Heilbron",
-        "fileSize": 864,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
+        "description": "Harrismith Airport",
+        "elevation": 5585,
+        "municipality": "Harrismith",
+        "fileSize": 872,
+        "marker-symbol": "airport",
+        "marker-color": "#555555"
       }
     },
     {
@@ -156759,38 +156865,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.414199829101562,
-          -25.103300094604492,
-          1488.0336
+          31.93,
+          -25.4403,
+          164.8968
         ]
       },
       "properties": {
-        "title": "FALL",
-        "type": "small_airport",
-        "description": "Lydenburg Airport",
-        "elevation": 4882,
-        "municipality": "Lydenburg",
-        "fileSize": 992,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.884352,
-          -34.10133,
-          4.572
-        ]
-      },
-      "properties": {
-        "title": "FAPX",
+        "title": "FAKP",
         "type": "closed",
-        "description": "Paradise Beach Airport",
-        "elevation": 15,
-        "municipality": "Jeffreys Bay",
+        "description": "Komatipoort Airport",
+        "elevation": 541,
+        "municipality": "Komatipoort",
         "fileSize": 856,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -156801,8 +156886,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.7523361111,
-          -24.7777888889,
+          27.752336,
+          -24.777789,
           1161.5928000000001
         ]
       },
@@ -156813,27 +156898,6 @@
         "elevation": 3811,
         "municipality": "Rooiberg",
         "fileSize": 872,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.4488477707,
-          -24.947375434199998,
-          388.9248
-        ]
-      },
-      "properties": {
-        "title": "FASE",
-        "type": "closed",
-        "description": "Sabi Sabi Airport",
-        "elevation": 1276,
-        "municipality": "Belfast",
-        "fileSize": 848,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
@@ -156857,27 +156921,6 @@
         "fileSize": 1056,
         "marker-symbol": "airport",
         "marker-color": "#555555"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.299999237060547,
-          -24.90999984741211,
-          1114.044
-        ]
-      },
-      "properties": {
-        "title": "FAWA",
-        "type": "closed",
-        "description": "Warmbaths Airport",
-        "elevation": 3655,
-        "municipality": "Warmbaths",
-        "fileSize": 856,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
       }
     },
     {
@@ -163808,15 +163851,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -107.88600158691406,
-          40.04880142211914,
+          -107.886002,
+          40.048801,
           1957.1208000000001
         ]
       },
       "properties": {
         "title": "KEEO",
         "type": "small_airport",
-        "description": "Meeker Airport",
+        "description": "Meeker Coulter Field",
         "elevation": 6421,
         "municipality": "Meeker",
         "fileSize": 1040,
@@ -180112,7 +180155,7 @@
         "type": "closed",
         "description": "Cabo Velas Airport",
         "elevation": 33,
-        "municipality": "Nicoya",
+        "municipality": "Cabo Velas",
         "fileSize": 856,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -186496,27 +186539,6 @@
         "marker-symbol": "airfield",
         "marker-color": "#777777",
         "isMilitary": true
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -56.634393,
-          -22.622487,
-          177.39360000000002
-        ]
-      },
-      "properties": {
-        "title": "SGST",
-        "type": "closed",
-        "description": "Santa Teresa Airport",
-        "elevation": 582,
-        "municipality": "Santa Teresa",
-        "fileSize": 864,
-        "marker-symbol": "airport",
-        "marker-color": "#555555"
       }
     },
     {
@@ -194762,8 +194784,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -53.32970047,
-          -27.9018001556,
+          -53.3297,
+          -27.9018,
           634.8984
         ]
       },
@@ -194772,7 +194794,7 @@
         "type": "closed",
         "description": "Palmeira das Missões Airport",
         "elevation": 2083,
-        "municipality": "Palmeira Da Missões",
+        "municipality": "Palmeira da Missões",
         "fileSize": 864,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
@@ -197347,16 +197369,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -56.650833,
-          -16.272778,
-          180.13680000000002
+          -56.650992,
+          -16.272116,
+          185.0136
         ]
       },
       "properties": {
         "title": "SWPK",
         "type": "closed",
         "description": "Poconé Airport",
-        "elevation": 591,
+        "elevation": 607,
         "municipality": "Poconé",
         "fileSize": 856,
         "marker-symbol": "airfield",
@@ -200161,27 +200183,6 @@
         "elevation": 820,
         "municipality": "",
         "fileSize": 856,
-        "marker-symbol": "airfield",
-        "marker-color": "#777777"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          81.380501,
-          26.248501,
-          109.72800000000001
-        ]
-      },
-      "properties": {
-        "title": "VERB",
-        "type": "closed",
-        "description": "Fursatganj Airport",
-        "elevation": 360,
-        "municipality": "Tarauna",
-        "fileSize": 864,
         "marker-symbol": "airfield",
         "marker-color": "#777777"
       }
