@@ -35761,7 +35761,7 @@
   },
   {
     "code": "RKTU",
-    "name": "Cheongju International Airport/Cheongju Air Base (K-59/G-513)",
+    "name": "Cheongju International Airport",
     "lat": 36.71556,
     "lon": 127.500289
   },
@@ -41108,8 +41108,8 @@
   {
     "code": "SNBM",
     "name": "Cristiano Ferreira Varella Airport",
-    "lat": -21.126101,
-    "lon": -42.394402
+    "lat": -21.126093,
+    "lon": -42.394207
   },
   {
     "code": "SNBR",

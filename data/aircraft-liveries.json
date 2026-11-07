@@ -392,7 +392,8 @@
       {
         "aeroflyCode": "ana",
         "name": "ANA",
-        "requirements": ["wingtips", "engine_cfm"]
+        "requirements": ["wingtips", "engine_cfm"],
+        "icaoCode": "ANA"
       },
       {
         "aeroflyCode": "austrian",
@@ -791,7 +792,8 @@
       {
         "aeroflyCode": "ana",
         "name": "ANA",
-        "requirements": ["engine_pw", "option_satcom"]
+        "requirements": ["engine_pw", "option_satcom"],
+        "icaoCode": "ANA"
       },
       {
         "aeroflyCode": "atlantic_airways",
@@ -1122,7 +1124,8 @@
       {
         "aeroflyCode": "ana",
         "name": "ANA",
-        "requirements": ["sharklets", "engine_cfm"]
+        "requirements": ["sharklets", "engine_cfm"],
+        "icaoCode": "ANA"
       },
       {
         "aeroflyCode": "asiana",
@@ -2012,7 +2015,8 @@
       {
         "aeroflyCode": "ana",
         "name": "ANA",
-        "requirements": ["winglets_blended"]
+        "requirements": ["winglets_blended"],
+        "icaoCode": "ANA"
       },
       {
         "aeroflyCode": "avelo",
@@ -4432,7 +4436,8 @@
       {
         "aeroflyCode": "ana",
         "name": "ANA",
-        "requirements": []
+        "requirements": [],
+        "icaoCode": "ANA"
       },
       {
         "aeroflyCode": "arik",

@@ -3,7 +3,6 @@
 - ADAC
 - AIRC2fly
 - AJet
-- ANA
 - ANA Cargo
 - ANA Kai
 - ANA Kala

@@ -4,6 +4,11 @@ import * as fs from "node:fs";
 import * as path from "path";
 
 /**
+ * @type {Record<string, string>}
+ */
+const LIVERY_TO_ICAO = JSON.parse(fs.readFileSync(new URL("./livery-to-icao.json", import.meta.url), "utf8"));
+
+/**
  * @typedef AeroflyAircraftParsed
  * @type {{
  *   name: string,
@@ -123,126 +128,10 @@ export function getAeroflyAircraft(directory) {
  * @param {string} airlineName
  * @returns {string} icaoCode of airline
  */
-const getLiveryIcaoCode = (airlineName) => {
+function getLiveryIcaoCode(airlineName) {
   const name = airlineName.toLowerCase();
-  switch (name) {
-    case "ana":
-    case "all nippon airlines":
-      return "ANA";
-    case "american airlines":
-    case "american":
-      return "AAL";
-    case "all nippon airways":
-      return "ANA";
-    case "china eastern":
-      return "CES";
-    case "lufthansa":
-    case "lufthansa 100":
-      return "DLH";
-    case "united airlines":
-    case "united":
-      return "UAL";
-    case "delta air lines":
-    case "delta":
-      return "DAL";
-    case "emirates":
-      return "UAE";
-    case "singapore airlines":
-      return "SIA";
-    case "ethiopian":
-      return "ETH";
-    case "air france":
-      return "AFR";
-    case "british airways":
-      return "BAW";
-    case "china southern airlines":
-      return "CSN";
-    case "turkish airlines":
-      return "THY";
-    case "air canada":
-      return "ACA";
-    case "etihad airways":
-    case "etihad":
-      return "ETD";
-    case "latam airlines":
-    case "latam":
-      return "LAN";
-    case "tam airlines":
-    case "tam":
-      return "TAM";
-    case "jetblue airways":
-    case "jetblue":
-      return "JBU";
-    case "azul brazilian airlines":
-      return "AZU";
-    case "china eastern airlines":
-      return "CES";
-    case "ethiopian airlines":
-      return "ETH";
-    case "klm royal dutch airlines":
-    case "klm":
-      return "KLM";
-    case "korean air":
-    case "korean air lines":
-    case "korean airlines":
-      return "KAL";
-    case "qatar airways":
-      return "QTR";
-    case "swiss international air lines":
-    case "swiss":
-      return "SWR";
-    case "hawaiian airlines":
-      return "HVN";
-    case "eurowings":
-      return "EWG";
-    case "easyjet":
-      return "EZY";
-    case "iberia":
-      return "IBE";
-    case "sas":
-      return "SAS";
-    case "aeroflot":
-      return "AFL";
-    case "air china":
-      return "CCA";
-    case "alitalia":
-      return "AZA";
-    case "brussels airlines":
-      return "BEL";
-    case "cathay pacific":
-      return "CPA";
-    case "china southern":
-      return "CSN";
-    case "norwegian":
-      return "NAX";
-    case "aer lingus":
-      return "EIN";
-    case "avianca":
-      return "AVA";
-    case "finnair":
-      return "FIN";
-    case "tap portugal":
-      return "TAP";
-    case "egypt air":
-      return "MSR";
-    case "japan airlines":
-      return "JAL";
-    case "kuwait":
-      return "KAC";
-    case "saudia":
-    case "saudia arabian":
-      return "SVA";
-    case "virgin australia":
-      return "VOZ";
-    case "virgin":
-    case "virgin atlantic":
-      return "VIR";
-    case "qantas":
-      return "QFA";
-    default:
-      return "";
-  }
-};
+  return Object.hasOwn(LIVERY_TO_ICAO, name) ? LIVERY_TO_ICAO[name] : "";
+}
 
 /**
  * @param {string} tmdFileContent
